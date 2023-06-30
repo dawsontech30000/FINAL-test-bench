@@ -3509,3 +3509,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 
 [22:13:00] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Table dump complete!
 [22:14:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:entities/all
+[22:14:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:14:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:15:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Dawsondude11: Set the time to 1000]
+[22:15:20] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[22:15:23] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unknown command. Try /help for a list of commands
+[22:15:24] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /lootbags_dumphelditem, /lootbags_dumpinventory, /lootbags_identifysources, /lootbags_itemdump, /lootbags_reloadconfig, /lootgames, /lootr
+[22:15:28] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /lootbags_dumphelditem, /lootbags_dumpinventory, /lootbags_identifysources, /lootbags_itemdump, /lootbags_reloadconfig, /lootgames, /lootr
+[22:15:30] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /lootbags_dumphelditem, /lootbags_dumpinventory, /lootbags_identifysources, /lootbags_itemdump, /lootbags_reloadconfig, /lootgames, /lootr
+[22:15:31] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /lootbags_dumphelditem, /lootbags_dumpinventory, /lootbags_identifysources, /lootbags_itemdump, /lootbags_reloadconfig, /lootgames, /lootr
+[22:15:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] LootBags Item Dump Written - Look in your dumps folder
+[22:16:15] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:blocks/all
