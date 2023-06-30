@@ -1512,3 +1512,16 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 [18:09:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [18:09:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
 [18:09:44] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancements
+[18:10:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Dawsondude11: Set the time to 1000]
+[18:10:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[18:23:58] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[18:23:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:23:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:23:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:23:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:23:59] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:24:00] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:00] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:00] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[18:24:00] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:24:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
