@@ -1,0 +1,199 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MixinBooter (!mixinbooter-8.3.jar)
+  LibrarianLib Plugin (librarianlib-1.12.2-4.22.jar)
+  ForgelinPlugin (Forgelin-1.8.4.jar)
+  LootrCore (lootr-1.12.2-0.6.1.jar)
+Contact their authors BEFORE contacting forge
+
+// Don't be sad, have a hug! <3
+
+Time: 6/30/23 10:10 PM
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from CraftTweaker2 (crafttweaker)
+Caused by: java.lang.NoClassDefFoundError: crazypants/enderio/base/capacitor/ItemCapacitor
+	at com.tfar.lootcapacitortooltips.Tooltips.onItemTooltip(Tooltips.java:35)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_636_Tooltips_onItemTooltip_ItemTooltipEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.event.ForgeEventFactory.onItemTooltip(ForgeEventFactory.java:358)
+	at net.minecraft.item.ItemStack.func_82840_a(ItemStack.java:889)
+	at net.minecraft.client.Minecraft.lambda$populateSearchTreeManager$1(Minecraft.java:576)
+	at net.minecraft.client.Minecraft$$Lambda$556/1805742465.apply(Unknown Source)
+	at net.minecraft.client.util.SearchTree.func_194042_b(SourceFile:49)
+	at net.minecraft.client.util.SearchTree.func_194043_a(SourceFile:44)
+	at net.minecraft.client.Minecraft$$Lambda$558/1379665734.accept(Unknown Source)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at net.minecraft.client.Minecraft.func_193986_ar(Minecraft.java:590)
+	at crafttweaker.mc1120.proxies.ClientProxy.fixRecipeBook(ClientProxy.java:49)
+	at crafttweaker.mc1120.CraftTweaker.onFMLLoadComplete(CraftTweaker.java:218)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+	at sun.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:757)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.ClassNotFoundException: crazypants.enderio.base.capacitor.ItemCapacitor
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 55 more
+Caused by: java.lang.NullPointerException
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 459562288 bytes (438 MB) / 1434451968 bytes (1368 MB) up to 12884901888 bytes (12288 MB)
+	JVM Flags: 21 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx12288m -Xms256m -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 64 mods loaded, 64 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                    | Version         | Source                                          | Signature                                |
+	|:------ |:--------------------- |:--------------- |:----------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft             | 1.12.2          | minecraft.jar                                   | None                                     |
+	| LCHIJA | mcp                   | 9.42            | minecraft.jar                                   | None                                     |
+	| LCHIJA | FML                   | 8.0.99.99       | forge-1.12.2-14.23.5.2860.jar                   | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                 | 14.23.5.2860    | forge-1.12.2-14.23.5.2860.jar                   | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | mixinbooter           | 8.3             | minecraft.jar                                   | None                                     |
+	| LCHIJA | autoreglib            | 1.3-32          | AutoRegLib-1.3-32.jar                           | None                                     |
+	| LCHIJA | bdlib                 | 1.14.3.12       | bdlib-1.14.3.12-mc1.12.2.jar                    | None                                     |
+	| LCHIJE | crafttweaker          | 4.1.20          | CraftTweaker2-1.12-4.1.20.689.jar               | None                                     |
+	| LCHIJ  | jei                   | 4.16.1.301      | jei_1.12.2-4.16.1.301.jar                       | None                                     |
+	| LCHIJ  | forestry              | 5.8.2.387       | forestry_1.12.2-5.8.2.387.jar                   | None                                     |
+	| LCHIJ  | beebetteratbees       | 2.0.3           | beebetteratbees-1.12.2-2.0.3.jar                | a0f0b759d895c15ceb3e3bcb5f3c2db7c582edf0 |
+	| LCHIJ  | betterbuilderswands   | 0.11.1          | BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar | None                                     |
+	| LCHIJ  | betterquesting        | 3.5.329         | BetterQuesting-3.5.329.jar                      | None                                     |
+	| LCHIJ  | bqt                   | 1.0             | BetterQuestingTriggerer-1.0.jar                 | None                                     |
+	| LCHIJ  | binniecore            | 2.5.1.203       | binnie-mods-1.12.2-2.5.1.203.jar                | None                                     |
+	| LCHIJ  | binniedesign          | 2.5.1.203       | binnie-mods-1.12.2-2.5.1.203.jar                | None                                     |
+	| LCHIJ  | genetics              | 2.5.1.203       | binnie-mods-1.12.2-2.5.1.203.jar                | None                                     |
+	| LCHIJ  | botany                | 2.5.1.203       | binnie-mods-1.12.2-2.5.1.203.jar                | None                                     |
+	| LCHIJ  | extrabees             | 2.5.1.203       | binnie-mods-1.12.2-2.5.1.203.jar                | None                                     |
+	| LCHIJ  | extratrees            | 2.5.1.203       | binnie-mods-1.12.2-2.5.1.203.jar                | None                                     |
+	| LCHIJ  | gendustry             | 1.6.5.8         | gendustry-1.6.5.8-mc1.12.2.jar                  | None                                     |
+	| LCHIJ  | bqforestry            | 2.1.0           | bqforestry-2.1.0.jar                            | None                                     |
+	| LCHIJ  | careerbees            | 1.0             | careerbees-0.4.0.jar                            | None                                     |
+	| LCHIJ  | craftingtweaks        | 8.1.9           | CraftingTweaks_1.12.2-8.1.9.jar                 | None                                     |
+	| LCHIJ  | ctgui                 | 1.0.0           | CraftTweaker2-1.12-4.1.20.689.jar               | None                                     |
+	| LCHIJ  | crafttweakerjei       | 2.0.3           | CraftTweaker2-1.12-4.1.20.689.jar               | None                                     |
+	| LCHIJ  | customizeddungeonloot | 1.0.3           | Customized-Dungeon-Loot-1.12 -(v.1.0.3).jar     | None                                     |
+	| LCHIJ  | dldungeonsjbg         | 1.14.12         | DoomlikeDungeons-1.14.12-MC1.12.2.jar           | None                                     |
+	| LCHIJ  | dungeonsmod           | @VERSION@       | DungeonsMod-1.12.2-1.0.8.jar                    | None                                     |
+	| LCHIJ  | dungeontactics        | DT-0.16.9       | DungeonTactics-1.12.2-0.16.9.jar                | None                                     |
+	| LCHIJ  | forgelin              | 1.8.4           | Forgelin-1.8.4.jar                              | None                                     |
+	| LCHIJ  | gendustryjei          | 1.0.2           | gendustryjei-1.0.2.jar                          | None                                     |
+	| LCHIJ  | jeibees               | 0.9.0.5         | jeibees-0.9.0.5-mc1.12.2.jar                    | None                                     |
+	| LCHIJ  | librarianlib          | 4.22            | librarianlib-1.12.2-4.22.jar                    | None                                     |
+	| LCHIJ  | lootbags              | 2.5.8.5         | LootBags-1.12.2-2.5.8.5.jar                     | None                                     |
+	| LCHIJ  | lootcapacitortooltips | 1.3             | lootcapacitortooltips-1.3.jar                   | None                                     |
+	| LCHIJ  | timecore              | 1.0.1.1         | TimeCore-1.12.2-1.0.1.1.jar                     | None                                     |
+	| LCHIJ  | lootgames             | 1.0.3.1         | LootGames-1.12.2-1.0.3.1.jar                    | None                                     |
+	| LCHIJ  | lootoverhaul          | 1.2             | LootOverhaul-1.2.jar                            | None                                     |
+	| LCHIJ  | lootr                 | 0.6.1           | lootr-1.12.2-0.6.1.jar                          | None                                     |
+	| LCHIJ  | lttweaker             | 1.1.14          | LootTableTweaker-1.12.2-1.1.14.jar              | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJ  | loottweaker           | 0.3.1           | LootTweaker-0.3.1+MC1.12.2.jar                  | None                                     |
+	| LCHIJ  | looty                 | 0.0.1           | looty-1.0.1.jar                                 | None                                     |
+	| LCHIJ  | magicbees             | 1.0             | MagicBees-1.12.2-3.1.10.jar                     | None                                     |
+	| LCHIJ  | mcjtylib_ng           | 3.5.4           | mcjtylib-1.12-3.5.4.jar                         | None                                     |
+	| LCHIJ  | modularrouters        | 1.12.2-3.3.0-33 | modular-routers-1.12.2-3.3.0-33.jar             | None                                     |
+	| LCHIJ  | modularmachinery      | 1.11.1          | ModularMachinery-CE-1.12.2-1.11.1-r40.jar       | None                                     |
+	| LCHIJ  | numina                | 1.12.2-1.0.38   | Numina-1.12.2-1.0.38.jar                        | None                                     |
+	| LCHIJ  | powersuits            | 1.12.2-1.0.46   | ModularPowersuits-1.12.2-1.0.46.jar             | None                                     |
+	| LCHIJ  | morebees              | 1.12.2-2.0.1    | morebees-1.12.2-2.0.1.jar                       | None                                     |
+	| LCHIJ  | morelootstuff         | 0.0.5           | MoreLootStuff-1.12.2-0.0.5.jar                  | None                                     |
+	| LCHIJ  | moreloottables        | 0.1.0           | moreloottables-1.12.0-0.1.0.jar                 | None                                     |
+	| LCHIJ  | mtlib                 | 3.0.7           | MTLib-3.0.7.jar                                 | None                                     |
+	| LCHIJ  | moretweaker           | 1.0.19          | MoreTweaker-1.0.19.jar                          | None                                     |
+	| LCHIJ  | notenoughwands        | 1.8.1           | notenoughwands-1.12-1.8.1.jar                   | None                                     |
+	| LCHIJ  | omlib                 | 3.1.5-256       | omlib-1.12.2-3.1.5-256.jar                      | None                                     |
+	| LCHIJ  | ompd                  | 3.1.1-76        | ompd-1.12.2-3.1.1-76.jar                        | None                                     |
+	| LCHIJ  | openmodularturrets    | 3.1.14-382      | openmodularturrets-1.12.2-3.1.14-382.jar        | None                                     |
+	| LCHIJ  | psi                   | r1.1-78         | Psi-r1.1-78.2.jar                               | None                                     |
+	| LCHIJ  | psipherals            | 1.1.0           | psipherals-1.1.0.jar                            | None                                     |
+	| LCHIJ  | roguelike             | 1.8.0           | RoguelikeDungeons-1.12.2-1.8.0.jar              | None                                     |
+	| LCHIJ  | rpsideas              | 2.4.4           | rpsideas-2.4.4.jar                              | None                                     |
+	| LCHIJ  | bq_standard           | 3.4.173         | StandardExpansion-3.4.173.jar                   | None                                     |
+	| LCHIJ  | librarianliblate      | 4.22            | librarianlib-1.12.2-4.22.jar                    | None                                     |
+
+	Loaded coremods (and transformers): 
+MixinBooter (!mixinbooter-8.3.jar)
+  
+LibrarianLib Plugin (librarianlib-1.12.2-4.22.jar)
+  com.teamwizardry.librarianlib.asm.LibLibTransformer
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+LootrCore (lootr-1.12.2-0.6.1.jar)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 516.94' Renderer: 'NVIDIA GeForce GTX 970/PCIe/SSE2'
+	List of loaded APIs: 
+		* BetterQuesting|API (3.2) from BetterQuesting-3.5.329.jar
+		* BetterQuesting|API2 (3.1) from BetterQuesting-3.5.329.jar
+		* CraftingTweaks|API (4.1) from CraftingTweaks_1.12.2-8.1.9.jar
+		* DLDungeonsAPI (1.1) from DoomlikeDungeons-1.14.12-MC1.12.2.jar
+		* ForestryAPI|apiculture (5.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|arboriculture (4.3.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|book (5.8.1) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|circuits (3.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|climate (5.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|core (5.7.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|farming (5.8.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|food (1.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|fuels (3.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|genetics (5.7.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|gui (5.8.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|hives (4.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|lepidopterology (1.4.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|mail (3.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|modules (5.7.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|multiblock (3.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|recipes (5.4.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|storage (5.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|world (2.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* gendustryAPI (2.3.0) from gendustry-1.6.5.8-mc1.12.2.jar
+		* JustEnoughItemsAPI (4.13.0) from jei_1.12.2-4.16.1.301.jar
+		* PsiAPI (16) from Psi-r1.1-78.2.jar
+	[Psi] Active spell: None
