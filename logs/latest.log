@@ -120,3 +120,161 @@ ForgelinPlugin (Forgelin-1.8.4.jar)
 [18:08:37] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
 [18:08:37] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
 [18:08:37] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	... 26 more
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Transforming Particle
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [getBrightnessForRender, func_189214_a] Descriptor (F)I)
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Potion particle glow
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Bee Better at Bees, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Binnie's Botany, FMLFileResourcePack:Binnie's Design, FMLFileResourcePack:Binnie's Extra Bees, FMLFileResourcePack:Binnie's Extra Trees, FMLFileResourcePack:Binnie's Genetics, FMLFileResourcePack:careerbees, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CraftTweaker Utils, FMLFileResourcePack:CraftTweaker Integration, FMLFileResourcePack:Forestry, FMLFileResourcePack:Shadowfacts' Forgelin, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gendustry JEI Addon, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Bees, FMLFileResourcePack:LibrarianLib Stage 2, FMLFileResourcePack:LibrarianLib, FMLFileResourcePack:MagicBees, FMLFileResourcePack:McJtyLib, FMLFileResourcePack:Modular Routers, FMLFileResourcePack:Modular Machinery: Community Edition, FMLFileResourcePack:MachineMuse's Modular Powersuits, FMLFileResourcePack:More Bees, FMLFileResourcePack:Not Enough Wands, FMLFileResourcePack:Numina, FMLFileResourcePack:OMLib, FMLFileResourcePack:Open Modular Passive Defense, FMLFileResourcePack:Open Modular Turrets, FMLFileResourcePack:Psi, FMLFileResourcePack:Psionic Peripherals, FMLFileResourcePack:Random PSIdeas
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Transforming RenderItem
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderItem, func_180454_a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Item render hook
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow activation
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow return
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Transforming BlockRendererDispatcher
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Block render hook
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Fluid render hook
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Found 1194 ObjectHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Found 2 ItemStackHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:08:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:08:41] [Client thread/INFO] [bdlib]: bdlib 1.14.3.12 loaded
+[18:08:41] [Client thread/INFO] [bdlib]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[18:08:42] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
+[18:08:42] [Forge Version Check/INFO] [forge.VersionCheck]: [modularrouters] Starting version check at https://raw.github.com/desht/ModularRouters/MC1.12-master/release_info.json
+[18:08:42] [Forge Version Check/INFO] [forge.VersionCheck]: [modularrouters] Found status: OUTDATED Target: 3.3.0
+[18:08:43] [Client thread/INFO] [forestry]: Module rustic Module failed to load: Rustic not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Extra Utilities Module failed to load: Extra Utilities not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Fuels Module failed to load: Compatible BuildCraftAPI|fuels version not found
+[18:08:43] [Client thread/INFO] [forestry]: Module ImmersiveEngineering Module failed to load: ImmersiveEngineering not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Transport Module failed to load: buildcrafttransport not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Roots Module failed to load: Roots not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Mystical Agriculture Module failed to load: Mystical Agriculture not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Actually Additions Module failed to load: Actually Additions not found
+[18:08:43] [Client thread/INFO] [forestry]: Module EnderIO Module failed to load: EnderIO not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Natura Module failed to load: Natura not found
+[18:08:43] [Client thread/INFO] [forestry]: Module TechReborn Module failed to load: TechReborn not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BiomesOPlenty Module failed to load: BiomesOPlenty not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Statements Module failed to load: Compatible BuildCraftAPI|statements version not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Recipes Module failed to load: Compatible BuildCraftAPI|recipes version not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Better With Mods Module failed to load: Better With Mods not found
+[18:08:43] [Client thread/INFO] [forestry]: Module IndustrialCraft2 Module failed to load: IndustrialCraft2 not found
+[18:08:43] [Client thread/INFO] [forestry]: Module HarvestCraft Module failed to load: HarvestCraft not found
+[18:08:45] [Client thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[18:08:46] [Client thread/INFO] [gendustry]: IC2 Version: NOT FOUND
+[18:08:46] [Client thread/INFO] [gendustry]: RF API Version: NOT FOUND
+[18:08:46] [Client thread/INFO] [gendustry]: Tesla Version: NOT FOUND
+[18:08:46] [Client thread/INFO] [gendustry]: Available Forestry species roots:
+[18:08:46] [Client thread/INFO] [gendustry]:  * rootTrees - forestry.arboriculture.genetics.TreeRoot
+[18:08:46] [Client thread/INFO] [gendustry]:  * rootButterflies - forestry.lepidopterology.genetics.ButterflyRoot
+[18:08:46] [Client thread/INFO] [gendustry]:  * rootBees - forestry.apiculture.genetics.BeeRoot
+[18:08:46] [Client thread/INFO] [gendustry]:  * rootFlowers - binnie.botany.genetics.FlowerRoot
+[18:08:46] [Client thread/INFO] [bdlib]: Loading internal config files for mod Gendustry
+[18:08:46] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/tuning.cfg
+[18:08:46] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/recipes.cfg
+[18:08:47] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/upgrades.cfg
+[18:08:47] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_color.cfg
+[18:08:47] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_patreon.cfg
+[18:08:47] [Client thread/INFO] [bdlib]: Loading user config files for mod Gendustry
+[18:08:47] [Client thread/INFO] [bdlib]: Config loading for mod Gendustry finished
+[18:08:47] [Client thread/INFO] [bdlib]: Loaded creative tabs for gendustry
+[18:08:47] [Client thread/INFO] [gendustry]: Blocks loaded
+[18:08:47] [Client thread/INFO] [gendustry]: Fluids loaded
+[18:08:47] [Client thread/INFO] [gendustry]: Items loaded
+[18:08:47] [Client thread/INFO] [gendustry]: Machines loaded
+[18:08:47] [Client thread/INFO] [gendustry]: Resource manager reload, new language: en_us
+[18:08:47] [Client thread/INFO] [gendustry]: Registered reload listener
+[18:08:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitymagicbeeseffectjar`, expected `magicbees`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:47] [Client thread/INFO] [MagicBees]: Mod appliedenergistics2 not detected, not activating module AE2 Integration
+[18:08:47] [Client thread/INFO] [MagicBees]: Mod thermalexpansion not detected, not activating module ThermalExpansion Integration
+[18:08:47] [Client thread/INFO] [MagicBees]: Mod botania not detected, not activating module Botania Integration
+[18:08:47] [Client thread/INFO] [MagicBees]: Mod railcraft not detected, not activating module Railcraft Integration
+[18:08:47] [Client thread/INFO] [MagicBees]: Mod redstonearsenal not detected, not activating module RedstoneArsenal Integration
+[18:08:47] [Client thread/INFO] [MagicBees]: Preinitializing modules for mod magicbees...
+[18:08:47] [Client thread/INFO] [MagicBees]:    Preinitializing module Vanilla Module
+[18:08:47] [Client thread/INFO] [MagicBees]: Preinitialized 1 module for mod magicbees
+[18:08:47] [Client thread/INFO] [MagicBees]: MagicBees has Pre-initialized in 224 ms
+[18:08:48] [Client thread/INFO] [modularrouters]: Modular Routers is loading!
+[18:08:48] [Client thread/WARN] [modularmachinery]: Encountered 1 problems while registering machinery!
+[18:08:48] [Client thread/WARN] [modularmachinery]: Couldn't load machinery D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\modularmachinery\machinery\machine-Dawsondude11-2023-06-30_17.06.45.json
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unexpected value at line 7 column 1312 path $.parts[0].nbt.inventory.outSlots
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at com.google.gson.internal.Streams.parse(Streams.java:60)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at net.minecraft.util.JsonUtils.func_193838_a(SourceFile:504)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at net.minecraft.util.JsonUtils.func_193837_a(SourceFile:512)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at hellfirepvp.modularmachinery.common.machine.MachineLoader.lambda$registerMachines$0(MachineLoader.java:81)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at hellfirepvp.modularmachinery.common.machine.MachineLoader$$Lambda$326/730916483.accept(Unknown Source)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:512)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:291)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1689)
+[18:08:48] [Client thread/INFO] [STDERR]: [hellfirepvp.modularmachinery.common.machine.MachineRegistry:preloadMachines:64]: 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: Caused by: com.google.gson.stream.MalformedJsonException: Unexpected value at line 7 column 1312 path $.parts[0].nbt.inventory.outSlots
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:564)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:716)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:731)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.gson.internal.Streams.parse(Streams.java:48)
+[18:08:48] [Client thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	... 14 more
+[18:08:48] [Client thread/INFO] [modularmachinery]: [ModularMachinery-CE] Parallel executor is ready (8 Threads), Let's get started!!!
+[18:08:48] [Client thread/INFO] [MachineMuse]: MuseOBJLoader: Domain powersuits has been added.
+[18:08:48] [Client thread/INFO] [omlib]: Found the following mods: 
+[18:08:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `case`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_pulsar_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_star_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_ethereal_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `psi_dampener`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in BreakIterator
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in VersionInfo
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 3 string constants in ULocale
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in BreakIteratorFactory
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in ICULocaleService$ICUResourceBundleFactory
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 6 string constants in UResourceBundle
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 12 string constants in ICUResourceBundle
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 11 string constants in ICUData
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 2 string constants in ICUResourceBundleReader$ReaderCache
+[18:08:51] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in ICUBinary
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilecolorablemachinecomponent`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemachinecontroller`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilefactorycontroller`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilefluidinputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilefluidoutputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileitemoutputbus`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileiteminputbus`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileenergyinputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileenergyoutputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilesmartinterface`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileparallelcontroller`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileupgradebus`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lighttileentity`, expected `notenoughwands`. This could be a intended override, but in most cases indicates a broken mod.
+[18:08:51] [Client thread/INFO] [FML]: Applying holder lookups
+[18:08:51] [Client thread/INFO] [FML]: Holder lookups applied
+[18:08:52] [Client thread/INFO] [FML]: Applying holder lookups
+[18:08:52] [Client thread/INFO] [FML]: Holder lookups applied
+[18:08:52] [Client thread/INFO] [FML]: Applying holder lookups
+[18:08:52] [Client thread/INFO] [FML]: Holder lookups applied
+[18:08:52] [Client thread/INFO] [FML]: OBJLoader: Domain magicbees has been added.
+[18:08:52] [Client thread/INFO] [FML]: Applying holder lookups
+[18:08:52] [Client thread/INFO] [FML]: Holder lookups applied
+[18:08:52] [Client thread/INFO] [FML]: Injecting itemstacks
+[18:08:52] [Client thread/INFO] [FML]: Itemstack injection complete
