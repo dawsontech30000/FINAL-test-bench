@@ -1471,3 +1471,1131 @@ ForgelinPlugin (Forgelin-1.8.4.jar)
 [18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianlib
 [18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion
 [18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.common.RegistrationHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.particle.ParticleSpawner
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.gui.GuiBase
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.animator.Animator for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.animator.Animator
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.client.F3Handler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.particle.ParticleRenderManager
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.ModSoundEvent
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.gui.GuiOverlay
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.ModelHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.network.PacketHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.config.EasyConfigHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.structure.InWorldRender
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.LibClientProxy
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.capability.CapabilityMod
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.block.BlockModSlab
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into librarianlib for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod librarianlib
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - LibrarianLib took 0.304s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod magicbees
+[18:08:40] [Client thread/TRACE] [FML]: Mod magicbees is using network checker : Accepting version 1.0
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod magicbees to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod magicbees accepts its own version (1.0)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into magicbees
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for magicbees
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into magicbees for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod magicbees
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - MagicBees took 0.015s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcjtylib_ng
+[18:08:40] [Client thread/TRACE] [FML]: Mod mcjtylib_ng is using network checker : Accepting version 3.5.4
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod mcjtylib_ng to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod mcjtylib_ng accepts its own version (3.5.4)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mcjtylib_ng
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mcjtylib_ng
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mcjtylib_ng for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcjtylib_ng
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - McJtyLib took 0.015s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod modularrouters
+[18:08:40] [Client thread/TRACE] [FML]: Mod modularrouters is using network checker : Accepting version 1.12.2-3.3.0-33
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod modularrouters to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod modularrouters accepts its own version (1.12.2-3.3.0-33)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into modularrouters
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Transforming Particle
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [getBrightnessForRender, func_189214_a] Descriptor (F)I)
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Potion particle glow
+[18:08:40] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.upgrade.SecurityUpgrade$Interacted for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.upgrade.SecurityUpgrade$Interacted
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.config.ConfigHandler$ConfigSyncHandler for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.config.ConfigHandler$ConfigSyncHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.module.ItemModule for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.module.ItemModule
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.upgrade.CamouflageUpgrade$Interacted for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.upgrade.CamouflageUpgrade$Interacted
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.util.FakePlayerManager for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.util.FakePlayerManager
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.core.RegistrarMR for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.core.RegistrarMR
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.event.TickEventHandler for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.event.TickEventHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.smartfilter.ItemSmartFilter for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.smartfilter.ItemSmartFilter
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.event.MiscEventHandler for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.event.MiscEventHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.recipe.ItemCraftedListener for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.recipe.ItemCraftedListener
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.event.ClientEventHandler for mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.event.ClientEventHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into modularrouters for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod modularrouters
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Modular Routers took 0.128s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod modularmachinery
+[18:08:40] [Client thread/TRACE] [FML]: Mod modularmachinery is using network checker : Accepting version 1.11.1
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod modularmachinery to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod modularmachinery accepts its own version (1.11.1)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into modularmachinery
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for modularmachinery
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for hellfirepvp.modularmachinery.client.ClientProxy for mod modularmachinery
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class hellfirepvp.modularmachinery.client.ClientProxy
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into modularmachinery for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod modularmachinery
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Modular Machinery: Community Edition took 0.058s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod numina
+[18:08:40] [Client thread/TRACE] [FML]: Mod numina is using network checker : Accepting version 1.12.2-1.0.38
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod numina to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod numina accepts its own version (1.12.2-1.0.38)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into numina
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for numina
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.numina.config.NuminaSettings$ConfigSyncHandler for mod numina
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.numina.config.NuminaSettings$ConfigSyncHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.numina.proxy.ClientProxy for mod numina
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.numina.proxy.ClientProxy
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into numina for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod numina
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Numina took 0.018s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod powersuits
+[18:08:40] [Client thread/TRACE] [FML]: Mod powersuits is using network checker : Accepting version 1.12.2-1.0.46
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod powersuits to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod powersuits accepts its own version (1.12.2-1.0.46)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into powersuits
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for powersuits
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.powersuits.common.MPSItems for mod powersuits
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.powersuits.common.MPSItems
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.powersuits.client.sound.SoundDictionary for mod powersuits
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.powersuits.client.sound.SoundDictionary
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into powersuits for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod powersuits
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - MachineMuse's Modular Powersuits took 0.074s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod morebees
+[18:08:40] [Client thread/TRACE] [FML]: Mod morebees is using network checker : Accepting version 1.12.2-2.0.1
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod morebees to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod morebees accepts its own version (1.12.2-2.0.1)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into morebees
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for morebees
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.tencao.morebees.events.MBRegistry for mod morebees
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.tencao.morebees.events.MBRegistry
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.tencao.morebees.ModConfig$ConfigurationHolder for mod morebees
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.tencao.morebees.ModConfig$ConfigurationHolder
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into morebees for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod morebees
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - More Bees took 0.049s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod notenoughwands
+[18:08:40] [Client thread/TRACE] [FML]: Mod notenoughwands is using network checker : Accepting version 1.8.1
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod notenoughwands to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod notenoughwands accepts its own version (1.8.1)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into notenoughwands
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for notenoughwands
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for romelo333.notenoughwands.setup.ClientRegistration for mod notenoughwands
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class romelo333.notenoughwands.setup.ClientRegistration
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for romelo333.notenoughwands.setup.Registration for mod notenoughwands
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class romelo333.notenoughwands.setup.Registration
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into notenoughwands for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod notenoughwands
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Not Enough Wands took 0.018s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod omlib
+[18:08:40] [Client thread/TRACE] [FML]: Mod omlib is using network checker : Accepting version 3.1.5-256
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod omlib to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod omlib accepts its own version (3.1.5-256)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into omlib
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for omlib
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for omtteam.omlib.api.permission.OwnerShareRegister for mod omlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class omtteam.omlib.api.permission.OwnerShareRegister
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for omtteam.omlib.api.permission.GlobalTrustRegister for mod omlib
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class omtteam.omlib.api.permission.GlobalTrustRegister
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into omlib for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod omlib
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - OMLib took 0.021s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod ompd
+[18:08:40] [Client thread/TRACE] [FML]: Mod ompd is using network checker : Accepting version 3.1.1-76
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod ompd to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod ompd accepts its own version (3.1.1-76)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into ompd
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for ompd
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into ompd for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod ompd
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Open Modular Passive Defense took 0.009s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod openmodularturrets
+[18:08:40] [Client thread/TRACE] [FML]: Mod openmodularturrets is using network checker : Accepting version 3.1.14-382
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod openmodularturrets to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod openmodularturrets accepts its own version (3.1.14-382)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into openmodularturrets
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for openmodularturrets
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into openmodularturrets for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod openmodularturrets
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Open Modular Turrets took 0.035s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod psi
+[18:08:40] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[18:08:40] [Client thread/DEBUG] [forge]: 	vazkii/psi/common/core/handler/CrashReportHandler
+[18:08:40] [Client thread/TRACE] [FML]: Mod psi is using network checker : Accepting version r1.1-78
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod psi to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod psi accepts its own version (r1.1-78)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into psi
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for psi
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.client.core.handler.HUDHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.client.core.handler.HUDHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.client.core.handler.ClientTickHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.client.core.handler.ClientTickHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.common.block.BlockConjured for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.common.block.BlockConjured
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.common.core.handler.capability.CapabilityHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.common.core.handler.capability.CapabilityHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.client.fx.ParticleRenderDispatcher for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.client.fx.ParticleRenderDispatcher
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.common.core.handler.AdditiveMotionHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.common.core.handler.AdditiveMotionHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.common.core.handler.PlayerDataHandler$EventHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.common.core.handler.PlayerDataHandler$EventHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.common.core.handler.ConfigHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.common.core.handler.ConfigHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.psi.common.core.handler.LoopcastTrackingHandler for mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.psi.common.core.handler.LoopcastTrackingHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into psi for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod psi
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Psi took 0.069s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod psipherals
+[18:08:40] [Client thread/TRACE] [FML]: Mod psipherals is using network checker : Accepting version 1.1.0
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod psipherals to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod psipherals accepts its own version (1.1.0)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into psipherals
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for psipherals
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.dudblockman.psipherals.items.Items for mod psipherals
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.dudblockman.psipherals.items.Items
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.dudblockman.psipherals.util.EventHandler for mod psipherals
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.dudblockman.psipherals.util.EventHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into psipherals for type INSTANCE
+[18:08:40] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod psipherals
+[18:08:40] [Client thread/DEBUG] [FML]: Bar Step: Construction - Psionic Peripherals took 0.018s
+[18:08:40] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod rpsideas
+[18:08:40] [Client thread/TRACE] [FML]: Mod rpsideas is using network checker : Accepting version 2.4.4
+[18:08:40] [Client thread/TRACE] [FML]: Testing mod rpsideas to verify it accepts its own version in a remote connection
+[18:08:40] [Client thread/TRACE] [FML]: The mod rpsideas accepts its own version (2.4.4)
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemOverclockedIvoryAssembly for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemOverclockedIvoryAssembly
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemOptimizedCADCore for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemOptimizedCADCore
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.util.RPSSilencerHandler for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.util.RPSSilencerHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.util.RPSEventHandler for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.util.RPSEventHandler
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemUnderclockedIvoryAssembly for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemUnderclockedIvoryAssembly
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemBioticSensor for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemBioticSensor
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemIntegratedBattlecaster for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemIntegratedBattlecaster
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.util.helpers.FlowColorsHelper for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.util.helpers.FlowColorsHelper
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemUnstableBattery for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemUnstableBattery
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.compat.botania.BotaniaCompatItems for mod rpsideas
+[18:08:40] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.compat.botania.BotaniaCompatItems
+[18:08:40] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemTwinflowBattery for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemTwinflowBattery
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.effect.PotionFlashbang for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.effect.PotionFlashbang
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.RPSIdeas for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.RPSIdeas
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemTriggerSensor for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemTriggerSensor
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.RPSItems for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.RPSItems
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.util.RPSSoundHandler for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.util.RPSSoundHandler
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.ItemPsimetalRod for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.ItemPsimetalRod
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.util.RPSConfigHandler for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.util.RPSConfigHandler
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemShieldedBattery for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemShieldedBattery
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.crafting.RPSRecipes for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.crafting.RPSRecipes
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.botania.ItemBlasterAssembly for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.botania.ItemBlasterAssembly
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemOvervoltedEbonyAssembly for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemOvervoltedEbonyAssembly
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemUndervoltedEbonyAssembly for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemUndervoltedEbonyAssembly
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.render.EntityPlayerSeer for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.render.EntityPlayerSeer
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.items.components.ItemCreativeSuspension for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.items.components.ItemCreativeSuspension
+[18:08:41] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.kamefrede.rpsideas.tiles.TilePsiDampener for mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.kamefrede.rpsideas.tiles.TilePsiDampener
+[18:08:41] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into rpsideas for type INSTANCE
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod rpsideas
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Construction - Random PSIdeas took 0.251s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [KotlinAdapter]: FML has asked for LateLoader to be constructed
+[18:08:41] [Client thread/TRACE] [FML]: Mod librarianliblate is using network checker : Accepting version 4.22
+[18:08:41] [Client thread/TRACE] [FML]: Testing mod librarianliblate to verify it accepts its own version in a remote connection
+[18:08:41] [Client thread/TRACE] [FML]: The mod librarianliblate accepts its own version (4.22)
+[18:08:41] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping proxy injection for com.teamwizardry.librarianlib.core.LibrarianLib.PROXY since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.utilities.RayWorldCollider since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.core.client.ClientTickHandler since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.core.client.TextureMapExporter since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.core.common.RegistrationHandler since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.particle.ParticleSpawner since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.gui.GuiBase since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.animator.Animator since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.utilities.client.F3Handler since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.particle.ParticleRenderManager since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.base.ModSoundEvent since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.gui.GuiOverlay since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.core.client.ModelHandler since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.network.PacketHandler since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.config.EasyConfigHandler since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.structure.InWorldRender since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.core.client.LibClientProxy since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.base.capability.CapabilityMod since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Skipping @EventBusSubscriber injection for com.teamwizardry.librarianlib.features.base.block.BlockModSlab since it is not for mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into librarianliblate for type INSTANCE
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod librarianliblate
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Construction - LibrarianLib Stage 2 took 0.005s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Finished: Construction took 5.324s
+[18:08:41] [Client thread/DEBUG] [FML]: Mod signature data
+[18:08:41] [Client thread/DEBUG] [FML]:  	Valid Signatures:
+[18:08:41] [Client thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.5.2860.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.5.2860)	forge-1.12.2-14.23.5.2860.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		(a0f0b759d895c15ceb3e3bcb5f3c2db7c582edf0) beebetteratbees	(Bee Better at Bees	2.0.3)	beebetteratbees-1.12.2-2.0.3.jar
+[18:08:41] [Client thread/DEBUG] [FML]:  	Missing Signatures:
+[18:08:41] [Client thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		mixinbooter	(MixinBooter	8.3)	minecraft.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		autoreglib	(AutoRegLib	1.3-32)	AutoRegLib-1.3-32.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		bdlib	(BD Lib	1.14.3.12)	bdlib-1.14.3.12-mc1.12.2.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		crafttweaker	(CraftTweaker2	4.1.20)	CraftTweaker2-1.12-4.1.20.689.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		jei	(Just Enough Items	4.16.1.301)	jei_1.12.2-4.16.1.301.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		forestry	(Forestry	5.8.2.387)	forestry_1.12.2-5.8.2.387.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		betterbuilderswands	(Better Builder's Wands	0.11.1)	BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		binniecore	(Binnie Core	2.5.1.203)	binnie-mods-1.12.2-2.5.1.203.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		binniedesign	(Binnie's Design	2.5.1.203)	binnie-mods-1.12.2-2.5.1.203.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		genetics	(Binnie's Genetics	2.5.1.203)	binnie-mods-1.12.2-2.5.1.203.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		botany	(Binnie's Botany	2.5.1.203)	binnie-mods-1.12.2-2.5.1.203.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		extrabees	(Binnie's Extra Bees	2.5.1.203)	binnie-mods-1.12.2-2.5.1.203.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		extratrees	(Binnie's Extra Trees	2.5.1.203)	binnie-mods-1.12.2-2.5.1.203.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		careerbees	(careerbees	1.0)	careerbees-0.4.0.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		craftingtweaks	(Crafting Tweaks	8.1.9)	CraftingTweaks_1.12.2-8.1.9.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		ctgui	(CT-GUI	1.0.0)	CraftTweaker2-1.12-4.1.20.689.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		crafttweakerjei	(CraftTweaker JEI Support	2.0.3)	CraftTweaker2-1.12-4.1.20.689.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		crafttweakerutils	(CraftTweaker Utils	0.7)	crafttweakerutils-0.7.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		ctintegration	(CraftTweaker Integration	1.8.0)	ctintegration-1.8.0.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		forgelin	(Shadowfacts' Forgelin	1.8.4)	Forgelin-1.8.4.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		gendustry	(GenDustry	1.6.5.8)	gendustry-1.6.5.8-mc1.12.2.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		gendustryjei	(Gendustry JEI Addon	1.0.2)	gendustryjei-1.0.2.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		jeibees	(JEI Bees	0.9.0.5)	jeibees-0.9.0.5-mc1.12.2.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		librarianlib	(LibrarianLib	4.22)	librarianlib-1.12.2-4.22.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		magicbees	(MagicBees	1.0)	MagicBees-1.12.2-3.1.10.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		mcjtylib_ng	(McJtyLib	3.5.4)	mcjtylib-1.12-3.5.4.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		modularrouters	(Modular Routers	1.12.2-3.3.0-33)	modular-routers-1.12.2-3.3.0-33.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		modularmachinery	(Modular Machinery: Community Edition	1.11.1)	ModularMachinery-CE-1.12.2-1.11.1-r40.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		numina	(Numina	1.12.2-1.0.38)	Numina-1.12.2-1.0.38.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		powersuits	(MachineMuse's Modular Powersuits	1.12.2-1.0.46)	ModularPowersuits-1.12.2-1.0.46.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		morebees	(More Bees	1.12.2-2.0.1)	morebees-1.12.2-2.0.1.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		notenoughwands	(Not Enough Wands	1.8.1)	notenoughwands-1.12-1.8.1.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		omlib	(OMLib	3.1.5-256)	omlib-1.12.2-3.1.5-256.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		ompd	(Open Modular Passive Defense	3.1.1-76)	ompd-1.12.2-3.1.1-76.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		openmodularturrets	(Open Modular Turrets	3.1.14-382)	openmodularturrets-1.12.2-3.1.14-382.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		psi	(Psi	r1.1-78)	Psi-r1.1-78.2.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		psipherals	(Psionic Peripherals	1.1.0)	psipherals-1.1.0.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		rpsideas	(Random PSIdeas	2.4.4)	rpsideas-2.4.4.jar
+[18:08:41] [Client thread/DEBUG] [FML]: 		librarianliblate	(LibrarianLib Stage 2	4.22)	librarianlib-1.12.2-4.22.jar
+[18:08:41] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Bee Better at Bees, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Binnie's Botany, FMLFileResourcePack:Binnie's Design, FMLFileResourcePack:Binnie's Extra Bees, FMLFileResourcePack:Binnie's Extra Trees, FMLFileResourcePack:Binnie's Genetics, FMLFileResourcePack:careerbees, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CraftTweaker Utils, FMLFileResourcePack:CraftTweaker Integration, FMLFileResourcePack:Forestry, FMLFileResourcePack:Shadowfacts' Forgelin, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gendustry JEI Addon, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Bees, FMLFileResourcePack:LibrarianLib Stage 2, FMLFileResourcePack:LibrarianLib, FMLFileResourcePack:MagicBees, FMLFileResourcePack:McJtyLib, FMLFileResourcePack:Modular Routers, FMLFileResourcePack:Modular Machinery: Community Edition, FMLFileResourcePack:MachineMuse's Modular Powersuits, FMLFileResourcePack:More Bees, FMLFileResourcePack:Not Enough Wands, FMLFileResourcePack:Numina, FMLFileResourcePack:OMLib, FMLFileResourcePack:Open Modular Passive Defense, FMLFileResourcePack:Open Modular Turrets, FMLFileResourcePack:Psi, FMLFileResourcePack:Psionic Peripherals, FMLFileResourcePack:Random PSIdeas
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - Default took 0.004s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:AutoRegLib took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:BD Lib took 0.002s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Bee Better at Bees took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Better Builder's Wands took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Binnie Core took 0.010s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Binnie's Botany took 0.010s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Binnie's Design took 0.009s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Binnie's Extra Bees took 0.008s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Binnie's Extra Trees took 0.011s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Binnie's Genetics took 0.009s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:careerbees took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Crafting Tweaks took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:CT-GUI took 0.002s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:CraftTweaker2 took 0.002s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:CraftTweaker JEI Support took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:CraftTweaker Utils took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:CraftTweaker Integration took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Forestry took 0.006s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Shadowfacts' Forgelin took 0.004s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:GenDustry took 0.002s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Gendustry JEI Addon took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Items took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:JEI Bees took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:LibrarianLib Stage 2 took 0.018s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:LibrarianLib took 0.017s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:MagicBees took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:McJtyLib took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Modular Routers took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Modular Machinery: Community Edition took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:MachineMuse's Modular Powersuits took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:More Bees took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Not Enough Wands took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Numina took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:OMLib took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Open Modular Passive Defense took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Open Modular Turrets took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Psi took 0.001s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Psionic Peripherals took 0.000s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Random PSIdeas took 0.001s
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Transforming RenderItem
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderItem, func_180454_a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Item render hook
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow activation
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow return
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Transforming BlockRendererDispatcher
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Block render hook
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Fluid render hook
+[18:08:41] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Finished: Reloading - LanguageManager took 0.121s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - Reloading listeners took 0.121s
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resources took 0.253s
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod AutoRegLib is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod BD Lib is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Bee Better at Bees is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Binnie Core is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Binnie's Botany is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Binnie's Design is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Binnie's Extra Bees is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Binnie's Extra Trees is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Binnie's Genetics is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Crafting Tweaks is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod CraftTweaker Integration is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Shadowfacts' Forgelin is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod GenDustry is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod JEI Bees is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod LibrarianLib Stage 2 is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod LibrarianLib is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod MagicBees is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod McJtyLib is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Modular Machinery: Community Edition is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod More Bees is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod OMLib is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Open Modular Passive Defense is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/DEBUG] [FML]: Mod Psi is missing a pack.mcmeta file, substituting a dummy one
+[18:08:41] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Found 1194 ObjectHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:08:41] [Client thread/INFO] [FML]: Found 2 ItemStackHolder annotations
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0.000s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
+[18:08:41] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0.067s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mixinbooter
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mixinbooter
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - MixinBooter took 0.000s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod autoreglib
+[18:08:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod autoreglib
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - AutoRegLib took 0.017s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod bdlib
+[18:08:41] [Client thread/INFO] [bdlib]: bdlib 1.14.3.12 loaded
+[18:08:41] [Client thread/DEBUG] [bdlib]: List of loaded APIs: 		* CraftingTweaks|API (4.1) from CraftingTweaks_1.12.2-8.1.9.jar
+		* ForestryAPI|apiculture (5.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|arboriculture (4.3.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|book (5.8.1) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|circuits (3.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|climate (5.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|core (5.7.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|farming (5.8.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|food (1.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|fuels (3.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|genetics (5.7.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|gui (5.8.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|hives (4.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|lepidopterology (1.4.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|mail (3.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|modules (5.7.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|multiblock (3.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|recipes (5.4.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|storage (5.0.0) from forestry_1.12.2-5.8.2.387.jar
+		* ForestryAPI|world (2.1.0) from forestry_1.12.2-5.8.2.387.jar
+		* gendustryAPI (2.3.0) from gendustry-1.6.5.8-mc1.12.2.jar
+		* JustEnoughItemsAPI (4.13.0) from jei_1.12.2-4.16.1.301.jar
+		* PsiAPI (16) from Psi-r1.1-78.2.jar
+[18:08:41] [Client thread/INFO] [bdlib]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[18:08:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod bdlib
+[18:08:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - BD Lib took 0.127s
+[18:08:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod crafttweaker
+[18:08:42] [Forge Version Check/DEBUG] [forge.VersionCheck]: Failed to process update information
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338) ~[?:1.8.0_51]
+	at net.minecraftforge.common.ForgeVersion$1.openUrlStream(ForgeVersion.java:223) ~[ForgeVersion$1.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeVersion$1.process(ForgeVersion.java:252) [ForgeVersion$1.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:201) [ForgeVersion$1.class:14.23.5.2860]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 21 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 21 more
+[18:08:42] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
+[18:08:42] [Forge Version Check/DEBUG] [forge.VersionCheck]: Failed to process update information
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_51]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338) ~[?:1.8.0_51]
+	at net.minecraftforge.common.ForgeVersion$1.openUrlStream(ForgeVersion.java:223) ~[ForgeVersion$1.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeVersion$1.process(ForgeVersion.java:252) [ForgeVersion$1.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:201) [ForgeVersion$1.class:14.23.5.2860]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 21 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 21 more
+[18:08:42] [Forge Version Check/INFO] [forge.VersionCheck]: [modularrouters] Starting version check at https://raw.github.com/desht/ModularRouters/MC1.12-master/release_info.json
+[18:08:42] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod crafttweaker
+[18:08:42] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker2 took 0.853s
+[18:08:42] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jei
+[18:08:42] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jei
+[18:08:42] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Just Enough Items took 0.156s
+[18:08:42] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forestry
+[18:08:42] [Forge Version Check/DEBUG] [forge.VersionCheck]: [modularrouters] Received version check data:
+{
+  "homepage" : "https://minecraft.curseforge.com/projects/modular-routers",
+  "promos" : {
+    "1.10.2-recommended" : "1.4.2",
+    "1.11.2-recommended" : "2.2.2",
+    "1.12.2-recommended" : "3.3.0",
+    "1.10.2-latest" : "1.4.2",
+    "1.11.2-latest" : "2.2.2",
+    "1.12.2-latest" : "3.3.0"
+  },
+  "1.12.2" : {
+    "3.3.0" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#330-12-may-2020",
+    "3.2.3" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#323-2-sep-2019",
+    "3.2.2" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#322-25-jun-2019",
+    "3.2.1" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#321-1-oct-2018",
+    "3.2.0" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#320-23-aug-2018",
+    "3.1.5" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#315-30-apr-2018",
+    "3.1.4" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#314-28-apr-2018",
+    "3.1.3" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#313-25-mar-2018",
+    "3.1.2" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#312-26-jan-2018",
+    "3.1.1" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#311-11-jan-2018",
+    "3.1.0" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#310-9-dec-2017",
+    "3.0.2" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#302-28-aug-2017",
+    "3.0.1" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#301-11-aug-2017",
+    "3.0.0" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#300-4-jul-2017",
+    "3.0.3" : "https://github.com/desht/ModularRouters/blob/MC1.12-master/Changelog.md#303-10-sep-2017"
+  },
+  "1.11.2" : {
+    "2.2.2" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#222-28-aug-2017",
+    "2.2.1" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#221-29-jun-2017",
+    "2.2.0" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#220-12-jun-2017",
+    "2.1.1" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#211-13-mar-2017",
+    "2.1.0" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#210-1-mar-2017",
+    "2.0.2" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#202-6-feb-2017",
+    "2.0.1" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#201-18-jan-2017"
+  },
+  "1.10.2" : {
+    "1.4.2" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#142-28-aug-2017",
+    "1.4.1" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#141-29-jun-2017",
+    "1.4.0" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#140-12-jun-2017",
+    "1.3.1" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#131-13-mar-2017",
+    "1.3.0" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#130-1-mar-2017-",
+    "1.2.5" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#125-6-feb-2017",
+    "1.2.4" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#124-23-jan-2017",
+    "1.2.3" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#123-12-jan-2017",
+    "1.1.3" : "https://github.com/desht/ModularRouters/blob/master/Changelog.md#113-19-nov-2016"
+  }
+}
+
+[18:08:42] [Forge Version Check/INFO] [forge.VersionCheck]: [modularrouters] Found status: OUTDATED Target: 3.3.0
+[18:08:43] [Client thread/DEBUG] [forestry]: Could not find core module for the module container: forestry_compat
+[18:08:43] [Client thread/INFO] [forestry]: Module rustic Module failed to load: Rustic not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Extra Utilities Module failed to load: Extra Utilities not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Fuels Module failed to load: Compatible BuildCraftAPI|fuels version not found
+[18:08:43] [Client thread/INFO] [forestry]: Module ImmersiveEngineering Module failed to load: ImmersiveEngineering not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Transport Module failed to load: buildcrafttransport not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Roots Module failed to load: Roots not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Mystical Agriculture Module failed to load: Mystical Agriculture not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Actually Additions Module failed to load: Actually Additions not found
+[18:08:43] [Client thread/INFO] [forestry]: Module EnderIO Module failed to load: EnderIO not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Natura Module failed to load: Natura not found
+[18:08:43] [Client thread/INFO] [forestry]: Module TechReborn Module failed to load: TechReborn not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BiomesOPlenty Module failed to load: BiomesOPlenty not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Statements Module failed to load: Compatible BuildCraftAPI|statements version not found
+[18:08:43] [Client thread/INFO] [forestry]: Module BuildCraft 6 Recipes Module failed to load: Compatible BuildCraftAPI|recipes version not found
+[18:08:43] [Client thread/INFO] [forestry]: Module Better With Mods Module failed to load: Better With Mods not found
+[18:08:43] [Client thread/INFO] [forestry]: Module IndustrialCraft2 Module failed to load: IndustrialCraft2 not found
+[18:08:43] [Client thread/INFO] [forestry]: Module HarvestCraft Module failed to load: HarvestCraft not found
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Core Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Core Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Backpack Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Backpack Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Worktable Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Worktable Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Arboriculture Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Arboriculture Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Lepidopterology Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Lepidopterology Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Climatology Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Climatology Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Apiculture Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Apiculture Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Food Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Food Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Farming Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Farming Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Cultivation Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Cultivation Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Sorting Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Sorting Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Factory Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Factory Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Database Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Database Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Fluids Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Fluids Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Energy Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Energy Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Charcoal Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Charcoal Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Crate Module
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[18:08:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelLoaderCrate took 0.002s
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Crate Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Book Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Book Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Greenhouse Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Greenhouse Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Start: Mail Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Setup API Complete: Mail Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: rustic Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: rustic Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: Extra Utilities Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: Extra Utilities Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: BuildCraft 6 Fuels Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: BuildCraft 6 Fuels Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: ImmersiveEngineering Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: ImmersiveEngineering Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: BuildCraft 6 Transport Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: BuildCraft 6 Transport Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: Roots Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: Roots Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: Mystical Agriculture Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: Mystical Agriculture Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: Actually Additions Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: Actually Additions Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: EnderIO Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: EnderIO Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: Natura Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: Natura Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: TechReborn Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: TechReborn Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: BiomesOPlenty Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: BiomesOPlenty Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: BuildCraft 6 Statements Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: BuildCraft 6 Statements Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: BuildCraft 6 Recipes Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: BuildCraft 6 Recipes Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: Better With Mods Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: Better With Mods Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: IndustrialCraft2 Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: IndustrialCraft2 Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Start: HarvestCraft Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Disabled-Setup Complete: HarvestCraft Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Core Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Core Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Backpack Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Backpack Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Worktable Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Worktable Module
+[18:08:43] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Arboriculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Arboriculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Lepidopterology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Lepidopterology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Climatology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Climatology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Apiculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Apiculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Food Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Food Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Farming Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Farming Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Cultivation Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Cultivation Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Sorting Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Sorting Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Factory Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Factory Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Database Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Database Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Fluids Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Fluids Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Energy Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Energy Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Charcoal Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Charcoal Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Crate Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Crate Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Book Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Book Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Greenhouse Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Greenhouse Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Start: Mail Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Register Items and Blocks Complete: Mail Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Core Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Core Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Core Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Backpack Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Backpack Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Backpack Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Worktable Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Worktable Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Worktable Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Arboriculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Arboriculture Module
+[18:08:44] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - WoodModelLoader took 0.000s
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Arboriculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Lepidopterology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Lepidopterology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Lepidopterology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Climatology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Climatology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Climatology Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Pre-Init Start: Apiculture Module
+[18:08:44] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Apiculture Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Apiculture Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Food Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Food Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Food Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Farming Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Farming Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Farming Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Cultivation Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Cultivation Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Cultivation Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Sorting Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Sorting Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Sorting Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Factory Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Factory Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Factory Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Database Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Database Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Database Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Fluids Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Fluids Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Fluids Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Energy Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Energy Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Energy Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Charcoal Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Charcoal Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Charcoal Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Crate Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Crate Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Crate Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Book Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Book Module
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - BookLoader took 0.000s
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Book Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Greenhouse Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Greenhouse Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Greenhouse Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Start: Mail Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Registering Handlers for Module: Mail Module
+[18:08:45] [Client thread/DEBUG] [forestry]: Pre-Init Complete: Mail Module
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forestry
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Forestry took 2.446s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod beebetteratbees
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod beebetteratbees
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Bee Better at Bees took 0.004s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod betterbuilderswands
+[18:08:45] [Client thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod betterbuilderswands
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Better Builder's Wands took 0.010s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod binniecore
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - StyleSheetManager took 0.009s
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - BinnieProxyClient$$Lambda$190/1459632206 took 0.000s
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod binniecore
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie Core took 0.128s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod binniedesign
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod binniedesign
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Design took 0.003s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod genetics
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod genetics
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Genetics took 0.097s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod botany
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod botany
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Botany took 0.181s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod extrabees
+[18:08:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod extrabees
+[18:08:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Extra Bees took 0.103s
+[18:08:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod extratrees
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod extratrees
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Extra Trees took 0.636s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod careerbees
+[18:08:46] [Client thread/TRACE] [FML]: Automatically registered mod careerbees entity entitychunkdata as careerbees:entitychunkdata
+[18:08:46] [Client thread/TRACE] [FML]: Automatically registered mod careerbees entity beeswarm as careerbees:beeswarm
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod careerbees
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - careerbees took 0.250s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod craftingtweaks
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod craftingtweaks
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Crafting Tweaks took 0.012s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod ctgui
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod ctgui
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CT-GUI took 0.008s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod crafttweakerjei
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod crafttweakerjei
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker JEI Support took 0.000s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod crafttweakerutils
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod crafttweakerutils
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker Utils took 0.002s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod ctintegration
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod ctintegration
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker Integration took 0.000s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forgelin
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for autoreglib since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for bdlib since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweaker since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerjei since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctgui since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jei since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for forestry since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for beebetteratbees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for betterbuilderswands since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for careerbees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for craftingtweaks since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweaker since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerjei since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctgui since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweaker since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerjei since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctgui since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerutils since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctintegration since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for forgelin
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for gendustry since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for gendustryjei since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jeibees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for magicbees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mcjtylib_ng since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for modularrouters since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for modularmachinery since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for numina since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for powersuits since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for morebees since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for notenoughwands since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for omlib since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ompd since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for openmodularturrets since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for psi since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for psipherals since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for rpsideas since it does not use KotlinAdapter
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianlib
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianliblate
+[18:08:46] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianliblate
+[18:08:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forgelin
+[18:08:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Shadowfacts' Forgelin took 0.011s
+[18:08:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod gendustry
