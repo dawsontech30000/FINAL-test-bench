@@ -2121,3 +2121,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [21:58:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
 [21:58:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Dawsondude11: Set the time to 1000]
 [21:58:18] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[22:05:58] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[22:05:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:05:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:05:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:05:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:05:58] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:05:59] [Server thread/INFO] [FML]: Applying holder lookups
+[22:05:59] [Server thread/INFO] [FML]: Holder lookups applied
+[22:05:59] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[22:05:59] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[22:05:59] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
