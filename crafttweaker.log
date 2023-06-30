@@ -7,6 +7,4 @@
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: firststage\New Text Document.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 284ms
-[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
-[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 155ms
