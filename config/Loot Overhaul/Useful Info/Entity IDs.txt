@@ -138,4 +138,9 @@ dungeontactics:throwingknife_entity - 135
 dungeontactics:slingshotammo_entity - 136
 dungeontactics:fragbomb_entity - 137
 lootr:lootr_minecart - 138
+securitycraft:imsbomb - 139
+securitycraft:securitycamera - 140
+securitycraft:bouncingbetty - 141
+securitycraft:bullet - 142
+securitycraft:sentry - 143
 minecraft:ender_crystal - 200
