@@ -1588,3 +1588,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [18:28:36] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Edit mode ON
 [18:28:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [18:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:37:26] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /bq_admin, /bq_user, /bqs_advancement_dump, /bqs_loot
+[18:37:29] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] default, delete
+[18:37:30] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] save, set
+[18:37:31] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Quest database saved as default

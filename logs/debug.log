@@ -21277,3 +21277,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [18:34:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
 [18:34:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
 [18:35:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
+[18:36:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
+[18:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
+[18:37:26] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /bq_admin, /bq_user, /bqs_advancement_dump, /bqs_loot
+[18:37:29] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] default, delete
+[18:37:30] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] save, set
+[18:37:31] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Quest database saved as default
