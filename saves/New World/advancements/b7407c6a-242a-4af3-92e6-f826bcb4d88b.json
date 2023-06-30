@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2023-06-30 21:58:48 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2023-06-30 16:54:58 +0100"
