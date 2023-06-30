@@ -284,3 +284,683 @@ ForgelinPlugin (Forgelin-1.8.4.jar)
 [18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
 [18:08:54] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
 [18:08:58] [Client thread/INFO] [FML]: Max texture size: 16384
+[18:09:00] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x2048 textures-atlas
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/ERROR] [FML]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/ERROR] [FML]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/ERROR] [FML]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[18:09:01] [Client thread/ERROR] [FML]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[18:09:01] [Client thread/ERROR] [FML]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #end in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:01] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/cube_column
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant omlib:network_cable#down=false,east=true,north=false,south=false,up=false,west=true
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model omlib:network_cable#down=false,east=true,north=false,south=false,up=false,west=true with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading blockstate for the variant omlib:network_cable#down=false,east=true,north=false,south=false,up=false,west=true: 
+java.lang.Exception: Could not load model definition for variant omlib:network_cable
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model omlib:blockstates/network_cable.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:228) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: omlib:blockstates/network_cable.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:221) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant omlib:network_cable#down=true,east=false,north=false,south=true,up=false,west=false
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model omlib:network_cable#down=true,east=false,north=false,south=true,up=false,west=false with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant omlib:network_cable#down=true,east=false,north=true,south=true,up=true,west=false
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model omlib:network_cable#down=true,east=false,north=true,south=true,up=true,west=false with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant modularmachinery:alloy_furnace_controller#facing=east
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model modularmachinery:alloy_furnace_controller#facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading blockstate for the variant modularmachinery:alloy_furnace_controller#facing=east: 
+java.lang.Exception: Could not load model definition for variant modularmachinery:alloy_furnace_controller
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model modularmachinery:blockstates/alloy_furnace_controller.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:228) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: modularmachinery:blockstates/alloy_furnace_controller.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:221) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant omlib:network_cable#down=false,east=true,north=false,south=true,up=false,west=true
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model omlib:network_cable#down=false,east=true,north=false,south=true,up=false,west=true with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant modularmachinery:alloy_furnace_controller#facing=west
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model modularmachinery:alloy_furnace_controller#facing=west with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant modularmachinery:alloy_furnace_controller#facing=north
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model modularmachinery:alloy_furnace_controller#facing=north with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_axe_advanced#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:item/psimetal_axe_advanced with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: psipherals:models/item/psimetal_axe_advanced.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_axe_advanced#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:psimetal_axe_advanced#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant modularmachinery:alloy_furnace_controller#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model modularmachinery:item/alloy_furnace_controller with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: modularmachinery:models/item/alloy_furnace_controller.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant modularmachinery:alloy_furnace_controller#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model modularmachinery:alloy_furnace_controller#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_shovel_advanced#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:item/psimetal_shovel_advanced with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: psipherals:models/item/psimetal_shovel_advanced.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_shovel_advanced#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:psimetal_shovel_advanced#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_pickaxe_advanced#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:item/psimetal_pickaxe_advanced with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: psipherals:models/item/psimetal_pickaxe_advanced.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_pickaxe_advanced#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:psimetal_pickaxe_advanced#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_sword_advanced#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:item/psimetal_sword_advanced with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: psipherals:models/item/psimetal_sword_advanced.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/ERROR] [FML]: Exception loading model for variant psipherals:psimetal_sword_advanced#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model psipherals:psimetal_sword_advanced#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:09:04] [Client thread/FATAL] [FML]: Suppressed additional 12 model loading errors for domain modularmachinery
+[18:09:04] [Client thread/FATAL] [FML]: Suppressed additional 61 model loading errors for domain omlib
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Transforming LayerArmorBase
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEnchantedGlint, func_188364_a] Descriptor (Lnet/minecraft/client/renderer/entity/RenderLivingBase;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/client/model/ModelBase;FFFFFFF)V)
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow activation
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEnchantedGlint, func_188364_a] Descriptor (Lnet/minecraft/client/renderer/entity/RenderLivingBase;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/client/model/ModelBase;FFFFFFF)V)
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow return
+[18:09:04] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[18:09:06] [Client thread/INFO] [FML]: Applying holder lookups
+[18:09:06] [Client thread/INFO] [FML]: Holder lookups applied
+[18:09:06] [Client thread/INFO] [bdlib]: Adding delayed color handlers
+[18:09:06] [Client thread/INFO] [jei]: Created: 256x128 textures-atlas
+[18:09:06] [Client thread/INFO] [forestry]: Created: 256x128 textures-atlas
+[18:09:06] [Client thread/INFO] [careerbees]: 
+0.0 0.05 0.098 0.144 0.187 0.228 0.267 0.304 0.339 0.373 0.405 0.435 0.464 0.491 0.517 0.542 0.565 0.587 0.608 0.628 0.647 0.665 0.682 0.698 0.714 0.729 0.743 0.756 0.769 0.781 0.792 0.803 0.813 0.823 0.832 0.841 0.849 0.857 0.865 0.872 0.879 0.886 0.892 0.898 0.904 0.909 0.914 0.919 0.924 0.928 0.932 0.936 0.94 0.943 0.946 0.949 0.952 0.955 0.958 0.961 0.963 0.965 0.967 0.969 0.971 0.973 0.975 0.977 0.979 0.981 0.982 0.983 0.984 0.985 0.986 0.987 0.988 0.989 0.99 0.991 0.992 0.993 0.994 0.995 0.996 0.997 0.998 0.999 1.0 
+89
+[18:09:06] [Client thread/INFO] [gendustry]: Registering mutatron override from careerbees: careerbees.mad_scientist -> DISABLED
+[18:09:07] [Client thread/INFO] [gendustry]: Registered 2 branches
+[18:09:07] [Client thread/INFO] [gendustry]: Registered 17 bees
+[18:09:07] [Client thread/INFO] [MagicBees]: Initializing modules for mod magicbees...
+[18:09:07] [Client thread/INFO] [MagicBees]:    Initializing module Vanilla Module
+[18:09:07] [Client thread/INFO] [MagicBees]: Initialized 1 module for mod magicbees
+[18:09:07] [Client thread/INFO] [MagicBees]: Registering 96 new bee species!
+[18:09:07] [Client thread/INFO] [MagicBees]: MagicBees has Initialized in 45 ms
+[18:09:07] [Client thread/INFO] [modularmachinery]: [Modular Machinery] Removing componentType modularmachinery:gas because mekanism is not loaded!
+[18:09:07] [Client thread/INFO] [modularmachinery]: [Modular Machinery] Removing requirementType modularmachinery:gas because mekanism is not loaded!
+[18:09:07] [Client thread/INFO] [STDOUT]: [net.machinemuse.powersuits.common.config.MPSConfig:getPropertyIntegerOrDefault:290]: Property config values missing: 
+[18:09:07] [Client thread/INFO] [STDOUT]: [net.machinemuse.powersuits.common.config.MPSConfig:getPropertyIntegerOrDefault:291]: property: aoePickUpgrade.aoeMiningDiameter.diameter.multiplier
+[18:09:07] [Client thread/INFO] [STDOUT]: [net.machinemuse.powersuits.common.config.MPSConfig:getPropertyIntegerOrDefault:292]: getValue: 5
+[18:09:07] [Client thread/INFO] [STDOUT]: [net.machinemuse.powersuits.common.config.MPSConfig:getPropertyIntegerOrDefault:290]: Property config values missing: 
+[18:09:07] [Client thread/INFO] [STDOUT]: [net.machinemuse.powersuits.common.config.MPSConfig:getPropertyIntegerOrDefault:291]: property: fortuneModule.fortuneLevel.enchLevel.multiplier
+[18:09:07] [Client thread/INFO] [STDOUT]: [net.machinemuse.powersuits.common.config.MPSConfig:getPropertyIntegerOrDefault:292]: getValue: 3
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal, genus.metal, genus.bees.crystal]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal, genus.metal, genus.bees.crystal, genus.crystal, genus.bees.earth]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal, genus.metal, genus.bees.crystal, genus.crystal, genus.bees.earth, genus.earth, genus.bees.radioactive]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal, genus.metal, genus.bees.crystal, genus.crystal, genus.bees.earth, genus.earth, genus.bees.radioactive, genus.radioactive, genus.bees.apocalytic]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal, genus.metal, genus.bees.crystal, genus.crystal, genus.bees.earth, genus.earth, genus.bees.radioactive, genus.radioactive, genus.bees.apocalytic, genus.apocalytic, genus.bees.wither]
+[18:09:07] [Client thread/INFO] [morebees]: [domain.archaea, domain.bacteria, domain.eukarya, kingdom.animalia, kingdom.plantae, kingdom.fungi, kingdom.protista, phylum.arthropoda, class.insecta, genus.trees.acacia, genus.trees.acer, genus.trees.adansonia, genus.trees.astronium, genus.trees.betula, genus.trees.castanea, genus.trees.ceiba, genus.trees.chlorocardium, genus.trees.citrus, genus.trees.dalbergia, genus.trees.ebony, genus.trees.juglans, genus.trees.larix, genus.trees.mahogany, genus.trees.millettia, genus.trees.ochroma, genus.trees.phoenix, genus.trees.picea, genus.trees.pinus, genus.trees.populus, genus.trees.prunus, genus.trees.pterocarpus, genus.trees.quercus, genus.trees.salix, genus.trees.sequoia, genus.trees.sequoiadendron, genus.trees.tabebuia, genus.trees.talipariti, genus.trees.tectona, genus.trees.tilia, genus.trees.carica, genus.trees.tropical, genus.trees.malus, genus.trees.musa, genus.trees.sorbus, genus.trees.tsuga, genus.trees.fraxinus, genus.trees.alnus, genus.trees.fagus, genus.trees.taxus, genus.trees.chamaecyparis, genus.trees.pseudotsuga, genus.trees.Corylus, genus.trees.ficus, genus.trees.crataegus, genus.trees.carya, genus.trees.ulmus, genus.trees.sambucus, genus.trees.ilex, genus.trees.carpinus, genus.trees.abies, genus.trees.cedrus, genus.trees.olea, genus.trees.liquidambar, genus.trees.robinia, genus.trees.pyrus, genus.trees.maclura, genus.trees.caesalpinia, genus.trees.haematoxylum, genus.trees.peltogyne, genus.trees.milicia, genus.trees.ginkgo, genus.trees.bertholletia, genus.trees.eucalyptus, genus.trees.boxus, genus.trees.syzygium, genus.trees.coffea, genus.trees.araucaria, genus.trees.berchemia, genus.trees.ribes, genus.trees.rubus, genus.trees.vaccinium, genus.trees.juniperus, genus.trees.cinnamomum, genus.trees.cocous, genus.trees.anacardium, genus.trees.persea, genus.trees.myristica, genus.trees.pimenta, genus.trees.capsicum, genus.trees.illicium, genus.trees.mangifera, genus.trees.averrhoa, genus.trees.aleurites, genus.moth.anthocharis, genus.moth.attacus, genus.moth.bassarona, genus.moth.batesia, genus.moth.bombyx, genus.moth.celastrina, genus.moth.cethosia, genus.moth.chiasmia, genus.moth.colias, genus.moth.danaus, genus.moth.gonepteryx, genus.moth.greta, genus.moth.heliconius, genus.moth.morpho, genus.moth.myscelia, genus.moth.opisthograptis, genus.moth.papilio, genus.moth.parantica, genus.moth.pararge, genus.moth.pieris, genus.moth.polygonia, genus.moth.pontia, genus.moth.protographium, genus.moth.siproeta, genus.moth.speyeria, family.geometridae, family.saturniidae, family.pieridae, family.nymphalidae, family.lycaenidae, family.papilionidae, family.notchidae, family.bombycidae, order.lepidoptera, genus.trees.limenitis, genus.trees.apatura, genus.trees.vanessa, genus.trees.aglais, genus.trees.inachis, genus.trees.lasiommata, genus.trees.atrophaneura, genus.trees.teinopalpus, genus.trees.troides, genus.trees.euphydryas, genus.trees.boloria, genus.trees.issoria, genus.trees.pararge, genus.trees.erebia, genus.trees.pyronia, genus.trees.maniola, genus.trees.coenonympha, genus.trees.aphantopus, genus.trees.danaus, genus.trees.melanargia, genus.bees.honey, genus.bees.noble, genus.bees.industrious, genus.bees.heroic, genus.bees.infernal, genus.bees.austere, genus.bees.tropical, genus.bees.end, genus.bees.frozen, genus.bees.vengeful, genus.bees.festive, genus.bees.agrarian, genus.bees.boggy, genus.bees.monastic, genus.bees.barren, genus.bees.hostile, genus.bees.rocky, genus.bees.metallic, genus.bees.metallic2, genus.bees.alloy, genus.bees.precious, genus.bees.mineral, genus.bees.gemstone, genus.bees.nuclear, genus.bees.historic, genus.bees.fossilized, genus.bees.refined, genus.bees.aquatic, genus.bees.saccharine, genus.bees.classical, genus.bees.volcanic, genus.bees.virulent, genus.bees.viscous, genus.bees.caustic, genus.bees.energetic, genus.bees.farming, genus.bees.shadow, genus.bees.primary, genus.bees.secondary, genus.bees.tertiary, genus.bees.ftb, genus.bees.quantum, genus.bees.botania, genus.flowers.taraxacum, genus.flowers.papaver, genus.flowers.vanda, genus.flowers.allium, genus.flowers.houstonia, genus.flowers.tulipa, genus.flowers.leucanthemum, genus.flowers.centaurea, genus.flowers.viola, genus.flowers.iris, genus.flowers.lavandula, genus.flowers.narcissus, genus.flowers.dahlia, genus.flowers.paeonia, genus.flowers.rosa, genus.flowers.syringa, genus.flowers.hydrangea, genus.flowers.digitalis, genus.flowers.zinnia, genus.flowers.chrysanthemum, genus.flowers.calendula, genus.flowers.geranium, genus.flowers.rhododendrons, genus.flowers.primula, genus.flowers.aster, genus.flowers.dianthus, genus.flowers.lilium, genus.flowers.achillea, genus.flowers.petunia, genus.flowers.agapanthus, genus.flowers.fuchsia, genus.flowers.myosotis, genus.flowers.anemone, genus.flowers.aquilegia, genus.flowers.leontopodium, genus.flowers.scabiosa, genus.flowers.echinacea, genus.flowers.gaillardia, genus.flowers.camellia, genus.flowers.solidago, genus.flowers.althaea, genus.flowers.penstemon, genus.flowers.delphinium, genus.flowers.alcea, genus.bees.magicbees.branch.veiled, genus.bees.magicbees.branch.arcane, genus.bees.magicbees.branch.supernatural, genus.bees.magicbees.branch.scholarly, genus.bees.magicbees.branch.skulking, genus.bees.magicbees.branch.magical, genus.bees.magicbees.branch.time, genus.bees.magicbees.branch.soul, genus.bees.magicbees.branch.abominable, genus.bees.magicbees.branch.extrinsic, genus.bees.magicbees.branch.metallic, genus.bees.magicbees.branch.gem, genus.bees.magicbees.branch.transmuting, genus.bees.magicbees.branch.thaumic, genus.bees.magicbees.branch.fleshy, genus.bees.magicbees.branch.alchemical, genus.bees.magicbees.branch.essential, genus.bees.magicbees.branch.thermal, genus.bees.magicbees.branch.adorable, genus.bees.magicbees.branch.bloody, genus.bees.magicbees.branch.botanical, family.ebenaceae, family.fabaceae, order.ericales, family.bignoniaceae, family.lamiaceae, order.lamiales, class.asterids, family.arecaceae, order.arecales, class.commelinids, family.caricaceae, order.brassicales, order.fabales, family.betulaceae, family.fagaceae, family.juglandaceae, order.fagales, family.rosaceae, order.rosales, family.dipterocarpaceae, family.malvaceae, order.malvales, order.laurales, family.salicaceae, family.lauraceae, order.malpighiales, family.rutaceae, family.sapindaceae, family.anacardiaceae, order.sapindales, class.rosids, division.angiosperms, family.pinaceae, family.cupressaceae, order.pinales, class.pinopsida, class.magnoliopsida, division.pinophyta, division.magnoliophyta, order.hymnoptera, family.apidae, genus.bees.discipulus, genus.bees.coactore, genus.bees.graduati, genus.bees.artifex, genus.bees.faber, genus.bees.cleptus, genus.bees.choppicus, genus.bees.easpariunt, genus.bees.smelter, genus.bees.negotiator, genus.bees.caedes, genus.bees.matchmaker, genus.bees.eritque.arcus, genus.bees.mason, genus.bees.science, genus.bees.engineer, genus.bees.cookus, genus.bees.evil, genus.bees.priestly, genus.bees.diggicus, genus.bees.medicine, genus.bees.crusher, genus.bees.clockwork, genus.bees.lightning, genus.bees.stab, genus.bees.beepboop, genus.bees.fugit, genus.bees.redstoneflux, genus.bees.dire, genus.bees.soaryn, genus.bees.jazz, genus.gendustry.color, genus.gendustry.patreon, genus.bees.rock, genus.rock, genus.bees.metal, genus.metal, genus.bees.crystal, genus.crystal, genus.bees.earth, genus.earth, genus.bees.radioactive, genus.radioactive, genus.bees.apocalytic, genus.apocalytic, genus.bees.wither, genus.wither, genus.bees.slime]
+[18:09:07] [Client thread/INFO] [FML]: Injecting itemstacks
+[18:09:07] [Client thread/INFO] [FML]: Itemstack injection complete
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[18:09:07] [Client thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[18:09:07] [Client thread/INFO] [gendustry]: Registered 17 mutations
+[18:09:07] [Client thread/INFO] [gendustry]: Preparing genetics cache ...
+[18:09:07] [Client thread/INFO] [gendustry]: Cached 358 mutation outputs
+[18:09:07] [Client thread/INFO] [gendustry]: Cached 217 mutation inputs
+[18:09:08] [Client thread/INFO] [gendustry]: Cached 927 chromosomes
+[18:09:08] [Client thread/INFO] [MagicBees]: Postinitializing modules for mod magicbees...
+[18:09:08] [Client thread/INFO] [MagicBees]:    Postinitializing module Vanilla Module
+[18:09:08] [Client thread/INFO] [MagicBees]: Postinitialized 1 module for mod magicbees
+[18:09:08] [Client thread/INFO] [MagicBees]: MagicBees has Post-initialized in 16 ms
+[18:09:08] [Client thread/INFO] [modularmachinery]: Variables: [5 loaded, 0 failed]
+[18:09:08] [Client thread/INFO] [modularmachinery]: Machines: [3 loaded, 0 failed]
+[18:09:08] [ForkJoinPool.commonPool-worker-15/INFO] [modularmachinery]: Building Machine Structure Cache...
+[18:09:08] [ForkJoinPool.commonPool-worker-15/INFO] [modularmachinery]: Build Completed, Used 10ms.
+[18:09:08] [Client thread/INFO] [modularmachinery]: Load-Phase: [9 recipes loaded, 0 recipes failed]
+[18:09:08] [Client thread/INFO] [modularmachinery]: [Unknown Machinery: 0]
+[18:09:08] [Client thread/INFO] [modularmachinery]: modularmachinery:transformer (Recipes): [1 loaded, 0 failed]
+[18:09:08] [Client thread/INFO] [modularmachinery]: modularmachinery:iron_centrifuge (Recipes): [6 loaded, 0 failed]
+[18:09:08] [Client thread/INFO] [modularmachinery]: modularmachinery:alloy_furnace (Recipes): [2 loaded, 0 failed]
+[18:09:08] [Client thread/INFO] [modularmachinery]: Load-Phase: [187 adapter-recipes loaded, 0 adapter-recipes failed]
+[18:09:08] [Client thread/INFO] [modularmachinery]: [Unknown Machinery: 0]
+[18:09:08] [Client thread/INFO] [modularmachinery]: modularmachinery:alloy_furnace (Recipes): [187 loaded, 0 failed]
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class buildcraft.api.tools.IToolWrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class resonant.core.content.ItemScrewdriver (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class ic2.core.item.tool.ItemToolWrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class ic2.core.item.tool.ItemToolWrenchElectric (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class mrtjp.projectred.api.IScrewdriver (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class mods.railcraft.api.core.items.IToolCrowbar (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class com.bluepowermod.items.ItemScrewdriver (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class cofh.api.item.IToolHammer (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class thermalexpansion.item.tool.ItemWrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class appeng.items.tools.quartz.ToolQuartzWrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class crazypants.enderio.api.tool.ITool (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class mekanism.api.IMekWrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class mcjty.rftools.items.smartwrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class pneumaticCraft.common.item.ItemPneumaticWrench (this is not an error)
+[18:09:08] [Client thread/INFO] [notenoughwands]: Failed to load wrench class powercrystals.minefactoryreloaded.api.IToolHammer (this is not an error)
+[18:09:08] [Client thread/WARN] [openmodularturrets]: Tried to add duplicate mob to mob list: ArmorStand
+[18:09:09] [Client thread/INFO] [jei]: Starting JEI...
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:bee_larvae_ge (item.for.bee_larvae_ge)
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:sapling (item.for.sapling)
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:pollen_fertile (item.for.pollen_fertile)
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:butterfly_ge (item.for.butterfly_ge)
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:caterpillar_ge (item.for.caterpillar_ge)
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:cocoon (tile.for.cocoon)
+[18:09:09] [Client thread/INFO] [jeibees]: Added subtype interpreter for: forestry:serum_ge (item.for.serum_ge)
+[18:09:09] [Client thread/INFO] [jei]: Registering recipe categories...
+[18:09:10] [Client thread/INFO] [jei]: Registering recipe categories took 189.3 ms
+[18:09:10] [Client thread/INFO] [jei]: Registering mod plugins...
+[18:09:10] [Client thread/INFO] [jei]: Added recipe registry plugin: class binnie.extratrees.integration.jei.multifence.MultiFenceRecipeRegistryPlugin
+[18:09:10] [Client thread/INFO] [bdlib]: Loading internal config files for mod Gendustry JEI Addon
+[18:09:10] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/tuning.cfg
+[18:09:10] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/recipes.cfg
+[18:09:10] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/upgrades.cfg
+[18:09:10] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_color.cfg
+[18:09:10] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_patreon.cfg
+[18:09:10] [Client thread/INFO] [bdlib]: Loading user config files for mod Gendustry JEI Addon
+[18:09:10] [Client thread/INFO] [bdlib]: Config loading for mod Gendustry JEI Addon finished
+[18:09:11] [Client thread/INFO] [jeibees]: JEI Plugin initializing
+[18:09:11] [Client thread/INFO] [jeibees]: Added 132 mutation recipes for Trees
+[18:09:11] [Client thread/INFO] [jeibees]: Added 132 produce recipes for Trees
+[18:09:11] [Client thread/INFO] [jeibees]: Added 1 mutation recipes for Butterflies
+[18:09:11] [Client thread/INFO] [jeibees]: Not adding produce recipes for Butterflies - disabled
+[18:09:11] [Client thread/INFO] [jeibees]: Added 353 mutation recipes for Bees
+[18:09:11] [Client thread/INFO] [jeibees]: Added 332 produce recipes for Bees
+[18:09:11] [Client thread/INFO] [jeibees]: Added 37 mutation recipes for Flowers
+[18:09:11] [Client thread/INFO] [jeibees]: Added 0 produce recipes for Flowers
+[18:09:11] [Client thread/INFO] [jei]: Registering mod plugins took 1.103 s
+[18:09:11] [Client thread/INFO] [jei]: Building recipe registry...
+[18:09:12] [Client thread/INFO] [jei]: Building recipe registry took 1.097 s
+[18:09:12] [Client thread/INFO] [jei]: Building ingredient list...
+[18:09:12] [Client thread/INFO] [jei]: Building ingredient list took 184.8 ms
+[18:09:12] [Client thread/INFO] [jei]: Building ingredient filter...
+[18:09:13] [Client thread/INFO] [jei]: Building ingredient filter took 1.404 s
+[18:09:13] [Client thread/INFO] [jei]: Building bookmarks...
+[18:09:13] [Client thread/INFO] [jei]: Building bookmarks took 4.664 ms
+[18:09:13] [Client thread/INFO] [jei]: Building runtime...
+[18:09:14] [Client thread/INFO] [jei]: Building runtime took 86.80 ms
+[18:09:14] [Client thread/INFO] [jei]: Optimizing memory usage...
+[18:09:14] [Client thread/INFO] [jei]: Optimizing memory usage took 137.9 ms
+[18:09:14] [Client thread/INFO] [jei]: Starting JEI took 4.974 s
+[18:09:15] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 44 mods
+[18:09:15] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[18:09:15] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN powersuits
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain powersuits is missing 2 textures
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain powersuits has 1 location:
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod powersuits resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\ModularPowersuits-1.12.2-1.0.46.jar
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain powersuits are:
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/coalgen.png
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/empty_set.png
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain powersuits
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[18:09:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
