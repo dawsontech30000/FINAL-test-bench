@@ -278,3 +278,9 @@ ForgelinPlugin (Forgelin-1.8.4.jar)
 [18:08:52] [Client thread/INFO] [FML]: Holder lookups applied
 [18:08:52] [Client thread/INFO] [FML]: Injecting itemstacks
 [18:08:52] [Client thread/INFO] [FML]: Itemstack injection complete
+[18:08:53] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:08:54] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[18:08:58] [Client thread/INFO] [FML]: Max texture size: 16384

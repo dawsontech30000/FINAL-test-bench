@@ -3474,3 +3474,19 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [18:08:52] [Client thread/TRACE] [FML]: Unable to find item with name techreborn:rubber_sapling
 [18:08:52] [Client thread/INFO] [FML]: Itemstack injection complete
 [18:08:52] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Finished: Loading sounds took 1.261s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SoundHandler took 1.278s
+[18:08:53] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.011s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.009s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[18:08:53] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Texture Map took 0.000s
+[18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:08:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:08:54] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[18:08:56] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: blocks took 3.191s
+[18:08:57] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: items took 1.113s
+[18:08:58] [Client thread/INFO] [FML]: Max texture size: 16384
