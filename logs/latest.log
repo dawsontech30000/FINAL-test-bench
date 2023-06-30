@@ -1584,3 +1584,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [18:26:41] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 6 advancements
 [18:27:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Dawsondude11: Cleared the inventory of Dawsondude11, removing 142 items]
 [18:27:12] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Cleared the inventory of Dawsondude11, removing 142 items
+[18:28:34] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /bq_admin, /bq_user, /bqs_advancement_dump, /bqs_loot
+[18:28:36] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Edit mode ON
+[18:28:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
