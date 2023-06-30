@@ -26803,3 +26803,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [22:13:00] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Table dump complete!
 [22:13:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
 [22:14:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:entities/all
+[22:14:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
