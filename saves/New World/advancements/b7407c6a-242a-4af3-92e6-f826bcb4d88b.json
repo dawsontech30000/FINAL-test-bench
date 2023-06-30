@@ -1,34 +1,4 @@
 {
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2023-06-30 23:06:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2023-06-30 18:09:43 +0100"
-    },
-    "done": true
-  },
-  "dungeontactics:recipes/misc/convenience/string_from_wool": {
-    "criteria": {
-      "has_wool": "2023-06-30 23:06:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2023-06-30 23:06:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2023-06-30 23:06:46 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-06-30 16:54:58 +0100"
@@ -42,6 +12,12 @@
     "done": false
   },
   "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2023-06-30 23:06:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2023-06-30 23:06:46 +0100"
     },
@@ -65,9 +41,21 @@
     },
     "done": true
   },
-  "tfc:main/root": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "in-game": "2023-06-30 22:58:12 +0100"
+      "has_lots_of_items": "2023-06-30 18:09:43 +0100"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/string_from_wool": {
+    "criteria": {
+      "has_wool": "2023-06-30 23:06:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-06-30 23:06:46 +0100"
     },
     "done": true
   },
@@ -76,5 +64,11 @@
       "forest": "2023-06-30 16:54:33 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2023-06-30 23:06:46 +0100"
+    },
+    "done": true
   }
 }

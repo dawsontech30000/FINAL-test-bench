@@ -384,30 +384,6 @@ scalingfeast:hungerminus
 	- Is Beneficial: false
 
 
-tfc:overburdened
-   - Id: 47
-   - Color: 5926033
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-tfc:thirst
-   - Id: 48
-   - Color: 2918100
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-tfc:food_poison
-   - Id: 49
-   - Color: 9498256
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
 nates_foodcraft:tiredness
    - Id: 50
    - Color: -13421773
