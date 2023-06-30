@@ -3520,3 +3520,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [22:15:31] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /lootbags_dumphelditem, /lootbags_dumpinventory, /lootbags_identifysources, /lootbags_itemdump, /lootbags_reloadconfig, /lootgames, /lootr
 [22:15:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] LootBags Item Dump Written - Look in your dumps folder
 [22:16:15] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:blocks/all
+[22:19:09] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[22:19:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:19:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:19:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:19:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:19:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:19:11] [Server thread/INFO] [FML]: Applying holder lookups
+[22:19:11] [Server thread/INFO] [FML]: Holder lookups applied
+[22:19:11] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[22:19:11] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[22:19:11] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
