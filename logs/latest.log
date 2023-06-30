@@ -1592,3 +1592,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [18:37:29] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] default, delete
 [18:37:30] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] save, set
 [18:37:31] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Quest database saved as default
+[18:40:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Dawsondude11: Cleared the inventory of Dawsondude11, removing 10 items]
+[18:40:37] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Cleared the inventory of Dawsondude11, removing 10 items
+[18:40:45] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:40:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:40:47] [Client thread/INFO] [jei]: Updating ingredient filter...
+[18:40:47] [Client thread/INFO] [jei]: Updated  ingredient filter in 0 ms
+[18:48:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Quest database saved as default
