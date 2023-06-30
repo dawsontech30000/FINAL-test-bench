@@ -216,3 +216,108 @@ rpsideas:psipulse_long
        rpsideas:psipulse - 600 - 0 - false - true
 
 
+scalingfeast:metabolism_strong
+   - Effects: 
+       scalingfeast:metabolism - 1200 - 1 - false - true
+
+
+scalingfeast:metabolism_extended
+   - Effects: 
+       scalingfeast:metabolism - 4800 - 0 - false - true
+
+
+scalingfeast:metabolism
+   - Effects: 
+       scalingfeast:metabolism - 2400 - 0 - false - true
+
+
+scalingfeast:ironstomach
+   - Effects: 
+       scalingfeast:ironstomach - 3000 - 0 - false - true
+
+
+scalingfeast:bloated
+   - Effects: 
+       scalingfeast:bloated - 2400 - 0 - false - true
+
+
+scalingfeast:hungerplus_strong
+   - Effects: 
+       scalingfeast:hungerplus - 1800 - 7 - false - true
+
+
+scalingfeast:hungerplus_extended
+   - Effects: 
+       scalingfeast:hungerplus - 7200 - 3 - false - true
+
+
+scalingfeast:hungerminus_extended
+   - Effects: 
+       scalingfeast:hungerminus - 4800 - 3 - false - true
+
+
+scalingfeast:hungerminus_strong
+   - Effects: 
+       scalingfeast:hungerminus - 1200 - 7 - false - true
+
+
+scalingfeast:softstomach
+   - Effects: 
+       scalingfeast:softstomach - 2400 - 0 - false - true
+
+
+scalingfeast:softstomach_extended
+   - Effects: 
+       scalingfeast:softstomach - 4800 - 0 - false - true
+
+
+scalingfeast:softstomach_strong
+   - Effects: 
+       scalingfeast:softstomach - 1200 - 1 - false - true
+
+
+scalingfeast:deficiency
+   - Effects: 
+       scalingfeast:deficiency - 1 - 3 - false - true
+
+
+scalingfeast:deficiency_strong
+   - Effects: 
+       scalingfeast:deficiency - 1 - 7 - false - true
+
+
+scalingfeast:bloated_strong
+   - Effects: 
+       scalingfeast:bloated - 1200 - 1 - false - true
+
+
+scalingfeast:bloated_extended
+   - Effects: 
+       scalingfeast:bloated - 4800 - 0 - false - true
+
+
+scalingfeast:ironstomach_extended
+   - Effects: 
+       scalingfeast:ironstomach - 6000 - 0 - false - true
+
+
+scalingfeast:hungerplus
+   - Effects: 
+       scalingfeast:hungerplus - 3600 - 3 - false - true
+
+
+scalingfeast:hungerminus
+   - Effects: 
+       scalingfeast:hungerminus - 2400 - 3 - false - true
+
+
+scalingfeast:ironstomach_strong
+   - Effects: 
+       scalingfeast:ironstomach - 1500 - 1 - false - true
+
+
+nates_foodcraft:oliveoilp
+   - Effects: 
+       nates_foodcraft:oliveoilp - 3600 - 0 - false - true
+
+

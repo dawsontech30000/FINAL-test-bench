@@ -36,3 +36,12 @@ the_end
 	- Terrain Scale: 1.0
 
 
+plantd
+	- Id: 3
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+

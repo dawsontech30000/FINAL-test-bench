@@ -608,3 +608,59 @@ dungeontactics:poison_feather
    - Max Level: 3
 
 
+scalingfeast:fasting
+   - Id: 75
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+scalingfeast:gluttony
+   - Id: 76
+   - Rarity: RARE
+   - Treasure: true
+   - Min Level: 1
+   - Max Level: 3
+
+
+scalingfeast:famine
+   - Id: 77
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+scalingfeast:eternalfeast
+   - Id: 78
+   - Rarity: RARE
+   - Treasure: true
+   - Min Level: 1
+   - Max Level: 3
+
+
+scalingfeast:sensitivitycurse
+   - Id: 79
+   - Rarity: UNCOMMON
+   - Treasure: true
+   - Min Level: 1
+   - Max Level: 1
+
+
+scalingfeast:lazinesscurse
+   - Id: 80
+   - Rarity: RARE
+   - Treasure: true
+   - Min Level: 1
+   - Max Level: 1
+
+
+scalingfeast:deprivationcurse
+   - Id: 81
+   - Rarity: UNCOMMON
+   - Treasure: true
+   - Min Level: 1
+   - Max Level: 1
+
+
