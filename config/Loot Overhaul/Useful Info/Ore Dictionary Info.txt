@@ -1,0 +1,2524 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+
+
+
+beeComb
+forestry:bee_combs - any
+morebees:combrock - 0
+morebees:combdirt - 0
+morebees:combwither - 0
+morebees:combslime - 0
+morebees:combmetallic - 0
+morebees:combcrystal - 0
+extrabees:honey_comb - any
+magicbees:beecomb - 0
+magicbees:beecomb - 1
+magicbees:beecomb - 2
+magicbees:beecomb - 3
+magicbees:beecomb - 4
+magicbees:beecomb - 5
+magicbees:beecomb - 6
+magicbees:beecomb - 7
+magicbees:beecomb - 8
+magicbees:beecomb - 9
+magicbees:beecomb - 10
+magicbees:beecomb - 11
+magicbees:beecomb - 12
+magicbees:beecomb - 13
+magicbees:beecomb - 14
+magicbees:beecomb - 15
+magicbees:beecomb - 16
+magicbees:beecomb - 17
+magicbees:beecomb - 18
+gendustry:honey_comb - any
+
+
+binnie_database
+botany:database - 0
+extrabees:dictionary - 0
+extratrees:databasetree - 0
+extratrees:databaselepi - 0
+
+
+blockApatite
+forestry:resource_storage - 0
+
+
+blockBone
+minecraft:bone_block - 0
+
+
+blockBronze
+forestry:resource_storage - 3
+
+
+blockCactus
+minecraft:cactus - 0
+
+
+blockCharcoal
+forestry:charcoal - 0
+
+
+blockCoal
+minecraft:coal_block - 0
+
+
+blockCopper
+forestry:resource_storage - 1
+
+
+blockDiamond
+minecraft:diamond_block - 0
+
+
+blockEmerald
+minecraft:emerald_block - 0
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+botany:stained - 0
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+
+
+blockGold
+minecraft:gold_block - 0
+
+
+blockIron
+minecraft:iron_block - 0
+
+
+blockLapis
+minecraft:lapis_block - 0
+
+
+blockLead
+
+
+blockMeatRaw
+
+
+blockMithril
+dungeontactics:mithril_block - 0
+
+
+blockPrismarine
+minecraft:prismarine - 0
+
+
+blockPrismarineBrick
+minecraft:prismarine - 1
+
+
+blockPrismarineDark
+minecraft:prismarine - 2
+
+
+blockPsiDust
+psi:psi_decorative - 0
+
+
+blockPsiGem
+psi:psi_decorative - 2
+
+
+blockPsiMetal
+psi:psi_decorative - 1
+
+
+blockQuartz
+minecraft:quartz_block - 0
+
+
+blockRedstone
+minecraft:redstone_block - 0
+
+
+blockSilver
+dungeontactics:silver_block - 0
+
+
+blockSlime
+minecraft:slime - 0
+
+
+blockSteel
+dungeontactics:steel_block - 0
+
+
+blockTin
+forestry:resource_storage - 2
+
+
+blockWool
+minecraft:wool - any
+
+
+bone
+minecraft:bone - 0
+
+
+breederUranium
+
+
+brickPeat
+forestry:peat - 0
+
+
+careerBeesYang
+careerbees:ingredients - 12
+
+
+careerBeesYing
+careerbees:ingredients - 11
+
+
+chainIron
+dungeontactics:ironlinks - 0
+
+
+chest
+minecraft:chest - 0
+minecraft:ender_chest - 0
+minecraft:trapped_chest - 0
+
+
+chestEnder
+minecraft:ender_chest - 0
+
+
+chestTrapped
+minecraft:trapped_chest - 0
+
+
+chestWood
+minecraft:chest - 0
+
+
+circuitAdvanced
+
+
+circuitBasic
+
+
+circuitElite
+
+
+clusterAluminium
+dungeontactics:aluminium_cluster - 0
+
+
+clusterCopper
+dungeontactics:copper_cluster - 0
+
+
+clusterGold
+dungeontactics:gold_cluster - 0
+
+
+clusterIron
+dungeontactics:iron_cluster - 0
+
+
+clusterLead
+dungeontactics:lead_cluster - 0
+
+
+clusterMithril
+dungeontactics:mithril_cluster - 0
+
+
+clusterNickel
+dungeontactics:nickel_cluster - 0
+
+
+clusterOsmium
+dungeontactics:osmium_cluster - 0
+
+
+clusterPlatinum
+dungeontactics:platinum_cluster - 0
+
+
+clusterSilver
+dungeontactics:silver_cluster - 0
+
+
+clusterTin
+dungeontactics:tin_cluster - 0
+
+
+clusterTitanium
+dungeontactics:titanium_cluster - 0
+
+
+clusterTungsten
+dungeontactics:tungsten_cluster - 0
+
+
+coal
+minecraft:coal - 0
+
+
+cobblestone
+minecraft:cobblestone - 0
+
+
+componentArtificialMuscle
+powersuits:powerarmorcomponent - 17
+
+
+componentCarbonMyofiber
+powersuits:powerarmorcomponent - 14
+
+
+componentComputerChip
+powersuits:powerarmorcomponent - 20
+
+
+componentControlCircuit
+powersuits:powerarmorcomponent - 15
+
+
+componentEVCapacitor
+powersuits:powerarmorcomponent - 8
+
+
+componentFieldEmitter
+powersuits:powerarmorcomponent - 12
+
+
+componentGliderWing
+powersuits:powerarmorcomponent - 3
+
+
+componentHVCapacitor
+powersuits:powerarmorcomponent - 7
+
+
+componentIonThruster
+powersuits:powerarmorcomponent - 4
+
+
+componentLVCapacitor
+powersuits:powerarmorcomponent - 5
+
+
+componentLaserEmitter
+powersuits:powerarmorcomponent - 13
+
+
+componentMVCapacitor
+powersuits:powerarmorcomponent - 6
+
+
+componentMagnet
+powersuits:powerarmorcomponent - 19
+
+
+componentMyofiberGel
+powersuits:powerarmorcomponent - 16
+
+
+componentParachute
+powersuits:powerarmorcomponent - 9
+
+
+componentPlatingDiamond
+powersuits:powerarmorcomponent - 11
+
+
+componentPlatingIron
+powersuits:powerarmorcomponent - 10
+
+
+componentRubberHose
+powersuits:powerarmorcomponent - 21
+
+
+componentServo
+powersuits:powerarmorcomponent - 2
+
+
+componentSolarPanel
+powersuits:powerarmorcomponent - 18
+
+
+componentSolenoid
+powersuits:powerarmorcomponent - 1
+
+
+componentWiring
+powersuits:powerarmorcomponent - 0
+
+
+craftingTableWood
+minecraft:crafting_table - 0
+
+
+cropAcorn
+extratrees:food - 33
+
+
+cropAllspice
+extratrees:food - 54
+
+
+cropAlmond
+extratrees:food - 9
+
+
+cropApple
+extratrees:food - 0
+minecraft:apple - 0
+
+
+cropApricot
+extratrees:food - 10
+
+
+cropAvocado
+extratrees:food - 52
+
+
+cropBanana
+extratrees:food - 28
+extratrees:food - 29
+
+
+cropBeechnut
+extratrees:food - 26
+
+
+cropBlackCherry
+extratrees:food - 6
+
+
+cropBlackberry
+extratrees:food - 43
+
+
+cropBlackcurrant
+extratrees:food - 41
+
+
+cropBlackthorn
+extratrees:food - 7
+
+
+cropBlueberry
+extratrees:food - 45
+
+
+cropBrazilNut
+extratrees:food - 31
+
+
+cropBuddhaHand
+extratrees:food - 14
+
+
+cropButternut
+extratrees:food - 25
+
+
+cropCandle
+extratrees:food - 59
+
+
+cropCandleberry
+extratrees:food - 59
+
+
+cropCandlenut
+extratrees:food - 59
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropCashew
+extratrees:food - 51
+
+
+cropCherry
+forestry:fruits - 0
+extratrees:food - 4
+extratrees:food - 5
+extratrees:food - 6
+
+
+cropCherryPlum
+extratrees:food - 8
+
+
+cropChestnut
+forestry:fruits - 2
+
+
+cropChilipepper
+extratrees:food - 55
+
+
+cropChilli
+extratrees:food - 55
+
+
+cropCitron
+extratrees:food - 14
+extratrees:food - 15
+
+
+cropClove
+extratrees:food - 39
+
+
+cropCoconut
+extratrees:food - 50
+
+
+cropCoffee
+extratrees:food - 37
+
+
+cropCrabapple
+extratrees:food - 0
+
+
+cropCranberry
+extratrees:food - 46
+
+
+cropDate
+forestry:fruits - 5
+
+
+cropElderberry
+extratrees:food - 34
+
+
+cropFig
+extratrees:food - 32
+
+
+cropFingerLime
+extratrees:food - 16
+
+
+cropGingkoNut
+extratrees:food - 36
+
+
+cropGoldenRaspberry
+extratrees:food - 49
+
+
+cropGoldenraspberry
+extratrees:food - 49
+
+
+cropGooseberry
+extratrees:food - 48
+
+
+cropGrapefruit
+extratrees:food - 11
+
+
+cropHazelnut
+extratrees:food - 24
+
+
+cropHops
+extratrees:hops - 0
+
+
+cropJuniper
+extratrees:food - 47
+
+
+cropKeyLime
+extratrees:food - 17
+
+
+cropKumquat
+extratrees:food - 2
+
+
+cropLemon
+forestry:fruits - 3
+
+
+cropLime
+extratrees:food - 3
+extratrees:food - 16
+extratrees:food - 17
+
+
+cropManderin
+extratrees:food - 18
+
+
+cropMango
+extratrees:food - 57
+
+
+cropNectarine
+extratrees:food - 19
+
+
+cropNetherWart
+minecraft:nether_wart - 0
+
+
+cropNutmeg
+extratrees:food - 53
+
+
+cropOlive
+extratrees:food - 35
+
+
+cropOrange
+extratrees:food - 1
+extratrees:food - 13
+extratrees:food - 18
+extratrees:food - 21
+
+
+cropOsangeOrange
+extratrees:food - 38
+
+
+cropPapaya
+forestry:fruits - 6
+
+
+cropPapayimar
+extratrees:food - 40
+
+
+cropPeach
+extratrees:food - 12
+extratrees:food - 19
+
+
+cropPear
+extratrees:food - 22
+
+
+cropPecan
+extratrees:food - 27
+
+
+cropPineapple
+
+
+cropPlantain
+extratrees:food - 30
+
+
+cropPlum
+forestry:fruits - 4
+extratrees:food - 8
+
+
+cropPomelo
+extratrees:food - 20
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropRaspberry
+extratrees:food - 44
+
+
+cropRedBanana
+extratrees:food - 29
+
+
+cropRedGrape
+
+
+cropRedcurrant
+extratrees:food - 42
+
+
+cropSandPear
+extratrees:food - 23
+
+
+cropSatsuma
+extratrees:food - 13
+
+
+cropSourCherry
+extratrees:food - 5
+
+
+cropStarAnise
+extratrees:food - 56
+
+
+cropStaranise
+extratrees:food - 56
+
+
+cropStarfruit
+extratrees:food - 58
+
+
+cropTangerine
+extratrees:food - 21
+
+
+cropTomato
+
+
+cropWalnut
+forestry:fruits - 1
+extratrees:food - 25
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+cropWhiteGrape
+
+
+cropWildCherry
+extratrees:food - 4
+
+
+crushedUranium
+
+
+crystalsPrismarine
+minecraft:prismarine_crystals - 0
+
+
+dirt
+minecraft:dirt - 0
+
+
+doorWood
+minecraft:acacia_door - 0
+minecraft:birch_door - 0
+minecraft:dark_oak_door - 0
+minecraft:wooden_door - 0
+minecraft:jungle_door - 0
+minecraft:spruce_door - 0
+forestry:doors.larch - any
+forestry:doors.teak - any
+forestry:doors.acacia - any
+forestry:doors.lime - any
+forestry:doors.chestnut - any
+forestry:doors.wenge - any
+forestry:doors.baobab - any
+forestry:doors.sequoia - any
+forestry:doors.kapok - any
+forestry:doors.ebony - any
+forestry:doors.mahogany - any
+forestry:doors.balsa - any
+forestry:doors.willow - any
+forestry:doors.walnut - any
+forestry:doors.greenheart - any
+forestry:doors.cherry - any
+forestry:doors.mahoe - any
+forestry:doors.poplar - any
+forestry:doors.palm - any
+forestry:doors.papaya - any
+forestry:doors.pine - any
+forestry:doors.plum - any
+forestry:doors.maple - any
+forestry:doors.citrus - any
+forestry:doors.giganteum - any
+forestry:doors.ipe - any
+forestry:doors.padauk - any
+forestry:doors.cocobolo - any
+forestry:doors.zebrawood - any
+extratrees:doors.apple - any
+extratrees:doors.fig - any
+extratrees:doors.butternut - any
+extratrees:doors.whitebeam - any
+extratrees:doors.rowan - any
+extratrees:doors.hemlock - any
+extratrees:doors.ash - any
+extratrees:doors.alder - any
+extratrees:doors.beech - any
+extratrees:doors.hawthorn - any
+extratrees:doors.banana - any
+extratrees:doors.yew - any
+extratrees:doors.cypress - any
+extratrees:doors.fir - any
+extratrees:doors.hazel - any
+extratrees:doors.hickory - any
+extratrees:doors.elm - any
+extratrees:doors.elder - any
+extratrees:doors.holly - any
+extratrees:doors.hornbeam - any
+extratrees:doors.cedar - any
+extratrees:doors.olive - any
+extratrees:doors.sweetgum - any
+extratrees:doors.locust - any
+extratrees:doors.pear - any
+extratrees:doors.maclura - any
+extratrees:doors.brazilwood - any
+extratrees:doors.logwood - any
+extratrees:doors.rosewood - any
+extratrees:doors.purpleheart - any
+extratrees:doors.iroko - any
+extratrees:doors.gingko - any
+extratrees:doors.eucalyptus - any
+extratrees:doors.box - any
+extratrees:doors.syzgium - any
+extratrees:doors.pinkivory - any
+
+
+dropHoney
+forestry:honey_drop - 0
+gendustry:honey_drop - any
+
+
+dropHoneydew
+forestry:honeydew - 0
+
+
+dropRoyalJelly
+forestry:royal_jelly - 0
+
+
+dropUranium
+
+
+dustAluminium
+dungeontactics:aluminium_dust - 0
+
+
+dustAluminum
+
+
+dustAsh
+forestry:ash - 0
+
+
+dustBlutonium
+
+
+dustBronze
+careerbees:ingredients - 8
+
+
+dustCertusQuartz
+
+
+dustCoal
+dungeontactics:coal_dust - 0
+
+
+dustCopper
+morebees:dustcopper - 0
+careerbees:ingredients - 6
+dungeontactics:copper_dust - 0
+
+
+dustCyanite
+
+
+dustDraconium
+
+
+dustEnderPearl
+
+
+dustFlint
+minecraft:flint - 0
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustGold
+morebees:dustgold - 0
+careerbees:ingredients - 5
+dungeontactics:gold_dust - 0
+
+
+dustIridium
+
+
+dustIron
+morebees:dustiron - 0
+careerbees:ingredients - 4
+dungeontactics:iron_dust - 0
+
+
+dustLead
+dungeontactics:lead_dust - 0
+
+
+dustMithril
+dungeontactics:mithril_dust - 0
+
+
+dustNickel
+dungeontactics:nickel_dust - 0
+
+
+dustObsidian
+
+
+dustOsmium
+dungeontactics:osmium_dust - 0
+
+
+dustPlatinum
+dungeontactics:platinum_dust - 0
+
+
+dustPrismarine
+minecraft:prismarine_crystals - 0
+
+
+dustPsi
+psi:material - 0
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dustSaltpeter
+
+
+dustSawdust
+
+
+dustSilver
+dungeontactics:silver_dust - 0
+
+
+dustSmallAluminum
+
+
+dustSmallBauxite
+
+
+dustSmallCinnabar
+
+
+dustSmallIron
+
+
+dustSmallPyrite
+
+
+dustSmallSodalite
+
+
+dustSmallSphalerite
+
+
+dustSmallZinc
+
+
+dustSteel
+dungeontactics:steel_dust - 0
+
+
+dustSulfur
+
+
+dustSulphur
+
+
+dustTin
+morebees:dusttin - 0
+careerbees:ingredients - 7
+dungeontactics:tin_dust - 0
+
+
+dustTinyAluminium
+dungeontactics:aluminium_tinydust - 0
+
+
+dustTinyCoal
+dungeontactics:coal_tinydust - 0
+
+
+dustTinyCopper
+dungeontactics:copper_tinydust - 0
+
+
+dustTinyGold
+dungeontactics:gold_tinydust - 0
+
+
+dustTinyGunpowder
+dungeontactics:gunpowder_tinydust - 0
+
+
+dustTinyIron
+dungeontactics:iron_tinydust - 0
+
+
+dustTinyLead
+dungeontactics:lead_tinydust - 0
+
+
+dustTinyMithril
+dungeontactics:mithril_tinydust - 0
+
+
+dustTinyNickel
+dungeontactics:nickel_tinydust - 0
+
+
+dustTinyOsmium
+dungeontactics:osmium_tinydust - 0
+
+
+dustTinyPlatinum
+dungeontactics:platinum_tinydust - 0
+
+
+dustTinySilver
+dungeontactics:silver_tinydust - 0
+
+
+dustTinySteel
+dungeontactics:steel_tinydust - 0
+
+
+dustTinyTin
+dungeontactics:tin_tinydust - 0
+
+
+dustTinyTitanium
+dungeontactics:titanium_tinydust - 0
+
+
+dustTinyTungsten
+dungeontactics:tungsten_tinydust - 0
+
+
+dustTitanium
+dungeontactics:titanium_dust - 0
+
+
+dustTungsten
+dungeontactics:tungsten_dust - 0
+
+
+dustYellorium
+
+
+dustZinc
+
+
+dye
+minecraft:dye - any
+
+
+dyeBlack
+minecraft:dye - 0
+extrabees:misc - 24
+gendustry:honey_drop - 10
+
+
+dyeBlue
+minecraft:dye - 4
+extrabees:misc - 21
+gendustry:honey_drop - 14
+
+
+dyeBrown
+minecraft:dye - 3
+extrabees:misc - 25
+gendustry:honey_drop - 13
+
+
+dyeCyan
+minecraft:dye - 6
+gendustry:honey_drop - 16
+
+
+dyeGray
+minecraft:dye - 8
+gendustry:honey_drop - 18
+
+
+dyeGreen
+minecraft:dye - 2
+extrabees:misc - 22
+gendustry:honey_drop - 12
+
+
+dyeLightBlue
+minecraft:dye - 12
+gendustry:honey_drop - 22
+
+
+dyeLightGray
+minecraft:dye - 7
+gendustry:honey_drop - 17
+
+
+dyeLime
+minecraft:dye - 10
+gendustry:honey_drop - 20
+
+
+dyeMagenta
+minecraft:dye - 13
+gendustry:honey_drop - 23
+
+
+dyeOrange
+minecraft:dye - 14
+gendustry:honey_drop - 24
+
+
+dyePink
+minecraft:dye - 9
+gendustry:honey_drop - 19
+
+
+dyePurple
+minecraft:dye - 5
+gendustry:honey_drop - 15
+
+
+dyeRed
+minecraft:dye - 1
+extrabees:misc - 19
+gendustry:honey_drop - 11
+
+
+dyeWhite
+minecraft:dye - 15
+extrabees:misc - 23
+gendustry:honey_drop - 25
+
+
+dyeYellow
+minecraft:dye - 11
+extrabees:misc - 20
+gendustry:honey_drop - 21
+
+
+egg
+minecraft:egg - 0
+
+
+emptiedLetter
+forestry:letters - 3
+forestry:letters - 19
+forestry:letters - 35
+
+
+enderpearl
+minecraft:ender_pearl - 0
+
+
+endstone
+minecraft:end_stone - 0
+
+
+feather
+minecraft:feather - 0
+
+
+fenceGateWood
+minecraft:fence_gate - 0
+minecraft:spruce_fence_gate - 0
+minecraft:birch_fence_gate - 0
+minecraft:jungle_fence_gate - 0
+minecraft:dark_oak_fence_gate - 0
+minecraft:acacia_fence_gate - 0
+forestry:fence.gates.larch - any
+forestry:fence.gates.fireproof.larch - any
+forestry:fence.gates.teak - any
+forestry:fence.gates.fireproof.teak - any
+forestry:fence.gates.acacia - any
+forestry:fence.gates.fireproof.acacia - any
+forestry:fence.gates.lime - any
+forestry:fence.gates.fireproof.lime - any
+forestry:fence.gates.chestnut - any
+forestry:fence.gates.fireproof.chestnut - any
+forestry:fence.gates.wenge - any
+forestry:fence.gates.fireproof.wenge - any
+forestry:fence.gates.baobab - any
+forestry:fence.gates.fireproof.baobab - any
+forestry:fence.gates.sequoia - any
+forestry:fence.gates.fireproof.sequoia - any
+forestry:fence.gates.kapok - any
+forestry:fence.gates.fireproof.kapok - any
+forestry:fence.gates.ebony - any
+forestry:fence.gates.fireproof.ebony - any
+forestry:fence.gates.mahogany - any
+forestry:fence.gates.fireproof.mahogany - any
+forestry:fence.gates.balsa - any
+forestry:fence.gates.fireproof.balsa - any
+forestry:fence.gates.willow - any
+forestry:fence.gates.fireproof.willow - any
+forestry:fence.gates.walnut - any
+forestry:fence.gates.fireproof.walnut - any
+forestry:fence.gates.greenheart - any
+forestry:fence.gates.fireproof.greenheart - any
+forestry:fence.gates.cherry - any
+forestry:fence.gates.fireproof.cherry - any
+forestry:fence.gates.mahoe - any
+forestry:fence.gates.fireproof.mahoe - any
+forestry:fence.gates.poplar - any
+forestry:fence.gates.fireproof.poplar - any
+forestry:fence.gates.palm - any
+forestry:fence.gates.fireproof.palm - any
+forestry:fence.gates.papaya - any
+forestry:fence.gates.fireproof.papaya - any
+forestry:fence.gates.pine - any
+forestry:fence.gates.fireproof.pine - any
+forestry:fence.gates.plum - any
+forestry:fence.gates.fireproof.plum - any
+forestry:fence.gates.maple - any
+forestry:fence.gates.fireproof.maple - any
+forestry:fence.gates.citrus - any
+forestry:fence.gates.fireproof.citrus - any
+forestry:fence.gates.giganteum - any
+forestry:fence.gates.fireproof.giganteum - any
+forestry:fence.gates.ipe - any
+forestry:fence.gates.fireproof.ipe - any
+forestry:fence.gates.padauk - any
+forestry:fence.gates.fireproof.padauk - any
+forestry:fence.gates.cocobolo - any
+forestry:fence.gates.fireproof.cocobolo - any
+forestry:fence.gates.zebrawood - any
+forestry:fence.gates.fireproof.zebrawood - any
+forestry:fence.gates.vanilla.fireproof.oak - any
+forestry:fence.gates.vanilla.fireproof.spruce - any
+forestry:fence.gates.vanilla.fireproof.birch - any
+forestry:fence.gates.vanilla.fireproof.jungle - any
+forestry:fence.gates.vanilla.fireproof.acacia - any
+forestry:fence.gates.vanilla.fireproof.dark_oak - any
+extratrees:fence.gates.fir - any
+extratrees:fence.gates.fireproof.fir - any
+extratrees:fence.gates.cedar - any
+extratrees:fence.gates.fireproof.cedar - any
+extratrees:fence.gates.hemlock - any
+extratrees:fence.gates.fireproof.hemlock - any
+extratrees:fence.gates.cypress - any
+extratrees:fence.gates.fireproof.cypress - any
+extratrees:fence.gates.fig - any
+extratrees:fence.gates.fireproof.fig - any
+extratrees:fence.gates.beech - any
+extratrees:fence.gates.fireproof.beech - any
+extratrees:fence.gates.alder - any
+extratrees:fence.gates.fireproof.alder - any
+extratrees:fence.gates.hazel - any
+extratrees:fence.gates.fireproof.hazel - any
+extratrees:fence.gates.hornbeam - any
+extratrees:fence.gates.fireproof.hornbeam - any
+extratrees:fence.gates.box - any
+extratrees:fence.gates.fireproof.box - any
+extratrees:fence.gates.butternut - any
+extratrees:fence.gates.fireproof.butternut - any
+extratrees:fence.gates.hickory - any
+extratrees:fence.gates.fireproof.hickory - any
+extratrees:fence.gates.whitebeam - any
+extratrees:fence.gates.fireproof.whitebeam - any
+extratrees:fence.gates.elm - any
+extratrees:fence.gates.fireproof.elm - any
+extratrees:fence.gates.apple - any
+extratrees:fence.gates.fireproof.apple - any
+extratrees:fence.gates.yew - any
+extratrees:fence.gates.fireproof.yew - any
+extratrees:fence.gates.pear - any
+extratrees:fence.gates.fireproof.pear - any
+extratrees:fence.gates.hawthorn - any
+extratrees:fence.gates.fireproof.hawthorn - any
+extratrees:fence.gates.rowan - any
+extratrees:fence.gates.fireproof.rowan - any
+extratrees:fence.gates.elder - any
+extratrees:fence.gates.fireproof.elder - any
+extratrees:fence.gates.maclura - any
+extratrees:fence.gates.fireproof.maclura - any
+extratrees:fence.gates.syzgium - any
+extratrees:fence.gates.fireproof.syzgium - any
+extratrees:fence.gates.brazilwood - any
+extratrees:fence.gates.fireproof.brazilwood - any
+extratrees:fence.gates.logwood - any
+extratrees:fence.gates.fireproof.logwood - any
+extratrees:fence.gates.iroko - any
+extratrees:fence.gates.fireproof.iroko - any
+extratrees:fence.gates.locust - any
+extratrees:fence.gates.fireproof.locust - any
+extratrees:fence.gates.eucalyptus - any
+extratrees:fence.gates.fireproof.eucalyptus - any
+extratrees:fence.gates.purpleheart - any
+extratrees:fence.gates.fireproof.purpleheart - any
+extratrees:fence.gates.ash - any
+extratrees:fence.gates.fireproof.ash - any
+extratrees:fence.gates.holly - any
+extratrees:fence.gates.fireproof.holly - any
+extratrees:fence.gates.olive - any
+extratrees:fence.gates.fireproof.olive - any
+extratrees:fence.gates.sweetgum - any
+extratrees:fence.gates.fireproof.sweetgum - any
+extratrees:fence.gates.rosewood - any
+extratrees:fence.gates.fireproof.rosewood - any
+extratrees:fence.gates.gingko - any
+extratrees:fence.gates.fireproof.gingko - any
+extratrees:fence.gates.pinkivory - any
+extratrees:fence.gates.fireproof.pinkivory - any
+extratrees:fence.gates.banana - any
+extratrees:fence.gates.fireproof.banana - any
+
+
+fenceWood
+minecraft:fence - 0
+minecraft:spruce_fence - 0
+minecraft:birch_fence - 0
+minecraft:jungle_fence - 0
+minecraft:dark_oak_fence - 0
+minecraft:acacia_fence - 0
+forestry:fences.0 - any
+forestry:fences.1 - any
+forestry:fences.fireproof.0 - any
+forestry:fences.fireproof.1 - any
+forestry:fences.vanilla.fireproof.0 - any
+extratrees:fences.0 - any
+extratrees:fences.1 - any
+extratrees:fences.2 - any
+extratrees:fences.fireproof.0 - any
+extratrees:fences.fireproof.1 - any
+extratrees:fences.fireproof.2 - any
+
+
+flower
+minecraft:red_flower - any
+minecraft:yellow_flower - any
+
+
+foodApplejuice
+binniecore:glass - 1
+
+
+foodApricotjuice
+binniecore:glass - 1
+
+
+foodBananajuice
+binniecore:glass - 1
+
+
+foodCarrotjuice
+binniecore:glass - 1
+
+
+foodCherryjuice
+binniecore:glass - 1
+
+
+foodCranberryjuice
+binniecore:glass - 1
+
+
+foodElderberryjuice
+binniecore:glass - 1
+
+
+foodFlour
+dungeontactics:flour - 0
+
+
+foodGrapefruitjuice
+binniecore:glass - 1
+
+
+foodGrapejuice
+binniecore:glass - 1
+
+
+foodLemonjuice
+binniecore:glass - 1
+
+
+foodLimejuice
+binniecore:glass - 1
+
+
+foodOlivejuice
+binniecore:glass - 1
+
+
+foodOrangejuice
+binniecore:glass - 1
+
+
+foodPeachjuice
+binniecore:glass - 1
+
+
+foodPearjuice
+binniecore:glass - 1
+
+
+foodPineapplejuice
+binniecore:glass - 1
+
+
+foodPlumjuice
+binniecore:glass - 1
+
+
+foodTomatojuice
+binniecore:glass - 1
+
+
+fruitForestry
+forestry:fruits - 0
+forestry:fruits - 1
+forestry:fruits - 2
+forestry:fruits - 3
+forestry:fruits - 4
+forestry:fruits - 5
+forestry:fruits - 6
+
+
+gearBronze
+forestry:gear_bronze - 0
+
+
+gearCopper
+forestry:gear_copper - 0
+
+
+gearDiamond
+
+
+gearGold
+
+
+gearIron
+
+
+gearStone
+
+
+gearTin
+forestry:gear_tin - 0
+
+
+gemApatite
+forestry:apatite - 0
+
+
+gemDiamond
+minecraft:diamond - 0
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemPrismarine
+minecraft:prismarine_shard - 0
+
+
+gemPsi
+psi:material - 2
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+gemRuby
+
+
+gemSapphire
+
+
+gemnull
+
+
+glowstone
+minecraft:glowstone - 0
+
+
+grass
+minecraft:grass - 0
+
+
+gravel
+minecraft:gravel - 0
+
+
+gunpowder
+minecraft:gunpowder - 0
+
+
+ingotBlutonium
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotBronze
+forestry:ingot_bronze - 0
+
+
+ingotCoal
+
+
+ingotCopper
+forestry:ingot_copper - 0
+
+
+ingotCyanite
+
+
+ingotEbony
+
+
+ingotEbonyPsi
+psi:material - 3
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotHoneyComb
+careerbees:ingredients - 10
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+ingotIvoryPsi
+psi:material - 4
+
+
+ingotLead
+
+
+ingotMithril
+dungeontactics:mithril_ingot - 0
+
+
+ingotNickel
+
+
+ingotOsmium
+
+
+ingotPlatinum
+
+
+ingotPsi
+psi:material - 1
+
+
+ingotRefinedGlowstone
+
+
+ingotRefinedObsidian
+
+
+ingotSilver
+dungeontactics:silver_ingot - 0
+
+
+ingotSteel
+dungeontactics:steel_ingot - 0
+
+
+ingotTin
+forestry:ingot_tin - 0
+
+
+ingotTitanium
+
+
+ingotTungsten
+
+
+ingotYellorium
+
+
+ingotZinc
+
+
+itemBeeswax
+forestry:beeswax - 0
+
+
+itemPollen
+forestry:pollen - 0
+
+
+itemRubber
+
+
+leather
+minecraft:leather - 0
+
+
+listAllberry
+extratrees:food - 7
+extratrees:food - 34
+extratrees:food - 41
+extratrees:food - 42
+extratrees:food - 43
+extratrees:food - 44
+extratrees:food - 45
+extratrees:food - 46
+extratrees:food - 48
+extratrees:food - 49
+
+
+listAllcitrus
+extratrees:food - 1
+extratrees:food - 3
+extratrees:food - 11
+extratrees:food - 13
+extratrees:food - 14
+extratrees:food - 15
+extratrees:food - 16
+extratrees:food - 17
+extratrees:food - 18
+extratrees:food - 21
+extratrees:food - 38
+
+
+listAllfruit
+extratrees:food - 0
+extratrees:food - 1
+extratrees:food - 2
+extratrees:food - 3
+extratrees:food - 4
+extratrees:food - 5
+extratrees:food - 6
+extratrees:food - 7
+extratrees:food - 8
+extratrees:food - 10
+extratrees:food - 11
+extratrees:food - 12
+extratrees:food - 13
+extratrees:food - 14
+extratrees:food - 15
+extratrees:food - 16
+extratrees:food - 17
+extratrees:food - 18
+extratrees:food - 19
+extratrees:food - 20
+extratrees:food - 21
+extratrees:food - 22
+extratrees:food - 23
+extratrees:food - 28
+extratrees:food - 29
+extratrees:food - 30
+extratrees:food - 32
+extratrees:food - 34
+extratrees:food - 38
+extratrees:food - 41
+extratrees:food - 42
+extratrees:food - 43
+extratrees:food - 44
+extratrees:food - 45
+extratrees:food - 46
+extratrees:food - 47
+extratrees:food - 48
+extratrees:food - 49
+extratrees:food - 52
+extratrees:food - 57
+extratrees:food - 58
+
+
+listAllnut
+extratrees:food - 9
+extratrees:food - 24
+extratrees:food - 25
+extratrees:food - 26
+extratrees:food - 27
+extratrees:food - 31
+extratrees:food - 33
+extratrees:food - 50
+extratrees:food - 51
+extratrees:food - 59
+
+
+listAllpepper
+extratrees:food - 55
+
+
+listAllspice
+extratrees:food - 36
+extratrees:food - 39
+extratrees:food - 53
+extratrees:food - 54
+extratrees:food - 56
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+forestry:logs.0 - any
+forestry:logs.1 - any
+forestry:logs.2 - any
+forestry:logs.3 - any
+forestry:logs.4 - any
+forestry:logs.5 - any
+forestry:logs.6 - any
+forestry:logs.7 - any
+forestry:logs.fireproof.0 - any
+forestry:logs.fireproof.1 - any
+forestry:logs.fireproof.2 - any
+forestry:logs.fireproof.3 - any
+forestry:logs.fireproof.4 - any
+forestry:logs.fireproof.5 - any
+forestry:logs.fireproof.6 - any
+forestry:logs.fireproof.7 - any
+forestry:logs.vanilla.fireproof.0 - any
+forestry:logs.vanilla.fireproof.1 - any
+extratrees:logs.0 - any
+extratrees:logs.1 - any
+extratrees:logs.2 - any
+extratrees:logs.3 - any
+extratrees:logs.4 - any
+extratrees:logs.5 - any
+extratrees:logs.6 - any
+extratrees:logs.7 - any
+extratrees:logs.8 - any
+extratrees:logs.9 - any
+extratrees:logs.fireproof.0 - any
+extratrees:logs.fireproof.1 - any
+extratrees:logs.fireproof.2 - any
+extratrees:logs.fireproof.3 - any
+extratrees:logs.fireproof.4 - any
+extratrees:logs.fireproof.5 - any
+extratrees:logs.fireproof.6 - any
+extratrees:logs.fireproof.7 - any
+extratrees:logs.fireproof.8 - any
+extratrees:logs.fireproof.9 - any
+
+
+netherStar
+minecraft:nether_star - 0
+
+
+netherrack
+minecraft:netherrack - 0
+
+
+nuggetAluminium
+
+
+nuggetAluminum
+
+
+nuggetApatite
+magicbees:orepart - 2
+
+
+nuggetArdite
+
+
+nuggetBronze
+magicbees:orepart - 5
+
+
+nuggetCobalt
+
+
+nuggetCopper
+magicbees:orepart - 3
+
+
+nuggetDiamond
+morebees:diamondfragment - 0
+magicbees:orepart - 0
+dungeontactics:diamond_nugget - 0
+
+
+nuggetElectrum
+
+
+nuggetEmerald
+morebees:emeraldfragment - 0
+magicbees:orepart - 1
+
+
+nuggetFerrous
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+
+
+nuggetInvar
+
+
+nuggetIron
+minecraft:iron_nugget - 0
+
+
+nuggetLead
+
+
+nuggetManyullyn
+
+
+nuggetMithril
+dungeontactics:mithril_nugget - 0
+
+
+nuggetNickel
+
+
+nuggetOsmium
+
+
+nuggetPlatinum
+
+
+nuggetSilver
+dungeontactics:silver_nugget - 0
+
+
+nuggetSteel
+dungeontactics:steel_nugget - 0
+
+
+nuggetTin
+magicbees:orepart - 4
+
+
+obsidian
+minecraft:obsidian - 0
+
+
+oreApatite
+forestry:resources - 0
+
+
+oreCoal
+minecraft:coal_ore - 0
+
+
+oreCopper
+forestry:resources - 1
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+dungeontactics:enddiamond_ore - 0
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+
+
+oreGold
+minecraft:gold_ore - 0
+dungeontactics:nethergold_ore - 0
+
+
+oreIron
+minecraft:iron_ore - 0
+
+
+oreLapis
+minecraft:lapis_ore - 0
+dungeontactics:endlapis_ore - 0
+
+
+oreMithril
+dungeontactics:mithril_ore - 0
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+dungeontactics:stonequartz_ore - 0
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+
+
+oreResonating
+
+
+oreSilver
+dungeontactics:silver_ore - 0
+
+
+oreTin
+forestry:resources - 2
+
+
+oreUranium
+
+
+oreYellorite
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+paper
+minecraft:paper - 0
+
+
+pigment
+botany:pigment - 0
+
+
+plankWood
+minecraft:planks - any
+forestry:planks.0 - any
+forestry:planks.1 - any
+forestry:planks.fireproof.0 - any
+forestry:planks.fireproof.1 - any
+forestry:planks.vanilla.fireproof.0 - any
+extratrees:planks.0 - any
+extratrees:planks.1 - any
+extratrees:planks.2 - any
+extratrees:planks.fireproof.0 - any
+extratrees:planks.fireproof.1 - any
+extratrees:planks.fireproof.2 - any
+
+
+pulpWood
+forestry:wood_pulp - 0
+extratrees:misc - 0
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+
+
+sand
+minecraft:sand - any
+
+
+sandstone
+minecraft:sandstone - any
+minecraft:red_sandstone - any
+
+
+sawdust
+
+
+seedBarley
+extratrees:misc - 7
+
+
+seedCorn
+extratrees:misc - 9
+
+
+seedRoasted
+extratrees:misc - 10
+
+
+seedRye
+extratrees:misc - 8
+
+
+seedWheat
+minecraft:wheat_seeds - 0
+extratrees:misc - 6
+
+
+seeds
+minecraft:wheat_seeds - 0
+minecraft:pumpkin_seeds - 0
+minecraft:melon_seeds - 0
+minecraft:beetroot_seeds - 0
+minecraft:nether_wart - 0
+
+
+shardPrismarine
+minecraft:prismarine_shard - 0
+
+
+slabWood
+minecraft:wooden_slab - any
+forestry:slabs.0 - any
+forestry:slabs.1 - any
+forestry:slabs.2 - any
+forestry:slabs.3 - any
+forestry:slabs.fireproof.0 - any
+forestry:slabs.fireproof.1 - any
+forestry:slabs.fireproof.2 - any
+forestry:slabs.fireproof.3 - any
+forestry:slabs.vanilla.fireproof.0 - any
+extratrees:slabs.0 - any
+extratrees:slabs.1 - any
+extratrees:slabs.2 - any
+extratrees:slabs.3 - any
+extratrees:slabs.4 - any
+extratrees:slabs.fireproof.0 - any
+extratrees:slabs.fireproof.1 - any
+extratrees:slabs.fireproof.2 - any
+extratrees:slabs.fireproof.3 - any
+extratrees:slabs.fireproof.4 - any
+
+
+slimeball
+minecraft:slime_ball - 0
+
+
+slimeballBlue
+
+
+slimeballMagma
+
+
+slimeballPurple
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+forestry:stairs.larch - any
+forestry:stairs.teak - any
+forestry:stairs.acacia - any
+forestry:stairs.lime - any
+forestry:stairs.chestnut - any
+forestry:stairs.wenge - any
+forestry:stairs.baobab - any
+forestry:stairs.sequoia - any
+forestry:stairs.kapok - any
+forestry:stairs.ebony - any
+forestry:stairs.mahogany - any
+forestry:stairs.balsa - any
+forestry:stairs.willow - any
+forestry:stairs.walnut - any
+forestry:stairs.greenheart - any
+forestry:stairs.cherry - any
+forestry:stairs.mahoe - any
+forestry:stairs.poplar - any
+forestry:stairs.palm - any
+forestry:stairs.papaya - any
+forestry:stairs.pine - any
+forestry:stairs.plum - any
+forestry:stairs.maple - any
+forestry:stairs.citrus - any
+forestry:stairs.giganteum - any
+forestry:stairs.ipe - any
+forestry:stairs.padauk - any
+forestry:stairs.cocobolo - any
+forestry:stairs.zebrawood - any
+forestry:stairs.fireproof.larch - any
+forestry:stairs.fireproof.teak - any
+forestry:stairs.fireproof.acacia - any
+forestry:stairs.fireproof.lime - any
+forestry:stairs.fireproof.chestnut - any
+forestry:stairs.fireproof.wenge - any
+forestry:stairs.fireproof.baobab - any
+forestry:stairs.fireproof.sequoia - any
+forestry:stairs.fireproof.kapok - any
+forestry:stairs.fireproof.ebony - any
+forestry:stairs.fireproof.mahogany - any
+forestry:stairs.fireproof.balsa - any
+forestry:stairs.fireproof.willow - any
+forestry:stairs.fireproof.walnut - any
+forestry:stairs.fireproof.greenheart - any
+forestry:stairs.fireproof.cherry - any
+forestry:stairs.fireproof.mahoe - any
+forestry:stairs.fireproof.poplar - any
+forestry:stairs.fireproof.palm - any
+forestry:stairs.fireproof.papaya - any
+forestry:stairs.fireproof.pine - any
+forestry:stairs.fireproof.plum - any
+forestry:stairs.fireproof.maple - any
+forestry:stairs.fireproof.citrus - any
+forestry:stairs.fireproof.giganteum - any
+forestry:stairs.fireproof.ipe - any
+forestry:stairs.fireproof.padauk - any
+forestry:stairs.fireproof.cocobolo - any
+forestry:stairs.fireproof.zebrawood - any
+forestry:stairs.vanilla.fireproof.oak - any
+forestry:stairs.vanilla.fireproof.spruce - any
+forestry:stairs.vanilla.fireproof.birch - any
+forestry:stairs.vanilla.fireproof.jungle - any
+forestry:stairs.vanilla.fireproof.acacia - any
+forestry:stairs.vanilla.fireproof.dark_oak - any
+extratrees:stairs.apple - any
+extratrees:stairs.fig - any
+extratrees:stairs.butternut - any
+extratrees:stairs.whitebeam - any
+extratrees:stairs.rowan - any
+extratrees:stairs.hemlock - any
+extratrees:stairs.ash - any
+extratrees:stairs.alder - any
+extratrees:stairs.beech - any
+extratrees:stairs.hawthorn - any
+extratrees:stairs.banana - any
+extratrees:stairs.yew - any
+extratrees:stairs.cypress - any
+extratrees:stairs.fir - any
+extratrees:stairs.hazel - any
+extratrees:stairs.hickory - any
+extratrees:stairs.elm - any
+extratrees:stairs.elder - any
+extratrees:stairs.holly - any
+extratrees:stairs.hornbeam - any
+extratrees:stairs.cedar - any
+extratrees:stairs.olive - any
+extratrees:stairs.sweetgum - any
+extratrees:stairs.locust - any
+extratrees:stairs.pear - any
+extratrees:stairs.maclura - any
+extratrees:stairs.brazilwood - any
+extratrees:stairs.logwood - any
+extratrees:stairs.rosewood - any
+extratrees:stairs.purpleheart - any
+extratrees:stairs.iroko - any
+extratrees:stairs.gingko - any
+extratrees:stairs.eucalyptus - any
+extratrees:stairs.box - any
+extratrees:stairs.syzgium - any
+extratrees:stairs.pinkivory - any
+extratrees:stairs.fireproof.apple - any
+extratrees:stairs.fireproof.fig - any
+extratrees:stairs.fireproof.butternut - any
+extratrees:stairs.fireproof.whitebeam - any
+extratrees:stairs.fireproof.rowan - any
+extratrees:stairs.fireproof.hemlock - any
+extratrees:stairs.fireproof.ash - any
+extratrees:stairs.fireproof.alder - any
+extratrees:stairs.fireproof.beech - any
+extratrees:stairs.fireproof.hawthorn - any
+extratrees:stairs.fireproof.banana - any
+extratrees:stairs.fireproof.yew - any
+extratrees:stairs.fireproof.cypress - any
+extratrees:stairs.fireproof.fir - any
+extratrees:stairs.fireproof.hazel - any
+extratrees:stairs.fireproof.hickory - any
+extratrees:stairs.fireproof.elm - any
+extratrees:stairs.fireproof.elder - any
+extratrees:stairs.fireproof.holly - any
+extratrees:stairs.fireproof.hornbeam - any
+extratrees:stairs.fireproof.cedar - any
+extratrees:stairs.fireproof.olive - any
+extratrees:stairs.fireproof.sweetgum - any
+extratrees:stairs.fireproof.locust - any
+extratrees:stairs.fireproof.pear - any
+extratrees:stairs.fireproof.maclura - any
+extratrees:stairs.fireproof.brazilwood - any
+extratrees:stairs.fireproof.logwood - any
+extratrees:stairs.fireproof.rosewood - any
+extratrees:stairs.fireproof.purpleheart - any
+extratrees:stairs.fireproof.iroko - any
+extratrees:stairs.fireproof.gingko - any
+extratrees:stairs.fireproof.eucalyptus - any
+extratrees:stairs.fireproof.box - any
+extratrees:stairs.fireproof.syzgium - any
+extratrees:stairs.fireproof.pinkivory - any
+
+
+stickBone
+minecraft:bone - 0
+
+
+stickWood
+minecraft:stick - 0
+
+
+stone
+minecraft:stone - 0
+
+
+stoneAndesite
+minecraft:stone - 5
+
+
+stoneAndesitePolished
+minecraft:stone - 6
+
+
+stoneDiorite
+minecraft:stone - 3
+
+
+stoneDioritePolished
+minecraft:stone - 4
+
+
+stoneGranite
+minecraft:stone - 1
+
+
+stoneGranitePolished
+minecraft:stone - 2
+
+
+stoneMarble
+
+
+string
+minecraft:string - 0
+
+
+substanceEbony
+psi:material - 5
+
+
+substanceIvory
+psi:material - 6
+
+
+sugarcane
+minecraft:reeds - 0
+
+
+toolTrowel
+botany:trowel_wood - 0
+botany:trowel_stone - 0
+botany:trowel_iron - 0
+botany:trowel_gold - 0
+botany:trowel_diamond - 0
+
+
+torch
+minecraft:torch - 0
+
+
+trapdoorWood
+minecraft:trapdoor - 0
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+forestry:leaves - any
+forestry:leaves.default.0 - any
+forestry:leaves.default.1 - any
+forestry:leaves.default.2 - any
+forestry:leaves.default.3 - any
+forestry:leaves.default.4 - any
+forestry:leaves.default.5 - any
+forestry:leaves.default.6 - any
+forestry:leaves.default.7 - any
+forestry:leaves.default.8 - any
+forestry:leaves.default.fruit.0 - any
+forestry:leaves.default.fruit.1 - any
+forestry:leaves.decorative.0 - any
+forestry:leaves.decorative.1 - any
+forestry:leaves.decorative.2 - any
+extratrees:leaves.default.0 - any
+extratrees:leaves.default.1 - any
+extratrees:leaves.default.2 - any
+extratrees:leaves.default.3 - any
+extratrees:leaves.default.4 - any
+extratrees:leaves.default.5 - any
+extratrees:leaves.default.6 - any
+extratrees:leaves.default.7 - any
+extratrees:leaves.default.8 - any
+extratrees:leaves.default.9 - any
+extratrees:leaves.default.10 - any
+extratrees:leaves.default.11 - any
+extratrees:leaves.default.12 - any
+extratrees:leaves.default.13 - any
+extratrees:leaves.default.14 - any
+extratrees:leaves.default.15 - any
+extratrees:leaves.default.16 - any
+extratrees:leaves.default.17 - any
+extratrees:leaves.default.18 - any
+extratrees:leaves.default.19 - any
+extratrees:leaves.default.20 - any
+extratrees:leaves.default.21 - any
+extratrees:leaves.default.22 - any
+extratrees:leaves.default.23 - any
+extratrees:leaves.default.24 - any
+extratrees:leaves.default.fruit.0 - any
+extratrees:leaves.default.fruit.1 - any
+extratrees:leaves.default.fruit.2 - any
+extratrees:leaves.default.fruit.3 - any
+extratrees:leaves.default.fruit.4 - any
+extratrees:leaves.default.fruit.5 - any
+extratrees:leaves.default.fruit.6 - any
+extratrees:leaves.default.fruit.7 - any
+extratrees:leaves.default.fruit.8 - any
+extratrees:leaves.default.fruit.9 - any
+extratrees:leaves.default.fruit.10 - any
+extratrees:leaves.default.fruit.11 - any
+extratrees:leaves.default.fruit.12 - any
+extratrees:leaves.default.fruit.13 - any
+extratrees:leaves.default.fruit.14 - any
+extratrees:leaves.decorative.0 - any
+extratrees:leaves.decorative.1 - any
+extratrees:leaves.decorative.2 - any
+extratrees:leaves.decorative.3 - any
+extratrees:leaves.decorative.4 - any
+extratrees:leaves.decorative.5 - any
+extratrees:leaves.decorative.6 - any
+
+
+treeSapling
+minecraft:sapling - any
+forestry:sapling - any
+forestry:sapling_ge - any
+minecraft:sapling - 0
+
+
+vine
+minecraft:vine - 0
+
+
+weedkiller
+botany:misc - 7
+
+
+wool
+minecraft:wool - any
+
+
+woolBlack
+minecraft:wool - 15
+
+
+woolBlue
+minecraft:wool - 11
+
+
+woolBrown
+minecraft:wool - 12
+
+
+woolCyan
+minecraft:wool - 9
+
+
+woolGray
+minecraft:wool - 7
+
+
+woolGreen
+minecraft:wool - 13
+
+
+woolLightBlue
+minecraft:wool - 3
+
+
+woolLightGray
+minecraft:wool - 8
+
+
+woolLime
+minecraft:wool - 5
+
+
+woolMagenta
+minecraft:wool - 2
+
+
+woolOrange
+minecraft:wool - 1
+
+
+woolPink
+minecraft:wool - 6
+
+
+woolPurple
+minecraft:wool - 10
+
+
+woolRed
+minecraft:wool - 14
+
+
+woolWhite
+minecraft:wool - 0
+
+
+woolYellow
+minecraft:wool - 4
+
+
+workbench
+minecraft:crafting_table - 0
+
+
