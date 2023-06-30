@@ -25012,3 +25012,1794 @@ com.google.gson.JsonSyntaxException: Unknown item 'bqt:bqbook'
 [22:12:44] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [22:12:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
 [22:12:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
+[22:12:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /dumpalleles, /dumploot, /dumpregistry
+[22:12:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /dumpalleles, /dumploot, /dumpregistry
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/zombie_pigman
+[22:13:00] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Dumping table data to console!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:gold_nugget  | minecraft:gold_nugget  | 1      |
+| pool2     | minecraft:gold_ingot   | minecraft:gold_ingot   | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/stronghold_corridor/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/zombie_horse
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/village_blacksmith
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                        | Item ID                           | Weight |
+|-----------|-----------------------------------|-----------------------------------|--------|
+| main      | minecraft:diamond                 | minecraft:diamond                 | 3      |
+| main      | minecraft:iron_ingot              | minecraft:iron_ingot              | 10     |
+| main      | minecraft:gold_ingot              | minecraft:gold_ingot              | 5      |
+| main      | minecraft:bread                   | minecraft:bread                   | 15     |
+| main      | minecraft:apple                   | minecraft:apple                   | 15     |
+| main      | minecraft:iron_pickaxe            | minecraft:iron_pickaxe            | 5      |
+| main      | minecraft:iron_sword              | minecraft:iron_sword              | 5      |
+| main      | minecraft:iron_chestplate         | minecraft:iron_chestplate         | 5      |
+| main      | minecraft:iron_helmet             | minecraft:iron_helmet             | 5      |
+| main      | minecraft:iron_leggings           | minecraft:iron_leggings           | 5      |
+| main      | minecraft:iron_boots              | minecraft:iron_boots              | 5      |
+| main      | minecraft:obsidian                | minecraft:obsidian                | 5      |
+| main      | minecraft:sapling                 | minecraft:sapling                 | 5      |
+| main      | minecraft:saddle                  | minecraft:saddle                  | 3      |
+| main      | minecraft:iron_horse_armor        | minecraft:iron_horse_armor        | 1      |
+| main      | minecraft:golden_horse_armor      | minecraft:golden_horse_armor      | 1      |
+| main      | minecraft:diamond_horse_armor     | minecraft:diamond_horse_armor     | 1      |
+| main      | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand | 6      |
+| main      | notenoughwands:building_wand      | notenoughwands:building_wand      | 3      |
+| main      | notenoughwands:swapping_wand      | notenoughwands:swapping_wand      | 5      |
+| main      | notenoughwands:capturing_wand     | notenoughwands:capturing_wand     | 3      |
+| main      | notenoughwands:illumination_wand  | notenoughwands:illumination_wand  | 6      |
+| main      | notenoughwands:displacement_wand  | notenoughwands:displacement_wand  | 3      |
+| main      | notenoughwands:moving_wand        | notenoughwands:moving_wand        | 5      |
+| main      | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand  | 2      |
+| main      | notenoughwands:protection_wand    | notenoughwands:protection_wand    | 1      |
+| main      | notenoughwands:potion_wand        | notenoughwands:potion_wand        | 3      |
+| main      | DT:IronCutlass                    | dungeontactics:iron_cutlass       | 5      |
+| main      | DT:IronClub                       | dungeontactics:iron_club          | 5      |
+| main      | DT:IronHammer                     | dungeontactics:iron_hammer        | 5      |
+| main      | DT:IronBattleaxe                  | dungeontactics:iron_battleaxe     | 5      |
+| main      | DT:IronGlaive                     | dungeontactics:iron_glaive        | 5      |
+| main      | DT:IronKnife                      | dungeontactics:iron_knife         | 5      |
+| main      | DT:IronCestus                     | dungeontactics:iron_cestus        | 5      |
+| main      | DT:IronShield                     | dungeontactics:iron_shield        | 3      |
+| main      | DT:IronRing                       | dungeontactics:iron_ring          | 4      |
+| main      | DT:DuctTape                       | dungeontactics:ducttape           | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/abandoned_mineshaft/factory
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name              | Entry Name                     | Item ID                        | Weight |
+|------------------------|--------------------------------|--------------------------------|--------|
+| forestry_factory_items | forestry:broken_bronze_shovel  | forestry:broken_bronze_shovel  | 10     |
+| forestry_factory_items | forestry:broken_bronze_pickaxe | forestry:broken_bronze_pickaxe | 30     |
+| forestry_factory_items | forestry:kit_pickaxe           | forestry:kit_pickaxe           | 10     |
+| forestry_factory_items | forestry:kit_shovel            | forestry:kit_shovel            | 5      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/donkey
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/yellow
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/magma_cube
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:magma_cream | minecraft:magma_cream | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/slime
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:slime_ball | minecraft:slime_ball | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/vindication_illager
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:emerald | minecraft:emerald | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/jungle_temple/arboriculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name       | Item ID          | Weight |
+|------------------------------|------------------|------------------|--------|
+| forestry_arboriculture_items | forestry:sapling | forestry:sapling | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/evocation_illager
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                 | Item ID                      | Weight |
+|-----------|----------------------------|------------------------------|--------|
+| main      | minecraft:totem_of_undying | minecraft:totem_of_undying   | 1      |
+| main      | DT:MagicPowder             | dungeontactics:magic_powder  | 3      |
+| main      | DT:MortarAndPestle         | dungeontactics:mortar&pestle | 1      |
+| main      | DT:MagicScroll             | dungeontactics:magic_scroll  | 2      |
+| pool1     | minecraft:emerald          | minecraft:emerald            | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/shulker
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name              | Item ID                 | Weight |
+|-----------|-------------------------|-------------------------|--------|
+| main      | minecraft:shulker_shell | minecraft:shulker_shell | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/skeleton
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:arrow | minecraft:arrow | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/abandoned_mineshaft
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name                        | Item ID                           | Weight |
+|--------------------------|-----------------------------------|-----------------------------------|--------|
+| main                     | minecraft:golden_apple            | minecraft:golden_apple            | 20     |
+| main                     | minecraft:golden_apple#0          | minecraft:golden_apple            | 1      |
+| main                     | minecraft:name_tag                | minecraft:name_tag                | 30     |
+| main                     | minecraft:book                    | minecraft:book                    | 10     |
+| main                     | minecraft:iron_pickaxe            | minecraft:iron_pickaxe            | 5      |
+| main                     | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand | 6      |
+| main                     | notenoughwands:building_wand      | notenoughwands:building_wand      | 3      |
+| main                     | notenoughwands:swapping_wand      | notenoughwands:swapping_wand      | 5      |
+| main                     | notenoughwands:capturing_wand     | notenoughwands:capturing_wand     | 3      |
+| main                     | notenoughwands:illumination_wand  | notenoughwands:illumination_wand  | 6      |
+| main                     | notenoughwands:displacement_wand  | notenoughwands:displacement_wand  | 3      |
+| main                     | notenoughwands:moving_wand        | notenoughwands:moving_wand        | 5      |
+| main                     | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand  | 2      |
+| main                     | notenoughwands:protection_wand    | notenoughwands:protection_wand    | 1      |
+| main                     | notenoughwands:potion_wand        | notenoughwands:potion_wand        | 3      |
+| main                     | DT:EscapeRope                     | dungeontactics:magic_tether       | 10     |
+| main                     | DT:HeartJar                       | dungeontactics:heart_jar          | 10     |
+| pool1                    | minecraft:iron_ingot              | minecraft:iron_ingot              | 10     |
+| pool1                    | minecraft:gold_ingot              | minecraft:gold_ingot              | 5      |
+| pool1                    | minecraft:redstone                | minecraft:redstone                | 5      |
+| pool1                    | minecraft:dye                     | minecraft:dye                     | 5      |
+| pool1                    | minecraft:diamond                 | minecraft:diamond                 | 3      |
+| pool1                    | minecraft:coal                    | minecraft:coal                    | 10     |
+| pool1                    | minecraft:bread                   | minecraft:bread                   | 15     |
+| pool1                    | minecraft:melon_seeds             | minecraft:melon_seeds             | 10     |
+| pool1                    | minecraft:pumpkin_seeds           | minecraft:pumpkin_seeds           | 10     |
+| pool1                    | minecraft:beetroot_seeds          | minecraft:beetroot_seeds          | 10     |
+| pool1                    | DT:DuctTape                       | dungeontactics:ducttape           | 10     |
+| pool1                    | DT:PTD                            | dungeontactics:tunnelling_device  | 2      |
+| pool2                    | minecraft:rail                    | minecraft:rail                    | 20     |
+| pool2                    | minecraft:golden_rail             | minecraft:golden_rail             | 5      |
+| pool2                    | minecraft:detector_rail           | minecraft:detector_rail           | 5      |
+| pool2                    | minecraft:activator_rail          | minecraft:activator_rail          | 5      |
+| pool2                    | minecraft:torch                   | minecraft:torch                   | 15     |
+| forestry_factory_items   | forestry:broken_bronze_shovel     | forestry:broken_bronze_shovel     | 10     |
+| forestry_factory_items   | forestry:broken_bronze_pickaxe    | forestry:broken_bronze_pickaxe    | 30     |
+| forestry_factory_items   | forestry:kit_pickaxe              | forestry:kit_pickaxe              | 10     |
+| forestry_factory_items   | forestry:kit_shovel               | forestry:kit_shovel               | 5      |
+| forestry_storage_items   | forestry:miner_bag                | forestry:miner_bag                | 1      |
+| forestry_apiculture_bees | bee_steadfast_drone               | forestry:bee_drone_ge             | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:gameplay/fishing/treasure
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name            | Item ID                  | Weight |
+|-----------|-----------------------|--------------------------|--------|
+| main      | minecraft:waterlily   | minecraft:waterlily      | 1      |
+| main      | minecraft:name_tag    | minecraft:name_tag       | 1      |
+| main      | minecraft:saddle      | minecraft:saddle         | 1      |
+| main      | minecraft:bow         | minecraft:bow            | 1      |
+| main      | minecraft:fishing_rod | minecraft:fishing_rod    | 1      |
+| main      | minecraft:book        | minecraft:book           | 1      |
+| main      | DT:SlingShot          | dungeontactics:slingshot | 1      |
+| main      | DT:IronRing           | dungeontactics:iron_ring | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/enderman
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:ender_pearl | minecraft:ender_pearl | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/husk
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:iron_ingot   | minecraft:iron_ingot   | 1      |
+| pool1     | minecraft:carrot       | minecraft:carrot       | 1      |
+| pool1     | minecraft:potato       | minecraft:potato       | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/mule
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## customizeddungeonloot:loot_table_advanced
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| main      | minecraft:diamond_sword    | minecraft:diamond_sword    | 1      |
+| main      | minecraft:iron_sword       | minecraft:iron_sword       | 1      |
+| main      | minecraft:bow              | minecraft:bow              | 3      |
+| main      | minecraft:iron_boots       | minecraft:iron_boots       | 2      |
+| main      | minecraft:leather_boots    | minecraft:leather_boots    | 2      |
+| main      | minecraft:diamond          | minecraft:diamond          | 5      |
+| main      | minecraft:pumpkin          | minecraft:pumpkin          | 10     |
+| main      | minecraft:iron_axe         | minecraft:iron_axe         | 2      |
+| main      | minecraft:stick            | minecraft:stick            | 10     |
+| main      | minecraft:emerald          | minecraft:emerald          | 2      |
+| main      | minecraft:spawn_egg        | minecraft:spawn_egg        | 10     |
+| main      | minecraft:golden_apple     | minecraft:golden_apple     | 2      |
+| main      | minecraft:skull            | minecraft:skull            | 3      |
+| main      | minecraft:golden_sword     | minecraft:golden_sword     | 5      |
+| main      | minecraft:totem_of_undying | minecraft:totem_of_undying | 1      |
+| main      | minecraft:iron_helmet      | minecraft:iron_helmet      | 5      |
+| main      | minecraft:mob_spawner      | minecraft:mob_spawner      | 5      |
+| main      | minecraft:iron_chestplate  | minecraft:iron_chestplate  | 2      |
+| main      | minecraft:written_book     | minecraft:written_book     | 2      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/stronghold_library/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+| forestry_apiculture_bees | bee_monastic_drone  | forestry:bee_drone_ge | 6      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/spider
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:string     | minecraft:string     | 1      |
+| pool1     | minecraft:spider_eye | minecraft:spider_eye | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/bat
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/orange
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/spawn_bonus_chest
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name               | Item ID                  | Weight |
+|--------------------------|--------------------------|--------------------------|--------|
+| main                     | minecraft:stone_axe      | minecraft:stone_axe      | 1      |
+| main                     | minecraft:wooden_axe     | minecraft:wooden_axe     | 3      |
+| pool1                    | minecraft:stone_pickaxe  | minecraft:stone_pickaxe  | 1      |
+| pool1                    | minecraft:wooden_pickaxe | minecraft:wooden_pickaxe | 3      |
+| pool2                    | minecraft:apple          | minecraft:apple          | 5      |
+| pool2                    | minecraft:bread          | minecraft:bread          | 3      |
+| pool2                    | minecraft:fish           | minecraft:fish           | 3      |
+| pool3                    | minecraft:stick          | minecraft:stick          | 10     |
+| pool3                    | minecraft:planks         | minecraft:planks         | 10     |
+| pool3                    | minecraft:log            | minecraft:log            | 10     |
+| pool3                    | minecraft:log2           | minecraft:log2           | 10     |
+| forestry_apiculture_bees | forestry:scoop           | forestry:scoop           | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/red
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/igloo_chest
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name                        | Item ID                           | Weight |
+|--------------------------|-----------------------------------|-----------------------------------|--------|
+| main                     | minecraft:apple                   | minecraft:apple                   | 15     |
+| main                     | minecraft:coal                    | minecraft:coal                    | 15     |
+| main                     | minecraft:gold_nugget             | minecraft:gold_nugget             | 10     |
+| main                     | minecraft:stone_axe               | minecraft:stone_axe               | 2      |
+| main                     | minecraft:rotten_flesh            | minecraft:rotten_flesh            | 10     |
+| main                     | minecraft:emerald                 | minecraft:emerald                 | 1      |
+| main                     | minecraft:wheat                   | minecraft:wheat                   | 10     |
+| main                     | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand | 6      |
+| main                     | notenoughwands:building_wand      | notenoughwands:building_wand      | 3      |
+| main                     | notenoughwands:swapping_wand      | notenoughwands:swapping_wand      | 5      |
+| main                     | notenoughwands:capturing_wand     | notenoughwands:capturing_wand     | 3      |
+| main                     | notenoughwands:illumination_wand  | notenoughwands:illumination_wand  | 6      |
+| main                     | notenoughwands:displacement_wand  | notenoughwands:displacement_wand  | 3      |
+| main                     | notenoughwands:moving_wand        | notenoughwands:moving_wand        | 5      |
+| main                     | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand  | 2      |
+| main                     | notenoughwands:protection_wand    | notenoughwands:protection_wand    | 1      |
+| main                     | notenoughwands:potion_wand        | notenoughwands:potion_wand        | 3      |
+| pool1                    | minecraft:golden_apple            | minecraft:golden_apple            | 1      |
+| forestry_apiculture_bees | bee_steadfast_drone               | forestry:bee_drone_ge             | 1      |
+| forestry_apiculture_bees | bee_wintry_drone                  | forestry:bee_drone_ge             | 2      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/wolf
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/jungle_temple_dispenser
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name       | Item ID                                | Weight |
+|-----------|------------------|----------------------------------------|--------|
+| main      | minecraft:arrow  | minecraft:arrow                        | 30     |
+| main      | DT:CherryBomb    | dungeontactics:cherry_bomb             | 10     |
+| main      | DT:ThrowingKnife | dungeontactics:throwing_knife          | 10     |
+| main      | DT:SlownessKnife | dungeontactics:throwing_knife_slowness | 8      |
+| main      | DT:WeaknessKnife | dungeontactics:throwing_knife_weakness | 8      |
+| main      | DT:PoisonKnife   | dungeontactics:throwing_knife_poison   | 8      |
+| main      | DT:CausticKnife  | dungeontactics:throwing_knife_caustic  | 6      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/vex
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/igloo_chest/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+| forestry_apiculture_bees | bee_wintry_drone    | forestry:bee_drone_ge | 2      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/village_naturalist
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name           | Item ID                  | Weight |
+|------------------------------|----------------------|--------------------------|--------|
+| forestry_apiculture_items    | forestry:candle      | forestry:candle          | 10     |
+| forestry_apiculture_items    | forestry:bee_combs   | forestry:bee_combs       | 20     |
+| forestry_apiculture_items    | forestry:scoop       | forestry:scoop           | 5      |
+| forestry_apiculture_items    | forestry:smoker      | forestry:smoker          | 1      |
+| forestry_apiculture_bees     | bee_forest_princess  | forestry:bee_princess_ge | 6      |
+| forestry_apiculture_bees     | bee_common_drone     | forestry:bee_drone_ge    | 6      |
+| forestry_apiculture_bees     | bee_meadows_princess | forestry:bee_princess_ge | 6      |
+| forestry_arboriculture_items | forestry:grafter     | forestry:grafter         | 1      |
+| forestry_arboriculture_items | sapling_lime         | forestry:sapling         | 1      |
+| forestry_arboriculture_items | sapling_cherry       | forestry:sapling         | 1      |
+| forestry_arboriculture_items | sapling_larch        | forestry:sapling         | 1      |
+| forestry_arboriculture_items | sapling_teak         | forestry:sapling         | 1      |
+| forestry_arboriculture_items | sapling_padauk       | forestry:sapling         | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/desert_pyramid/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+| forestry_apiculture_bees | bee_modest_drone    | forestry:bee_drone_ge | 3      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/simple_dungeon
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name                        | Item ID                           | Weight |
+|--------------------------|-----------------------------------|-----------------------------------|--------|
+| main                     | minecraft:saddle                  | minecraft:saddle                  | 20     |
+| main                     | minecraft:golden_apple            | minecraft:golden_apple            | 15     |
+| main                     | minecraft:golden_apple#0          | minecraft:golden_apple            | 2      |
+| main                     | minecraft:record_13               | minecraft:record_13               | 15     |
+| main                     | minecraft:record_cat              | minecraft:record_cat              | 15     |
+| main                     | minecraft:name_tag                | minecraft:name_tag                | 20     |
+| main                     | minecraft:golden_horse_armor      | minecraft:golden_horse_armor      | 10     |
+| main                     | minecraft:iron_horse_armor        | minecraft:iron_horse_armor        | 15     |
+| main                     | minecraft:diamond_horse_armor     | minecraft:diamond_horse_armor     | 5      |
+| main                     | minecraft:book                    | minecraft:book                    | 10     |
+| main                     | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand | 6      |
+| main                     | notenoughwands:building_wand      | notenoughwands:building_wand      | 3      |
+| main                     | notenoughwands:swapping_wand      | notenoughwands:swapping_wand      | 5      |
+| main                     | notenoughwands:capturing_wand     | notenoughwands:capturing_wand     | 3      |
+| main                     | notenoughwands:illumination_wand  | notenoughwands:illumination_wand  | 6      |
+| main                     | notenoughwands:displacement_wand  | notenoughwands:displacement_wand  | 3      |
+| main                     | notenoughwands:moving_wand        | notenoughwands:moving_wand        | 5      |
+| main                     | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand  | 2      |
+| main                     | notenoughwands:protection_wand    | notenoughwands:protection_wand    | 1      |
+| main                     | notenoughwands:potion_wand        | notenoughwands:potion_wand        | 3      |
+| main                     | DT:EscapeRope                     | dungeontactics:magic_tether       | 15     |
+| main                     | DT:HeartJar                       | dungeontactics:heart_jar          | 10     |
+| main                     | DT:IronRing                       | dungeontactics:iron_ring          | 5      |
+| pool1                    | minecraft:iron_ingot              | minecraft:iron_ingot              | 10     |
+| pool1                    | minecraft:gold_ingot              | minecraft:gold_ingot              | 5      |
+| pool1                    | minecraft:bread                   | minecraft:bread                   | 20     |
+| pool1                    | minecraft:wheat                   | minecraft:wheat                   | 20     |
+| pool1                    | minecraft:bucket                  | minecraft:bucket                  | 10     |
+| pool1                    | minecraft:redstone                | minecraft:redstone                | 15     |
+| pool1                    | minecraft:coal                    | minecraft:coal                    | 15     |
+| pool1                    | minecraft:melon_seeds             | minecraft:melon_seeds             | 10     |
+| pool1                    | minecraft:pumpkin_seeds           | minecraft:pumpkin_seeds           | 10     |
+| pool1                    | minecraft:beetroot_seeds          | minecraft:beetroot_seeds          | 10     |
+| pool1                    | DT:DuctTape                       | dungeontactics:ducttape           | 15     |
+| pool2                    | minecraft:bone                    | minecraft:bone                    | 10     |
+| pool2                    | minecraft:gunpowder               | minecraft:gunpowder               | 10     |
+| pool2                    | minecraft:rotten_flesh            | minecraft:rotten_flesh            | 10     |
+| pool2                    | minecraft:string                  | minecraft:string                  | 10     |
+| forestry_apiculture_bees | bee_steadfast_drone               | forestry:bee_drone_ge             | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/zombie_villager
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:iron_ingot   | minecraft:iron_ingot   | 1      |
+| pool1     | minecraft:carrot       | minecraft:carrot       | 1      |
+| pool1     | minecraft:potato       | minecraft:potato       | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/wither_skeleton
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/elder_guardian
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| main      | minecraft:prismarine_shard    | minecraft:prismarine_shard    | 1      |
+| pool1     | minecraft:fish                | minecraft:fish                | 3      |
+| pool1     | minecraft:prismarine_crystals | minecraft:prismarine_crystals | 2      |
+| pool2     | minecraft:sponge              | minecraft:sponge              | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/abandoned_mineshaft/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## customizeddungeonloot:loot_table_end
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| main      | minecraft:diamond_sword    | minecraft:diamond_sword    | 2      |
+| main      | minecraft:diamond          | minecraft:diamond          | 5      |
+| main      | minecraft:elytra           | minecraft:elytra           | 2      |
+| main      | minecraft:pumpkin          | minecraft:pumpkin          | 5      |
+| main      | minecraft:emerald          | minecraft:emerald          | 10     |
+| main      | minecraft:spawn_egg        | minecraft:spawn_egg        | 10     |
+| main      | minecraft:skull            | minecraft:skull            | 3      |
+| main      | minecraft:totem_of_undying | minecraft:totem_of_undying | 1      |
+| main      | minecraft:mob_spawner      | minecraft:mob_spawner      | 1      |
+| main      | minecraft:iron_chestplate  | minecraft:iron_chestplate  | 2      |
+| main      | minecraft:enchanted_book   | minecraft:enchanted_book   | 2      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/light_blue
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/ocelot
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot4
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot3
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot2
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot1
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot8
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot7
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot6
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/endermite
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot5
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:gameplay/fishing/fish
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name       | Item ID                      | Weight |
+|-----------|------------------|------------------------------|--------|
+| main      | minecraft:fish   | minecraft:fish               | 60     |
+| main      | minecraft:fish#0 | minecraft:fish               | 25     |
+| main      | minecraft:fish#1 | minecraft:fish               | 2      |
+| main      | minecraft:fish#2 | minecraft:fish               | 13     |
+| main      | DT:SwiftFish     | dungeontactics:fish_swift    | 7      |
+| main      | DT:FlyingFish    | dungeontactics:fish_flying   | 7      |
+| main      | DT:LavaFish      | dungeontactics:fish_lava     | 7      |
+| main      | DT:MuscleFish    | dungeontactics:fish_muscle   | 7      |
+| main      | DT:LungFish      | dungeontactics:fish_lung     | 7      |
+| main      | DT:ObsidianFish  | dungeontactics:fish_obsidian | 7      |
+| main      | DT:TunnelShark   | dungeontactics:fish_tunnel   | 7      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/ghast
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:ghast_tear | minecraft:ghast_tear | 1      |
+| pool1     | minecraft:gunpowder  | minecraft:gunpowder  | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot9
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/village_naturalist/arboriculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name       | Item ID          | Weight |
+|------------------------------|------------------|------------------|--------|
+| forestry_arboriculture_items | forestry:grafter | forestry:grafter | 1      |
+| forestry_arboriculture_items | sapling_lime     | forestry:sapling | 1      |
+| forestry_arboriculture_items | sapling_cherry   | forestry:sapling | 1      |
+| forestry_arboriculture_items | sapling_larch    | forestry:sapling | 1      |
+| forestry_arboriculture_items | sapling_teak     | forestry:sapling | 1      |
+| forestry_arboriculture_items | sapling_padauk   | forestry:sapling | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:gameplay/fishing/junk
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name              | Item ID                 | Weight |
+|-----------|-------------------------|-------------------------|--------|
+| main      | minecraft:leather_boots | minecraft:leather_boots | 10     |
+| main      | minecraft:leather       | minecraft:leather       | 10     |
+| main      | minecraft:bone          | minecraft:bone          | 10     |
+| main      | minecraft:potion        | minecraft:potion        | 10     |
+| main      | minecraft:string        | minecraft:string        | 5      |
+| main      | minecraft:fishing_rod   | minecraft:fishing_rod   | 2      |
+| main      | minecraft:bowl          | minecraft:bowl          | 10     |
+| main      | minecraft:stick         | minecraft:stick         | 5      |
+| main      | minecraft:dye           | minecraft:dye           | 1      |
+| main      | minecraft:tripwire_hook | minecraft:tripwire_hook | 10     |
+| main      | minecraft:rotten_flesh  | minecraft:rotten_flesh  | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/desert_pyramid
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name                        | Item ID                                 | Weight |
+|------------------------------|-----------------------------------|-----------------------------------------|--------|
+| main                         | minecraft:diamond                 | minecraft:diamond                       | 5      |
+| main                         | minecraft:iron_ingot              | minecraft:iron_ingot                    | 15     |
+| main                         | minecraft:gold_ingot              | minecraft:gold_ingot                    | 15     |
+| main                         | minecraft:emerald                 | minecraft:emerald                       | 15     |
+| main                         | minecraft:bone                    | minecraft:bone                          | 25     |
+| main                         | minecraft:spider_eye              | minecraft:spider_eye                    | 25     |
+| main                         | minecraft:rotten_flesh            | minecraft:rotten_flesh                  | 25     |
+| main                         | minecraft:saddle                  | minecraft:saddle                        | 20     |
+| main                         | minecraft:iron_horse_armor        | minecraft:iron_horse_armor              | 15     |
+| main                         | minecraft:golden_horse_armor      | minecraft:golden_horse_armor            | 10     |
+| main                         | minecraft:diamond_horse_armor     | minecraft:diamond_horse_armor           | 5      |
+| main                         | minecraft:book                    | minecraft:book                          | 20     |
+| main                         | minecraft:golden_apple            | minecraft:golden_apple                  | 20     |
+| main                         | minecraft:golden_apple#0          | minecraft:golden_apple                  | 2      |
+| main                         | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand       | 6      |
+| main                         | notenoughwands:building_wand      | notenoughwands:building_wand            | 3      |
+| main                         | notenoughwands:swapping_wand      | notenoughwands:swapping_wand            | 5      |
+| main                         | notenoughwands:capturing_wand     | notenoughwands:capturing_wand           | 3      |
+| main                         | notenoughwands:illumination_wand  | notenoughwands:illumination_wand        | 6      |
+| main                         | notenoughwands:displacement_wand  | notenoughwands:displacement_wand        | 3      |
+| main                         | notenoughwands:moving_wand        | notenoughwands:moving_wand              | 5      |
+| main                         | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand        | 2      |
+| main                         | notenoughwands:protection_wand    | notenoughwands:protection_wand          | 1      |
+| main                         | notenoughwands:potion_wand        | notenoughwands:potion_wand              | 3      |
+| main                         | DT:GoldRing                       | dungeontactics:golden_ring              | 4      |
+| main                         | DT:HammerLeaping                  | dungeontactics:master_hammer_leap       | 1      |
+| main                         | DT:HammerSmash                    | dungeontactics:master_hammer_smash      | 1      |
+| main                         | DT:CutlassRiposte                 | dungeontactics:master_cutlass_riposte   | 1      |
+| main                         | DT:CutlassPierce                  | dungeontactics:master_cutlass_pierce    | 1      |
+| main                         | DT:KnifeStrike                    | dungeontactics:master_knife_multistrike | 1      |
+| main                         | DT:KnifeSmoke                     | dungeontactics:master_knife_smokebomb   | 1      |
+| main                         | DT:CestusRoar                     | dungeontactics:master_cestus_roar       | 1      |
+| main                         | DT:CestusPummel                   | dungeontactics:master_cestus_pummel     | 1      |
+| main                         | DT:HighStriker                    | dungeontactics:high_striker             | 1      |
+| main                         | DT:GnomeStick                     | dungeontactics:gnome_stick              | 1      |
+| main                         | DT:Wackerjab                      | dungeontactics:wackerjab                | 1      |
+| main                         | DT:Taser                          | dungeontactics:taser                    | 1      |
+| main                         | DT:Claws                          | dungeontactics:claws                    | 1      |
+| main                         | DT:LithenScythe                   | dungeontactics:lithen_scythe            | 1      |
+| main                         | DT:AlchemistsBrew                 | dungeontactics:alchemist_brew           | 1      |
+| main                         | DT:PirateHook                     | dungeontactics:pirate_hook              | 1      |
+| main                         | DT:CoinCannon                     | dungeontactics:coin_cannon              | 1      |
+| main                         | DT:BackfireCannon                 | dungeontactics:backfire_cannon          | 1      |
+| main                         | DT:HotPotatoe                     | dungeontactics:hot_potatoe              | 1      |
+| main                         | DT:FireWater                      | dungeontactics:fire_water               | 1      |
+| main                         | DT:BoBS                           | dungeontactics:boots_of_blinding_speed  | 1      |
+| main                         | DT:IcarusRing                     | dungeontactics:icarus_ring              | 1      |
+| pool1                        | minecraft:bone                    | minecraft:bone                          | 10     |
+| pool1                        | minecraft:gunpowder               | minecraft:gunpowder                     | 10     |
+| pool1                        | minecraft:rotten_flesh            | minecraft:rotten_flesh                  | 10     |
+| pool1                        | minecraft:string                  | minecraft:string                        | 10     |
+| pool1                        | minecraft:sand                    | minecraft:sand                          | 10     |
+| forestry_factory_items       | forestry:ash                      | forestry:ash                            | 1      |
+| forestry_arboriculture_items | forestry:sapling                  | forestry:sapling                        | 1      |
+| forestry_apiculture_bees     | bee_steadfast_drone               | forestry:bee_drone_ge                   | 1      |
+| forestry_apiculture_bees     | bee_modest_drone                  | forestry:bee_drone_ge                   | 3      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/villager
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/lime
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:gameplay/fishing
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/desert_pyramid/arboriculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name       | Item ID          | Weight |
+|------------------------------|------------------|------------------|--------|
+| forestry_arboriculture_items | forestry:sapling | forestry:sapling | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name       | Item ID          | Weight |
+|-----------|------------------|------------------|--------|
+| main      | minecraft:mutton | minecraft:mutton | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/simple_dungeon/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## customizeddungeonloot:loot_table_review_mode
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                   | Item ID                      | Weight |
+|-----------|------------------------------|------------------------------|--------|
+| main      | minecraft:diamond_sword      | minecraft:diamond_sword      | 500    |
+| main      | minecraft:iron_sword         | minecraft:iron_sword         | 500    |
+| main      | minecraft:bow                | minecraft:bow                | 500    |
+| main      | minecraft:iron_boots         | minecraft:iron_boots         | 500    |
+| main      | minecraft:leather_boots      | minecraft:leather_boots      | 500    |
+| main      | minecraft:fishing_rod        | minecraft:fishing_rod        | 500    |
+| main      | minecraft:flint_and_steel    | minecraft:flint_and_steel    | 500    |
+| main      | minecraft:diamond            | minecraft:diamond            | 100    |
+| main      | minecraft:diamond_pickaxe    | minecraft:diamond_pickaxe    | 500    |
+| main      | minecraft:elytra             | minecraft:elytra             | 500    |
+| main      | minecraft:pumpkin            | minecraft:pumpkin            | 500    |
+| main      | minecraft:iron_axe           | minecraft:iron_axe           | 500    |
+| main      | minecraft:stick              | minecraft:stick              | 500    |
+| main      | minecraft:emerald            | minecraft:emerald            | 500    |
+| main      | minecraft:spawn_egg          | minecraft:spawn_egg          | 500    |
+| main      | minecraft:golden_apple       | minecraft:golden_apple       | 500    |
+| main      | minecraft:skull              | minecraft:skull              | 500    |
+| main      | minecraft:golden_sword       | minecraft:golden_sword       | 500    |
+| main      | minecraft:enchanted_book     | minecraft:enchanted_book     | 500    |
+| main      | minecraft:written_book       | minecraft:written_book       | 500    |
+| main      | minecraft:name_tag           | minecraft:name_tag           | 500    |
+| main      | minecraft:golden_horse_armor | minecraft:golden_horse_armor | 500    |
+| main      | minecraft:iron_helmet        | minecraft:iron_helmet        | 500    |
+| main      | minecraft:planks             | minecraft:planks             | 500    |
+| main      | minecraft:totem_of_undying   | minecraft:totem_of_undying   | 500    |
+| main      | minecraft:iron_chestplate    | minecraft:iron_chestplate    | 500    |
+| main      | minecraft:mob_spawner        | minecraft:mob_spawner        | 500    |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/mushroom_cow
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+| pool1     | minecraft:beef    | minecraft:beef    | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/ender_dragon
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/chicken
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:feather | minecraft:feather | 1      |
+| pool1     | minecraft:chicken | minecraft:chicken | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/zombie
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:iron_ingot   | minecraft:iron_ingot   | 1      |
+| pool1     | minecraft:carrot       | minecraft:carrot       | 1      |
+| pool1     | minecraft:potato       | minecraft:potato       | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/jungle_temple
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name                        | Item ID                                 | Weight |
+|------------------------------|-----------------------------------|-----------------------------------------|--------|
+| main                         | minecraft:diamond                 | minecraft:diamond                       | 3      |
+| main                         | minecraft:iron_ingot              | minecraft:iron_ingot                    | 10     |
+| main                         | minecraft:gold_ingot              | minecraft:gold_ingot                    | 15     |
+| main                         | minecraft:emerald                 | minecraft:emerald                       | 2      |
+| main                         | minecraft:bone                    | minecraft:bone                          | 20     |
+| main                         | minecraft:rotten_flesh            | minecraft:rotten_flesh                  | 16     |
+| main                         | minecraft:saddle                  | minecraft:saddle                        | 3      |
+| main                         | minecraft:iron_horse_armor        | minecraft:iron_horse_armor              | 1      |
+| main                         | minecraft:golden_horse_armor      | minecraft:golden_horse_armor            | 1      |
+| main                         | minecraft:diamond_horse_armor     | minecraft:diamond_horse_armor           | 1      |
+| main                         | minecraft:book                    | minecraft:book                          | 1      |
+| main                         | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand       | 6      |
+| main                         | notenoughwands:building_wand      | notenoughwands:building_wand            | 3      |
+| main                         | notenoughwands:swapping_wand      | notenoughwands:swapping_wand            | 5      |
+| main                         | notenoughwands:capturing_wand     | notenoughwands:capturing_wand           | 3      |
+| main                         | notenoughwands:illumination_wand  | notenoughwands:illumination_wand        | 6      |
+| main                         | notenoughwands:displacement_wand  | notenoughwands:displacement_wand        | 3      |
+| main                         | notenoughwands:moving_wand        | notenoughwands:moving_wand              | 5      |
+| main                         | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand        | 2      |
+| main                         | notenoughwands:protection_wand    | notenoughwands:protection_wand          | 1      |
+| main                         | notenoughwands:potion_wand        | notenoughwands:potion_wand              | 3      |
+| main                         | DT:GoldRing                       | dungeontactics:golden_ring              | 4      |
+| main                         | DT:HammerLeaping                  | dungeontactics:master_hammer_leap       | 1      |
+| main                         | DT:HammerSmash                    | dungeontactics:master_hammer_smash      | 1      |
+| main                         | DT:CutlassRiposte                 | dungeontactics:master_cutlass_riposte   | 1      |
+| main                         | DT:CutlassPierce                  | dungeontactics:master_cutlass_pierce    | 1      |
+| main                         | DT:KnifeStrike                    | dungeontactics:master_knife_multistrike | 1      |
+| main                         | DT:KnifeSmoke                     | dungeontactics:master_knife_smokebomb   | 1      |
+| main                         | DT:CestusRoar                     | dungeontactics:master_cestus_roar       | 1      |
+| main                         | DT:CestusPummel                   | dungeontactics:master_cestus_pummel     | 1      |
+| main                         | DT:HighStriker                    | dungeontactics:high_striker             | 1      |
+| main                         | DT:GnomeStick                     | dungeontactics:gnome_stick              | 1      |
+| main                         | DT:Wackerjab                      | dungeontactics:wackerjab                | 1      |
+| main                         | DT:Taser                          | dungeontactics:taser                    | 1      |
+| main                         | DT:Claws                          | dungeontactics:claws                    | 1      |
+| main                         | DT:LithenScythe                   | dungeontactics:lithen_scythe            | 1      |
+| main                         | DT:AlchemistsBrew                 | dungeontactics:alchemist_brew           | 1      |
+| main                         | DT:PirateHook                     | dungeontactics:pirate_hook              | 1      |
+| main                         | DT:CoinCannon                     | dungeontactics:coin_cannon              | 1      |
+| main                         | DT:BackfireCannon                 | dungeontactics:backfire_cannon          | 1      |
+| main                         | DT:HotPotatoe                     | dungeontactics:hot_potatoe              | 1      |
+| main                         | DT:FireWater                      | dungeontactics:fire_water               | 1      |
+| main                         | DT:BoBS                           | dungeontactics:boots_of_blinding_speed  | 1      |
+| main                         | DT:IcarusRing                     | dungeontactics:icarus_ring              | 1      |
+| forestry_arboriculture_items | forestry:sapling                  | forestry:sapling                        | 1      |
+| forestry_apiculture_bees     | bee_steadfast_drone               | forestry:bee_drone_ge                   | 1      |
+| forestry_apiculture_bees     | bee_tropical_drone                | forestry:bee_drone_ge                   | 3      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/polar_bear
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name       | Item ID        | Weight |
+|-----------|------------------|----------------|--------|
+| main      | minecraft:fish   | minecraft:fish | 3      |
+| main      | minecraft:fish#0 | minecraft:fish | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/stronghold_crossing
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name             | Item ID                                | Weight |
+|--------------------------|------------------------|----------------------------------------|--------|
+| main                     | minecraft:iron_ingot   | minecraft:iron_ingot                   | 10     |
+| main                     | minecraft:gold_ingot   | minecraft:gold_ingot                   | 5      |
+| main                     | minecraft:redstone     | minecraft:redstone                     | 5      |
+| main                     | minecraft:coal         | minecraft:coal                         | 10     |
+| main                     | minecraft:bread        | minecraft:bread                        | 15     |
+| main                     | minecraft:apple        | minecraft:apple                        | 15     |
+| main                     | minecraft:iron_pickaxe | minecraft:iron_pickaxe                 | 1      |
+| main                     | minecraft:book         | minecraft:book                         | 1      |
+| main                     | DT:ThrowingKnife       | dungeontactics:throwing_knife          | 4      |
+| main                     | DT:SlownessKnife       | dungeontactics:throwing_knife_slowness | 3      |
+| main                     | DT:WeaknessKnife       | dungeontactics:throwing_knife_weakness | 3      |
+| main                     | DT:PoisonKnife         | dungeontactics:throwing_knife_poison   | 3      |
+| main                     | DT:CausticKnife        | dungeontactics:throwing_knife_caustic  | 2      |
+| main                     | DT:IronShield          | dungeontactics:iron_shield             | 3      |
+| main                     | DT:DuctTape            | dungeontactics:ducttape                | 10     |
+| main                     | DT:HeartJar            | dungeontactics:heart_jar               | 10     |
+| main                     | DT:MagicScroll         | dungeontactics:magic_scroll            | 2      |
+| forestry_apiculture_bees | bee_steadfast_drone    | forestry:bee_drone_ge                  | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot13
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/horse
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot12
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot11
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot10
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## customizeddungeonloot:loot_table_nether
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| main      | minecraft:bow              | minecraft:bow              | 2      |
+| main      | minecraft:diamond_sword    | minecraft:diamond_sword    | 1      |
+| main      | minecraft:leather_boots    | minecraft:leather_boots    | 2      |
+| main      | minecraft:flint_and_steel  | minecraft:flint_and_steel  | 5      |
+| main      | minecraft:diamond          | minecraft:diamond          | 5      |
+| main      | minecraft:diamond_pickaxe  | minecraft:diamond_pickaxe  | 3      |
+| main      | minecraft:pumpkin          | minecraft:pumpkin          | 5      |
+| main      | minecraft:iron_axe         | minecraft:iron_axe         | 2      |
+| main      | minecraft:stick            | minecraft:stick            | 10     |
+| main      | minecraft:emerald          | minecraft:emerald          | 2      |
+| main      | minecraft:spawn_egg        | minecraft:spawn_egg        | 10     |
+| main      | minecraft:skull            | minecraft:skull            | 3      |
+| main      | minecraft:golden_sword     | minecraft:golden_sword     | 5      |
+| main      | minecraft:totem_of_undying | minecraft:totem_of_undying | 1      |
+| main      | minecraft:mob_spawner      | minecraft:mob_spawner      | 1      |
+| main      | minecraft:iron_chestplate  | minecraft:iron_chestplate  | 2      |
+| main      | minecraft:enchanted_book   | minecraft:enchanted_book   | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot16
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot15
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/woodland_mansion
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                     | Item ID                        | Weight |
+|-----------|--------------------------------|--------------------------------|--------|
+| main      | minecraft:lead                 | minecraft:lead                 | 20     |
+| main      | minecraft:golden_apple         | minecraft:golden_apple         | 15     |
+| main      | minecraft:golden_apple#0       | minecraft:golden_apple         | 2      |
+| main      | minecraft:record_13            | minecraft:record_13            | 15     |
+| main      | minecraft:record_cat           | minecraft:record_cat           | 15     |
+| main      | minecraft:name_tag             | minecraft:name_tag             | 20     |
+| main      | minecraft:chainmail_chestplate | minecraft:chainmail_chestplate | 10     |
+| main      | minecraft:diamond_hoe          | minecraft:diamond_hoe          | 15     |
+| main      | minecraft:diamond_chestplate   | minecraft:diamond_chestplate   | 5      |
+| main      | minecraft:book                 | minecraft:book                 | 10     |
+| pool1     | minecraft:iron_ingot           | minecraft:iron_ingot           | 10     |
+| pool1     | minecraft:gold_ingot           | minecraft:gold_ingot           | 5      |
+| pool1     | minecraft:bread                | minecraft:bread                | 20     |
+| pool1     | minecraft:wheat                | minecraft:wheat                | 20     |
+| pool1     | minecraft:bucket               | minecraft:bucket               | 10     |
+| pool1     | minecraft:redstone             | minecraft:redstone             | 15     |
+| pool1     | minecraft:coal                 | minecraft:coal                 | 15     |
+| pool1     | minecraft:melon_seeds          | minecraft:melon_seeds          | 10     |
+| pool1     | minecraft:pumpkin_seeds        | minecraft:pumpkin_seeds        | 10     |
+| pool1     | minecraft:beetroot_seeds       | minecraft:beetroot_seeds       | 10     |
+| pool2     | minecraft:bone                 | minecraft:bone                 | 10     |
+| pool2     | minecraft:gunpowder            | minecraft:gunpowder            | 10     |
+| pool2     | minecraft:rotten_flesh         | minecraft:rotten_flesh         | 10     |
+| pool2     | minecraft:string               | minecraft:string               | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:chests/chestloot14
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:apple        | minecraft:apple        | 15     |
+| main      | minecraft:coal         | minecraft:coal         | 15     |
+| main      | minecraft:gold_nugget  | minecraft:gold_nugget  | 10     |
+| main      | minecraft:stone_axe    | minecraft:stone_axe    | 2      |
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| main      | minecraft:emerald      | minecraft:emerald      | 1      |
+| main      | minecraft:wheat        | minecraft:wheat        | 10     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/pig
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| main      | minecraft:porkchop | minecraft:porkchop | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/cow
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+| pool1     | minecraft:beef    | minecraft:beef    | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/end_city_treasure
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name                    | Item ID                                 | Weight |
+|------------------------------|-------------------------------|-----------------------------------------|--------|
+| main                         | minecraft:diamond             | minecraft:diamond                       | 5      |
+| main                         | minecraft:iron_ingot          | minecraft:iron_ingot                    | 10     |
+| main                         | minecraft:gold_ingot          | minecraft:gold_ingot                    | 15     |
+| main                         | minecraft:emerald             | minecraft:emerald                       | 2      |
+| main                         | minecraft:beetroot_seeds      | minecraft:beetroot_seeds                | 5      |
+| main                         | minecraft:saddle              | minecraft:saddle                        | 3      |
+| main                         | minecraft:iron_horse_armor    | minecraft:iron_horse_armor              | 1      |
+| main                         | minecraft:golden_horse_armor  | minecraft:golden_horse_armor            | 1      |
+| main                         | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor           | 1      |
+| main                         | minecraft:diamond_sword       | minecraft:diamond_sword                 | 3      |
+| main                         | minecraft:diamond_boots       | minecraft:diamond_boots                 | 3      |
+| main                         | minecraft:diamond_chestplate  | minecraft:diamond_chestplate            | 3      |
+| main                         | minecraft:diamond_leggings    | minecraft:diamond_leggings              | 3      |
+| main                         | minecraft:diamond_helmet      | minecraft:diamond_helmet                | 3      |
+| main                         | minecraft:diamond_pickaxe     | minecraft:diamond_pickaxe               | 3      |
+| main                         | minecraft:diamond_shovel      | minecraft:diamond_shovel                | 3      |
+| main                         | minecraft:iron_sword          | minecraft:iron_sword                    | 3      |
+| main                         | minecraft:iron_boots          | minecraft:iron_boots                    | 3      |
+| main                         | minecraft:iron_chestplate     | minecraft:iron_chestplate               | 3      |
+| main                         | minecraft:iron_leggings       | minecraft:iron_leggings                 | 3      |
+| main                         | minecraft:iron_helmet         | minecraft:iron_helmet                   | 3      |
+| main                         | minecraft:iron_pickaxe        | minecraft:iron_pickaxe                  | 3      |
+| main                         | minecraft:iron_shovel         | minecraft:iron_shovel                   | 3      |
+| main                         | DT:IronCutlass                | dungeontactics:iron_cutlass             | 3      |
+| main                         | DT:IronClub                   | dungeontactics:iron_club                | 3      |
+| main                         | DT:IronHammer                 | dungeontactics:iron_hammer              | 3      |
+| main                         | DT:IronBattleaxe              | dungeontactics:iron_battleaxe           | 3      |
+| main                         | DT:IronGlaive                 | dungeontactics:iron_glaive              | 3      |
+| main                         | DT:IronKnife                  | dungeontactics:iron_knife               | 3      |
+| main                         | DT:IronCestus                 | dungeontactics:iron_cestus              | 3      |
+| main                         | DT:DiamondCutlass             | dungeontactics:diamond_cutlass          | 3      |
+| main                         | DT:DiamondClub                | dungeontactics:diamond_club             | 3      |
+| main                         | DT:DiamondHammer              | dungeontactics:diamond_hammer           | 3      |
+| main                         | DT:DiamondBattleaxe           | dungeontactics:diamond_battleaxe        | 3      |
+| main                         | DT:DiamondGlaive              | dungeontactics:diamond_glaive           | 3      |
+| main                         | DT:DiamondKnife               | dungeontactics:diamond_knife            | 3      |
+| main                         | DT:DiamondCestus              | dungeontactics:diamond_cestus           | 3      |
+| main                         | DT:DiamondRing                | dungeontactics:diamond_ring             | 2      |
+| main                         | DT:HeartJar                   | dungeontactics:heart_golden             | 5      |
+| main                         | DT:HammerLeaping              | dungeontactics:master_hammer_leap       | 1      |
+| main                         | DT:HammerSmash                | dungeontactics:master_hammer_smash      | 1      |
+| main                         | DT:CutlassRiposte             | dungeontactics:master_cutlass_riposte   | 1      |
+| main                         | DT:CutlassPierce              | dungeontactics:master_cutlass_pierce    | 1      |
+| main                         | DT:KnifeStrike                | dungeontactics:master_knife_multistrike | 1      |
+| main                         | DT:KnifeSmoke                 | dungeontactics:master_knife_smokebomb   | 1      |
+| main                         | DT:CestusRoar                 | dungeontactics:master_cestus_roar       | 1      |
+| main                         | DT:CestusPummel               | dungeontactics:master_cestus_pummel     | 1      |
+| main                         | DT:HighStriker                | dungeontactics:high_striker             | 1      |
+| main                         | DT:GnomeStick                 | dungeontactics:gnome_stick              | 1      |
+| main                         | DT:Wackerjab                  | dungeontactics:wackerjab                | 1      |
+| main                         | DT:Taser                      | dungeontactics:taser                    | 1      |
+| main                         | DT:Claws                      | dungeontactics:claws                    | 1      |
+| main                         | DT:LithenScythe               | dungeontactics:lithen_scythe            | 1      |
+| main                         | DT:AlchemistsBrew             | dungeontactics:alchemist_brew           | 1      |
+| main                         | DT:PirateHook                 | dungeontactics:pirate_hook              | 1      |
+| main                         | DT:CoinCannon                 | dungeontactics:coin_cannon              | 1      |
+| main                         | DT:BackfireCannon             | dungeontactics:backfire_cannon          | 1      |
+| main                         | DT:HotPotatoe                 | dungeontactics:hot_potatoe              | 1      |
+| main                         | DT:FireWater                  | dungeontactics:fire_water               | 1      |
+| main                         | DT:BoBS                       | dungeontactics:boots_of_blinding_speed  | 1      |
+| main                         | DT:IcarusRing                 | dungeontactics:icarus_ring              | 1      |
+| forestry_arboriculture_items | forestry:grafter_proven       | forestry:grafter_proven                 | 1      |
+| forestry_apiculture_bees     | bee_steadfast_drone           | forestry:bee_drone_ge                   | 20     |
+| forestry_apiculture_bees     | bee_steadfast_princess        | forestry:bee_princess_ge                | 1      |
+| forestry_apiculture_bees     | bee_ended_drone               | forestry:bee_drone_ge                   | 20     |
+| forestry_apiculture_items    | forestry:ambrosia             | forestry:ambrosia                       | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/squid
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name    | Item ID       | Weight |
+|-----------|---------------|---------------|--------|
+| main      | minecraft:dye | minecraft:dye | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/purple
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/giant
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/cyan
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/stray
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:arrow        | minecraft:arrow        | 1      |
+| pool1     | minecraft:bone         | minecraft:bone         | 1      |
+| pool2     | minecraft:tipped_arrow | minecraft:tipped_arrow | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/black
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/stronghold_corridor
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name                    | Item ID                                 | Weight |
+|--------------------------|-------------------------------|-----------------------------------------|--------|
+| main                     | minecraft:ender_pearl         | minecraft:ender_pearl                   | 10     |
+| main                     | minecraft:diamond             | minecraft:diamond                       | 3      |
+| main                     | minecraft:iron_ingot          | minecraft:iron_ingot                    | 10     |
+| main                     | minecraft:gold_ingot          | minecraft:gold_ingot                    | 5      |
+| main                     | minecraft:redstone            | minecraft:redstone                      | 5      |
+| main                     | minecraft:bread               | minecraft:bread                         | 15     |
+| main                     | minecraft:apple               | minecraft:apple                         | 15     |
+| main                     | minecraft:iron_pickaxe        | minecraft:iron_pickaxe                  | 5      |
+| main                     | minecraft:iron_sword          | minecraft:iron_sword                    | 5      |
+| main                     | minecraft:iron_chestplate     | minecraft:iron_chestplate               | 5      |
+| main                     | minecraft:iron_helmet         | minecraft:iron_helmet                   | 5      |
+| main                     | minecraft:iron_leggings       | minecraft:iron_leggings                 | 5      |
+| main                     | minecraft:iron_boots          | minecraft:iron_boots                    | 5      |
+| main                     | minecraft:golden_apple        | minecraft:golden_apple                  | 1      |
+| main                     | minecraft:saddle              | minecraft:saddle                        | 1      |
+| main                     | minecraft:iron_horse_armor    | minecraft:iron_horse_armor              | 1      |
+| main                     | minecraft:golden_horse_armor  | minecraft:golden_horse_armor            | 1      |
+| main                     | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor           | 1      |
+| main                     | minecraft:book                | minecraft:book                          | 1      |
+| main                     | DT:IronCutlass                | dungeontactics:iron_cutlass             | 5      |
+| main                     | DT:IronClub                   | dungeontactics:iron_club                | 5      |
+| main                     | DT:IronHammer                 | dungeontactics:iron_hammer              | 5      |
+| main                     | DT:IronBattleaxe              | dungeontactics:iron_battleaxe           | 5      |
+| main                     | DT:IronGlaive                 | dungeontactics:iron_glaive              | 5      |
+| main                     | DT:IronKnife                  | dungeontactics:iron_knife               | 5      |
+| main                     | DT:IronCestus                 | dungeontactics:iron_cestus              | 5      |
+| main                     | DT:ThrowingKnife              | dungeontactics:throwing_knife           | 4      |
+| main                     | DT:SlownessKnife              | dungeontactics:throwing_knife_slowness  | 4      |
+| main                     | DT:WeaknessKnife              | dungeontactics:throwing_knife_weakness  | 4      |
+| main                     | DT:PoisonKnife                | dungeontactics:throwing_knife_poison    | 4      |
+| main                     | DT:CausticKnife               | dungeontactics:throwing_knife_caustic   | 3      |
+| main                     | DT:IronRing                   | dungeontactics:iron_ring                | 4      |
+| main                     | DT:DuctTape                   | dungeontactics:ducttape                 | 10     |
+| main                     | DT:HeartJar                   | dungeontactics:heart_jar                | 10     |
+| main                     | DT:HammerLeaping              | dungeontactics:master_hammer_leap       | 1      |
+| main                     | DT:HammerSmash                | dungeontactics:master_hammer_smash      | 1      |
+| main                     | DT:CutlassRiposte             | dungeontactics:master_cutlass_riposte   | 1      |
+| main                     | DT:CutlassPierce              | dungeontactics:master_cutlass_pierce    | 1      |
+| main                     | DT:KnifeStrike                | dungeontactics:master_knife_multistrike | 1      |
+| main                     | DT:KnifeSmoke                 | dungeontactics:master_knife_smokebomb   | 1      |
+| main                     | DT:CestusRoar                 | dungeontactics:master_cestus_roar       | 1      |
+| main                     | DT:CestusPummel               | dungeontactics:master_cestus_pummel     | 1      |
+| main                     | DT:HighStriker                | dungeontactics:high_striker             | 1      |
+| main                     | DT:GnomeStick                 | dungeontactics:gnome_stick              | 1      |
+| main                     | DT:Wackerjab                  | dungeontactics:wackerjab                | 1      |
+| main                     | DT:Taser                      | dungeontactics:taser                    | 1      |
+| main                     | DT:Claws                      | dungeontactics:claws                    | 1      |
+| main                     | DT:LithenScythe               | dungeontactics:lithen_scythe            | 1      |
+| main                     | DT:AlchemistsBrew             | dungeontactics:alchemist_brew           | 1      |
+| main                     | DT:PirateHook                 | dungeontactics:pirate_hook              | 1      |
+| main                     | DT:CoinCannon                 | dungeontactics:coin_cannon              | 1      |
+| main                     | DT:BackfireCannon             | dungeontactics:backfire_cannon          | 1      |
+| main                     | DT:HotPotatoe                 | dungeontactics:hot_potatoe              | 1      |
+| main                     | DT:FireWater                  | dungeontactics:fire_water               | 1      |
+| main                     | DT:BoBS                       | dungeontactics:boots_of_blinding_speed  | 1      |
+| main                     | DT:IcarusRing                 | dungeontactics:icarus_ring              | 1      |
+| forestry_apiculture_bees | bee_steadfast_drone           | forestry:bee_drone_ge                   | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/creeper
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name          | Item ID             | Weight |
+|-----------|---------------------|---------------------|--------|
+| main      | minecraft:gunpowder | minecraft:gunpowder | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/stronghold_library
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID                     | Weight |
+|--------------------------|---------------------|-----------------------------|--------|
+| main                     | minecraft:book      | minecraft:book              | 20     |
+| main                     | minecraft:paper     | minecraft:paper             | 20     |
+| main                     | minecraft:map       | minecraft:map               | 1      |
+| main                     | minecraft:compass   | minecraft:compass           | 1      |
+| main                     | minecraft:book#0    | minecraft:book              | 10     |
+| main                     | DT:MagicScroll      | dungeontactics:magic_scroll | 1      |
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge       | 1      |
+| forestry_apiculture_bees | bee_monastic_drone  | forestry:bee_drone_ge       | 6      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot6
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot7
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/snowman
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| main      | minecraft:snowball | minecraft:snowball | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/desert_pyramid/factory
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name              | Entry Name   | Item ID      | Weight |
+|------------------------|--------------|--------------|--------|
+| forestry_factory_items | forestry:ash | forestry:ash | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot4
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/stronghold_crossing/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/llama
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot5
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/abandoned_mineshaft/storage
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name              | Entry Name         | Item ID            | Weight |
+|------------------------|--------------------|--------------------|--------|
+| forestry_storage_items | forestry:miner_bag | forestry:miner_bag | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot2
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot3
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot1
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/guardian
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| main      | minecraft:prismarine_shard    | minecraft:prismarine_shard    | 1      |
+| pool1     | minecraft:fish                | minecraft:fish                | 2      |
+| pool1     | minecraft:prismarine_crystals | minecraft:prismarine_crystals | 2      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/jungle_temple/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+| forestry_apiculture_bees | bee_tropical_drone  | forestry:bee_drone_ge | 3      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:chests/nether_bridge
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name                        | Item ID                                 | Weight |
+|--------------------------|-----------------------------------|-----------------------------------------|--------|
+| main                     | minecraft:diamond                 | minecraft:diamond                       | 5      |
+| main                     | minecraft:iron_ingot              | minecraft:iron_ingot                    | 5      |
+| main                     | minecraft:gold_ingot              | minecraft:gold_ingot                    | 15     |
+| main                     | minecraft:golden_sword            | minecraft:golden_sword                  | 5      |
+| main                     | minecraft:golden_chestplate       | minecraft:golden_chestplate             | 5      |
+| main                     | minecraft:flint_and_steel         | minecraft:flint_and_steel               | 5      |
+| main                     | minecraft:nether_wart             | minecraft:nether_wart                   | 5      |
+| main                     | minecraft:saddle                  | minecraft:saddle                        | 10     |
+| main                     | minecraft:golden_horse_armor      | minecraft:golden_horse_armor            | 8      |
+| main                     | minecraft:iron_horse_armor        | minecraft:iron_horse_armor              | 5      |
+| main                     | minecraft:diamond_horse_armor     | minecraft:diamond_horse_armor           | 3      |
+| main                     | minecraft:obsidian                | minecraft:obsidian                      | 2      |
+| main                     | notenoughwands:teleportation_wand | notenoughwands:teleportation_wand       | 6      |
+| main                     | notenoughwands:building_wand      | notenoughwands:building_wand            | 3      |
+| main                     | notenoughwands:swapping_wand      | notenoughwands:swapping_wand            | 5      |
+| main                     | notenoughwands:capturing_wand     | notenoughwands:capturing_wand           | 3      |
+| main                     | notenoughwands:illumination_wand  | notenoughwands:illumination_wand        | 6      |
+| main                     | notenoughwands:displacement_wand  | notenoughwands:displacement_wand        | 3      |
+| main                     | notenoughwands:moving_wand        | notenoughwands:moving_wand              | 5      |
+| main                     | notenoughwands:acceleration_wand  | notenoughwands:acceleration_wand        | 2      |
+| main                     | notenoughwands:protection_wand    | notenoughwands:protection_wand          | 1      |
+| main                     | notenoughwands:potion_wand        | notenoughwands:potion_wand              | 3      |
+| main                     | DT:GoldenCutlass                  | dungeontactics:golden_cutlass           | 5      |
+| main                     | DT:GoldenClub                     | dungeontactics:golden_club              | 5      |
+| main                     | DT:GoldenHammer                   | dungeontactics:golden_hammer            | 5      |
+| main                     | DT:GoldenBattleaxe                | dungeontactics:golden_battleaxe         | 5      |
+| main                     | DT:GoldenGlaive                   | dungeontactics:golden_glaive            | 5      |
+| main                     | DT:GoldenKnife                    | dungeontactics:golden_knife             | 5      |
+| main                     | DT:GoldenCestus                   | dungeontactics:golden_cestus            | 5      |
+| main                     | DT:GoldenShield                   | dungeontactics:golden_shield            | 3      |
+| main                     | DT:GoldRing                       | dungeontactics:golden_ring              | 4      |
+| main                     | DT:HeartJar                       | dungeontactics:heart_golden             | 5      |
+| main                     | DT:HammerLeaping                  | dungeontactics:master_hammer_leap       | 1      |
+| main                     | DT:HammerSmash                    | dungeontactics:master_hammer_smash      | 1      |
+| main                     | DT:CutlassRiposte                 | dungeontactics:master_cutlass_riposte   | 1      |
+| main                     | DT:CutlassPierce                  | dungeontactics:master_cutlass_pierce    | 1      |
+| main                     | DT:KnifeStrike                    | dungeontactics:master_knife_multistrike | 1      |
+| main                     | DT:KnifeSmoke                     | dungeontactics:master_knife_smokebomb   | 1      |
+| main                     | DT:CestusRoar                     | dungeontactics:master_cestus_roar       | 1      |
+| main                     | DT:CestusPummel                   | dungeontactics:master_cestus_pummel     | 1      |
+| main                     | DT:HighStriker                    | dungeontactics:high_striker             | 1      |
+| main                     | DT:GnomeStick                     | dungeontactics:gnome_stick              | 1      |
+| main                     | DT:Wackerjab                      | dungeontactics:wackerjab                | 1      |
+| main                     | DT:Taser                          | dungeontactics:taser                    | 1      |
+| main                     | DT:Claws                          | dungeontactics:claws                    | 1      |
+| main                     | DT:LithenScythe                   | dungeontactics:lithen_scythe            | 1      |
+| main                     | DT:AlchemistsBrew                 | dungeontactics:alchemist_brew           | 1      |
+| main                     | DT:PirateHook                     | dungeontactics:pirate_hook              | 1      |
+| main                     | DT:CoinCannon                     | dungeontactics:coin_cannon              | 1      |
+| main                     | DT:BackfireCannon                 | dungeontactics:backfire_cannon          | 1      |
+| main                     | DT:HotPotatoe                     | dungeontactics:hot_potatoe              | 1      |
+| main                     | DT:FireWater                      | dungeontactics:fire_water               | 1      |
+| main                     | DT:BoBS                           | dungeontactics:boots_of_blinding_speed  | 1      |
+| main                     | DT:IcarusRing                     | dungeontactics:icarus_ring              | 1      |
+| forestry_apiculture_bees | bee_steadfast_drone               | forestry:bee_drone_ge                   | 1      |
+| forestry_apiculture_bees | bee_sinister_drone                | forestry:bee_drone_ge                   | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/iron_golem
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:red_flower | minecraft:red_flower | 1      |
+| pool1     | minecraft:iron_ingot | minecraft:iron_ingot | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/witch
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name               | Item ID                      | Weight |
+|-----------|--------------------------|------------------------------|--------|
+| main      | minecraft:glowstone_dust | minecraft:glowstone_dust     | 1      |
+| main      | minecraft:sugar          | minecraft:sugar              | 1      |
+| main      | minecraft:redstone       | minecraft:redstone           | 1      |
+| main      | minecraft:spider_eye     | minecraft:spider_eye         | 1      |
+| main      | minecraft:glass_bottle   | minecraft:glass_bottle       | 1      |
+| main      | minecraft:gunpowder      | minecraft:gunpowder          | 1      |
+| main      | minecraft:stick          | minecraft:stick              | 2      |
+| main      | DT:MagicPowder           | dungeontactics:magic_powder  | 3      |
+| main      | DT:MortarAndPestle       | dungeontactics:mortar&pestle | 1      |
+| main      | DT:MagicScroll           | dungeontactics:magic_scroll  | 2      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/end_city_treasure/arboriculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                    | Entry Name              | Item ID                 | Weight |
+|------------------------------|-------------------------|-------------------------|--------|
+| forestry_arboriculture_items | forestry:grafter_proven | forestry:grafter_proven | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/rabbit
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:rabbit_hide | minecraft:rabbit_hide | 1      |
+| pool1     | minecraft:rabbit      | minecraft:rabbit      | 1      |
+| pool2     | minecraft:rabbit_foot | minecraft:rabbit_foot | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot8
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/skeleton_horse
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:bone | minecraft:bone | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## neuroflow:entities/entityloot9
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:coal  | minecraft:coal  | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+| pool2     | minecraft:skull | minecraft:skull | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/pink
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:empty
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/blue
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/end_city_treasure/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                 | Entry Name             | Item ID                  | Weight |
+|---------------------------|------------------------|--------------------------|--------|
+| forestry_apiculture_items | forestry:ambrosia      | forestry:ambrosia        | 1      |
+| forestry_apiculture_bees  | bee_steadfast_drone    | forestry:bee_drone_ge    | 20     |
+| forestry_apiculture_bees  | bee_steadfast_princess | forestry:bee_princess_ge | 1      |
+| forestry_apiculture_bees  | bee_ended_drone        | forestry:bee_drone_ge    | 20     |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/cave_spider
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:string     | minecraft:string     | 1      |
+| pool1     | minecraft:spider_eye | minecraft:spider_eye | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/gray
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/blaze
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name          | Item ID             | Weight |
+|-----------|---------------------|---------------------|--------|
+| main      | minecraft:blaze_rod | minecraft:blaze_rod | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/white
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/nether_bridge/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name          | Item ID               | Weight |
+|--------------------------|---------------------|-----------------------|--------|
+| forestry_apiculture_bees | bee_steadfast_drone | forestry:bee_drone_ge | 1      |
+| forestry_apiculture_bees | bee_sinister_drone  | forestry:bee_drone_ge | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/green
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/parrot
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:feather | minecraft:feather | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## forestry:chests/spawn_bonus_chest/apiculture
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name                | Entry Name     | Item ID        | Weight |
+|--------------------------|----------------|----------------|--------|
+| forestry_apiculture_bees | forestry:scoop | forestry:scoop | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/boss/wither
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/silverfish
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: No entries for this table!
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/brown
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/silver
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## minecraft:entities/sheep/magenta
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: ## customizeddungeonloot:loot_table_basic
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+| Pool Name | Entry Name                   | Item ID                      | Weight |
+|-----------|------------------------------|------------------------------|--------|
+| main      | minecraft:leather_boots      | minecraft:leather_boots      | 2      |
+| main      | minecraft:iron_sword         | minecraft:iron_sword         | 0      |
+| main      | minecraft:bow                | minecraft:bow                | 2      |
+| main      | minecraft:fishing_rod        | minecraft:fishing_rod        | 2      |
+| main      | minecraft:flint_and_steel    | minecraft:flint_and_steel    | 2      |
+| main      | minecraft:diamond            | minecraft:diamond            | 2      |
+| main      | minecraft:diamond_pickaxe    | minecraft:diamond_pickaxe    | 2      |
+| main      | minecraft:pumpkin            | minecraft:pumpkin            | 2      |
+| main      | minecraft:iron_axe           | minecraft:iron_axe           | 0      |
+| main      | minecraft:stick              | minecraft:stick              | 5      |
+| main      | minecraft:spawn_egg          | minecraft:spawn_egg          | 5      |
+| main      | minecraft:golden_apple       | minecraft:golden_apple       | 0      |
+| main      | minecraft:skull              | minecraft:skull              | 3      |
+| main      | minecraft:golden_sword       | minecraft:golden_sword       | 2      |
+| main      | minecraft:name_tag           | minecraft:name_tag           | 1      |
+| main      | minecraft:golden_horse_armor | minecraft:golden_horse_armor | 2      |
+| main      | minecraft:planks             | minecraft:planks             | 3      |
+| main      | minecraft:iron_chestplate    | minecraft:iron_chestplate    | 2      |
+| main      | minecraft:iron_helmet        | minecraft:iron_helmet        | 1      |
+
+[22:13:00] [Server thread/INFO] [Loot Table Tweaker]: 
+
+[22:13:00] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Table dump complete!
+[22:13:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save New World
+[22:14:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:entities/all
