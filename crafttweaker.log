@@ -14,6 +14,6 @@
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: firststage\dungeonLootScript.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: firststage\my_loot_table.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 158ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 159ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
