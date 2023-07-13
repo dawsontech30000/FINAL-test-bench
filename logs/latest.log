@@ -2597,3 +2597,48 @@ java.lang.NullPointerException: null
 [22:30:10] [Client thread/INFO] [jei]: Building ingredient list...
 [22:30:11] [Client thread/INFO] [jei]: Building ingredient list took 264.9 ms
 [22:30:11] [Client thread/INFO] [jei]: Building ingredient filter...
+[22:30:12] [Client thread/INFO] [jei]: Building ingredient filter took 1.510 s
+[22:30:12] [Client thread/INFO] [jei]: Building bookmarks...
+[22:30:12] [Client thread/INFO] [jei]: Building bookmarks took 4.771 ms
+[22:30:12] [Client thread/INFO] [jei]: Building runtime...
+[22:30:12] [Client thread/WARN] [jei]: Recipe registry plugin is slow, took 11.23 ms. class binnie.extratrees.integration.jei.multifence.MultiFenceRecipeRegistryPlugin
+[22:30:12] [Client thread/INFO] [jei]: Building runtime took 181.1 ms
+[22:30:13] [Client thread/INFO] [jei]: Optimizing memory usage...
+[22:30:13] [Client thread/INFO] [jei]: Optimizing memory usage took 155.8 ms
+[22:30:13] [Client thread/INFO] [jei]: Starting JEI took 7.272 s
+[22:30:15] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 97 mods
+[22:30:15] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:30:15] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN minecraft
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain minecraft is missing 1 texture
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain minecraft has 6 locations:
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod botania resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\Botania r1.10-364.4.jar
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:DungeonTactics
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:More Loot Tables
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Psi
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod rpsideas resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\rpsideas-2.4.4.jar
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain minecraft are:
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/missingno.png
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain minecraft
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN powersuits
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain powersuits is missing 2 textures
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain powersuits has 1 location:
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod powersuits resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\ModularPowersuits-1.12.2-1.1.048.jar
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain powersuits are:
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/coalgen.png
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/empty_set.png
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain powersuits
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[22:30:15] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
