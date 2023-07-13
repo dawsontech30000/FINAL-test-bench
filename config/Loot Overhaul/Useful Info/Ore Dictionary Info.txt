@@ -62,8 +62,8 @@ gendustry:honey_comb - any
 binnie_database
 botany:database - 0
 extrabees:dictionary - 0
-extratrees:databasetree - 0
 extratrees:databaselepi - 0
+extratrees:databasetree - 0
 
 
 blockApatite
