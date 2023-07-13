@@ -456,3 +456,55 @@ SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.7.jar)
 [21:59:03] [Client thread/INFO] [reactorbuilder]: Registering packets
 [21:59:03] [Client thread/INFO] [reactorbuilder]: Loading config
 [21:59:03] [Client thread/INFO] [nuclearcraft]: Pre Initializing...
+[21:59:07] [Client thread/INFO] [omlib]: Found the following mods: 
+[21:59:07] [Client thread/INFO] [FML]: OBJLoader: Domain pamsbreadcraft has been added.
+[21:59:08] [Client thread/INFO] [scalingfeast]: [SCALING FEAST] Scaling Feast pre-initialization complete!
+[21:59:10] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `case`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:10] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_pulsar_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:10] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_star_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:10] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_ethereal_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:10] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `psi_dampener`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in BreakIterator
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in VersionInfo
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 3 string constants in ULocale
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in BreakIteratorFactory
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in ICULocaleService$ICUResourceBundleFactory
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 6 string constants in UResourceBundle
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 12 string constants in ICUResourceBundle
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 11 string constants in ICUData
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 2 string constants in ICUResourceBundleReader$ReaderCache
+[21:59:10] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in ICUBinary
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilecolorablemachinecomponent`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemachinecontroller`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilefactorycontroller`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilefluidinputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilefluidoutputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileitemoutputbus`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileiteminputbus`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileenergyinputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileenergyoutputhatch`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilesmartinterface`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileparallelcontroller`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileupgradebus`, expected `modularmachinery`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/INFO] [reactorbuilder]: Registering blocks
+[21:59:11] [Client thread/INFO] [reactorbuilder]: Registering tile entities
+[21:59:11] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lighttileentity`, expected `notenoughwands`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:11] [Client thread/INFO] [FML]: Applying holder lookups
+[21:59:11] [Client thread/INFO] [FML]: Holder lookups applied
+[21:59:12] [Client thread/INFO] [reactorbuilder]: Registering blocks
+[21:59:12] [Client thread/INFO] [FML]: Applying holder lookups
+[21:59:12] [Client thread/INFO] [FML]: Holder lookups applied
+[21:59:12] [Client thread/INFO] [FML]: Applying holder lookups
+[21:59:12] [Client thread/INFO] [FML]: Holder lookups applied
+[21:59:12] [Client thread/INFO] [FML]: OBJLoader: Domain botania has been added.
+[21:59:12] [Client thread/INFO] [FML]: OBJLoader: Domain dungeonsmod has been added.
+[21:59:12] [Client thread/INFO] [FML]: OBJLoader: Domain magicbees has been added.
+[21:59:12] [Client thread/INFO] [FML]: Applying holder lookups
+[21:59:12] [Client thread/INFO] [FML]: Holder lookups applied
+[21:59:12] [Client thread/INFO] [FML]: Injecting itemstacks
+[21:59:12] [Client thread/INFO] [FML]: Itemstack injection complete
+[21:59:13] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[21:59:13] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[21:59:13] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:59:14] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[21:59:14] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
