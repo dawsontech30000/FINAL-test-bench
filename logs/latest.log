@@ -2466,3 +2466,26 @@ java.lang.NullPointerException: null
 [21:59:44] [Client thread/INFO] [jei]: Building bookmarks...
 [21:59:44] [Client thread/INFO] [jei]: Building bookmarks took 28.11 ms
 [21:59:44] [Client thread/INFO] [jei]: Building runtime...
+[21:59:45] [Client thread/INFO] [jei]: Building runtime took 102.0 ms
+[21:59:45] [Client thread/INFO] [jei]: Optimizing memory usage...
+[21:59:45] [Client thread/INFO] [jei]: Optimizing memory usage took 162.0 ms
+[21:59:45] [Client thread/INFO] [jei]: Starting JEI took 6.407 s
+[21:59:46] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 91 mods
+[21:59:46] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[21:59:47] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN powersuits
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain powersuits is missing 2 textures
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain powersuits has 1 location:
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod powersuits resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\ModularPowersuits-1.12.2-1.1.048.jar
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain powersuits are:
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/coalgen.png
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/empty_set.png
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain powersuits
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[21:59:47] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
