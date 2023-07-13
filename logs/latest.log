@@ -4922,3 +4922,88 @@ com.google.gson.JsonParseException: Loot Table "pamsbreadcraft:bakerychest" Miss
 [22:30:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Dawsondude11 joined the game
 [22:30:41] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Dawsondude11...
 [22:30:42] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Dawsondude11
+[22:30:44] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:30:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [§6SecurityCraft§f] Thanks for using SecurityCraft v1.9.7! Tip: If you like SecurityCraft, please consider supporting us on Patreon! You can work with us to get a feature of your choosing into the mod. https://www.patreon.com/Geforce
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\jaopcablockamericium_241.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . americium_241>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:5: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_oxide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:6: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_za>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:7: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:8: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_all>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:9: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_carbide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:10: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_nitride>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:11: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_oxide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:12: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_za>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:13: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_nitride>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:14: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_carbide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:15: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_oxide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:16: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:17: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_all>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:18: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_za>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:19: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_nitride>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:20: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_carbide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:21: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\remove.zs:22: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_all>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: Cannot remove recipes for a null item!
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium-238.block.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\Uranium-238.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_za>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_233_carbide.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_carbide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_233_oxide.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_oxide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_233_za.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_233_za>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_235.zs:5: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_235_carbide.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_carbide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_235_nitride.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_nitride>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_235_oxide.zs:5: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_oxide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_235_za.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_235_za>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_238_carbide.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_carbide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_238_nitride.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_nitride>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\uranium_238_oxide.zs:4: Could not resolve <jaopca : mysticalagriculture_seeds . uranium_238_oxide>
+[22:30:44] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: [AstralSorcery Altar Crafting] Skipping recipe-addition due to invalid output itemstack.
+[22:30:44] [Client thread/INFO] [Astral Sorcery]: Using gateway screenshots for folder 'new_world'
+[22:30:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[22:30:45] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 26 advancements
+[22:30:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:entities/all
+[22:31:23] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[22:31:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:31:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:31:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:31:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:31:23] [Netty Local Client IO #0/INFO] [Astral Sorcery]: Cleaning client cache...
+[22:31:23] [Netty Local Client IO #0/INFO] [Astral Sorcery]: Cleared cached client data! Disconnected from server.
+[22:31:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[22:31:24] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:31:24] [Server thread/INFO] [FML]: Unloading dimension 3
+[22:31:26] [Server thread/INFO] [FML]: Applying holder lookups
+[22:31:26] [Server thread/INFO] [FML]: Holder lookups applied
+[22:31:26] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[22:31:26] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
