@@ -45,3 +45,12 @@ plantd
 	- Terrain Scale: 1.0
 
 
+nc_wasteland
+	- Id: 4598
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 0.125
+
+

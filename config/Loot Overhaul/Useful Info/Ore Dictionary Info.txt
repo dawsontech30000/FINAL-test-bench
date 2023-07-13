@@ -8,6 +8,10 @@
 
 
 
+actuator
+nuclearcraft:part - 9
+
+
 bEnderAirBottle
 botania:manaresource - 15
 
@@ -66,8 +70,28 @@ extratrees:databaselepi - 0
 extratrees:databasetree - 0
 
 
+bioplastic
+nuclearcraft:part - 6
+
+
+blockAluminum
+nuclearcraft:ingot_block - 12
+
+
+blockAmericium243
+nuclearcraft:block_depleted_americium - 0
+
+
 blockApatite
 forestry:resource_storage - 0
+
+
+blockBerkelium247
+nuclearcraft:block_depleted_berkelium - 0
+
+
+blockBeryllium
+nuclearcraft:ingot_block - 9
 
 
 blockBlaze
@@ -78,12 +102,20 @@ blockBone
 minecraft:bone_block - 0
 
 
+blockBoron
+nuclearcraft:ingot_block - 5
+
+
 blockBronze
 forestry:resource_storage - 3
 
 
 blockCactus
 minecraft:cactus - 0
+
+
+blockCalifornium252
+nuclearcraft:block_depleted_californium - 0
 
 
 blockCharcoal
@@ -96,6 +128,11 @@ minecraft:coal_block - 0
 
 blockCopper
 forestry:resource_storage - 1
+nuclearcraft:ingot_block - 0
+
+
+blockCurium246
+nuclearcraft:block_depleted_curium - 0
 
 
 blockDiamond
@@ -108,6 +145,11 @@ minecraft:emerald_block - 0
 
 blockExhausting
 scalingfeast:exhaustingblock - 0
+
+
+blockFissionModerator
+nuclearcraft:ingot_block - 8
+nuclearcraft:ingot_block - 9
 
 
 blockGlass
@@ -188,6 +230,10 @@ blockGold
 minecraft:gold_block - 0
 
 
+blockGraphite
+nuclearcraft:ingot_block - 8
+
+
 blockIron
 minecraft:iron_block - 0
 
@@ -197,6 +243,19 @@ minecraft:lapis_block - 0
 
 
 blockLead
+nuclearcraft:ingot_block - 2
+
+
+blockLithium
+nuclearcraft:ingot_block - 6
+
+
+blockMagnesium
+nuclearcraft:ingot_block - 7
+
+
+blockManganese
+nuclearcraft:ingot_block - 11
 
 
 blockMeatRaw
@@ -204,6 +263,14 @@ blockMeatRaw
 
 blockMithril
 dungeontactics:mithril_block - 0
+
+
+blockNeptunium237
+nuclearcraft:block_depleted_neptunium - 0
+
+
+blockPlutonium242
+nuclearcraft:block_depleted_plutonium - 0
 
 
 blockPrismarine
@@ -295,6 +362,7 @@ minecraft:redstone_block - 0
 
 
 blockSilver
+nuclearcraft:ingot_block - 13
 dungeontactics:silver_block - 0
 
 
@@ -306,16 +374,37 @@ blockSteel
 dungeontactics:steel_block - 0
 
 
+blockThorium
+nuclearcraft:ingot_block - 3
+
+
+blockThorium230
+nuclearcraft:block_depleted_thorium - 0
+
+
 blockTin
 forestry:resource_storage - 2
+nuclearcraft:ingot_block - 1
 
 
 blockTorch
 minecraft:torch - 0
 
 
+blockUranium
+nuclearcraft:ingot_block - 4
+
+
+blockUranium238
+nuclearcraft:block_depleted_uranium - 0
+
+
 blockWool
 minecraft:wool - any
+
+
+blockZirconium
+nuclearcraft:ingot_block - 10
 
 
 bone
@@ -379,6 +468,14 @@ careerbees:ingredients - 11
 
 chainIron
 dungeontactics:ironlinks - 0
+
+
+charcoal
+minecraft:coal - 1
+
+
+chassis
+nuclearcraft:part - 10
 
 
 chest
@@ -1294,6 +1391,222 @@ crystalsPrismarine
 minecraft:prismarine_crystals - 0
 
 
+depletedFuelHEA242
+nuclearcraft:depleted_fuel_americium - 2
+
+
+depletedFuelHEA242Oxide
+nuclearcraft:depleted_fuel_americium - 3
+
+
+depletedFuelHEB248
+nuclearcraft:depleted_fuel_berkelium - 2
+
+
+depletedFuelHEB248Oxide
+nuclearcraft:depleted_fuel_berkelium - 3
+
+
+depletedFuelHECf249
+nuclearcraft:depleted_fuel_californium - 2
+
+
+depletedFuelHECf249Oxide
+nuclearcraft:depleted_fuel_californium - 3
+
+
+depletedFuelHECf251
+nuclearcraft:depleted_fuel_californium - 6
+
+
+depletedFuelHECf251Oxide
+nuclearcraft:depleted_fuel_californium - 7
+
+
+depletedFuelHECm243
+nuclearcraft:depleted_fuel_curium - 2
+
+
+depletedFuelHECm243Oxide
+nuclearcraft:depleted_fuel_curium - 3
+
+
+depletedFuelHECm245
+nuclearcraft:depleted_fuel_curium - 6
+
+
+depletedFuelHECm245Oxide
+nuclearcraft:depleted_fuel_curium - 7
+
+
+depletedFuelHECm247
+nuclearcraft:depleted_fuel_curium - 10
+
+
+depletedFuelHECm247Oxide
+nuclearcraft:depleted_fuel_curium - 11
+
+
+depletedFuelHEN236
+nuclearcraft:depleted_fuel_neptunium - 2
+
+
+depletedFuelHEN236Oxide
+nuclearcraft:depleted_fuel_neptunium - 3
+
+
+depletedFuelHEP239
+nuclearcraft:depleted_fuel_plutonium - 2
+
+
+depletedFuelHEP239Oxide
+nuclearcraft:depleted_fuel_plutonium - 3
+
+
+depletedFuelHEP241
+nuclearcraft:depleted_fuel_plutonium - 6
+
+
+depletedFuelHEP241Oxide
+nuclearcraft:depleted_fuel_plutonium - 7
+
+
+depletedFuelHEU233
+nuclearcraft:depleted_fuel_uranium - 2
+
+
+depletedFuelHEU233Oxide
+nuclearcraft:depleted_fuel_uranium - 3
+
+
+depletedFuelHEU235
+nuclearcraft:depleted_fuel_uranium - 6
+
+
+depletedFuelHEU235Oxide
+nuclearcraft:depleted_fuel_uranium - 7
+
+
+depletedFuelIC2MOX
+nuclearcraft:depleted_fuel_ic2 - 1
+
+
+depletedFuelIC2U
+nuclearcraft:depleted_fuel_ic2 - 0
+
+
+depletedFuelLEA242
+nuclearcraft:depleted_fuel_americium - 0
+
+
+depletedFuelLEA242Oxide
+nuclearcraft:depleted_fuel_americium - 1
+
+
+depletedFuelLEB248
+nuclearcraft:depleted_fuel_berkelium - 0
+
+
+depletedFuelLEB248Oxide
+nuclearcraft:depleted_fuel_berkelium - 1
+
+
+depletedFuelLECf249
+nuclearcraft:depleted_fuel_californium - 0
+
+
+depletedFuelLECf249Oxide
+nuclearcraft:depleted_fuel_californium - 1
+
+
+depletedFuelLECf251
+nuclearcraft:depleted_fuel_californium - 4
+
+
+depletedFuelLECf251Oxide
+nuclearcraft:depleted_fuel_californium - 5
+
+
+depletedFuelLECm243
+nuclearcraft:depleted_fuel_curium - 0
+
+
+depletedFuelLECm243Oxide
+nuclearcraft:depleted_fuel_curium - 1
+
+
+depletedFuelLECm245
+nuclearcraft:depleted_fuel_curium - 4
+
+
+depletedFuelLECm245Oxide
+nuclearcraft:depleted_fuel_curium - 5
+
+
+depletedFuelLECm247
+nuclearcraft:depleted_fuel_curium - 8
+
+
+depletedFuelLECm247Oxide
+nuclearcraft:depleted_fuel_curium - 9
+
+
+depletedFuelLEN236
+nuclearcraft:depleted_fuel_neptunium - 0
+
+
+depletedFuelLEN236Oxide
+nuclearcraft:depleted_fuel_neptunium - 1
+
+
+depletedFuelLEP239
+nuclearcraft:depleted_fuel_plutonium - 0
+
+
+depletedFuelLEP239Oxide
+nuclearcraft:depleted_fuel_plutonium - 1
+
+
+depletedFuelLEP241
+nuclearcraft:depleted_fuel_plutonium - 4
+
+
+depletedFuelLEP241Oxide
+nuclearcraft:depleted_fuel_plutonium - 5
+
+
+depletedFuelLEU233
+nuclearcraft:depleted_fuel_uranium - 0
+
+
+depletedFuelLEU233Oxide
+nuclearcraft:depleted_fuel_uranium - 1
+
+
+depletedFuelLEU235
+nuclearcraft:depleted_fuel_uranium - 4
+
+
+depletedFuelLEU235Oxide
+nuclearcraft:depleted_fuel_uranium - 5
+
+
+depletedFuelMOX239
+nuclearcraft:depleted_fuel_mixed_oxide - 0
+
+
+depletedFuelMOX241
+nuclearcraft:depleted_fuel_mixed_oxide - 1
+
+
+depletedFuelTBU
+nuclearcraft:depleted_fuel_thorium - 0
+
+
+depletedFuelTBUOxide
+nuclearcraft:depleted_fuel_thorium - 1
+
+
 dirt
 minecraft:dirt - 0
 
@@ -1397,38 +1710,97 @@ forestry:royal_jelly - 0
 dropUranium
 
 
+dustAlugentum
+nuclearcraft:compound - 10
+
+
 dustAluminium
 dungeontactics:aluminium_dust - 0
 
 
 dustAluminum
+nuclearcraft:dust - 12
+morebees:dustaluminium - 0
+
+
+dustArsenic
+nuclearcraft:gem_dust - 10
 
 
 dustAsh
 forestry:ash - 0
 
 
+dustBeryllium
+nuclearcraft:dust - 9
+
+
 dustBlutonium
+
+
+dustBorax
+nuclearcraft:compound - 7
+
+
+dustBoron
+nuclearcraft:dust - 5
+
+
+dustBoronNitride
+nuclearcraft:gem_dust - 4
 
 
 dustBronze
 careerbees:ingredients - 8
 
 
+dustCalciumSulfate
+nuclearcraft:compound - 0
+
+
+dustCarbonManganese
+nuclearcraft:compound - 9
+
+
+dustCarobbiite
+nuclearcraft:gem_dust - 9
+
+
 dustCertusQuartz
 
 
 dustCoal
+nuclearcraft:gem_dust - 7
 dungeontactics:coal_dust - 0
 
 
+dustCocoa
+nuclearcraft:cocoa_solids - 0
+
+
 dustCopper
+nuclearcraft:dust - 0
 morebees:dustcopper - 0
 careerbees:ingredients - 6
 dungeontactics:copper_dust - 0
 
 
+dustCryotheum
+
+
+dustCrystalBinder
+nuclearcraft:compound - 1
+
+
 dustCyanite
+
+
+dustDiamond
+nuclearcraft:gem_dust - 0
+
+
+dustDimensional
+nuclearcraft:compound - 8
 
 
 dustDraconium
@@ -1437,8 +1809,20 @@ dustDraconium
 dustEnderPearl
 
 
+dustEndstone
+nuclearcraft:gem_dust - 11
+
+
+dustEnergetic
+nuclearcraft:compound - 2
+
+
 dustFlint
 minecraft:flint - 0
+
+
+dustFluorite
+nuclearcraft:gem_dust - 5
 
 
 dustGlowstone
@@ -1451,6 +1835,10 @@ careerbees:ingredients - 5
 dungeontactics:gold_dust - 0
 
 
+dustGraphite
+nuclearcraft:dust - 8
+
+
 dustIridium
 
 
@@ -1461,11 +1849,37 @@ dungeontactics:iron_dust - 0
 
 
 dustLead
+nuclearcraft:dust - 2
+morebees:dustlead - 0
 dungeontactics:lead_dust - 0
+
+
+dustLithium
+nuclearcraft:dust - 6
+
+
+dustMagnesium
+nuclearcraft:dust - 7
+
+
+dustManganese
+nuclearcraft:dust - 11
+
+
+dustManganeseDioxide
+nuclearcraft:dust_oxide - 3
+
+
+dustManganeseOxide
+nuclearcraft:dust_oxide - 2
 
 
 dustMithril
 dungeontactics:mithril_dust - 0
+
+
+dustNetherQuartz
+nuclearcraft:gem_dust - 2
 
 
 dustNickel
@@ -1473,6 +1887,7 @@ dungeontactics:nickel_dust - 0
 
 
 dustObsidian
+nuclearcraft:gem_dust - 3
 
 
 dustOsmium
@@ -1483,6 +1898,14 @@ dustPlatinum
 dungeontactics:platinum_dust - 0
 
 
+dustPotassiumFluoride
+nuclearcraft:compound - 4
+
+
+dustPotassiumHydroxide
+nuclearcraft:compound - 6
+
+
 dustPrismarine
 minecraft:prismarine_crystals - 0
 
@@ -1491,8 +1914,16 @@ dustPsi
 psi:material - 0
 
 
+dustQuartz
+nuclearcraft:gem_dust - 2
+
+
 dustRedstone
 minecraft:redstone - 0
+
+
+dustRhodochrosite
+nuclearcraft:gem_dust - 1
 
 
 dustSalt
@@ -1506,6 +1937,8 @@ dustSawdust
 
 
 dustSilver
+nuclearcraft:dust - 13
+morebees:dustsilver - 0
 dungeontactics:silver_dust - 0
 
 
@@ -1533,17 +1966,35 @@ dustSmallSphalerite
 dustSmallZinc
 
 
+dustSodiumFluoride
+nuclearcraft:compound - 3
+
+
+dustSodiumHydroxide
+nuclearcraft:compound - 5
+
+
 dustSteel
 dungeontactics:steel_dust - 0
 
 
 dustSulfur
+nuclearcraft:gem_dust - 6
 
 
 dustSulphur
 
 
+dustThorium
+nuclearcraft:dust - 3
+
+
+dustThoriumOxide
+nuclearcraft:dust_oxide - 0
+
+
 dustTin
+nuclearcraft:dust - 1
 morebees:dusttin - 0
 careerbees:ingredients - 7
 dungeontactics:tin_dust - 0
@@ -1621,10 +2072,30 @@ dustTungsten
 dungeontactics:tungsten_dust - 0
 
 
+dustUranium
+nuclearcraft:dust - 4
+
+
+dustUraniumOxide
+nuclearcraft:dust_oxide - 1
+
+
+dustVilliaumite
+nuclearcraft:gem_dust - 8
+
+
+dustWheat
+nuclearcraft:flour - 0
+
+
 dustYellorium
 
 
 dustZinc
+
+
+dustZirconium
+nuclearcraft:dust - 10
 
 
 dye
@@ -1649,6 +2120,7 @@ gendustry:honey_drop - 14
 dyeBrown
 minecraft:dye - 3
 extrabees:misc - 25
+nuclearcraft:cocoa_solids - 0
 botania:dye - 12
 gendustry:honey_drop - 13
 
@@ -1751,6 +2223,10 @@ emptiedLetter
 forestry:letters - 3
 forestry:letters - 19
 forestry:letters - 35
+
+
+emptyFrame
+nuclearcraft:part - 11
 
 
 enderpearl
@@ -1932,6 +2408,10 @@ extratrees:fences.2 - any
 extratrees:fences.fireproof.0 - any
 extratrees:fences.fireproof.1 - any
 extratrees:fences.fireproof.2 - any
+
+
+fiberSiliconCarbide
+nuclearcraft:part - 13
 
 
 flourEqualswheat
@@ -5646,6 +6126,214 @@ forestry:fruits - 5
 forestry:fruits - 6
 
 
+fuelHEA242
+nuclearcraft:fuel_americium - 2
+
+
+fuelHEA242Oxide
+nuclearcraft:fuel_americium - 3
+
+
+fuelHEB248
+nuclearcraft:fuel_berkelium - 2
+
+
+fuelHEB248Oxide
+nuclearcraft:fuel_berkelium - 3
+
+
+fuelHECf249
+nuclearcraft:fuel_californium - 2
+
+
+fuelHECf249Oxide
+nuclearcraft:fuel_californium - 3
+
+
+fuelHECf251
+nuclearcraft:fuel_californium - 6
+
+
+fuelHECf251Oxide
+nuclearcraft:fuel_californium - 7
+
+
+fuelHECm243
+nuclearcraft:fuel_curium - 2
+
+
+fuelHECm243Oxide
+nuclearcraft:fuel_curium - 3
+
+
+fuelHECm245
+nuclearcraft:fuel_curium - 6
+
+
+fuelHECm245Oxide
+nuclearcraft:fuel_curium - 7
+
+
+fuelHECm247
+nuclearcraft:fuel_curium - 10
+
+
+fuelHECm247Oxide
+nuclearcraft:fuel_curium - 11
+
+
+fuelHEN236
+nuclearcraft:fuel_neptunium - 2
+
+
+fuelHEN236Oxide
+nuclearcraft:fuel_neptunium - 3
+
+
+fuelHEP239
+nuclearcraft:fuel_plutonium - 2
+
+
+fuelHEP239Oxide
+nuclearcraft:fuel_plutonium - 3
+
+
+fuelHEP241
+nuclearcraft:fuel_plutonium - 6
+
+
+fuelHEP241Oxide
+nuclearcraft:fuel_plutonium - 7
+
+
+fuelHEU233
+nuclearcraft:fuel_uranium - 2
+
+
+fuelHEU233Oxide
+nuclearcraft:fuel_uranium - 3
+
+
+fuelHEU235
+nuclearcraft:fuel_uranium - 6
+
+
+fuelHEU235Oxide
+nuclearcraft:fuel_uranium - 7
+
+
+fuelLEA242
+nuclearcraft:fuel_americium - 0
+
+
+fuelLEA242Oxide
+nuclearcraft:fuel_americium - 1
+
+
+fuelLEB248
+nuclearcraft:fuel_berkelium - 0
+
+
+fuelLEB248Oxide
+nuclearcraft:fuel_berkelium - 1
+
+
+fuelLECf249
+nuclearcraft:fuel_californium - 0
+
+
+fuelLECf249Oxide
+nuclearcraft:fuel_californium - 1
+
+
+fuelLECf251
+nuclearcraft:fuel_californium - 4
+
+
+fuelLECf251Oxide
+nuclearcraft:fuel_californium - 5
+
+
+fuelLECm243
+nuclearcraft:fuel_curium - 0
+
+
+fuelLECm243Oxide
+nuclearcraft:fuel_curium - 1
+
+
+fuelLECm245
+nuclearcraft:fuel_curium - 4
+
+
+fuelLECm245Oxide
+nuclearcraft:fuel_curium - 5
+
+
+fuelLECm247
+nuclearcraft:fuel_curium - 8
+
+
+fuelLECm247Oxide
+nuclearcraft:fuel_curium - 9
+
+
+fuelLEN236
+nuclearcraft:fuel_neptunium - 0
+
+
+fuelLEN236Oxide
+nuclearcraft:fuel_neptunium - 1
+
+
+fuelLEP239
+nuclearcraft:fuel_plutonium - 0
+
+
+fuelLEP239Oxide
+nuclearcraft:fuel_plutonium - 1
+
+
+fuelLEP241
+nuclearcraft:fuel_plutonium - 4
+
+
+fuelLEP241Oxide
+nuclearcraft:fuel_plutonium - 5
+
+
+fuelLEU233
+nuclearcraft:fuel_uranium - 0
+
+
+fuelLEU233Oxide
+nuclearcraft:fuel_uranium - 1
+
+
+fuelLEU235
+nuclearcraft:fuel_uranium - 4
+
+
+fuelLEU235Oxide
+nuclearcraft:fuel_uranium - 5
+
+
+fuelMOX239
+nuclearcraft:fuel_mixed_oxide - 0
+
+
+fuelMOX241
+nuclearcraft:fuel_mixed_oxide - 1
+
+
+fuelTBU
+nuclearcraft:fuel_thorium - 0
+
+
+fuelTBUOxide
+nuclearcraft:fuel_thorium - 1
+
+
 gaiaIngot
 botania:manaresource - 14
 
@@ -5659,6 +6347,10 @@ forestry:gear_copper - 0
 
 
 gearDiamond
+
+
+gearDominos
+nuclearcraft:dominos - 0
 
 
 gearGold
@@ -5678,12 +6370,28 @@ gemApatite
 forestry:apatite - 0
 
 
+gemBoronArsenide
+nuclearcraft:gem - 5
+
+
+gemBoronNitride
+nuclearcraft:gem - 1
+
+
+gemCarobbiite
+nuclearcraft:gem - 4
+
+
 gemDiamond
 minecraft:diamond - 0
 
 
 gemEmerald
 minecraft:emerald - 0
+
+
+gemFluorite
+nuclearcraft:gem - 2
 
 
 gemLapis
@@ -5702,10 +6410,18 @@ gemQuartz
 minecraft:quartz - 0
 
 
+gemRhodochrosite
+nuclearcraft:gem - 0
+
+
 gemRuby
 
 
 gemSapphire
+
+
+gemVilliaumite
+nuclearcraft:gem - 3
 
 
 gemnull
@@ -5735,7 +6451,90 @@ ice
 minecraft:ice - 0
 
 
+ingotAluminum
+nuclearcraft:ingot - 12
+
+
+ingotAmericium241
+nuclearcraft:americium - 0
+nuclearcraft:americium - 1
+
+
+ingotAmericium241Base
+nuclearcraft:americium - 0
+
+
+ingotAmericium241Oxide
+nuclearcraft:americium - 1
+
+
+ingotAmericium242
+nuclearcraft:americium - 4
+
+
+ingotAmericium242Base
+nuclearcraft:americium - 4
+
+
+ingotAmericium242Oxide
+nuclearcraft:americium - 5
+
+
+ingotAmericium243
+nuclearcraft:americium - 8
+nuclearcraft:americium - 9
+
+
+ingotAmericium243Base
+nuclearcraft:americium - 8
+
+
+ingotAmericium243Oxide
+nuclearcraft:americium - 9
+
+
+ingotBerkelium247
+nuclearcraft:berkelium - 0
+nuclearcraft:berkelium - 1
+
+
+ingotBerkelium247Base
+nuclearcraft:berkelium - 0
+
+
+ingotBerkelium247Oxide
+nuclearcraft:berkelium - 1
+
+
+ingotBerkelium248
+nuclearcraft:berkelium - 4
+
+
+ingotBerkelium248Base
+nuclearcraft:berkelium - 4
+
+
+ingotBerkelium248Oxide
+nuclearcraft:berkelium - 5
+
+
+ingotBeryllium
+nuclearcraft:ingot - 9
+
+
 ingotBlutonium
+
+
+ingotBoron
+nuclearcraft:ingot - 5
+
+
+ingotBoron10
+nuclearcraft:boron - 0
+
+
+ingotBoron11
+nuclearcraft:boron - 2
 
 
 ingotBrass
@@ -5751,16 +6550,129 @@ minecraft:netherbrick - 0
 
 ingotBronze
 forestry:ingot_bronze - 0
+nuclearcraft:alloy - 0
+
+
+ingotCalifornium249
+nuclearcraft:californium - 0
+
+
+ingotCalifornium249Base
+nuclearcraft:californium - 0
+
+
+ingotCalifornium249Oxide
+nuclearcraft:californium - 1
+
+
+ingotCalifornium250
+nuclearcraft:californium - 4
+nuclearcraft:californium - 5
+
+
+ingotCalifornium250Base
+nuclearcraft:californium - 4
+
+
+ingotCalifornium250Oxide
+nuclearcraft:californium - 5
+
+
+ingotCalifornium251
+nuclearcraft:californium - 8
+
+
+ingotCalifornium251Base
+nuclearcraft:californium - 8
+
+
+ingotCalifornium251Oxide
+nuclearcraft:californium - 9
+
+
+ingotCalifornium252
+nuclearcraft:californium - 12
+nuclearcraft:californium - 13
+
+
+ingotCalifornium252Base
+nuclearcraft:californium - 12
+
+
+ingotCalifornium252Oxide
+nuclearcraft:californium - 13
+
+
+ingotChocolate
+nuclearcraft:milk_chocolate - 0
 
 
 ingotCoal
 
 
+ingotCocoaButter
+nuclearcraft:cocoa_butter - 0
+
+
 ingotCopper
 forestry:ingot_copper - 0
+nuclearcraft:ingot - 0
+
+
+ingotCurium243
+nuclearcraft:curium - 0
+
+
+ingotCurium243Base
+nuclearcraft:curium - 0
+
+
+ingotCurium243Oxide
+nuclearcraft:curium - 1
+
+
+ingotCurium245
+nuclearcraft:curium - 4
+
+
+ingotCurium245Base
+nuclearcraft:curium - 4
+
+
+ingotCurium245Oxide
+nuclearcraft:curium - 5
+
+
+ingotCurium246
+nuclearcraft:curium - 8
+nuclearcraft:curium - 9
+
+
+ingotCurium246Base
+nuclearcraft:curium - 8
+
+
+ingotCurium246Oxide
+nuclearcraft:curium - 9
+
+
+ingotCurium247
+nuclearcraft:curium - 12
+
+
+ingotCurium247Base
+nuclearcraft:curium - 12
+
+
+ingotCurium247Oxide
+nuclearcraft:curium - 13
 
 
 ingotCyanite
+
+
+ingotDarkChocolate
+nuclearcraft:dark_chocolate - 0
 
 
 ingotEbony
@@ -5774,12 +6686,35 @@ ingotElvenElementium
 botania:manaresource - 7
 
 
+ingotEnderium
+
+
 ingotExhausting
 scalingfeast:exhaustingingot - 0
 
 
+ingotExtreme
+nuclearcraft:alloy - 10
+
+
+ingotFerroboron
+nuclearcraft:alloy - 6
+
+
 ingotGold
 minecraft:gold_ingot - 0
+
+
+ingotGraphite
+nuclearcraft:ingot - 8
+
+
+ingotHSLASteel
+nuclearcraft:alloy - 15
+
+
+ingotHardCarbon
+nuclearcraft:alloy - 2
 
 
 ingotHoneyComb
@@ -5795,14 +6730,84 @@ psi:material - 4
 
 
 ingotLead
+nuclearcraft:ingot - 2
+
+
+ingotLeadPlatinum
+nuclearcraft:alloy - 9
+
+
+ingotLithium
+nuclearcraft:ingot - 6
+
+
+ingotLithium6
+nuclearcraft:lithium - 0
+
+
+ingotLithium7
+nuclearcraft:lithium - 2
+
+
+ingotLithiumManganeseDioxide
+nuclearcraft:alloy - 4
+
+
+ingotMagnesium
+nuclearcraft:ingot - 7
+
+
+ingotMagnesiumDiboride
+nuclearcraft:alloy - 3
 
 
 ingotManasteel
 botania:manaresource - 0
 
 
+ingotManganese
+nuclearcraft:ingot - 11
+
+
+ingotManganeseDioxide
+nuclearcraft:ingot_oxide - 3
+
+
+ingotManganeseOxide
+nuclearcraft:ingot_oxide - 2
+
+
+ingotMarshmallow
+nuclearcraft:marshmallow - 0
+
+
 ingotMithril
 dungeontactics:mithril_ingot - 0
+
+
+ingotNeptunium236
+nuclearcraft:neptunium - 0
+
+
+ingotNeptunium236Base
+nuclearcraft:neptunium - 0
+
+
+ingotNeptunium236Oxide
+nuclearcraft:neptunium - 1
+
+
+ingotNeptunium237
+nuclearcraft:neptunium - 4
+nuclearcraft:neptunium - 5
+
+
+ingotNeptunium237Base
+nuclearcraft:neptunium - 4
+
+
+ingotNeptunium237Oxide
+nuclearcraft:neptunium - 5
 
 
 ingotNickel
@@ -5812,6 +6817,56 @@ ingotOsmium
 
 
 ingotPlatinum
+
+
+ingotPlutonium238
+nuclearcraft:plutonium - 0
+nuclearcraft:plutonium - 1
+
+
+ingotPlutonium238Base
+nuclearcraft:plutonium - 0
+
+
+ingotPlutonium238Oxide
+nuclearcraft:plutonium - 1
+
+
+ingotPlutonium239
+nuclearcraft:plutonium - 4
+
+
+ingotPlutonium239Base
+nuclearcraft:plutonium - 4
+
+
+ingotPlutonium239Oxide
+nuclearcraft:plutonium - 5
+
+
+ingotPlutonium241
+nuclearcraft:plutonium - 8
+
+
+ingotPlutonium241Base
+nuclearcraft:plutonium - 8
+
+
+ingotPlutonium241Oxide
+nuclearcraft:plutonium - 9
+
+
+ingotPlutonium242
+nuclearcraft:plutonium - 12
+nuclearcraft:plutonium - 13
+
+
+ingotPlutonium242Base
+nuclearcraft:plutonium - 12
+
+
+ingotPlutonium242Oxide
+nuclearcraft:plutonium - 13
 
 
 ingotPsi
@@ -5824,11 +6879,25 @@ ingotRefinedGlowstone
 ingotRefinedObsidian
 
 
+ingotShibuichi
+nuclearcraft:alloy - 7
+
+
+ingotSiCSiCCMC
+nuclearcraft:alloy - 14
+
+
+ingotSiliconCarbide
+nuclearcraft:alloy - 13
+
+
 ingotSilver
+nuclearcraft:ingot - 13
 dungeontactics:silver_ingot - 0
 
 
 ingotSteel
+nuclearcraft:alloy - 5
 dungeontactics:steel_ingot - 0
 
 
@@ -5836,20 +6905,123 @@ ingotTerrasteel
 botania:manaresource - 4
 
 
+ingotThermoconducting
+nuclearcraft:alloy - 11
+
+
+ingotThorium
+nuclearcraft:ingot - 3
+
+
+ingotThorium230
+nuclearcraft:thorium - 0
+nuclearcraft:thorium - 1
+
+
+ingotThorium230Base
+nuclearcraft:thorium - 0
+
+
+ingotThorium230Oxide
+nuclearcraft:thorium - 1
+
+
+ingotThorium232
+nuclearcraft:thorium - 4
+
+
+ingotThorium232Base
+nuclearcraft:thorium - 4
+
+
+ingotThorium232Oxide
+nuclearcraft:thorium - 5
+
+
+ingotThoriumOxide
+nuclearcraft:ingot_oxide - 0
+
+
 ingotTin
 forestry:ingot_tin - 0
+nuclearcraft:ingot - 1
+
+
+ingotTinSilver
+nuclearcraft:alloy - 8
 
 
 ingotTitanium
 
 
+ingotTough
+nuclearcraft:alloy - 1
+
+
 ingotTungsten
+
+
+ingotUnsweetenedChocolate
+nuclearcraft:unsweetened_chocolate - 0
+
+
+ingotUranium
+nuclearcraft:ingot - 4
+
+
+ingotUranium233
+nuclearcraft:uranium - 0
+
+
+ingotUranium233Base
+nuclearcraft:uranium - 0
+
+
+ingotUranium233Oxide
+nuclearcraft:uranium - 1
+
+
+ingotUranium235
+nuclearcraft:uranium - 4
+
+
+ingotUranium235Base
+nuclearcraft:uranium - 4
+
+
+ingotUranium235Oxide
+nuclearcraft:uranium - 5
+
+
+ingotUranium238
+nuclearcraft:uranium - 8
+nuclearcraft:uranium - 9
+
+
+ingotUranium238Base
+nuclearcraft:uranium - 8
+
+
+ingotUranium238Oxide
+nuclearcraft:uranium - 9
+
+
+ingotUraniumOxide
+nuclearcraft:ingot_oxide - 1
 
 
 ingotYellorium
 
 
 ingotZinc
+
+
+ingotZircaloy
+nuclearcraft:alloy - 12
+
+
+ingotZirconium
+nuclearcraft:ingot - 10
 
 
 itemBeeswax
@@ -5865,6 +7037,10 @@ itemRubber
 
 itemSalt
 harvestcraft:saltitem - 0
+
+
+itemSilicon
+nuclearcraft:gem - 6
 
 
 leather
@@ -6691,6 +7867,10 @@ materialPressedwax
 harvestcraft:beeswaxitem - 0
 
 
+motor
+nuclearcraft:part - 8
+
+
 mycelium
 minecraft:mycelium - 0
 
@@ -6837,6 +8017,30 @@ nuggetAluminium
 nuggetAluminum
 
 
+nuggetAmericium241
+nuclearcraft:americium - 2
+
+
+nuggetAmericium241Oxide
+nuclearcraft:americium - 3
+
+
+nuggetAmericium242
+nuclearcraft:americium - 6
+
+
+nuggetAmericium242Oxide
+nuclearcraft:americium - 7
+
+
+nuggetAmericium243
+nuclearcraft:americium - 10
+
+
+nuggetAmericium243Oxide
+nuclearcraft:americium - 11
+
+
 nuggetApatite
 magicbees:orepart - 2
 
@@ -6844,8 +8048,64 @@ magicbees:orepart - 2
 nuggetArdite
 
 
+nuggetBerkelium247
+nuclearcraft:berkelium - 2
+
+
+nuggetBerkelium247Oxide
+nuclearcraft:berkelium - 3
+
+
+nuggetBerkelium248
+nuclearcraft:berkelium - 6
+
+
+nuggetBerkelium248Oxide
+nuclearcraft:berkelium - 7
+
+
+nuggetBoron10
+nuclearcraft:boron - 1
+
+
+nuggetBoron11
+nuclearcraft:boron - 3
+
+
 nuggetBronze
 magicbees:orepart - 5
+
+
+nuggetCalifornium249
+nuclearcraft:californium - 2
+
+
+nuggetCalifornium249Oxide
+nuclearcraft:californium - 3
+
+
+nuggetCalifornium250
+nuclearcraft:californium - 6
+
+
+nuggetCalifornium250Oxide
+nuclearcraft:californium - 7
+
+
+nuggetCalifornium251
+nuclearcraft:californium - 10
+
+
+nuggetCalifornium251Oxide
+nuclearcraft:californium - 11
+
+
+nuggetCalifornium252
+nuclearcraft:californium - 14
+
+
+nuggetCalifornium252Oxide
+nuclearcraft:californium - 15
 
 
 nuggetCobalt
@@ -6853,6 +8113,38 @@ nuggetCobalt
 
 nuggetCopper
 magicbees:orepart - 3
+
+
+nuggetCurium243
+nuclearcraft:curium - 2
+
+
+nuggetCurium243Oxide
+nuclearcraft:curium - 3
+
+
+nuggetCurium245
+nuclearcraft:curium - 6
+
+
+nuggetCurium245Oxide
+nuclearcraft:curium - 7
+
+
+nuggetCurium246
+nuclearcraft:curium - 10
+
+
+nuggetCurium246Oxide
+nuclearcraft:curium - 11
+
+
+nuggetCurium247
+nuclearcraft:curium - 14
+
+
+nuggetCurium247Oxide
+nuclearcraft:curium - 15
 
 
 nuggetDiamond
@@ -6894,6 +8186,14 @@ minecraft:iron_nugget - 0
 nuggetLead
 
 
+nuggetLithium6
+nuclearcraft:lithium - 1
+
+
+nuggetLithium7
+nuclearcraft:lithium - 3
+
+
 nuggetManasteel
 botania:manaresource - 17
 
@@ -6905,6 +8205,22 @@ nuggetMithril
 dungeontactics:mithril_nugget - 0
 
 
+nuggetNeptunium236
+nuclearcraft:neptunium - 2
+
+
+nuggetNeptunium236Oxide
+nuclearcraft:neptunium - 3
+
+
+nuggetNeptunium237
+nuclearcraft:neptunium - 6
+
+
+nuggetNeptunium237Oxide
+nuclearcraft:neptunium - 7
+
+
 nuggetNickel
 
 
@@ -6912,6 +8228,38 @@ nuggetOsmium
 
 
 nuggetPlatinum
+
+
+nuggetPlutonium238
+nuclearcraft:plutonium - 2
+
+
+nuggetPlutonium238Oxide
+nuclearcraft:plutonium - 3
+
+
+nuggetPlutonium239
+nuclearcraft:plutonium - 6
+
+
+nuggetPlutonium239Oxide
+nuclearcraft:plutonium - 7
+
+
+nuggetPlutonium241
+nuclearcraft:plutonium - 10
+
+
+nuggetPlutonium241Oxide
+nuclearcraft:plutonium - 11
+
+
+nuggetPlutonium242
+nuclearcraft:plutonium - 14
+
+
+nuggetPlutonium242Oxide
+nuclearcraft:plutonium - 15
 
 
 nuggetSilver
@@ -6926,16 +8274,69 @@ nuggetTerrasteel
 botania:manaresource - 18
 
 
+nuggetThorium230
+nuclearcraft:thorium - 2
+
+
+nuggetThorium230Oxide
+nuclearcraft:thorium - 3
+
+
+nuggetThorium232
+nuclearcraft:thorium - 6
+
+
+nuggetThorium232Oxide
+nuclearcraft:thorium - 7
+
+
 nuggetTin
 magicbees:orepart - 4
+
+
+nuggetUranium233
+nuclearcraft:uranium - 2
+
+
+nuggetUranium233Oxide
+nuclearcraft:uranium - 3
+
+
+nuggetUranium235
+nuclearcraft:uranium - 6
+
+
+nuggetUranium235Oxide
+nuclearcraft:uranium - 7
+
+
+nuggetUranium238
+nuclearcraft:uranium - 10
+
+
+nuggetUranium238Oxide
+nuclearcraft:uranium - 11
 
 
 obsidian
 minecraft:obsidian - 0
 
 
+oreAluminium
+
+
+oreAluminum
+
+
 oreApatite
 forestry:resources - 0
+
+
+oreBauxite
+
+
+oreBoron
+nuclearcraft:ore - 5
 
 
 oreCoal
@@ -6944,6 +8345,7 @@ minecraft:coal_ore - 0
 
 oreCopper
 forestry:resources - 1
+nuclearcraft:ore - 0
 
 
 oreDiamond
@@ -6977,6 +8379,15 @@ dungeontactics:endlapis_ore - 0
 
 
 oreLead
+nuclearcraft:ore - 2
+
+
+oreLithium
+nuclearcraft:ore - 6
+
+
+oreMagnesium
+nuclearcraft:ore - 7
 
 
 oreMithril
@@ -6984,6 +8395,9 @@ dungeontactics:mithril_ore - 0
 
 
 oreNickel
+
+
+oreOsmium
 
 
 orePlatinum
@@ -7001,6 +8415,9 @@ minecraft:redstone_ore - 0
 oreResonating
 
 
+oreSheldonite
+
+
 oreSilver
 dungeontactics:silver_ore - 0
 
@@ -7008,11 +8425,23 @@ dungeontactics:silver_ore - 0
 oreSteel
 
 
+oreThorium
+nuclearcraft:ore - 3
+
+
 oreTin
 forestry:resources - 2
+nuclearcraft:ore - 1
+
+
+oreTitanium
+
+
+oreTungsten
 
 
 oreUranium
+nuclearcraft:ore - 4
 
 
 oreYellorite
@@ -7104,83 +8533,83 @@ botania:pestleandmortar - 0
 
 
 petalBlack
-botania:mushroom - 15
 botania:petal - 15
+botania:mushroom - 15
 
 
 petalBlue
-botania:mushroom - 11
 botania:petal - 11
+botania:mushroom - 11
 
 
 petalBrown
-botania:mushroom - 12
 botania:petal - 12
+botania:mushroom - 12
 
 
 petalCyan
-botania:mushroom - 9
 botania:petal - 9
+botania:mushroom - 9
 
 
 petalGray
-botania:mushroom - 7
 botania:petal - 7
+botania:mushroom - 7
 
 
 petalGreen
-botania:mushroom - 13
 botania:petal - 13
+botania:mushroom - 13
 
 
 petalLightBlue
-botania:mushroom - 3
 botania:petal - 3
+botania:mushroom - 3
 
 
 petalLightGray
-botania:mushroom - 8
 botania:petal - 8
+botania:mushroom - 8
 
 
 petalLime
-botania:mushroom - 5
 botania:petal - 5
+botania:mushroom - 5
 
 
 petalMagenta
-botania:mushroom - 2
 botania:petal - 2
+botania:mushroom - 2
 
 
 petalOrange
-botania:mushroom - 1
 botania:petal - 1
+botania:mushroom - 1
 
 
 petalPink
-botania:mushroom - 6
 botania:petal - 6
+botania:mushroom - 6
 
 
 petalPurple
-botania:mushroom - 10
 botania:petal - 10
+botania:mushroom - 10
 
 
 petalRed
-botania:mushroom - 14
 botania:petal - 14
+botania:mushroom - 14
 
 
 petalWhite
-botania:mushroom - 0
 botania:petal - 0
+botania:mushroom - 0
 
 
 petalYellow
-botania:mushroom - 4
 botania:petal - 4
+botania:mushroom - 4
 
 
 pigment
@@ -7200,6 +8629,22 @@ extratrees:planks.2 - any
 extratrees:planks.fireproof.0 - any
 extratrees:planks.fireproof.1 - any
 extratrees:planks.fireproof.2 - any
+
+
+plateAdvanced
+nuclearcraft:part - 1
+
+
+plateBasic
+nuclearcraft:part - 0
+
+
+plateDU
+nuclearcraft:part - 2
+
+
+plateElite
+nuclearcraft:part - 3
 
 
 podzol
@@ -7247,6 +8692,11 @@ quartzSunny
 botania:quartz - 6
 
 
+railBed
+minecraft:log - any
+minecraft:bedrock - 0
+
+
 record
 minecraft:record_13 - 0
 minecraft:record_cat - 0
@@ -7260,6 +8710,10 @@ minecraft:record_strad - 0
 minecraft:record_ward - 0
 minecraft:record_11 - 0
 minecraft:record_wait - 0
+nuclearcraft:record_wanderer - 0
+nuclearcraft:record_end_of_the_world - 0
+nuclearcraft:record_money_for_nothing - 0
+nuclearcraft:record_hyperspace - 0
 
 
 redstoneRoot
@@ -7704,6 +9158,10 @@ minecraft:beetroot_seeds - 0
 minecraft:nether_wart - 0
 
 
+servo
+nuclearcraft:part - 7
+
+
 shardPrismarine
 minecraft:prismarine_shard - 0
 
@@ -7778,6 +9236,14 @@ slimeballPurple
 
 snowLayer
 minecraft:snow_layer - 0
+
+
+solenoidCopper
+nuclearcraft:part - 4
+
+
+solenoidMagnesiumDiboride
+nuclearcraft:part - 5
 
 
 soulSand
@@ -7957,6 +9423,10 @@ extratrees:stairs.fireproof.syzgium - any
 extratrees:stairs.fireproof.pinkivory - any
 
 
+steelFrame
+nuclearcraft:part - 12
+
+
 stickBone
 minecraft:bone - 0
 
@@ -8010,6 +9480,10 @@ psi:material - 6
 
 sugarcane
 minecraft:reeds - 0
+
+
+tinyDustLead
+nuclearcraft:tiny_dust_lead - 0
 
 
 toolBakeware

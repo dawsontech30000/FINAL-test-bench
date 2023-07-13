@@ -8,9 +8,9 @@
 ##    - Is Bad: <true if considered a 'bad' potion>                    ##
 ##    - Is Beneficial: <true if considered 'beneficial' (client only)> ##
 #########################################################################
-rpsideas:psishock
+dungeontactics:cryo_effect
    - Id: 0
-   - Color: 16731410
+   - Color: 1
    - Is Instant: false
    - Is Bad: true
 	- Is Beneficial: false
@@ -232,56 +232,48 @@ minecraft:unluck
 	- Is Beneficial: false
 
 
-rpsideas:psipulse
+scalingfeast:metabolism
    - Id: 28
-   - Color: 1295871
+   - Color: 15775628
    - Is Instant: false
    - Is Bad: false
 	- Is Beneficial: true
 
 
-rpsideas:unseeing
+scalingfeast:ironstomach
    - Id: 29
-   - Color: 9546968
+   - Color: 13421772
    - Is Instant: false
    - Is Bad: false
 	- Is Beneficial: true
 
 
-rpsideas:flash
+scalingfeast:bloated
    - Id: 30
-   - Color: 16777215
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-rpsideas:burnout
-   - Id: 31
-   - Color: 14884388
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-rpsideas:affinity
-   - Id: 32
-   - Color: 1928606
+   - Color: 16776960
    - Is Instant: false
    - Is Bad: false
 	- Is Beneficial: true
 
 
-dungeontactics:cryo_effect
-   - Id: 33
-   - Color: 1
+scalingfeast:hungerplus
+   - Id: 31
+   - Color: 65280
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+scalingfeast:hungerminus
+   - Id: 32
+   - Color: 16711680
    - Is Instant: false
    - Is Bad: true
 	- Is Beneficial: false
 
 
 scalingfeast:softstomach
-   - Id: 34
+   - Id: 33
    - Color: 12114714
    - Is Instant: false
    - Is Bad: true
@@ -289,16 +281,24 @@ scalingfeast:softstomach
 
 
 scalingfeast:deficiency
-   - Id: 35
+   - Id: 34
    - Color: 5704973
    - Is Instant: true
    - Is Bad: true
 	- Is Beneficial: false
 
 
-scalingfeast:metabolism
+botania:soulcross
+   - Id: 35
+   - Color: 4670781
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:featherfeet
    - Id: 36
-   - Color: 15775628
+   - Color: 2534911
    - Is Instant: false
    - Is Bad: false
 	- Is Beneficial: true
@@ -320,9 +320,9 @@ botania:bloodthirst
 	- Is Beneficial: true
 
 
-scalingfeast:ironstomach
+botania:allure
    - Id: 39
-   - Color: 13421772
+   - Color: 13540
    - Is Instant: false
    - Is Bad: false
 	- Is Beneficial: true
@@ -336,56 +336,56 @@ botania:clear
 	- Is Beneficial: false
 
 
-botania:featherfeet
+rpsideas:psishock
    - Id: 41
-   - Color: 2534911
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-scalingfeast:bloated
-   - Id: 42
-   - Color: 16776960
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-botania:soulcross
-   - Id: 43
-   - Color: 4670781
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-botania:allure
-   - Id: 44
-   - Color: 13540
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-scalingfeast:hungerplus
-   - Id: 45
-   - Color: 65280
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-scalingfeast:hungerminus
-   - Id: 46
-   - Color: 16711680
+   - Color: 16731410
    - Is Instant: false
    - Is Bad: true
 	- Is Beneficial: false
 
 
+rpsideas:psipulse
+   - Id: 42
+   - Color: 1295871
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+rpsideas:unseeing
+   - Id: 43
+   - Color: 9546968
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+rpsideas:flash
+   - Id: 44
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+rpsideas:burnout
+   - Id: 45
+   - Color: 14884388
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+rpsideas:affinity
+   - Id: 46
+   - Color: 1928606
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
 nates_foodcraft:tiredness
-   - Id: 50
+   - Id: 47
    - Color: -13421773
    - Is Instant: false
    - Is Bad: true
@@ -393,7 +393,7 @@ nates_foodcraft:tiredness
 
 
 nates_foodcraft:oliveoilp
-   - Id: 51
+   - Id: 48
    - Color: -5333248
    - Is Instant: false
    - Is Bad: false

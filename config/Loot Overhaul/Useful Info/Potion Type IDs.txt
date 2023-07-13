@@ -186,39 +186,9 @@ minecraft:luck
        minecraft:luck - 6000 - 0 - false - true
 
 
-rpsideas:psishock
+scalingfeast:metabolism
    - Effects: 
-       rpsideas:psishock - 160 - 0 - false - true
-
-
-rpsideas:psishock_long
-   - Effects: 
-       rpsideas:psishock - 240 - 0 - false - true
-
-
-rpsideas:psishock_strong
-   - Effects: 
-       rpsideas:psishock - 125 - 1 - false - true
-
-
-rpsideas:psipulse
-   - Effects: 
-       rpsideas:psipulse - 400 - 0 - false - true
-
-
-rpsideas:psipulse_strong
-   - Effects: 
-       rpsideas:psipulse - 250 - 1 - false - true
-
-
-rpsideas:psipulse_long
-   - Effects: 
-       rpsideas:psipulse - 600 - 0 - false - true
-
-
-scalingfeast:metabolism_strong
-   - Effects: 
-       scalingfeast:metabolism - 1200 - 1 - false - true
+       scalingfeast:metabolism - 2400 - 0 - false - true
 
 
 scalingfeast:metabolism_extended
@@ -226,9 +196,9 @@ scalingfeast:metabolism_extended
        scalingfeast:metabolism - 4800 - 0 - false - true
 
 
-scalingfeast:metabolism
+scalingfeast:metabolism_strong
    - Effects: 
-       scalingfeast:metabolism - 2400 - 0 - false - true
+       scalingfeast:metabolism - 1200 - 1 - false - true
 
 
 scalingfeast:ironstomach
@@ -236,9 +206,39 @@ scalingfeast:ironstomach
        scalingfeast:ironstomach - 3000 - 0 - false - true
 
 
+scalingfeast:ironstomach_extended
+   - Effects: 
+       scalingfeast:ironstomach - 6000 - 0 - false - true
+
+
+scalingfeast:ironstomach_strong
+   - Effects: 
+       scalingfeast:ironstomach - 1500 - 1 - false - true
+
+
 scalingfeast:bloated
    - Effects: 
        scalingfeast:bloated - 2400 - 0 - false - true
+
+
+scalingfeast:bloated_extended
+   - Effects: 
+       scalingfeast:bloated - 4800 - 0 - false - true
+
+
+scalingfeast:bloated_strong
+   - Effects: 
+       scalingfeast:bloated - 1200 - 1 - false - true
+
+
+scalingfeast:hungerplus
+   - Effects: 
+       scalingfeast:hungerplus - 3600 - 3 - false - true
+
+
+scalingfeast:hungerplus_extended
+   - Effects: 
+       scalingfeast:hungerplus - 7200 - 3 - false - true
 
 
 scalingfeast:hungerplus_strong
@@ -246,9 +246,9 @@ scalingfeast:hungerplus_strong
        scalingfeast:hungerplus - 1800 - 7 - false - true
 
 
-scalingfeast:hungerplus_extended
+scalingfeast:hungerminus
    - Effects: 
-       scalingfeast:hungerplus - 7200 - 3 - false - true
+       scalingfeast:hungerminus - 2400 - 3 - false - true
 
 
 scalingfeast:hungerminus_extended
@@ -286,34 +286,34 @@ scalingfeast:deficiency_strong
        scalingfeast:deficiency - 1 - 7 - false - true
 
 
-scalingfeast:bloated_strong
+rpsideas:psishock
    - Effects: 
-       scalingfeast:bloated - 1200 - 1 - false - true
+       rpsideas:psishock - 160 - 0 - false - true
 
 
-scalingfeast:bloated_extended
+rpsideas:psishock_long
    - Effects: 
-       scalingfeast:bloated - 4800 - 0 - false - true
+       rpsideas:psishock - 240 - 0 - false - true
 
 
-scalingfeast:ironstomach_extended
+rpsideas:psishock_strong
    - Effects: 
-       scalingfeast:ironstomach - 6000 - 0 - false - true
+       rpsideas:psishock - 125 - 1 - false - true
 
 
-scalingfeast:hungerplus
+rpsideas:psipulse
    - Effects: 
-       scalingfeast:hungerplus - 3600 - 3 - false - true
+       rpsideas:psipulse - 400 - 0 - false - true
 
 
-scalingfeast:hungerminus
+rpsideas:psipulse_strong
    - Effects: 
-       scalingfeast:hungerminus - 2400 - 3 - false - true
+       rpsideas:psipulse - 250 - 1 - false - true
 
 
-scalingfeast:ironstomach_strong
+rpsideas:psipulse_long
    - Effects: 
-       scalingfeast:ironstomach - 1500 - 1 - false - true
+       rpsideas:psipulse - 600 - 0 - false - true
 
 
 nates_foodcraft:oliveoilp
