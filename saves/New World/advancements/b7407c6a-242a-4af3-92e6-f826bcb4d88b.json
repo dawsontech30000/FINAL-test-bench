@@ -1,43 +1,7 @@
 {
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2023-06-30 16:54:58 +0100"
-    },
-    "done": true
-  },
-  "dungeontactics:dungeoneering/born_survivor": {
-    "criteria": {
-      "stab": "2023-06-30 21:58:48 +0100"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2023-06-30 23:06:46 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2023-06-30 23:06:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stonebrick": {
-    "criteria": {
-      "has_stone": "2023-06-30 16:54:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2023-06-30 16:54:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2023-06-30 16:54:58 +0100"
     },
     "done": true
   },
@@ -59,16 +23,64 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest": "2023-06-30 16:54:33 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2023-06-30 23:06:46 +0100"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-06-30 16:54:58 +0100"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2023-06-30 21:58:48 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2023-06-30 23:06:46 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2023-07-13 22:04:56 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2023-07-13 22:04:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2023-06-30 16:54:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-06-30 16:54:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-06-30 16:54:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2023-06-30 16:54:33 +0100"
+    },
+    "done": false
   }
 }

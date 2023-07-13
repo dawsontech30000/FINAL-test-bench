@@ -664,3 +664,19 @@ scalingfeast:deprivationcurse
    - Max Level: 1
 
 
+astralsorcery:enchantment.as.nightvision
+   - Id: 82
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+astralsorcery:enchantment.as.smelting
+   - Id: 83
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+

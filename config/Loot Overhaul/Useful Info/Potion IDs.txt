@@ -384,8 +384,48 @@ rpsideas:affinity
 	- Is Beneficial: true
 
 
-nates_foodcraft:tiredness
+astralsorcery:potioncheatdeath
    - Id: 47
+   - Color: 16733969
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potionbleed
+   - Id: 48
+   - Color: 7672320
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potionspellplague
+   - Id: 49
+   - Color: 6816144
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potiondropmodifier
+   - Id: 50
+   - Color: 16765204
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potiontimefreeze
+   - Id: 51
+   - Color: 12098303
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+nates_foodcraft:tiredness
+   - Id: 52
    - Color: -13421773
    - Is Instant: false
    - Is Bad: true
@@ -393,7 +433,7 @@ nates_foodcraft:tiredness
 
 
 nates_foodcraft:oliveoilp
-   - Id: 48
+   - Id: 53
    - Color: -5333248
    - Is Instant: false
    - Is Bad: false

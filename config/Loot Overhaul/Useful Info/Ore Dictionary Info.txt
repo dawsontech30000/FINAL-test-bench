@@ -66,8 +66,8 @@ gendustry:honey_comb - any
 binnie_database
 botany:database - 0
 extrabees:dictionary - 0
-extratrees:databaselepi - 0
 extratrees:databasetree - 0
+extratrees:databaselepi - 0
 
 
 bioplastic
@@ -78,16 +78,76 @@ blockAluminum
 nuclearcraft:ingot_block - 12
 
 
+blockAmericium241
+jaopca:block.americium_241 - 0
+
+
+blockAmericium241Base
+jaopca:block.americium_241_base - 0
+
+
+blockAmericium241Oxide
+jaopca:block.americium_241_oxide - 0
+
+
+blockAmericium242
+jaopca:block.americium_242 - 0
+
+
+blockAmericium242Base
+jaopca:block.americium_242_base - 0
+
+
+blockAmericium242Oxide
+jaopca:block.americium_242_oxide - 0
+
+
 blockAmericium243
 nuclearcraft:block_depleted_americium - 0
+
+
+blockAmericium243Base
+jaopca:block.americium_243_base - 0
+
+
+blockAmericium243Oxide
+jaopca:block.americium_243_oxide - 0
 
 
 blockApatite
 forestry:resource_storage - 0
 
 
+blockAquamarine
+jaopca:block.aquamarine - 0
+
+
+blockAstralStarmetal
+jaopca:block.astral_starmetal - 0
+
+
 blockBerkelium247
 nuclearcraft:block_depleted_berkelium - 0
+
+
+blockBerkelium247Base
+jaopca:block.berkelium_247_base - 0
+
+
+blockBerkelium247Oxide
+jaopca:block.berkelium_247_oxide - 0
+
+
+blockBerkelium248
+jaopca:block.berkelium_248 - 0
+
+
+blockBerkelium248Base
+jaopca:block.berkelium_248_base - 0
+
+
+blockBerkelium248Oxide
+jaopca:block.berkelium_248_oxide - 0
 
 
 blockBeryllium
@@ -106,6 +166,30 @@ blockBoron
 nuclearcraft:ingot_block - 5
 
 
+blockBoron10
+jaopca:block.boron_10 - 0
+
+
+blockBoron11
+jaopca:block.boron_11 - 0
+
+
+blockBoronArsenide
+jaopca:block.boron_arsenide - 0
+
+
+blockBoronNitride
+jaopca:block.boron_nitride - 0
+
+
+blockBrick
+jaopca:block.brick - 0
+
+
+blockBrickNether
+jaopca:block.brick_nether - 0
+
+
 blockBronze
 forestry:resource_storage - 3
 
@@ -114,16 +198,72 @@ blockCactus
 minecraft:cactus - 0
 
 
+blockCalifornium249
+jaopca:block.californium_249 - 0
+
+
+blockCalifornium249Base
+jaopca:block.californium_249_base - 0
+
+
+blockCalifornium249Oxide
+jaopca:block.californium_249_oxide - 0
+
+
+blockCalifornium250
+jaopca:block.californium_250 - 0
+
+
+blockCalifornium250Base
+jaopca:block.californium_250_base - 0
+
+
+blockCalifornium250Oxide
+jaopca:block.californium_250_oxide - 0
+
+
+blockCalifornium251
+jaopca:block.californium_251 - 0
+
+
+blockCalifornium251Base
+jaopca:block.californium_251_base - 0
+
+
+blockCalifornium251Oxide
+jaopca:block.californium_251_oxide - 0
+
+
 blockCalifornium252
 nuclearcraft:block_depleted_californium - 0
+
+
+blockCalifornium252Base
+jaopca:block.californium_252_base - 0
+
+
+blockCalifornium252Oxide
+jaopca:block.californium_252_oxide - 0
+
+
+blockCarobbiite
+jaopca:block.carobbiite - 0
 
 
 blockCharcoal
 forestry:charcoal - 0
 
 
+blockChocolate
+jaopca:block.chocolate - 0
+
+
 blockCoal
 minecraft:coal_block - 0
+
+
+blockCocoaButter
+jaopca:block.cocoa_butter - 0
 
 
 blockCopper
@@ -131,12 +271,72 @@ forestry:resource_storage - 1
 nuclearcraft:ingot_block - 0
 
 
+blockCosmicNeutronium
+avaritia:block_resource - 0
+
+
+blockCrystalMatrix
+avaritia:block_resource - 2
+
+
+blockCurium243
+jaopca:block.curium_243 - 0
+
+
+blockCurium243Base
+jaopca:block.curium_243_base - 0
+
+
+blockCurium243Oxide
+jaopca:block.curium_243_oxide - 0
+
+
+blockCurium245
+jaopca:block.curium_245 - 0
+
+
+blockCurium245Base
+jaopca:block.curium_245_base - 0
+
+
+blockCurium245Oxide
+jaopca:block.curium_245_oxide - 0
+
+
 blockCurium246
 nuclearcraft:block_depleted_curium - 0
 
 
+blockCurium246Base
+jaopca:block.curium_246_base - 0
+
+
+blockCurium246Oxide
+jaopca:block.curium_246_oxide - 0
+
+
+blockCurium247
+jaopca:block.curium_247 - 0
+
+
+blockCurium247Base
+jaopca:block.curium_247_base - 0
+
+
+blockCurium247Oxide
+jaopca:block.curium_247_oxide - 0
+
+
+blockDarkChocolate
+jaopca:block.dark_chocolate - 0
+
+
 blockDiamond
 minecraft:diamond_block - 0
+
+
+blockElvenElementium
+jaopca:block.elven_elementium - 0
 
 
 blockEmerald
@@ -147,9 +347,21 @@ blockExhausting
 scalingfeast:exhaustingblock - 0
 
 
+blockExtreme
+jaopca:block.extreme - 0
+
+
+blockFerroboron
+jaopca:block.ferroboron - 0
+
+
 blockFissionModerator
 nuclearcraft:ingot_block - 8
 nuclearcraft:ingot_block - 9
+
+
+blockFluorite
+jaopca:block.fluorite - 0
 
 
 blockGlass
@@ -234,6 +446,18 @@ blockGraphite
 nuclearcraft:ingot_block - 8
 
 
+blockHSLASteel
+jaopca:block.hsla_steel - 0
+
+
+blockHardCarbon
+jaopca:block.hard_carbon - 0
+
+
+blockInfinity
+avaritia:block_resource - 1
+
+
 blockIron
 minecraft:iron_block - 0
 
@@ -246,16 +470,62 @@ blockLead
 nuclearcraft:ingot_block - 2
 
 
+blockLeadPlatinum
+jaopca:block.lead_platinum - 0
+
+
 blockLithium
 nuclearcraft:ingot_block - 6
+
+
+blockLithium6
+jaopca:block.lithium_6 - 0
+
+
+blockLithium7
+jaopca:block.lithium_7 - 0
+
+
+blockLithiumManganeseDioxide
+jaopca:block.lithium_manganese_dioxide - 0
 
 
 blockMagnesium
 nuclearcraft:ingot_block - 7
 
 
+blockMagnesiumDiboride
+jaopca:block.magnesium_diboride - 0
+
+
+blockManasteel
+jaopca:block.manasteel - 0
+
+
 blockManganese
 nuclearcraft:ingot_block - 11
+
+
+blockManganeseDioxide
+jaopca:block.manganese_dioxide - 0
+
+
+blockManganeseOxide
+jaopca:block.manganese_oxide - 0
+
+
+blockMarble
+astralsorcery:blockmarble - 0
+astralsorcery:blockmarble - 1
+astralsorcery:blockmarble - 2
+astralsorcery:blockmarble - 3
+astralsorcery:blockmarble - 4
+astralsorcery:blockmarble - 5
+astralsorcery:blockmarble - 6
+
+
+blockMarshmallow
+jaopca:block.marshmallow - 0
 
 
 blockMeatRaw
@@ -265,12 +535,76 @@ blockMithril
 dungeontactics:mithril_block - 0
 
 
+blockNeptunium236
+jaopca:block.neptunium_236 - 0
+
+
+blockNeptunium236Base
+jaopca:block.neptunium_236_base - 0
+
+
+blockNeptunium236Oxide
+jaopca:block.neptunium_236_oxide - 0
+
+
 blockNeptunium237
 nuclearcraft:block_depleted_neptunium - 0
 
 
+blockNeptunium237Base
+jaopca:block.neptunium_237_base - 0
+
+
+blockNeptunium237Oxide
+jaopca:block.neptunium_237_oxide - 0
+
+
+blockPlutonium238
+jaopca:block.plutonium_238 - 0
+
+
+blockPlutonium238Base
+jaopca:block.plutonium_238_base - 0
+
+
+blockPlutonium238Oxide
+jaopca:block.plutonium_238_oxide - 0
+
+
+blockPlutonium239
+jaopca:block.plutonium_239 - 0
+
+
+blockPlutonium239Base
+jaopca:block.plutonium_239_base - 0
+
+
+blockPlutonium239Oxide
+jaopca:block.plutonium_239_oxide - 0
+
+
+blockPlutonium241
+jaopca:block.plutonium_241 - 0
+
+
+blockPlutonium241Base
+jaopca:block.plutonium_241_base - 0
+
+
+blockPlutonium241Oxide
+jaopca:block.plutonium_241_oxide - 0
+
+
 blockPlutonium242
 nuclearcraft:block_depleted_plutonium - 0
+
+
+blockPlutonium242Base
+jaopca:block.plutonium_242_base - 0
+
+
+blockPlutonium242Oxide
+jaopca:block.plutonium_242_oxide - 0
 
 
 blockPrismarine
@@ -361,6 +695,22 @@ blockRedstone
 minecraft:redstone_block - 0
 
 
+blockRhodochrosite
+jaopca:block.rhodochrosite - 0
+
+
+blockShibuichi
+jaopca:block.shibuichi - 0
+
+
+blockSiCSiCCMC
+jaopca:block.si_c_si_ccmc - 0
+
+
+blockSiliconCarbide
+jaopca:block.silicon_carbide - 0
+
+
 blockSilver
 nuclearcraft:ingot_block - 13
 dungeontactics:silver_block - 0
@@ -371,7 +721,16 @@ minecraft:slime - 0
 
 
 blockSteel
+jaopca:block.steel - 0
 dungeontactics:steel_block - 0
+
+
+blockTerrasteel
+jaopca:block.terrasteel - 0
+
+
+blockThermoconducting
+jaopca:block.thermoconducting - 0
 
 
 blockThorium
@@ -382,25 +741,169 @@ blockThorium230
 nuclearcraft:block_depleted_thorium - 0
 
 
+blockThorium230Base
+jaopca:block.thorium_230_base - 0
+
+
+blockThorium230Oxide
+jaopca:block.thorium_230_oxide - 0
+
+
+blockThorium232
+jaopca:block.thorium_232 - 0
+
+
+blockThorium232Base
+jaopca:block.thorium_232_base - 0
+
+
+blockThorium232Oxide
+jaopca:block.thorium_232_oxide - 0
+
+
+blockThoriumOxide
+jaopca:block.thorium_oxide - 0
+
+
 blockTin
 forestry:resource_storage - 2
 nuclearcraft:ingot_block - 1
+
+
+blockTinSilver
+jaopca:block.tin_silver - 0
 
 
 blockTorch
 minecraft:torch - 0
 
 
+blockTough
+jaopca:block.tough - 0
+
+
+blockUnsweetenedChocolate
+jaopca:block.unsweetened_chocolate - 0
+
+
 blockUranium
 nuclearcraft:ingot_block - 4
+
+
+blockUranium233
+jaopca:block.uranium_233 - 0
+
+
+blockUranium233Base
+jaopca:block.uranium_233_base - 0
+
+
+blockUranium233Oxide
+jaopca:block.uranium_233_oxide - 0
+
+
+blockUranium235
+jaopca:block.uranium_235 - 0
+
+
+blockUranium235Base
+jaopca:block.uranium_235_base - 0
+
+
+blockUranium235Oxide
+jaopca:block.uranium_235_oxide - 0
 
 
 blockUranium238
 nuclearcraft:block_depleted_uranium - 0
 
 
+blockUranium238Base
+jaopca:block.uranium_238_base - 0
+
+
+blockUranium238Oxide
+jaopca:block.uranium_238_oxide - 0
+
+
+blockUraniumOxide
+jaopca:block.uranium_oxide - 0
+
+
+blockVilliaumite
+jaopca:block.villiaumite - 0
+
+
 blockWool
 minecraft:wool - any
+
+
+blockWoolBlack
+minecraft:wool - 15
+
+
+blockWoolBlue
+minecraft:wool - 11
+
+
+blockWoolBrown
+minecraft:wool - 12
+
+
+blockWoolCyan
+minecraft:wool - 9
+
+
+blockWoolGray
+minecraft:wool - 7
+
+
+blockWoolGreen
+minecraft:wool - 13
+
+
+blockWoolLightBlue
+minecraft:wool - 3
+
+
+blockWoolLightGray
+minecraft:wool - 8
+
+
+blockWoolLime
+minecraft:wool - 5
+
+
+blockWoolMagenta
+minecraft:wool - 2
+
+
+blockWoolOrange
+minecraft:wool - 1
+
+
+blockWoolPink
+minecraft:wool - 6
+
+
+blockWoolPurple
+minecraft:wool - 10
+
+
+blockWoolRed
+minecraft:wool - 14
+
+
+blockWoolWhite
+minecraft:wool - 0
+
+
+blockWoolYellow
+minecraft:wool - 4
+
+
+blockZircaloy
+jaopca:block.zircaloy - 0
 
 
 blockZirconium
@@ -790,6 +1293,10 @@ cropCabbage
 harvestcraft:cabbageitem - 0
 
 
+cropCactus
+minecraft:cactus - 0
+
+
 cropCactusfruit
 harvestcraft:cactusfruititem - 0
 
@@ -1092,6 +1599,14 @@ cropMulberry
 harvestcraft:mulberryitem - 0
 
 
+cropMushroomBrown
+minecraft:brown_mushroom - 0
+
+
+cropMushroomRed
+minecraft:red_mushroom - 0
+
+
 cropMustard
 harvestcraft:mustardseedsitem - 0
 
@@ -1385,6 +1900,11 @@ harvestcraft:zucchiniitem - 0
 
 
 crushedUranium
+
+
+crystalCoal
+minecraft:coal - 0
+minecraft:coal - 1
 
 
 crystalsPrismarine
@@ -1723,12 +2243,84 @@ nuclearcraft:dust - 12
 morebees:dustaluminium - 0
 
 
+dustAmericium241
+jaopca:dust.americium_241 - 0
+
+
+dustAmericium241Base
+jaopca:dust.americium_241_base - 0
+
+
+dustAmericium241Oxide
+jaopca:dust.americium_241_oxide - 0
+
+
+dustAmericium242
+jaopca:dust.americium_242 - 0
+
+
+dustAmericium242Base
+jaopca:dust.americium_242_base - 0
+
+
+dustAmericium242Oxide
+jaopca:dust.americium_242_oxide - 0
+
+
+dustAmericium243
+jaopca:dust.americium_243 - 0
+
+
+dustAmericium243Base
+jaopca:dust.americium_243_base - 0
+
+
+dustAmericium243Oxide
+jaopca:dust.americium_243_oxide - 0
+
+
+dustApatite
+jaopca:dust.apatite - 0
+
+
+dustAquamarine
+jaopca:dust.aquamarine - 0
+
+
 dustArsenic
 nuclearcraft:gem_dust - 10
 
 
 dustAsh
 forestry:ash - 0
+
+
+dustAstralStarmetal
+astralsorcery:itemcraftingcomponent - 2
+
+
+dustBerkelium247
+jaopca:dust.berkelium_247 - 0
+
+
+dustBerkelium247Base
+jaopca:dust.berkelium_247_base - 0
+
+
+dustBerkelium247Oxide
+jaopca:dust.berkelium_247_oxide - 0
+
+
+dustBerkelium248
+jaopca:dust.berkelium_248 - 0
+
+
+dustBerkelium248Base
+jaopca:dust.berkelium_248_base - 0
+
+
+dustBerkelium248Oxide
+jaopca:dust.berkelium_248_oxide - 0
 
 
 dustBeryllium
@@ -1746,16 +2338,85 @@ dustBoron
 nuclearcraft:dust - 5
 
 
+dustBoron10
+jaopca:dust.boron_10 - 0
+
+
+dustBoron11
+jaopca:dust.boron_11 - 0
+
+
+dustBoronArsenide
+jaopca:dust.boron_arsenide - 0
+
+
 dustBoronNitride
 nuclearcraft:gem_dust - 4
 
 
+dustBrick
+jaopca:dust.brick - 0
+
+
+dustBrickNether
+jaopca:dust.brick_nether - 0
+
+
 dustBronze
+jaopca:dust.bronze - 0
 careerbees:ingredients - 8
 
 
 dustCalciumSulfate
 nuclearcraft:compound - 0
+
+
+dustCalifornium249
+jaopca:dust.californium_249 - 0
+
+
+dustCalifornium249Base
+jaopca:dust.californium_249_base - 0
+
+
+dustCalifornium249Oxide
+jaopca:dust.californium_249_oxide - 0
+
+
+dustCalifornium250
+jaopca:dust.californium_250 - 0
+
+
+dustCalifornium250Base
+jaopca:dust.californium_250_base - 0
+
+
+dustCalifornium250Oxide
+jaopca:dust.californium_250_oxide - 0
+
+
+dustCalifornium251
+jaopca:dust.californium_251 - 0
+
+
+dustCalifornium251Base
+jaopca:dust.californium_251_base - 0
+
+
+dustCalifornium251Oxide
+jaopca:dust.californium_251_oxide - 0
+
+
+dustCalifornium252
+jaopca:dust.californium_252 - 0
+
+
+dustCalifornium252Base
+jaopca:dust.californium_252_base - 0
+
+
+dustCalifornium252Oxide
+jaopca:dust.californium_252_oxide - 0
 
 
 dustCarbonManganese
@@ -1769,6 +2430,10 @@ nuclearcraft:gem_dust - 9
 dustCertusQuartz
 
 
+dustChocolate
+jaopca:dust.chocolate - 0
+
+
 dustCoal
 nuclearcraft:gem_dust - 7
 dungeontactics:coal_dust - 0
@@ -1778,11 +2443,19 @@ dustCocoa
 nuclearcraft:cocoa_solids - 0
 
 
+dustCocoaButter
+jaopca:dust.cocoa_butter - 0
+
+
 dustCopper
 nuclearcraft:dust - 0
 morebees:dustcopper - 0
 careerbees:ingredients - 6
 dungeontactics:copper_dust - 0
+
+
+dustCosmicNeutronium
+jaopca:dust.cosmic_neutronium - 0
 
 
 dustCryotheum
@@ -1792,7 +2465,63 @@ dustCrystalBinder
 nuclearcraft:compound - 1
 
 
+dustCrystalMatrix
+jaopca:dust.crystal_matrix - 0
+
+
+dustCurium243
+jaopca:dust.curium_243 - 0
+
+
+dustCurium243Base
+jaopca:dust.curium_243_base - 0
+
+
+dustCurium243Oxide
+jaopca:dust.curium_243_oxide - 0
+
+
+dustCurium245
+jaopca:dust.curium_245 - 0
+
+
+dustCurium245Base
+jaopca:dust.curium_245_base - 0
+
+
+dustCurium245Oxide
+jaopca:dust.curium_245_oxide - 0
+
+
+dustCurium246
+jaopca:dust.curium_246 - 0
+
+
+dustCurium246Base
+jaopca:dust.curium_246_base - 0
+
+
+dustCurium246Oxide
+jaopca:dust.curium_246_oxide - 0
+
+
+dustCurium247
+jaopca:dust.curium_247 - 0
+
+
+dustCurium247Base
+jaopca:dust.curium_247_base - 0
+
+
+dustCurium247Oxide
+jaopca:dust.curium_247_oxide - 0
+
+
 dustCyanite
+
+
+dustDarkChocolate
+jaopca:dust.dark_chocolate - 0
 
 
 dustDiamond
@@ -1806,6 +2535,14 @@ nuclearcraft:compound - 8
 dustDraconium
 
 
+dustElvenElementium
+jaopca:dust.elven_elementium - 0
+
+
+dustEmerald
+jaopca:dust.emerald - 0
+
+
 dustEnderPearl
 
 
@@ -1815,6 +2552,14 @@ nuclearcraft:gem_dust - 11
 
 dustEnergetic
 nuclearcraft:compound - 2
+
+
+dustExtreme
+jaopca:dust.extreme - 0
+
+
+dustFerroboron
+jaopca:dust.ferroboron - 0
 
 
 dustFlint
@@ -1839,6 +2584,18 @@ dustGraphite
 nuclearcraft:dust - 8
 
 
+dustHSLASteel
+jaopca:dust.hsla_steel - 0
+
+
+dustHardCarbon
+jaopca:dust.hard_carbon - 0
+
+
+dustInfinity
+jaopca:dust.infinity - 0
+
+
 dustIridium
 
 
@@ -1848,18 +2605,46 @@ careerbees:ingredients - 4
 dungeontactics:iron_dust - 0
 
 
+dustLapis
+jaopca:dust.lapis - 0
+
+
 dustLead
 nuclearcraft:dust - 2
 morebees:dustlead - 0
 dungeontactics:lead_dust - 0
 
 
+dustLeadPlatinum
+jaopca:dust.lead_platinum - 0
+
+
 dustLithium
 nuclearcraft:dust - 6
 
 
+dustLithium6
+jaopca:dust.lithium_6 - 0
+
+
+dustLithium7
+jaopca:dust.lithium_7 - 0
+
+
+dustLithiumManganeseDioxide
+jaopca:dust.lithium_manganese_dioxide - 0
+
+
 dustMagnesium
 nuclearcraft:dust - 7
+
+
+dustMagnesiumDiboride
+jaopca:dust.magnesium_diboride - 0
+
+
+dustManasteel
+jaopca:dust.manasteel - 0
 
 
 dustManganese
@@ -1874,8 +2659,36 @@ dustManganeseOxide
 nuclearcraft:dust_oxide - 2
 
 
+dustMarshmallow
+jaopca:dust.marshmallow - 0
+
+
 dustMithril
 dungeontactics:mithril_dust - 0
+
+
+dustNeptunium236
+jaopca:dust.neptunium_236 - 0
+
+
+dustNeptunium236Base
+jaopca:dust.neptunium_236_base - 0
+
+
+dustNeptunium236Oxide
+jaopca:dust.neptunium_236_oxide - 0
+
+
+dustNeptunium237
+jaopca:dust.neptunium_237 - 0
+
+
+dustNeptunium237Base
+jaopca:dust.neptunium_237_base - 0
+
+
+dustNeptunium237Oxide
+jaopca:dust.neptunium_237_oxide - 0
 
 
 dustNetherQuartz
@@ -1896,6 +2709,54 @@ dungeontactics:osmium_dust - 0
 
 dustPlatinum
 dungeontactics:platinum_dust - 0
+
+
+dustPlutonium238
+jaopca:dust.plutonium_238 - 0
+
+
+dustPlutonium238Base
+jaopca:dust.plutonium_238_base - 0
+
+
+dustPlutonium238Oxide
+jaopca:dust.plutonium_238_oxide - 0
+
+
+dustPlutonium239
+jaopca:dust.plutonium_239 - 0
+
+
+dustPlutonium239Base
+jaopca:dust.plutonium_239_base - 0
+
+
+dustPlutonium239Oxide
+jaopca:dust.plutonium_239_oxide - 0
+
+
+dustPlutonium241
+jaopca:dust.plutonium_241 - 0
+
+
+dustPlutonium241Base
+jaopca:dust.plutonium_241_base - 0
+
+
+dustPlutonium241Oxide
+jaopca:dust.plutonium_241_oxide - 0
+
+
+dustPlutonium242
+jaopca:dust.plutonium_242 - 0
+
+
+dustPlutonium242Base
+jaopca:dust.plutonium_242_base - 0
+
+
+dustPlutonium242Oxide
+jaopca:dust.plutonium_242_oxide - 0
 
 
 dustPotassiumFluoride
@@ -1934,6 +2795,18 @@ dustSaltpeter
 
 
 dustSawdust
+
+
+dustShibuichi
+jaopca:dust.shibuichi - 0
+
+
+dustSiCSiCCMC
+jaopca:dust.si_c_si_ccmc - 0
+
+
+dustSiliconCarbide
+jaopca:dust.silicon_carbide - 0
 
 
 dustSilver
@@ -1975,6 +2848,7 @@ nuclearcraft:compound - 5
 
 
 dustSteel
+jaopca:dust.steel - 0
 dungeontactics:steel_dust - 0
 
 
@@ -1985,8 +2859,40 @@ nuclearcraft:gem_dust - 6
 dustSulphur
 
 
+dustTerrasteel
+jaopca:dust.terrasteel - 0
+
+
+dustThermoconducting
+jaopca:dust.thermoconducting - 0
+
+
 dustThorium
 nuclearcraft:dust - 3
+
+
+dustThorium230
+jaopca:dust.thorium_230 - 0
+
+
+dustThorium230Base
+jaopca:dust.thorium_230_base - 0
+
+
+dustThorium230Oxide
+jaopca:dust.thorium_230_oxide - 0
+
+
+dustThorium232
+jaopca:dust.thorium_232 - 0
+
+
+dustThorium232Base
+jaopca:dust.thorium_232_base - 0
+
+
+dustThorium232Oxide
+jaopca:dust.thorium_232_oxide - 0
 
 
 dustThoriumOxide
@@ -1998,6 +2904,10 @@ nuclearcraft:dust - 1
 morebees:dusttin - 0
 careerbees:ingredients - 7
 dungeontactics:tin_dust - 0
+
+
+dustTinSilver
+jaopca:dust.tin_silver - 0
 
 
 dustTinyAluminium
@@ -2068,12 +2978,56 @@ dustTitanium
 dungeontactics:titanium_dust - 0
 
 
+dustTough
+jaopca:dust.tough - 0
+
+
 dustTungsten
 dungeontactics:tungsten_dust - 0
 
 
+dustUnsweetenedChocolate
+jaopca:dust.unsweetened_chocolate - 0
+
+
 dustUranium
 nuclearcraft:dust - 4
+
+
+dustUranium233
+jaopca:dust.uranium_233 - 0
+
+
+dustUranium233Base
+jaopca:dust.uranium_233_base - 0
+
+
+dustUranium233Oxide
+jaopca:dust.uranium_233_oxide - 0
+
+
+dustUranium235
+jaopca:dust.uranium_235 - 0
+
+
+dustUranium235Base
+jaopca:dust.uranium_235_base - 0
+
+
+dustUranium235Oxide
+jaopca:dust.uranium_235_oxide - 0
+
+
+dustUranium238
+jaopca:dust.uranium_238 - 0
+
+
+dustUranium238Base
+jaopca:dust.uranium_238_base - 0
+
+
+dustUranium238Oxide
+jaopca:dust.uranium_238_oxide - 0
 
 
 dustUraniumOxide
@@ -2092,6 +3046,10 @@ dustYellorium
 
 
 dustZinc
+
+
+dustZircaloy
+jaopca:dust.zircaloy - 0
 
 
 dustZirconium
@@ -6370,6 +7328,10 @@ gemApatite
 forestry:apatite - 0
 
 
+gemAquamarine
+astralsorcery:itemcraftingcomponent - 0
+
+
 gemBoronArsenide
 nuclearcraft:gem - 5
 
@@ -6491,6 +7453,10 @@ nuclearcraft:americium - 8
 
 ingotAmericium243Oxide
 nuclearcraft:americium - 9
+
+
+ingotAstralStarmetal
+astralsorcery:itemcraftingcomponent - 1
 
 
 ingotBerkelium247
@@ -6619,6 +7585,14 @@ forestry:ingot_copper - 0
 nuclearcraft:ingot - 0
 
 
+ingotCosmicNeutronium
+avaritia:resource - 4
+
+
+ingotCrystalMatrix
+avaritia:resource - 1
+
+
 ingotCurium243
 nuclearcraft:curium - 0
 
@@ -6719,6 +7693,10 @@ nuclearcraft:alloy - 2
 
 ingotHoneyComb
 careerbees:ingredients - 10
+
+
+ingotInfinity
+avaritia:resource - 6
 
 
 ingotIron
@@ -8115,6 +9093,10 @@ nuggetCopper
 magicbees:orepart - 3
 
 
+nuggetCosmicNeutronium
+avaritia:resource - 3
+
+
 nuggetCurium243
 nuclearcraft:curium - 2
 
@@ -8322,17 +9304,16 @@ obsidian
 minecraft:obsidian - 0
 
 
-oreAluminium
-
-
-oreAluminum
-
-
 oreApatite
 forestry:resources - 0
 
 
-oreBauxite
+oreAquamarine
+astralsorcery:blockcustomsandore - 0
+
+
+oreAstralStarmetal
+astralsorcery:blockcustomore - 1
 
 
 oreBoron
@@ -8397,9 +9378,6 @@ dungeontactics:mithril_ore - 0
 oreNickel
 
 
-oreOsmium
-
-
 orePlatinum
 
 
@@ -8413,9 +9391,6 @@ minecraft:redstone_ore - 0
 
 
 oreResonating
-
-
-oreSheldonite
 
 
 oreSilver
@@ -8432,12 +9407,6 @@ nuclearcraft:ore - 3
 oreTin
 forestry:resources - 2
 nuclearcraft:ore - 1
-
-
-oreTitanium
-
-
-oreTungsten
 
 
 oreUranium
@@ -8533,83 +9502,83 @@ botania:pestleandmortar - 0
 
 
 petalBlack
-botania:petal - 15
 botania:mushroom - 15
+botania:petal - 15
 
 
 petalBlue
-botania:petal - 11
 botania:mushroom - 11
+botania:petal - 11
 
 
 petalBrown
-botania:petal - 12
 botania:mushroom - 12
+botania:petal - 12
 
 
 petalCyan
-botania:petal - 9
 botania:mushroom - 9
+botania:petal - 9
 
 
 petalGray
-botania:petal - 7
 botania:mushroom - 7
+botania:petal - 7
 
 
 petalGreen
-botania:petal - 13
 botania:mushroom - 13
+botania:petal - 13
 
 
 petalLightBlue
-botania:petal - 3
 botania:mushroom - 3
+botania:petal - 3
 
 
 petalLightGray
-botania:petal - 8
 botania:mushroom - 8
+botania:petal - 8
 
 
 petalLime
-botania:petal - 5
 botania:mushroom - 5
+botania:petal - 5
 
 
 petalMagenta
-botania:petal - 2
 botania:mushroom - 2
+botania:petal - 2
 
 
 petalOrange
-botania:petal - 1
 botania:mushroom - 1
+botania:petal - 1
 
 
 petalPink
-botania:petal - 6
 botania:mushroom - 6
+botania:petal - 6
 
 
 petalPurple
-botania:petal - 10
 botania:mushroom - 10
+botania:petal - 10
 
 
 petalRed
-botania:petal - 14
 botania:mushroom - 14
+botania:petal - 14
 
 
 petalWhite
-botania:petal - 0
 botania:mushroom - 0
+botania:petal - 0
 
 
 petalYellow
-botania:petal - 4
 botania:mushroom - 4
+botania:petal - 4
 
 
 pigment
@@ -9166,6 +10135,522 @@ shardPrismarine
 minecraft:prismarine_shard - 0
 
 
+singularityAluminum
+jaopca:avaritia_singularity.aluminum - 0
+
+
+singularityAmericium241
+jaopca:avaritia_singularity.americium_241 - 0
+
+
+singularityAmericium241Base
+jaopca:avaritia_singularity.americium_241_base - 0
+
+
+singularityAmericium241Oxide
+jaopca:avaritia_singularity.americium_241_oxide - 0
+
+
+singularityAmericium242
+jaopca:avaritia_singularity.americium_242 - 0
+
+
+singularityAmericium242Base
+jaopca:avaritia_singularity.americium_242_base - 0
+
+
+singularityAmericium242Oxide
+jaopca:avaritia_singularity.americium_242_oxide - 0
+
+
+singularityAmericium243
+jaopca:avaritia_singularity.americium_243 - 0
+
+
+singularityAmericium243Base
+jaopca:avaritia_singularity.americium_243_base - 0
+
+
+singularityAmericium243Oxide
+jaopca:avaritia_singularity.americium_243_oxide - 0
+
+
+singularityApatite
+jaopca:avaritia_singularity.apatite - 0
+
+
+singularityAquamarine
+jaopca:avaritia_singularity.aquamarine - 0
+
+
+singularityAstralStarmetal
+jaopca:avaritia_singularity.astral_starmetal - 0
+
+
+singularityBerkelium247
+jaopca:avaritia_singularity.berkelium_247 - 0
+
+
+singularityBerkelium247Base
+jaopca:avaritia_singularity.berkelium_247_base - 0
+
+
+singularityBerkelium247Oxide
+jaopca:avaritia_singularity.berkelium_247_oxide - 0
+
+
+singularityBerkelium248
+jaopca:avaritia_singularity.berkelium_248 - 0
+
+
+singularityBerkelium248Base
+jaopca:avaritia_singularity.berkelium_248_base - 0
+
+
+singularityBerkelium248Oxide
+jaopca:avaritia_singularity.berkelium_248_oxide - 0
+
+
+singularityBeryllium
+jaopca:avaritia_singularity.beryllium - 0
+
+
+singularityBoron
+jaopca:avaritia_singularity.boron - 0
+
+
+singularityBoron10
+jaopca:avaritia_singularity.boron_10 - 0
+
+
+singularityBoron11
+jaopca:avaritia_singularity.boron_11 - 0
+
+
+singularityBoronArsenide
+jaopca:avaritia_singularity.boron_arsenide - 0
+
+
+singularityBoronNitride
+jaopca:avaritia_singularity.boron_nitride - 0
+
+
+singularityBrick
+jaopca:avaritia_singularity.brick - 0
+
+
+singularityBrickNether
+jaopca:avaritia_singularity.brick_nether - 0
+
+
+singularityBronze
+jaopca:avaritia_singularity.bronze - 0
+
+
+singularityCalifornium249
+jaopca:avaritia_singularity.californium_249 - 0
+
+
+singularityCalifornium249Base
+jaopca:avaritia_singularity.californium_249_base - 0
+
+
+singularityCalifornium249Oxide
+jaopca:avaritia_singularity.californium_249_oxide - 0
+
+
+singularityCalifornium250
+jaopca:avaritia_singularity.californium_250 - 0
+
+
+singularityCalifornium250Base
+jaopca:avaritia_singularity.californium_250_base - 0
+
+
+singularityCalifornium250Oxide
+jaopca:avaritia_singularity.californium_250_oxide - 0
+
+
+singularityCalifornium251
+jaopca:avaritia_singularity.californium_251 - 0
+
+
+singularityCalifornium251Base
+jaopca:avaritia_singularity.californium_251_base - 0
+
+
+singularityCalifornium251Oxide
+jaopca:avaritia_singularity.californium_251_oxide - 0
+
+
+singularityCalifornium252
+jaopca:avaritia_singularity.californium_252 - 0
+
+
+singularityCalifornium252Base
+jaopca:avaritia_singularity.californium_252_base - 0
+
+
+singularityCalifornium252Oxide
+jaopca:avaritia_singularity.californium_252_oxide - 0
+
+
+singularityCarobbiite
+jaopca:avaritia_singularity.carobbiite - 0
+
+
+singularityChocolate
+jaopca:avaritia_singularity.chocolate - 0
+
+
+singularityCoal
+jaopca:avaritia_singularity.coal - 0
+
+
+singularityCocoaButter
+jaopca:avaritia_singularity.cocoa_butter - 0
+
+
+singularityCosmicNeutronium
+jaopca:avaritia_singularity.cosmic_neutronium - 0
+
+
+singularityCrystalMatrix
+jaopca:avaritia_singularity.crystal_matrix - 0
+
+
+singularityCurium243
+jaopca:avaritia_singularity.curium_243 - 0
+
+
+singularityCurium243Base
+jaopca:avaritia_singularity.curium_243_base - 0
+
+
+singularityCurium243Oxide
+jaopca:avaritia_singularity.curium_243_oxide - 0
+
+
+singularityCurium245
+jaopca:avaritia_singularity.curium_245 - 0
+
+
+singularityCurium245Base
+jaopca:avaritia_singularity.curium_245_base - 0
+
+
+singularityCurium245Oxide
+jaopca:avaritia_singularity.curium_245_oxide - 0
+
+
+singularityCurium246
+jaopca:avaritia_singularity.curium_246 - 0
+
+
+singularityCurium246Base
+jaopca:avaritia_singularity.curium_246_base - 0
+
+
+singularityCurium246Oxide
+jaopca:avaritia_singularity.curium_246_oxide - 0
+
+
+singularityCurium247
+jaopca:avaritia_singularity.curium_247 - 0
+
+
+singularityCurium247Base
+jaopca:avaritia_singularity.curium_247_base - 0
+
+
+singularityCurium247Oxide
+jaopca:avaritia_singularity.curium_247_oxide - 0
+
+
+singularityDarkChocolate
+jaopca:avaritia_singularity.dark_chocolate - 0
+
+
+singularityElvenElementium
+jaopca:avaritia_singularity.elven_elementium - 0
+
+
+singularityExtreme
+jaopca:avaritia_singularity.extreme - 0
+
+
+singularityFerroboron
+jaopca:avaritia_singularity.ferroboron - 0
+
+
+singularityFluorite
+jaopca:avaritia_singularity.fluorite - 0
+
+
+singularityGraphite
+jaopca:avaritia_singularity.graphite - 0
+
+
+singularityHSLASteel
+jaopca:avaritia_singularity.hsla_steel - 0
+
+
+singularityHardCarbon
+jaopca:avaritia_singularity.hard_carbon - 0
+
+
+singularityLeadPlatinum
+jaopca:avaritia_singularity.lead_platinum - 0
+
+
+singularityLithium
+jaopca:avaritia_singularity.lithium - 0
+
+
+singularityLithium6
+jaopca:avaritia_singularity.lithium_6 - 0
+
+
+singularityLithium7
+jaopca:avaritia_singularity.lithium_7 - 0
+
+
+singularityLithiumManganeseDioxide
+jaopca:avaritia_singularity.lithium_manganese_dioxide - 0
+
+
+singularityMagnesium
+jaopca:avaritia_singularity.magnesium - 0
+
+
+singularityMagnesiumDiboride
+jaopca:avaritia_singularity.magnesium_diboride - 0
+
+
+singularityManasteel
+jaopca:avaritia_singularity.manasteel - 0
+
+
+singularityManganese
+jaopca:avaritia_singularity.manganese - 0
+
+
+singularityManganeseDioxide
+jaopca:avaritia_singularity.manganese_dioxide - 0
+
+
+singularityManganeseOxide
+jaopca:avaritia_singularity.manganese_oxide - 0
+
+
+singularityMarshmallow
+jaopca:avaritia_singularity.marshmallow - 0
+
+
+singularityNeptunium236
+jaopca:avaritia_singularity.neptunium_236 - 0
+
+
+singularityNeptunium236Base
+jaopca:avaritia_singularity.neptunium_236_base - 0
+
+
+singularityNeptunium236Oxide
+jaopca:avaritia_singularity.neptunium_236_oxide - 0
+
+
+singularityNeptunium237
+jaopca:avaritia_singularity.neptunium_237 - 0
+
+
+singularityNeptunium237Base
+jaopca:avaritia_singularity.neptunium_237_base - 0
+
+
+singularityNeptunium237Oxide
+jaopca:avaritia_singularity.neptunium_237_oxide - 0
+
+
+singularityPlutonium238
+jaopca:avaritia_singularity.plutonium_238 - 0
+
+
+singularityPlutonium238Base
+jaopca:avaritia_singularity.plutonium_238_base - 0
+
+
+singularityPlutonium238Oxide
+jaopca:avaritia_singularity.plutonium_238_oxide - 0
+
+
+singularityPlutonium239
+jaopca:avaritia_singularity.plutonium_239 - 0
+
+
+singularityPlutonium239Base
+jaopca:avaritia_singularity.plutonium_239_base - 0
+
+
+singularityPlutonium239Oxide
+jaopca:avaritia_singularity.plutonium_239_oxide - 0
+
+
+singularityPlutonium241
+jaopca:avaritia_singularity.plutonium_241 - 0
+
+
+singularityPlutonium241Base
+jaopca:avaritia_singularity.plutonium_241_base - 0
+
+
+singularityPlutonium241Oxide
+jaopca:avaritia_singularity.plutonium_241_oxide - 0
+
+
+singularityPlutonium242
+jaopca:avaritia_singularity.plutonium_242 - 0
+
+
+singularityPlutonium242Base
+jaopca:avaritia_singularity.plutonium_242_base - 0
+
+
+singularityPlutonium242Oxide
+jaopca:avaritia_singularity.plutonium_242_oxide - 0
+
+
+singularityPrismarine
+jaopca:avaritia_singularity.prismarine - 0
+
+
+singularityRhodochrosite
+jaopca:avaritia_singularity.rhodochrosite - 0
+
+
+singularityShibuichi
+jaopca:avaritia_singularity.shibuichi - 0
+
+
+singularitySiCSiCCMC
+jaopca:avaritia_singularity.si_c_si_ccmc - 0
+
+
+singularitySiliconCarbide
+jaopca:avaritia_singularity.silicon_carbide - 0
+
+
+singularitySteel
+jaopca:avaritia_singularity.steel - 0
+
+
+singularityTerrasteel
+jaopca:avaritia_singularity.terrasteel - 0
+
+
+singularityThermoconducting
+jaopca:avaritia_singularity.thermoconducting - 0
+
+
+singularityThorium
+jaopca:avaritia_singularity.thorium - 0
+
+
+singularityThorium230
+jaopca:avaritia_singularity.thorium_230 - 0
+
+
+singularityThorium230Base
+jaopca:avaritia_singularity.thorium_230_base - 0
+
+
+singularityThorium230Oxide
+jaopca:avaritia_singularity.thorium_230_oxide - 0
+
+
+singularityThorium232
+jaopca:avaritia_singularity.thorium_232 - 0
+
+
+singularityThorium232Base
+jaopca:avaritia_singularity.thorium_232_base - 0
+
+
+singularityThorium232Oxide
+jaopca:avaritia_singularity.thorium_232_oxide - 0
+
+
+singularityThoriumOxide
+jaopca:avaritia_singularity.thorium_oxide - 0
+
+
+singularityTinSilver
+jaopca:avaritia_singularity.tin_silver - 0
+
+
+singularityTough
+jaopca:avaritia_singularity.tough - 0
+
+
+singularityUnsweetenedChocolate
+jaopca:avaritia_singularity.unsweetened_chocolate - 0
+
+
+singularityUranium
+jaopca:avaritia_singularity.uranium - 0
+
+
+singularityUranium233
+jaopca:avaritia_singularity.uranium_233 - 0
+
+
+singularityUranium233Base
+jaopca:avaritia_singularity.uranium_233_base - 0
+
+
+singularityUranium233Oxide
+jaopca:avaritia_singularity.uranium_233_oxide - 0
+
+
+singularityUranium235
+jaopca:avaritia_singularity.uranium_235 - 0
+
+
+singularityUranium235Base
+jaopca:avaritia_singularity.uranium_235_base - 0
+
+
+singularityUranium235Oxide
+jaopca:avaritia_singularity.uranium_235_oxide - 0
+
+
+singularityUranium238
+jaopca:avaritia_singularity.uranium_238 - 0
+
+
+singularityUranium238Base
+jaopca:avaritia_singularity.uranium_238_base - 0
+
+
+singularityUranium238Oxide
+jaopca:avaritia_singularity.uranium_238_oxide - 0
+
+
+singularityUraniumOxide
+jaopca:avaritia_singularity.uranium_oxide - 0
+
+
+singularityVilliaumite
+jaopca:avaritia_singularity.villiaumite - 0
+
+
+singularityZircaloy
+jaopca:avaritia_singularity.zircaloy - 0
+
+
+singularityZirconium
+jaopca:avaritia_singularity.zirconium - 0
+
+
 slabCobblestone
 minecraft:stone_slab - 3
 
@@ -9464,6 +10949,13 @@ minecraft:stone - 2
 
 
 stoneMarble
+astralsorcery:blockmarble - 0
+astralsorcery:blockmarble - 1
+astralsorcery:blockmarble - 2
+astralsorcery:blockmarble - 3
+astralsorcery:blockmarble - 4
+astralsorcery:blockmarble - 5
+astralsorcery:blockmarble - 6
 
 
 string
