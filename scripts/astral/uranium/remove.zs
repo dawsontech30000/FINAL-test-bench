@@ -1,7 +1,4 @@
 
-
-
-
 recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_235_oxide>);
 recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_235_za>);
 recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_238>);
@@ -20,4 +17,6 @@ recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_233_nitride>);
 recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_233_carbide>);
 recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_233>);
 recipes.remove(<jaopca:mysticalagriculture_seeds.uranium_233_all>);
+
+
 
