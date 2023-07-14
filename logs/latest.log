@@ -540,3 +540,80 @@ AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
 [13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_star_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
 [13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_ethereal_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
 [13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `psi_dampener`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in BreakIterator
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in VersionInfo
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 3 string constants in ULocale
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in BreakIteratorFactory
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in ICULocaleService$ICUResourceBundleFactory
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 6 string constants in UResourceBundle
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 12 string constants in ICUResourceBundle
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 11 string constants in ICUData
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 2 string constants in ICUResourceBundleReader$ReaderCache
+[13:34:55] [Client thread/INFO] [LibrarianLib ASM]: Shaded 1 string constants in ICUBinary
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.embers.EmbersModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.techreborn.TechRebornIndustrialIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.bcoreprocessing.BCOreProcessingModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.enderio.EnderIONonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.teslathingies.TeslaThingiesModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.magneticraft.MagneticraftNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.skyresources.SkyResourcesModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.magneticraft.MagneticraftTConstructModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.railcraft.RailcraftModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.ic2.IC2Module has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.futurepack.FuturepackModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.ic2.IC2CompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.futurepack.FuturepackNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.thaumcraft.ThaumcraftModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.mekanism.MekanismModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.integrateddynamics.IntegratedDynamicsNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.minestrapp.MinestrappModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.techreborn.TechRebornModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.agricraft.AgriCraftModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.foundry.FoundryModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.foundry.FoundryLiquidModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.techreborn.TechRebornIndustrialDustModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.mekanism.MekanismCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.tconstruct.TConstructCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.magneticraft.MagneticraftModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.abyssalcraft.AbyssalCraftCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.skyresources.SkyResourcesCrystalModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.thaumcraft.ThaumcraftCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.hbmntm.HBMNTMCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.abyssalcraft.AbyssalCraftModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.advancedrocketry.AdvancedRocketryModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.integrateddynamics.IntegratedDynamicsModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.advancedrocketry.AdvancedRocketryCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.tconstruct.TConstructModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.agricraft.AgriCraftMysticalAgricultureModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.embers.EmbersCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.techreborn.TechRebornIndustrialCrystalModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.railcraft.RailcraftNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.foundry.FoundryTConstructModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.exnihilocreatio.ExNihiloCreatioModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.thermalexpansion.ThermalExpansionMysticalAgricultureModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.magneticraft.MagneticraftCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.hbmntm.HBMNTMModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.mekanism.MekanismIC2Module has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.enderio.EnderIOModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.enderio.EnderIOCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jargca.compat.exnihilocreatio.ExNihiloCreatioNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.techreborn.TechRebornCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.foundry.FoundryCompatModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.mekanism.MekanismNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.modules.ModuleHandler]: Module thelm.jaopca.compat.minestrapp.MinestrappNonIngotModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.galacticraft.GalacticraftCoreOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.quark.QuarkOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.calculator.CalculatorOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.galacticraft.GalacticraftPlanetsOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.galaxyspace.GalaxySpaceOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.rftools.RFToolsOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.taiga.TAIGAOredictModule has missing mod dependencies, skipping
+[13:34:56] [Client thread/INFO] [thelm.jaopca.oredict.OredictHandler]: Oredict module thelm.jaopca.compat.aoa3.AoA3OredictModule has missing mod dependencies, skipping
+[13:34:57] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mysticaladaptations.tile_insanium_furnace`, expected `mysticaladaptations`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:57] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mysticaladaptations.tile_insanium_reprocessor`, expected `mysticaladaptations`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:57] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lighttileentity`, expected `notenoughwands`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:57] [Client thread/INFO] [FML]: Applying holder lookups
+[13:34:57] [Client thread/INFO] [FML]: Holder lookups applied
+[13:34:58] [Client thread/INFO] [FML]: Applying holder lookups
+[13:34:58] [Client thread/INFO] [FML]: Holder lookups applied
+[13:34:58] [Client thread/INFO] [thelm.jaopca.materials.MaterialHandler]: Added 520 materials
