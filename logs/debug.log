@@ -7343,3 +7343,44 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [13:34:58] [Client thread/DEBUG] [thelm.jaopca.materials.MaterialHandler]: Added plain gem material Rhodochrosite
 [13:34:58] [Client thread/DEBUG] [thelm.jaopca.materials.MaterialHandler]: Added plain gem material Villiaumite
 [13:34:58] [Client thread/INFO] [thelm.jaopca.materials.MaterialHandler]: Added 520 materials
+[13:35:05] [Client thread/INFO] [thelm.jaopca.recipes.RecipeHandler]: Registered 0 early recipes
+[13:35:05] [Client thread/INFO] [FML]: Applying holder lookups
+[13:35:05] [Client thread/DEBUG] [FML]: Unable to lookup inspirations:materials for public static net.minecraft.item.Item blusunrize.immersiveengineering.common.util.compat.InspirationsHelper.ITEM_MATERIAL. This means the object wasn't registered. It's likely just mod options.
+[13:35:05] [Client thread/DEBUG] [FML]: Unable to lookup natura:nether_green_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.greenLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[13:35:05] [Client thread/DEBUG] [FML]: Unable to lookup nates_foodcraft:oliveoilp for public static net.minecraft.potion.PotionType net.mcreator.nates_foodcraft.potion.PotionOliveOilP.potionType. This means the object wasn't registered. It's likely just mod options.
+[13:35:05] [Client thread/DEBUG] [FML]: Unable to lookup natura:nether_purple_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.purpleLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[13:35:05] [Client thread/DEBUG] [FML]: Unable to lookup thaumcraft:goggles for private static net.minecraft.item.Item vazkii.botania.common.crafting.recipe.HelmRevealingRecipe.goggles. This means the object wasn't registered. It's likely just mod options.
+[13:35:05] [Client thread/DEBUG] [FML]: Unable to lookup natura:nether_blue_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.blueLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[13:35:05] [Client thread/INFO] [FML]: Holder lookups applied
+[13:35:05] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SpecialFlowerModel$Loader$1 took 0.000s
+[13:35:05] [Client thread/INFO] [FML]: OBJLoader: Domain botania has been added.
+[13:35:06] [Client thread/INFO] [FML]: OBJLoader: Domain dungeonsmod has been added.
+[13:35:06] [Client thread/INFO] [FML]: OBJLoader: Domain magicbees has been added.
+[13:35:06] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - BasicCamoTrapBakedModel$ModelLoader took 0.000s
+[13:35:06] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - TurretBaseBakedModel$ModelLoader took 0.000s
+[13:35:06] [Client thread/INFO] [FML]: Applying holder lookups
+[13:35:06] [Client thread/DEBUG] [FML]: Unable to lookup inspirations:materials for public static net.minecraft.item.Item blusunrize.immersiveengineering.common.util.compat.InspirationsHelper.ITEM_MATERIAL. This means the object wasn't registered. It's likely just mod options.
+[13:35:06] [Client thread/DEBUG] [FML]: Unable to lookup natura:nether_green_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.greenLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[13:35:06] [Client thread/DEBUG] [FML]: Unable to lookup nates_foodcraft:oliveoilp for public static net.minecraft.potion.PotionType net.mcreator.nates_foodcraft.potion.PotionOliveOilP.potionType. This means the object wasn't registered. It's likely just mod options.
+[13:35:06] [Client thread/DEBUG] [FML]: Unable to lookup natura:nether_purple_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.purpleLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[13:35:06] [Client thread/DEBUG] [FML]: Unable to lookup thaumcraft:goggles for private static net.minecraft.item.Item vazkii.botania.common.crafting.recipe.HelmRevealingRecipe.goggles. This means the object wasn't registered. It's likely just mod options.
+[13:35:06] [Client thread/DEBUG] [FML]: Unable to lookup natura:nether_blue_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.blueLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[13:35:06] [Client thread/INFO] [FML]: Holder lookups applied
+[13:35:06] [Client thread/INFO] [FML]: Injecting itemstacks
+[13:35:06] [Client thread/TRACE] [FML]: Unable to find item with name techreborn:rubber_sapling
+[13:35:06] [Client thread/TRACE] [FML]: Unable to find item with name techreborn:rubber_log
+[13:35:06] [Client thread/INFO] [FML]: Itemstack injection complete
+[13:35:06] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[13:35:07] [Client thread/DEBUG] [FML]: Bar Finished: Loading sounds took 1.089s
+[13:35:07] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SoundHandler took 1.138s
+[13:35:07] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[13:35:07] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.002s
+[13:35:07] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.002s
+[13:35:08] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.015s
+[13:35:08] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.005s
+[13:35:08] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[13:35:08] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Texture Map took 0.000s
+[13:35:08] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[13:35:08] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:35:08] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[13:35:08] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
