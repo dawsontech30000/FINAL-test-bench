@@ -249,3 +249,6 @@ AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
 [13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
 [13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Fluid render hook
 [13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:20] [Client thread/ERROR] [FML]: The mod immersiveengineering is expecting signature 4cb49fcde3b43048c9889e0a3d083225da926334 for source ImmersiveEngineering-0.12-98.jar, however there is no signature matching that description
+[13:34:20] [Client thread/INFO] [STDOUT]: [blusunrize.immersiveengineering.ImmersiveEngineering:wrongSignature:175]: [Immersive Engineering/Error] THIS IS NOT AN OFFICIAL BUILD OF IMMERSIVE ENGINEERING! Found these fingerprints: []
+[13:34:20] [Client thread/INFO] [nuclearcraft]: Constructing NuclearCraft Script Addons...

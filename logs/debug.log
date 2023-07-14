@@ -3244,3 +3244,386 @@ AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
 [13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
 [13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.ModelHandler
 [13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.gui.GuiBase
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.structure.InWorldRender
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.animator.Animator for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.animator.Animator
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.RayWorldCollider
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.config.EasyConfigHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.network.PacketHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.TextureMapExporter
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.capability.CapabilityMod
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into librarianlib for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - LibrarianLib took 0.243s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod lootbags
+[13:34:19] [Client thread/TRACE] [FML]: Mod lootbags is using network checker : Accepting version 2.5.8.5
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod lootbags to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod lootbags accepts its own version (2.5.8.5)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into lootbags
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for lootbags
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for mal.lootbags.LootBags$RegistrationHandler for mod lootbags
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class mal.lootbags.LootBags$RegistrationHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into lootbags for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod lootbags
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Loot Bags took 0.032s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod timecore
+[13:34:19] [Client thread/TRACE] [FML]: Mod timecore is using network checker : Accepting version 1.0.1.1
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod timecore to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod timecore accepts its own version (1.0.1.1)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into timecore
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for timecore
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into timecore for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod timecore
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Time Core took 0.006s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod lootgames
+[13:34:19] [Client thread/TRACE] [FML]: Mod lootgames is using network checker : Accepting version 1.0.3.1
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod lootgames to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod lootgames accepts its own version (1.0.3.1)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for ru.timeconqueror.lootgames.config.LootGamesConfig for mod lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class ru.timeconqueror.lootgames.config.LootGamesConfig
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for ru.timeconqueror.lootgames.minigame.minesweeper.client.MSOverlayHandler for mod lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class ru.timeconqueror.lootgames.minigame.minesweeper.client.MSOverlayHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for ru.timeconqueror.lootgames.config.LGConfigGOL for mod lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class ru.timeconqueror.lootgames.config.LGConfigGOL
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for ru.timeconqueror.lootgames.config.LGConfigMinesweeper for mod lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class ru.timeconqueror.lootgames.config.LGConfigMinesweeper
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into lootgames for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod lootgames
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - LootGames took 0.083s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod lootoverhaul
+[13:34:19] [Client thread/TRACE] [FML]: Mod lootoverhaul is using network checker : Accepting version 1.2
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod lootoverhaul to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod lootoverhaul accepts its own version (1.2)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into lootoverhaul
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for lootoverhaul
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.tmtravlr.lootoverhaul.LootEventHandler for mod lootoverhaul
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.tmtravlr.lootoverhaul.LootEventHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into lootoverhaul for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod lootoverhaul
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Loot Overhaul took 0.018s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod lootr
+[13:34:19] [Client thread/TRACE] [FML]: Mod lootr is using network checker : Accepting version 0.6.1
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod lootr to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod lootr accepts its own version (0.6.1)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.init.ModEntities for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.init.ModEntities
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.init.ModTiles for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.init.ModTiles
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.init.ModBlocks for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.init.ModBlocks
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.block.tile.TileTicker for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.block.tile.TileTicker
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.event.HandleCart for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.event.HandleCart
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.event.HandleBreak for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.event.HandleBreak
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.event.HandleWorldGen for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.event.HandleWorldGen
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.init.ModItems for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.init.ModItems
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.config.ConfigManager for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.config.ConfigManager
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.setup.ClientSetup for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.setup.ClientSetup
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for noobanidus.mods.lootr.setup.CommonSetup for mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class noobanidus.mods.lootr.setup.CommonSetup
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into lootr for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod lootr
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Lootr took 0.045s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod lttweaker
+[13:34:19] [Client thread/TRACE] [FML]: Mod lttweaker is using network checker : Accepting version 1.1.14
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod lttweaker to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod lttweaker accepts its own version (1.1.14)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into lttweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for lttweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into lttweaker for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod lttweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Loot Table Tweaker took 0.007s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod looty
+[13:34:19] [Client thread/TRACE] [FML]: Mod looty is using network checker : Accepting version 0.0.1
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod looty to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod looty accepts its own version (0.0.1)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into looty
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for looty
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for neuroflow.looty.proxy.ClientProxy for mod looty
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class neuroflow.looty.proxy.ClientProxy
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for neuroflow.looty.proxy.CommonProxy for mod looty
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class neuroflow.looty.proxy.CommonProxy
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into looty for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod looty
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Looty took 0.006s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod magicbees
+[13:34:19] [Client thread/TRACE] [FML]: Mod magicbees is using network checker : Accepting version 1.0
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod magicbees to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod magicbees accepts its own version (1.0)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into magicbees
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for magicbees
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into magicbees for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod magicbees
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - MagicBees took 0.015s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod manatweaks
+[13:34:19] [Client thread/TRACE] [FML]: Mod manatweaks is using network checker : Accepting version 1.4
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod manatweaks to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod manatweaks accepts its own version (1.4)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into manatweaks
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for manatweaks
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for nihiltres.manatweaks.common.zen.classes.ManaDiscounter for mod manatweaks
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class nihiltres.manatweaks.common.zen.classes.ManaDiscounter
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into manatweaks for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod manatweaks
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - ManaTweaks took 0.006s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mysticalagriculture
+[13:34:19] [Client thread/TRACE] [FML]: Mod mysticalagriculture is using network checker : Accepting version 1.7.5
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod mysticalagriculture to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod mysticalagriculture accepts its own version (1.7.5)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mysticalagriculture
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mysticalagriculture
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mysticalagriculture for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mysticalagriculture
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mystical Agriculture took 0.013s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod matc
+[13:34:19] [Client thread/TRACE] [FML]: Mod matc is using network checker : Accepting version 1.0.1-hotfix
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod matc to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod matc accepts its own version (1.0.1-hotfix)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into matc
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for matc
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.ilovepie220.mysticalagricultureTC.ConfigMain for mod matc
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.ilovepie220.mysticalagricultureTC.ConfigMain
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.ilovepie220.mysticalagricultureTC.Main$RegistrationHandler for mod matc
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.ilovepie220.mysticalagricultureTC.Main$RegistrationHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.ilovepie220.mysticalagricultureTC.ConfigMain$EventHandler for mod matc
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.ilovepie220.mysticalagricultureTC.ConfigMain$EventHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.ilovepie220.mysticalagricultureTC.proxy.CommonProxy for mod matc
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.ilovepie220.mysticalagricultureTC.proxy.CommonProxy
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into matc for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod matc
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mystical Agriculture Tiered Crystals took 0.021s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcjtylib_ng
+[13:34:19] [Client thread/TRACE] [FML]: Mod mcjtylib_ng is using network checker : Accepting version 3.5.4
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod mcjtylib_ng to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod mcjtylib_ng accepts its own version (3.5.4)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mcjtylib_ng
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mcjtylib_ng
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mcjtylib_ng for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcjtylib_ng
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - McJtyLib took 0.017s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod modularrouters
+[13:34:19] [Client thread/TRACE] [FML]: Mod modularrouters is using network checker : Accepting version 1.12.2-3.3.0-33
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod modularrouters to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod modularrouters accepts its own version (1.12.2-3.3.0-33)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into modularrouters
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for modularrouters
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.core.RegistrarMR for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.core.RegistrarMR
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.util.FakePlayerManager for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.util.FakePlayerManager
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.smartfilter.ItemSmartFilter for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.smartfilter.ItemSmartFilter
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.event.TickEventHandler for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.event.TickEventHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.event.ClientEventHandler for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.event.ClientEventHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.upgrade.SecurityUpgrade$Interacted for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.upgrade.SecurityUpgrade$Interacted
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.recipe.ItemCraftedListener for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.recipe.ItemCraftedListener
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.upgrade.CamouflageUpgrade$Interacted for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.upgrade.CamouflageUpgrade$Interacted
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.config.ConfigHandler$ConfigSyncHandler for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.config.ConfigHandler$ConfigSyncHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.item.module.ItemModule for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.item.module.ItemModule
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for me.desht.modularrouters.event.MiscEventHandler for mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class me.desht.modularrouters.event.MiscEventHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into modularrouters for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod modularrouters
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Modular Routers took 0.106s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod numina
+[13:34:20] [Client thread/TRACE] [FML]: Mod numina is using network checker : Accepting version 1.0
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod numina to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod numina accepts its own version (1.0)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into numina
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for numina
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.numina.client.proxy.ClientProxy for mod numina
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.numina.client.proxy.ClientProxy
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.numina.common.config.NuminaSettings$ConfigSyncHandler for mod numina
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.numina.common.config.NuminaSettings$ConfigSyncHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into numina for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod numina
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Numina took 0.019s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod powersuits
+[13:34:20] [Client thread/TRACE] [FML]: Mod powersuits is using network checker : Accepting version 1.1.048
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod powersuits to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod powersuits accepts its own version (1.1.048)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into powersuits
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for powersuits
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.powersuits.common.base.MPSItems for mod powersuits
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.powersuits.common.base.MPSItems
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.machinemuse.powersuits.client.sound.SoundDictionary for mod powersuits
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.machinemuse.powersuits.client.sound.SoundDictionary
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into powersuits for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod powersuits
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - MachineMuse's Modular Powersuits took 0.123s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod morebees
+[13:34:20] [Client thread/TRACE] [FML]: Mod morebees is using network checker : Accepting version 1.12.2-2.0.1
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod morebees to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod morebees accepts its own version (1.12.2-2.0.1)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into morebees
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for morebees
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.tencao.morebees.ModConfig$ConfigurationHolder for mod morebees
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.tencao.morebees.ModConfig$ConfigurationHolder
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.tencao.morebees.events.MBRegistry for mod morebees
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.tencao.morebees.events.MBRegistry
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into morebees for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod morebees
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - More Bees took 0.028s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod morelootstuff
+[13:34:20] [Client thread/TRACE] [FML]: Mod morelootstuff is using network checker : Accepting version 0.0.5
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod morelootstuff to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod morelootstuff accepts its own version (0.0.5)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into morelootstuff
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for morelootstuff
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into morelootstuff for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod morelootstuff
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - More Loot Stuff took 0.013s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod moreloottables
+[13:34:20] [Client thread/TRACE] [FML]: Mod moreloottables is using network checker : No network checking performed
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod moreloottables to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod moreloottables accepts its own version (0.1.0)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into moreloottables
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for moreloottables
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into moreloottables for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod moreloottables
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - More Loot Tables took 0.007s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod moretweaker
+[13:34:20] [Client thread/TRACE] [FML]: Mod moretweaker is using network checker : Accepting version 1.0.19
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod moretweaker to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod moretweaker accepts its own version (1.0.19)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into moretweaker
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for moretweaker
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into moretweaker for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod moretweaker
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - MoreTweaker took 0.007s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mysticalagradditions
+[13:34:20] [Client thread/TRACE] [FML]: Mod mysticalagradditions is using network checker : Accepting version 1.3.2
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod mysticalagradditions to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod mysticalagradditions accepts its own version (1.3.2)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mysticalagradditions
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mysticalagradditions
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mysticalagradditions for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mysticalagradditions
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mystical Agradditions took 0.010s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod immersiveengineering
+[13:34:20] [Client thread/ERROR] [FML]: The mod immersiveengineering is expecting signature 4cb49fcde3b43048c9889e0a3d083225da926334 for source ImmersiveEngineering-0.12-98.jar, however there is no signature matching that description
+[13:34:20] [Client thread/TRACE] [FML]: Mod immersiveengineering is using network checker : Accepting version 0.12-98
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod immersiveengineering to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod immersiveengineering accepts its own version (0.12-98)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for blusunrize.immersiveengineering.common.Config for mod immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class blusunrize.immersiveengineering.common.Config
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for blusunrize.immersiveengineering.common.util.FakePlayerUtil for mod immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class blusunrize.immersiveengineering.common.util.FakePlayerUtil
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for blusunrize.immersiveengineering.client.ClientProxy for mod immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class blusunrize.immersiveengineering.client.ClientProxy
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for blusunrize.immersiveengineering.common.blocks.BlockIETileProvider for mod immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class blusunrize.immersiveengineering.common.blocks.BlockIETileProvider
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for blusunrize.immersiveengineering.common.IEContent for mod immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class blusunrize.immersiveengineering.common.IEContent
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into immersiveengineering for type INSTANCE
+[13:34:20] [Client thread/INFO] [STDOUT]: [blusunrize.immersiveengineering.ImmersiveEngineering:wrongSignature:175]: [Immersive Engineering/Error] THIS IS NOT AN OFFICIAL BUILD OF IMMERSIVE ENGINEERING! Found these fingerprints: []
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod immersiveengineering
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Immersive Engineering took 0.545s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mystagradcompat
+[13:34:20] [Client thread/TRACE] [FML]: Mod mystagradcompat is using network checker : Accepting version 1.2
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod mystagradcompat to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod mystagradcompat accepts its own version (1.2)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mystagradcompat
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mystagradcompat
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.nicjames2378.MystAgradCompat.proxy.ClientProxy for mod mystagradcompat
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.nicjames2378.MystAgradCompat.proxy.ClientProxy
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.nicjames2378.MystAgradCompat.proxy.CommonProxy for mod mystagradcompat
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.nicjames2378.MystAgradCompat.proxy.CommonProxy
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mystagradcompat for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mystagradcompat
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mystical Agradditions Compat took 0.006s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mysticaladaptations
+[13:34:20] [Client thread/TRACE] [FML]: Mod mysticaladaptations is using network checker : Accepting version 1.8.8
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod mysticaladaptations to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod mysticaladaptations accepts its own version (1.8.8)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mysticaladaptations
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mysticaladaptations
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.focamacho.mysticaladaptations.util.handlers.RegistryHandler for mod mysticaladaptations
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.focamacho.mysticaladaptations.util.handlers.RegistryHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mysticaladaptations for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mysticaladaptations
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mystical Adaptations took 0.012s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mysticalcreations
+[13:34:20] [Client thread/TRACE] [FML]: Mod mysticalcreations is using network checker : Accepting version 1.6.1
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod mysticalcreations to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod mysticalcreations accepts its own version (1.6.1)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mysticalcreations
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mysticalcreations
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.focamacho.mysticalcreations.util.handlers.RegistryHandler for mod mysticalcreations
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.focamacho.mysticalcreations.util.handlers.RegistryHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mysticalcreations for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mysticalcreations
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mystical Creations took 0.013s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod nates_foodcraft
+[13:34:20] [Client thread/TRACE] [FML]: Mod nates_foodcraft is using network checker : Accepting version 1.0.0
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod nates_foodcraft to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod nates_foodcraft accepts its own version (1.0.0)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into nates_foodcraft
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for nates_foodcraft
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into nates_foodcraft for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod nates_foodcraft
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Nate's Foodcraft took 0.017s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod notenoughwands
+[13:34:20] [Client thread/TRACE] [FML]: Mod notenoughwands is using network checker : Accepting version 1.8.1
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod notenoughwands to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod notenoughwands accepts its own version (1.8.1)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into notenoughwands
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for notenoughwands
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for romelo333.notenoughwands.setup.ClientRegistration for mod notenoughwands
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class romelo333.notenoughwands.setup.ClientRegistration
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for romelo333.notenoughwands.setup.Registration for mod notenoughwands
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class romelo333.notenoughwands.setup.Registration
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into notenoughwands for type INSTANCE
+[13:34:20] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod notenoughwands
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Step: Construction - Not Enough Wands took 0.015s
+[13:34:20] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod nuclearcraft
+[13:34:20] [Client thread/TRACE] [FML]: Mod nuclearcraft is using network checker : Accepting version 2o.6.2
+[13:34:20] [Client thread/TRACE] [FML]: Testing mod nuclearcraft to verify it accepts its own version in a remote connection
+[13:34:20] [Client thread/TRACE] [FML]: The mod nuclearcraft accepts its own version (2o.6.2)
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into nuclearcraft
+[13:34:20] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelTexturedFluid$FluidTexturedLoader took 0.000s
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for nuclearcraft
+[13:34:20] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for nc.worldgen.biome.NCBiomes$RegistrationHandler for mod nuclearcraft
+[13:34:20] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class nc.worldgen.biome.NCBiomes$RegistrationHandler
+[13:34:20] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into nuclearcraft for type INSTANCE
+[13:34:20] [Client thread/INFO] [nuclearcraft]: Constructing NuclearCraft Script Addons...
