@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2023-07-14 18:59:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "jungle": "2023-07-14 13:08:07 +0100"

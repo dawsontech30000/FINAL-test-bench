@@ -303,3 +303,16 @@ cfm:mountable_block - 300
 mekanism:obsidiantnt - 301
 biomesoplenty:mudball - 302
 cfm:mirror - 303
+byg:petrifiedzombie - 304
+tconstruct:shuriken - 305
+byg:petrifiedspider - 306
+tconstruct:bolt - 307
+byg:fungalzombie - 308
+darkutils:fake_tnt - 309
+tconstruct:fancy_frame - 310
+tconstruct:blueslime - 311
+byg:kiwibird - 312
+byg:ivorywoodpecker - 313
+tconstruct:throwball - 314
+tconstruct:arrow - 315
+tconstruct:indestructible - 316

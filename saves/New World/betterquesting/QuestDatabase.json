@@ -6207,12 +6207,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "tconstruct:pattern",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "tconstruct:pattern"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -6236,479 +6232,331 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "tconstruct:pattern"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "conarm:leggings_core"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "conarm:leggings_core"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:binding"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:binding"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:bow_limb"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:bow_limb"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:arrow_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:arrow_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:excavator_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:excavator_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "6:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:shard"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:shard"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "7:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:bow_string"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:bow_string"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "8:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "conarm:chest_core"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "conarm:chest_core"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "9:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:hand_guard"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:hand_guard"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "10:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:axe_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:axe_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "11:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "plustic:pipe_piece"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "plustic:pipe_piece"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "12:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:shovel_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:shovel_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "13:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:large_plate"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:large_plate"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "14:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "plustic:battery_cell"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "plustic:battery_cell"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "15:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "plustic:laser_medium"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "plustic:laser_medium"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "16:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:tough_binding"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:tough_binding"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "17:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:cross_guard"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:cross_guard"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "18:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:sword_blade"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:sword_blade"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "19:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:pick_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:pick_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "20:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "conarm:armor_trim"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "conarm:armor_trim"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "21:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:hammer_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:hammer_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "22:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:broad_axe_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:broad_axe_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "23:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "conarm:polishing_kit"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "conarm:polishing_kit"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "24:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:tough_tool_rod"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:tough_tool_rod"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "25:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "conarm:helmet_core"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "conarm:helmet_core"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "26:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:fletching"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:fletching"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "27:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:large_sword_blade"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:large_sword_blade"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "28:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:arrow_shaft"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:arrow_shaft"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "29:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:wide_guard"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:wide_guard"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "30:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:tool_rod"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:tool_rod"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "31:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:scythe_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:scythe_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "32:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:sharpening_kit"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:sharpening_kit"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "33:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:sign_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:sign_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "34:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "conarm:boots_core"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "conarm:boots_core"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "35:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:kama_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:kama_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "36:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:pattern",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "PartType:8": "tconstruct:pan_head"
-                },
-                "orig_id:8": "tconstruct:pattern"
+                "PartType:8": "tconstruct:pan_head"
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -8993,100 +8841,99 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "tconstruct:book",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "akashictome:displayName:8": "Materials and You",
-                "akashictome:definedMod:8": "tconstruct",
-                "akashictome:is_morphing:1": 1,
-                "display:10": {
-                  "Name:8": "§rAkashic Tome (§aMaterials and You§r)"
-                },
-                "mantle:10": {
-                  "book:10": {
-                    "page:8": "high_oven.info"
-                  }
-                },
-                "akashictome:data:10": {
-                  "silentgems:10": {
-                    "id:8": "silentgems:guide_book",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "silentgems"
-                    },
-                    "Damage:2": 0
-                  },
-                  "mysticalworld:10": {
-                    "id:8": "patchouli:guide_book",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "mysticalworld",
-                      "patchouli:book:8": "mysticalworld:world_guide"
-                    },
-                    "Damage:2": 0
-                  },
-                  "astralsorcery:10": {
-                    "id:8": "astralsorcery:itemjournal",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "astralsorcery"
-                    },
-                    "Damage:2": 0
-                  },
-                  "theoneprobe:10": {
-                    "id:8": "theoneprobe:probenote",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "theoneprobe"
-                    },
-                    "Damage:2": 0
-                  },
-                  "conarm:10": {
-                    "id:8": "conarm:book",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "conarm"
-                    },
-                    "Damage:2": 0
-                  },
-                  "opencomputers:10": {
-                    "id:8": "opencomputers:tool",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "opencomputers"
-                    },
-                    "Damage:2": 4
-                  },
-                  "valkyrielib:10": {
-                    "id:8": "valkyrielib:guide",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "valkyrielib"
-                    },
-                    "Damage:2": 0
-                  },
-                  "cyclicmagic:10": {
-                    "id:8": "guideapi:cyclicmagic-guide",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "cyclicmagic"
-                    },
-                    "Damage:2": 0
-                  },
-                  "nuclearcraft:10": {
-                    "id:8": "patchouli:guide_book",
-                    "Count:3": 1,
-                    "tag:10": {
-                      "akashictome:definedMod:8": "nuclearcraft",
-                      "patchouli:book:8": "nuclearcraft:guide"
-                    },
-                    "Damage:2": 0
-                  }
+              "akashictome:displayName:8": "Materials and You",
+              "akashictome:definedMod:8": "tconstruct",
+              "akashictome:is_morphing:1": 1,
+              "display:10": {
+                "Name:8": "§rAkashic Tome (§aMaterials and You§r)"
+              },
+              "mantle:10": {
+                "book:10": {
+                  "page:8": "high_oven.info"
                 }
               },
-              "orig_id:8": "tconstruct:book"
+              "akashictome:data:10": {
+                "silentgems:10": {
+                  "id:8": "silentgems:guide_book",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "silentgems"
+                  },
+                  "Damage:2": 0
+                },
+                "mysticalworld:10": {
+                  "id:8": "patchouli:guide_book",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "mysticalworld",
+                    "patchouli:book:8": "mysticalworld:world_guide"
+                  },
+                  "Damage:2": 0
+                },
+                "astralsorcery:10": {
+                  "id:8": "astralsorcery:itemjournal",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "astralsorcery"
+                  },
+                  "Damage:2": 0
+                },
+                "theoneprobe:10": {
+                  "id:8": "theoneprobe:probenote",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "theoneprobe"
+                  },
+                  "Damage:2": 0
+                },
+                "conarm:10": {
+                  "id:8": "conarm:book",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "conarm"
+                  },
+                  "Damage:2": 0
+                },
+                "opencomputers:10": {
+                  "id:8": "opencomputers:tool",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "opencomputers"
+                  },
+                  "Damage:2": 4
+                },
+                "valkyrielib:10": {
+                  "id:8": "valkyrielib:guide",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "valkyrielib"
+                  },
+                  "Damage:2": 0
+                },
+                "cyclicmagic:10": {
+                  "id:8": "guideapi:cyclicmagic-guide",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "cyclicmagic"
+                  },
+                  "Damage:2": 0
+                },
+                "nuclearcraft:10": {
+                  "id:8": "patchouli:guide_book",
+                  "Count:3": 1,
+                  "tag:10": {
+                    "akashictome:definedMod:8": "nuclearcraft",
+                    "patchouli:book:8": "nuclearcraft:guide"
+                  },
+                  "Damage:2": 0
+                }
+              }
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -9111,93 +8958,65 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:toolforge",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "textureBlock:10": {
-                    "id:8": "minecraft:iron_block",
-                    "Count:3": 1,
-                    "Damage:2": 0
-                  }
-                },
-                "orig_id:8": "tconstruct:toolforge"
+                "textureBlock:10": {
+                  "id:8": "minecraft:iron_block",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                }
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:tooltables",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 3,
-                "orig_id:8": "tconstruct:tooltables"
-              },
               "Damage:2": 3,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:tooltables",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "tconstruct:tooltables"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:tooltables",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 1,
-                "orig_tag:10": {
-                  "textureBlock:10": {
-                    "id:8": "minecraft:planks",
-                    "Count:3": 1,
-                    "Damage:2": 0
-                  }
-                },
-                "orig_id:8": "tconstruct:tooltables"
+                "textureBlock:10": {
+                  "id:8": "minecraft:planks",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                }
               },
               "Damage:2": 1,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:tooltables",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 2,
-                "orig_tag:10": {
-                  "textureBlock:10": {
-                    "id:8": "minecraft:log",
-                    "Count:3": 1,
-                    "Damage:2": 0
-                  }
-                },
-                "orig_id:8": "tconstruct:tooltables"
+                "textureBlock:10": {
+                  "id:8": "minecraft:log",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                }
               },
               "Damage:2": 2,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:tooltables",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 5,
-                "orig_id:8": "tconstruct:tooltables"
-              },
               "Damage:2": 5,
               "OreDict:8": ""
             },
             "6:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "tconstruct:tooltables",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_id:8": "tconstruct:tooltables"
-              },
               "Damage:2": 4,
               "OreDict:8": ""
             },

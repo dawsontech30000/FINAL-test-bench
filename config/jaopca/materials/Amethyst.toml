@@ -21,3 +21,7 @@
 	#Should the singularity be added to the Infinity Catalyst recipe.
 	addToCatalyst = true
 
+[molten]
+	#The temperature of this molten fluid.
+	temperature = 1000
+
