@@ -100,3 +100,4 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [18:59:47] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\waypoints
 [18:59:48] [Client thread/INFO] [JourneymapClient] Mapping started in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0. Memory: 7160MB total, 480MB free 
 [18:59:48] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[19:08:47] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0

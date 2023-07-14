@@ -433,3 +433,522 @@
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Applying MrCrayfish's Furniture Mod changes...
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[SERVER_STARTED][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [nc_preinit], [crafttweaker | recipeevent], [reloadable]]
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [reloadable | reloadableevents]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Awolf.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallix.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallixium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Red hellite.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Skitso.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Star.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Violet.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Xaelium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Xodias.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\babi.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\black.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\blue.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\crao.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\dilloy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\irgend.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\kylian.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\mac.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\orange.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\purple.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\ramm.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\red.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\starwars.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\techguy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\white.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\yellow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[3:contenttweaker]: custom item2\custom\custom2.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[2:contenttweaker]: custom item2\custom\custom1.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\jaopcablockamericium_241.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\remove.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: astral\uranium\testfile.zs}
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:64: Could not resolve <jaopca : avaritia_singularity . plutonium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:65: Could not resolve <jaopca : block . plutonium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:79: Could not resolve <jaopca : avaritia_singularity . plutonium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:80: Could not resolve <jaopca : block . plutonium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:94: Could not resolve <jaopca : avaritia_singularity . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:95: Could not resolve <jaopca : block . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:110: Could not resolve <jaopca : avaritia_singularity . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:111: Could not resolve <jaopca : block . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:127: Could not resolve <jaopca : avaritia_singularity . plutonium>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:128: Could not resolve <zollerngalaxy : plutoniumblock>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:130: Could not resolve <jaopca : avaritia_singularity . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:131: Could not resolve <jaopca : block . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:145: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:146: Could not resolve <jaopca : block . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:161: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:162: Could not resolve <jaopca : block . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:176: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:177: Could not resolve <jaopca : block . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:191: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:192: Could not resolve <jaopca : block . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:206: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:207: Could not resolve <jaopca : block . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:218: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:219: Could not resolve <jaopca : block . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:233: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:234: Could not resolve <jaopca : block . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:250: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:251: Could not resolve <jaopca : block . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:253: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:254: Could not resolve <jaopca : block . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:268: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:269: Could not resolve <jaopca : block . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:283: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:284: Could not resolve <jaopca : block . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:300: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:301: Could not resolve <jaopca : block . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:315: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:316: Could not resolve <jaopca : block . americium_241_z_a>
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium-238.block.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\Uranium-238.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\custom3.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\henny_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\hex_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N13.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n14.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N15.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n16.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\dilloy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallix.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallixium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\mac.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Red hellite.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Awolf.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\babi.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\crao.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\irgend.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\kylian.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\ramm.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Skitso.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\techguy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Violet.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Xodias.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\starwars.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\thermal12.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\black.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\blue.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\orange.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\purple.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\red.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\white.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\yellow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Xaelium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: firststage\dungeonLootScript.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: firststage\my_loot_table.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 23ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [reloadable | reloadableevents]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Awolf.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallix.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallixium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Red hellite.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Skitso.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Star.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Violet.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Xaelium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Xodias.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\babi.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\black.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\blue.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\crao.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\dilloy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\irgend.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\kylian.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\mac.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\orange.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\purple.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\ramm.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\red.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\starwars.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\techguy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\white.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\yellow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[3:contenttweaker]: custom item2\custom\custom2.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[2:contenttweaker]: custom item2\custom\custom1.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\jaopcablockamericium_241.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\remove.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: astral\uranium\testfile.zs}
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:77: Could not resolve <jaopca : avaritia_singularity . plutonium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:78: Could not resolve <jaopca : block . plutonium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:92: Could not resolve <jaopca : avaritia_singularity . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:93: Could not resolve <jaopca : block . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:108: Could not resolve <jaopca : avaritia_singularity . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:109: Could not resolve <jaopca : block . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:125: Could not resolve <jaopca : avaritia_singularity . plutonium>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:126: Could not resolve <zollerngalaxy : plutoniumblock>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:128: Could not resolve <jaopca : avaritia_singularity . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:129: Could not resolve <jaopca : block . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:143: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:144: Could not resolve <jaopca : block . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:159: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:160: Could not resolve <jaopca : block . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:174: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:175: Could not resolve <jaopca : block . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:189: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:190: Could not resolve <jaopca : block . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:204: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:205: Could not resolve <jaopca : block . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:216: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:217: Could not resolve <jaopca : block . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:231: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:232: Could not resolve <jaopca : block . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:248: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:249: Could not resolve <jaopca : block . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:251: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:252: Could not resolve <jaopca : block . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:266: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:267: Could not resolve <jaopca : block . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:281: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:282: Could not resolve <jaopca : block . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:298: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:299: Could not resolve <jaopca : block . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:313: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:314: Could not resolve <jaopca : block . americium_241_z_a>
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium-238.block.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\Uranium-238.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\custom3.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\henny_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\hex_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N13.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n14.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N15.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n16.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\dilloy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallix.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallixium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\mac.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Red hellite.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Awolf.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\babi.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\crao.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\irgend.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\kylian.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\ramm.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Skitso.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\techguy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Violet.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Xodias.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\starwars.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\thermal12.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\black.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\blue.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\orange.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\purple.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\red.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\white.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\yellow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Xaelium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: firststage\dungeonLootScript.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: firststage\my_loot_table.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 11ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [reloadable | reloadableevents]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Awolf.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallix.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallixium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Red hellite.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Skitso.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Star.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Violet.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Xaelium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Xodias.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\babi.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\black.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\blue.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\crao.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\dilloy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\irgend.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\kylian.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\mac.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\orange.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\purple.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\ramm.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\red.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\starwars.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\techguy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\white.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\yellow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[3:contenttweaker]: custom item2\custom\custom2.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[2:contenttweaker]: custom item2\custom\custom1.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\jaopcablockamericium_241.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\remove.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: astral\uranium\testfile.zs}
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:89: Could not resolve <jaopca : avaritia_singularity . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:90: Could not resolve <jaopca : block . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:105: Could not resolve <jaopca : avaritia_singularity . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:106: Could not resolve <jaopca : block . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:122: Could not resolve <jaopca : avaritia_singularity . plutonium>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:123: Could not resolve <zollerngalaxy : plutoniumblock>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:125: Could not resolve <jaopca : avaritia_singularity . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:126: Could not resolve <jaopca : block . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:140: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:141: Could not resolve <jaopca : block . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:156: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:157: Could not resolve <jaopca : block . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:171: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:172: Could not resolve <jaopca : block . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:186: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:187: Could not resolve <jaopca : block . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:201: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:202: Could not resolve <jaopca : block . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:213: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:214: Could not resolve <jaopca : block . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:228: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:229: Could not resolve <jaopca : block . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:245: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:246: Could not resolve <jaopca : block . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:248: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:249: Could not resolve <jaopca : block . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:263: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:264: Could not resolve <jaopca : block . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:278: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:279: Could not resolve <jaopca : block . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:295: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:296: Could not resolve <jaopca : block . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:310: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:311: Could not resolve <jaopca : block . americium_241_z_a>
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium-238.block.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\Uranium-238.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\custom3.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\henny_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\hex_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N13.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n14.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N15.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n16.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\dilloy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallix.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallixium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\mac.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Red hellite.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Awolf.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\babi.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\crao.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\irgend.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\kylian.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\ramm.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Skitso.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\techguy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Violet.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Xodias.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\starwars.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\thermal12.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\black.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\blue.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\orange.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\purple.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\red.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\white.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\yellow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Xaelium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: firststage\dungeonLootScript.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: firststage\my_loot_table.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 9ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [reloadable | reloadableevents]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Awolf.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallix.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Lallixium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Red hellite.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Skitso.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Star.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Violet.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\Xaelium.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\Xodias.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\babi.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\black.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\blue.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\crao.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\dilloy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\irgend.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\kylian.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\mac.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\orange.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\purple.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\ramm.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\red.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\starwars.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\techguy.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\white.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\tiger\yellow.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] Ignoring script {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[3:contenttweaker]: custom item2\custom\custom2.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[2:contenttweaker]: custom item2\custom\custom1.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\jaopcablockamericium_241.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\remove.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: astral\uranium\testfile.zs}
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:89: Could not resolve <jaopca : avaritia_singularity . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:90: Could not resolve <jaopca : block . plutonium_239_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:105: Could not resolve <jaopca : avaritia_singularity . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:106: Could not resolve <jaopca : block . plutonium_238_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:122: Could not resolve <jaopca : avaritia_singularity . plutonium>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:123: Could not resolve <zollerngalaxy : plutoniumblock>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:125: Could not resolve <jaopca : avaritia_singularity . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:126: Could not resolve <jaopca : block . curium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:140: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:141: Could not resolve <jaopca : block . curium_246_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:156: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:157: Could not resolve <jaopca : block . curium_245_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:171: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:172: Could not resolve <jaopca : block . curium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:186: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:187: Could not resolve <jaopca : block . californium_252_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:201: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:202: Could not resolve <jaopca : block . californium_251_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:213: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:214: Could not resolve <jaopca : block . californium_250_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:228: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:229: Could not resolve <jaopca : block . californium_249_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:244: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:245: Could not resolve <jaopca : block . caesium_137>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:247: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:248: Could not resolve <jaopca : block . berkelium_248_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:262: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:263: Could not resolve <jaopca : block . berkelium_247_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:277: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:278: Could not resolve <jaopca : block . americium_243_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:294: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:295: Could not resolve <jaopca : block . americium_242_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:309: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[SERVER_STARTED][SERVER][ERROR] astral\uranium\testfile.zs:310: Could not resolve <jaopca : block . americium_241_z_a>
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium-238.block.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\Uranium-238.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_233_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_235_za.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_carbide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_nitride.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: astral\uranium\uranium_238_oxide.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\custom3.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\henny_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\hex_star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N13.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n14.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\N15.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\custom\n16.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\dilloy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallix.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Lallixium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\mac.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Red hellite.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Awolf.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\babi.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\crao.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dawsondude.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\dustcrafter.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\FirstTimeGaming.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\irgend.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\kylian.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\ramm.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Skitso.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Star.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\techguy.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Violet.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\Xodias.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\staff\zephyrus.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\starwars.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\thermal12.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\Arkomediez.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\black.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\blue.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\lightpink.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\orange.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\purple.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\rainbow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\red.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\white.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\tiger\yellow.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: custom item2\Xaelium.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: firststage\dungeonLootScript.zs} as we are currently loading with a different loader
+[SERVER_STARTED][SERVER][INFO] [reloadable | SIDE_CLIENT]: Loading Script: {[0:crafttweaker|reloadable]: firststage\my_loot_table.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 9ms
