@@ -1,4 +1,6 @@
-// main 
+
+
+
 
 //----------------------------------------------------------------------------------------------------------
 mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:infinite_singularity>, 
@@ -241,6 +243,8 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.californium_249>, 
 <jaopca:block.californium_249>, 100000000, <extendedcrafting:material:11>, 100000);
 
+
+// ----------------------------------------------
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.caesium_137>, 
 <jaopca:block.caesium_137>, 100000000, <extendedcrafting:material:11>, 100000);
 
@@ -284,7 +288,7 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_243_nitride>, 
 <jaopca:block.americium_243_nitride>, 100000000, <extendedcrafting:material:11>, 100000);
 
-
+// ----------------------------------------------
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_243_carbide>, 
 <jaopca:block.americium_243_carbide>, 100000000, <extendedcrafting:material:11>, 100000);
 
@@ -326,9 +330,6 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.ferroboron>, 
 <jaopca:block.ferroboron>, 100000000, <extendedcrafting:material:11>, 100000);
-
-
-mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <contenttweaker:powerful_singularity> * 1, [[<jaopca:avaritia_singularity.americium_241>, <jaopca:avaritia_singularity.americium_242_z_a>, <jaopca:avaritia_singularity.americium_243>, <jaopca:avaritia_singularity.americium_243_carbide>, <jaopca:avaritia_singularity.americium_243_nitride>, <jaopca:avaritia_singularity.americium_243_oxide>, <jaopca:avaritia_singularity.americium_243_z_a>, <jaopca:avaritia_singularity.americium_241_carbide>, <jaopca:avaritia_singularity.americium_241_nitride>], [<jaopca:avaritia_singularity.berkelium_248_z_a>, <jaopca:avaritia_singularity.berkelium_248_oxide>, <jaopca:avaritia_singularity.berkelium_247>, <jaopca:avaritia_singularity.berkelium_247_carbide>, <jaopca:avaritia_singularity.americium_242_nitride>, <jaopca:avaritia_singularity.americium_242_carbide>, <jaopca:avaritia_singularity.americium_242>, <jaopca:avaritia_singularity.americium_241_z_a>, <jaopca:avaritia_singularity.americium_241_oxide>],[<jaopca:avaritia_singularity.berkelium_247_nitride>, <jaopca:avaritia_singularity.berkelium_247_oxide>, <jaopca:avaritia_singularity.berkelium_247_z_a>, <jaopca:avaritia_singularity.berkelium_248>, <jaopca:avaritia_singularity.berkelium_248_carbide>, <jaopca:avaritia_singularity.berkelium_248_nitride>, <jaopca:avaritia_singularity.californium_250_oxide>, <jaopca:avaritia_singularity.californium_251>, <jaopca:avaritia_singularity.californium_250_z_a>],[<jaopca:avaritia_singularity.californium_252_nitride>, <jaopca:avaritia_singularity.californium_252_oxide>, <jaopca:avaritia_singularity.californium_252_z_a>, <jaopca:avaritia_singularity.californium_252_carbide>, <jaopca:avaritia_singularity.californium_252>, <jaopca:avaritia_singularity.californium_251_z_a>, <jaopca:avaritia_singularity.californium_251_oxide>, <jaopca:avaritia_singularity.californium_251_nitride>, <jaopca:avaritia_singularity.californium_251_carbide>],[<jaopca:avaritia_singularity.californium_249>, <jaopca:avaritia_singularity.californium_249_carbide>, <jaopca:avaritia_singularity.californium_249_nitride>, <jaopca:avaritia_singularity.californium_249_oxide>, <jaopca:avaritia_singularity.californium_249_z_a>, <jaopca:avaritia_singularity.californium_250>, <jaopca:avaritia_singularity.californium_250_carbide>, <jaopca:avaritia_singularity.californium_250_nitride>, <jaopca:avaritia_singularity.curium_247_oxide>],[<jaopca:avaritia_singularity.curium_247_z_a>, <jaopca:avaritia_singularity.curium_246>, <jaopca:avaritia_singularity.curium_246_carbide>, <jaopca:avaritia_singularity.curium_246_nitride>, <jaopca:avaritia_singularity.curium_246_oxide>, <jaopca:avaritia_singularity.curium_246_z_a>, <jaopca:avaritia_singularity.curium_247>, <jaopca:avaritia_singularity.curium_247_carbide>, <jaopca:avaritia_singularity.curium_247_nitride>],[<jaopca:avaritia_singularity.curium_243>, <jaopca:avaritia_singularity.curium_243_carbide>, <jaopca:avaritia_singularity.curium_243_nitride>, <jaopca:avaritia_singularity.curium_243_oxide>, <jaopca:avaritia_singularity.curium_243_z_a>, <jaopca:avaritia_singularity.curium_245>, <jaopca:avaritia_singularity.curium_245_carbide>, <jaopca:avaritia_singularity.curium_245_nitride>, <jaopca:avaritia_singularity.curium_245_oxide>],[<jaopca:avaritia_singularity.tough>, <jaopca:avaritia_singularity.ferroboron>, <jaopca:avaritia_singularity.plutonium_239_z_a>, <jaopca:avaritia_singularity.plutonium_241>, <jaopca:avaritia_singularity.plutonium_241_carbide>, <jaopca:avaritia_singularity.plutonium_241_nitride>, <jaopca:avaritia_singularity.plutonium_241_oxide>, <jaopca:avaritia_singularity.plutonium_241_z_a>, <jaopca:avaritia_singularity.plutonium_242>],[<jaopca:avaritia_singularity.plutonium_238_z_a>, <jaopca:avaritia_singularity.plutonium_239>, <jaopca:avaritia_singularity.plutonium_239_carbide>, <jaopca:avaritia_singularity.plutonium_239_nitride>, <jaopca:avaritia_singularity.plutonium_242_oxide>, <jaopca:avaritia_singularity.plutonium_242_z_a>, <jaopca:avaritia_singularity.polonium>, <jaopca:avaritia_singularity.plutonium_242_nitride>, <jaopca:avaritia_singularity.plutonium_242_carbide>]]);
 
 
 
