@@ -13,3 +13,7 @@
 	#The model type of the material.
 	modelType = "metallic"
 
+[mysticalagriculture]
+	#The crop tier of this material.
+	tier = 3
+
