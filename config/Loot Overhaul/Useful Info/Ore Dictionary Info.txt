@@ -159,6 +159,10 @@ blockApatite
 forestry:resource_storage - 0
 
 
+blockAphWolf
+contenttweaker:sub_block_holder_3 - 0
+
+
 blockAquamarine
 jaopca:block.aquamarine - 0
 
@@ -221,6 +225,14 @@ jaopca:block.berkelium_248_za - 0
 
 blockBeryllium
 nuclearcraft:ingot_block - 9
+
+
+blockBlackIron
+extendedcrafting:storage - 0
+
+
+blockBlacktiger
+contenttweaker:sub_block_holder_1 - 1
 
 
 blockBlaze
@@ -370,6 +382,10 @@ blockCarobbiite
 jaopca:block.carobbiite - 0
 
 
+blockCertusQuartz
+jaopca:block.certus_quartz - 0
+
+
 blockCharcoal
 forestry:charcoal - 0
 
@@ -406,6 +422,10 @@ avaritia:block_resource - 0
 
 blockCrystalMatrix
 avaritia:block_resource - 2
+
+
+blockCrystaltine
+extendedcrafting:storage - 3
 
 
 blockCurium243
@@ -944,6 +964,10 @@ blockDiamond
 minecraft:diamond_block - 0
 
 
+blockDillapis
+contenttweaker:sub_block_holder_2 - 15
+
+
 blockElectrum
 immersiveengineering:storage - 7
 
@@ -966,6 +990,10 @@ jaopca:block.extreme - 0
 
 blockFerroboron
 jaopca:block.ferroboron - 0
+
+
+blockFirstTimeGaming
+contenttweaker:sub_block_holder_2 - 3
 
 
 blockFissionModerator
@@ -1699,6 +1727,14 @@ blockLEU235ZA
 jaopca:block.leu_235_za - 0
 
 
+blockLallix
+contenttweaker:sub_block_holder_2 - 10
+
+
+blockLallixium
+contenttweaker:sub_block_holder_1 - 5
+
+
 blockLapis
 minecraft:lapis_block - 0
 
@@ -1726,6 +1762,10 @@ jaopca:block.lithium_7 - 0
 
 blockLithiumManganeseDioxide
 jaopca:block.lithium_manganese_dioxide - 0
+
+
+blockLuminessence
+extendedcrafting:storage - 1
 
 
 blockMIX239
@@ -1870,11 +1910,16 @@ jaopca:block.neptunium_237_za - 0
 
 
 blockNetherStar
+extendedcrafting:storage - 2
 mysticaladaptations:netherstar_block - 0
 
 
 blockNickel
 immersiveengineering:storage - 4
+
+
+blockOrangetiger
+contenttweaker:sub_block_holder_1 - 7
 
 
 blockPackedIce
@@ -2084,6 +2129,10 @@ botania:quartztypesunny - 3
 botania:quartztypesunny - 4
 
 
+blockRedhellite
+contenttweaker:sub_block_holder_0 - 3
+
+
 blockRedstone
 minecraft:redstone_block - 0
 
@@ -2154,6 +2203,14 @@ immersiveengineering:storage - 3
 dungeontactics:silver_block - 0
 
 
+blockSkitso
+contenttweaker:sub_block_holder_2 - 8
+
+
+blockSkymium
+contenttweaker:sub_block_holder_0 - 13
+
+
 blockSlime
 minecraft:slime - 0
 
@@ -2215,6 +2272,10 @@ blockTBUZA
 jaopca:block.tbuza - 0
 
 
+blockTechGuy
+contenttweaker:sub_block_holder_1 - 12
+
+
 blockTerrasteel
 jaopca:block.terrasteel - 0
 
@@ -2242,6 +2303,10 @@ minecraft:torch - 0
 
 blockTough
 jaopca:block.tough - 0
+
+
+blockUltimate
+extendedcrafting:storage - 4
 
 
 blockUnsweetenedChocolate
@@ -2329,6 +2394,14 @@ blockVilliaumite
 jaopca:block.villiaumite - 0
 
 
+blockViolet
+contenttweaker:sub_block_holder_0 - 4
+
+
+blockWarlock
+contenttweaker:sub_block_holder_2 - 9
+
+
 blockWool
 minecraft:wool - any
 
@@ -2397,7 +2470,19 @@ blockWoolYellow
 minecraft:wool - 4
 
 
+blockXaelium
+contenttweaker:sub_block_holder_1 - 0
+
+
+blockXodias
+contenttweaker:sub_block_holder_2 - 12
+
+
 blockYellorium
+
+
+blockZephyrus
+contenttweaker:sub_block_holder_2 - 5
 
 
 blockZircaloy
@@ -2410,6 +2495,70 @@ nuclearcraft:ingot_block - 10
 
 blockZirconiumMolybdenum
 jaopca:block.zirconium_molybdenum - 0
+
+
+blockbluetiger
+contenttweaker:sub_block_holder_0 - 11
+
+
+blockcrao
+contenttweaker:sub_block_holder_0 - 10
+
+
+blockdawsondude
+contenttweaker:sub_block_holder_2 - 2
+
+
+blockdustcrafter
+contenttweaker:sub_block_holder_3 - 8
+
+
+blockirg
+contenttweaker:sub_block_holder_2 - 0
+
+
+blockkylian
+contenttweaker:sub_block_holder_1 - 15
+
+
+blockpinktiger
+contenttweaker:sub_block_holder_0 - 6
+
+
+blockpurpletiger
+contenttweaker:sub_block_holder_1 - 4
+
+
+blockrainbowtiger
+contenttweaker:sub_block_holder_0 - 0
+
+
+blockramm
+contenttweaker:sub_block_holder_2 - 13
+
+
+blockredtiger
+contenttweaker:sub_block_holder_3 - 4
+
+
+blockstar
+contenttweaker:sub_block_holder_3 - 5
+
+
+blockstarwars
+contenttweaker:sub_block_holder_0 - 7
+
+
+blocktiger
+contenttweaker:sub_block_holder_2 - 7
+
+
+blockwhitetiger
+contenttweaker:sub_block_holder_3 - 11
+
+
+blockyellowtiger
+contenttweaker:sub_block_holder_1 - 9
 
 
 bone
@@ -3505,6 +3654,10 @@ cruxAmericium243ZA
 jaopca:mysticalagriculture_crux.americium_243_za - 0
 
 
+cruxAphWolf
+jaopca:mysticalagriculture_crux.aph_wolf - 0
+
+
 cruxBerkelium247
 jaopca:mysticalagriculture_crux.berkelium_247 - 0
 
@@ -3555,6 +3708,14 @@ jaopca:mysticalagriculture_crux.berkelium_248_za - 0
 
 cruxBeryllium
 jaopca:mysticalagriculture_crux.beryllium - 0
+
+
+cruxBlackIron
+jaopca:mysticalagriculture_crux.black_iron - 0
+
+
+cruxBlacktiger
+jaopca:mysticalagriculture_crux.blacktiger - 0
 
 
 cruxBoron10
@@ -3695,6 +3856,10 @@ jaopca:mysticalagriculture_crux.cosmic_neutronium - 0
 
 cruxCrystalMatrix
 jaopca:mysticalagriculture_crux.crystal_matrix - 0
+
+
+cruxCrystaltine
+jaopca:mysticalagriculture_crux.crystaltine - 0
 
 
 cruxCurium243
@@ -4229,12 +4394,20 @@ cruxDepletedTBUZA
 jaopca:mysticalagriculture_crux.depleted_tbuza - 0
 
 
+cruxDillapis
+jaopca:mysticalagriculture_crux.dillapis - 0
+
+
 cruxExtreme
 jaopca:mysticalagriculture_crux.extreme - 0
 
 
 cruxFerroboron
 jaopca:mysticalagriculture_crux.ferroboron - 0
+
+
+cruxFirstTimeGaming
+jaopca:mysticalagriculture_crux.first_time_gaming - 0
 
 
 cruxFluorite
@@ -4829,6 +5002,14 @@ cruxLEU235ZA
 jaopca:mysticalagriculture_crux.leu_235_za - 0
 
 
+cruxLallix
+jaopca:mysticalagriculture_crux.lallix - 0
+
+
+cruxLallixium
+jaopca:mysticalagriculture_crux.lallixium - 0
+
+
 cruxLeadPlatinum
 jaopca:mysticalagriculture_crux.lead_platinum - 0
 
@@ -4961,6 +5142,10 @@ cruxNeptunium237ZA
 jaopca:mysticalagriculture_crux.neptunium_237_za - 0
 
 
+cruxOrangetiger
+jaopca:mysticalagriculture_crux.orangetiger - 0
+
+
 cruxPlutonium238
 jaopca:mysticalagriculture_crux.plutonium_238 - 0
 
@@ -5061,6 +5246,10 @@ cruxPyrolyticCarbon
 jaopca:mysticalagriculture_crux.pyrolytic_carbon - 0
 
 
+cruxRedhellite
+jaopca:mysticalagriculture_crux.redhellite - 0
+
+
 cruxRhodochrosite
 jaopca:mysticalagriculture_crux.rhodochrosite - 0
 
@@ -5075,6 +5264,14 @@ jaopca:mysticalagriculture_crux.si_c_si_ccmc - 0
 
 cruxSiliconCarbide
 jaopca:mysticalagriculture_crux.silicon_carbide - 0
+
+
+cruxSkitso
+jaopca:mysticalagriculture_crux.skitso - 0
+
+
+cruxSkymium
+jaopca:mysticalagriculture_crux.skymium - 0
 
 
 cruxTBU
@@ -5101,6 +5298,10 @@ cruxTBUZA
 jaopca:mysticalagriculture_crux.tbuza - 0
 
 
+cruxTechGuy
+jaopca:mysticalagriculture_crux.tech_guy - 0
+
+
 cruxThermoconducting
 jaopca:mysticalagriculture_crux.thermoconducting - 0
 
@@ -5111,6 +5312,10 @@ jaopca:mysticalagriculture_crux.tin_silver - 0
 
 cruxTough
 jaopca:mysticalagriculture_crux.tough - 0
+
+
+cruxUltimate
+jaopca:mysticalagriculture_crux.ultimate - 0
 
 
 cruxUnsweetenedChocolate
@@ -5193,6 +5398,26 @@ cruxVilliaumite
 jaopca:mysticalagriculture_crux.villiaumite - 0
 
 
+cruxViolet
+jaopca:mysticalagriculture_crux.violet - 0
+
+
+cruxWarlock
+jaopca:mysticalagriculture_crux.warlock - 0
+
+
+cruxXaelium
+jaopca:mysticalagriculture_crux.xaelium - 0
+
+
+cruxXodias
+jaopca:mysticalagriculture_crux.xodias - 0
+
+
+cruxZephyrus
+jaopca:mysticalagriculture_crux.zephyrus - 0
+
+
 cruxZircaloy
 jaopca:mysticalagriculture_crux.zircaloy - 0
 
@@ -5205,9 +5430,93 @@ cruxZirconiumMolybdenum
 jaopca:mysticalagriculture_crux.zirconium_molybdenum - 0
 
 
+cruxbluetiger
+jaopca:mysticalagriculture_crux.bluetiger - 0
+
+
+cruxcrao
+jaopca:mysticalagriculture_crux.crao - 0
+
+
+cruxdawsondude
+jaopca:mysticalagriculture_crux.dawsondude - 0
+
+
+cruxdustcrafter
+jaopca:mysticalagriculture_crux.dustcrafter - 0
+
+
+cruxirg
+jaopca:mysticalagriculture_crux.irg - 0
+
+
+cruxkylian
+jaopca:mysticalagriculture_crux.kylian - 0
+
+
+cruxpinktiger
+jaopca:mysticalagriculture_crux.pinktiger - 0
+
+
+cruxpurpletiger
+jaopca:mysticalagriculture_crux.purpletiger - 0
+
+
+cruxrainbowtiger
+jaopca:mysticalagriculture_crux.rainbowtiger - 0
+
+
+cruxramm
+jaopca:mysticalagriculture_crux.ramm - 0
+
+
+cruxredtiger
+jaopca:mysticalagriculture_crux.redtiger - 0
+
+
+cruxstar
+jaopca:mysticalagriculture_crux.star - 0
+
+
+cruxstarwars
+jaopca:mysticalagriculture_crux.starwars - 0
+
+
+cruxtiger
+jaopca:mysticalagriculture_crux.tiger - 0
+
+
+cruxwhitetiger
+jaopca:mysticalagriculture_crux.whitetiger - 0
+
+
+cruxyellowtiger
+jaopca:mysticalagriculture_crux.yellowtiger - 0
+
+
+crystalCertusQuartz
+appliedenergistics2:material - 0
+
+
 crystalCoal
 minecraft:coal - 0
 minecraft:coal - 1
+
+
+crystalFluix
+appliedenergistics2:material - 7
+
+
+crystalPureCertusQuartz
+appliedenergistics2:material - 10
+
+
+crystalPureFluix
+appliedenergistics2:material - 12
+
+
+crystalPureNetherQuartz
+appliedenergistics2:material - 11
 
 
 crystalsPrismarine
@@ -5416,6 +5725,10 @@ dustApatite
 jaopca:dust.apatite - 0
 
 
+dustAphWolf
+contenttweaker:material_part - 55
+
+
 dustAquamarine
 jaopca:dust.aquamarine - 0
 
@@ -5490,6 +5803,14 @@ nuclearcraft:dust - 9
 
 dustBismuth
 nuclearcraft:fission_dust - 0
+
+
+dustBlackIron
+jaopca:dust.black_iron - 0
+
+
+dustBlacktiger
+contenttweaker:material_part - 225
 
 
 dustBlutonium
@@ -5645,6 +5966,7 @@ nuclearcraft:gem_dust - 9
 
 
 dustCertusQuartz
+appliedenergistics2:material - 2
 
 
 dustCesium137
@@ -5700,6 +6022,10 @@ nuclearcraft:compound - 1
 
 dustCrystalMatrix
 jaopca:dust.crystal_matrix - 0
+
+
+dustCrystaltine
+jaopca:dust.crystaltine - 0
 
 
 dustCurium243
@@ -6241,6 +6567,10 @@ dustDiamond
 nuclearcraft:gem_dust - 0
 
 
+dustDillapis
+contenttweaker:material_part - 5
+
+
 dustDimensional
 nuclearcraft:compound - 9
 
@@ -6260,7 +6590,12 @@ dustEmerald
 jaopca:dust.emerald - 0
 
 
+dustEnder
+appliedenergistics2:material - 46
+
+
 dustEnderPearl
+appliedenergistics2:material - 46
 
 
 dustEndstone
@@ -6283,8 +6618,16 @@ dustFerroboron
 jaopca:dust.ferroboron - 0
 
 
+dustFirstTimeGaming
+contenttweaker:material_part - 105
+
+
 dustFlint
 minecraft:flint - 0
+
+
+dustFluix
+appliedenergistics2:material - 8
 
 
 dustFluorite
@@ -6296,6 +6639,7 @@ minecraft:glowstone_dust - 0
 
 
 dustGold
+appliedenergistics2:material - 51
 immersiveengineering:metal - 19
 morebees:dustgold - 0
 careerbees:ingredients - 5
@@ -6626,6 +6970,7 @@ dustIridium
 
 
 dustIron
+appliedenergistics2:material - 49
 immersiveengineering:metal - 18
 morebees:dustiron - 0
 careerbees:ingredients - 4
@@ -6924,6 +7269,14 @@ dustLEU235ZA
 jaopca:dust.leu_235_za - 0
 
 
+dustLallix
+contenttweaker:material_part - 15
+
+
+dustLallixium
+contenttweaker:material_part - 25
+
+
 dustLapis
 jaopca:dust.lapis - 0
 
@@ -7089,6 +7442,7 @@ jaopca:dust.neptunium_237_za - 0
 
 dustNetherQuartz
 nuclearcraft:gem_dust - 2
+appliedenergistics2:material - 3
 
 
 dustNickel
@@ -7099,6 +7453,10 @@ dungeontactics:nickel_dust - 0
 
 dustObsidian
 nuclearcraft:gem_dust - 3
+
+
+dustOrangetiger
+contenttweaker:material_part - 255
 
 
 dustOsmium
@@ -7243,10 +7601,15 @@ jaopca:dust.pyrolytic_carbon - 0
 
 dustQuartz
 nuclearcraft:gem_dust - 2
+appliedenergistics2:material - 3
 
 
 dustRadium
 nuclearcraft:fission_dust - 1
+
+
+dustRedhellite
+contenttweaker:material_part - 45
 
 
 dustRedstone
@@ -7289,6 +7652,14 @@ nuclearcraft:dust - 13
 immersiveengineering:metal - 12
 morebees:dustsilver - 0
 dungeontactics:silver_dust - 0
+
+
+dustSkitso
+contenttweaker:material_part - 145
+
+
+dustSkymium
+contenttweaker:material_part - 65
 
 
 dustSmallAluminum
@@ -7378,6 +7749,10 @@ jaopca:dust.tbutriso - 0
 
 dustTBUZA
 jaopca:dust.tbuza - 0
+
+
+dustTechGuy
+contenttweaker:material_part - 165
 
 
 dustTerrasteel
@@ -7479,6 +7854,10 @@ dustTungsten
 dungeontactics:tungsten_dust - 0
 
 
+dustUltimate
+jaopca:dust.ultimate - 0
+
+
 dustUnsweetenedChocolate
 jaopca:dust.unsweetened_chocolate - 0
 
@@ -7564,11 +7943,32 @@ dustVilliaumite
 nuclearcraft:gem_dust - 8
 
 
+dustViolet
+contenttweaker:material_part - 175
+
+
+dustWarlock
+contenttweaker:material_part - 35
+
+
 dustWheat
 nuclearcraft:flour - 0
+appliedenergistics2:material - 4
+
+
+dustXaelium
+contenttweaker:material_part - 315
+
+
+dustXodias
+contenttweaker:material_part - 185
 
 
 dustYellorium
+
+
+dustZephyrus
+contenttweaker:material_part - 195
 
 
 dustZinc
@@ -7584,6 +7984,70 @@ nuclearcraft:dust - 10
 
 dustZirconiumMolybdenum
 jaopca:dust.zirconium_molybdenum - 0
+
+
+dustbluetiger
+contenttweaker:material_part - 235
+
+
+dustcrao
+contenttweaker:material_part - 75
+
+
+dustdawsondude
+contenttweaker:material_part - 85
+
+
+dustdustcrafter
+contenttweaker:material_part - 95
+
+
+dustirg
+contenttweaker:material_part - 115
+
+
+dustkylian
+contenttweaker:material_part - 125
+
+
+dustpinktiger
+contenttweaker:material_part - 245
+
+
+dustpurpletiger
+contenttweaker:material_part - 265
+
+
+dustrainbowtiger
+contenttweaker:material_part - 275
+
+
+dustramm
+contenttweaker:material_part - 135
+
+
+dustredtiger
+contenttweaker:material_part - 285
+
+
+duststar
+contenttweaker:material_part - 155
+
+
+duststarwars
+contenttweaker:material_part - 205
+
+
+dusttiger
+contenttweaker:material_part - 215
+
+
+dustwhitetiger
+contenttweaker:material_part - 295
+
+
+dustyellowtiger
+contenttweaker:material_part - 305
 
 
 dye
@@ -7679,6 +8143,9 @@ minecraft:dye - 1
 extrabees:misc - 19
 botania:dye - 14
 gendustry:honey_drop - 11
+
+
+dyeSilver
 
 
 dyeWhite
@@ -7805,6 +8272,10 @@ essenceAmericium243ZA
 jaopca:mysticalagriculture_essence.americium_243_za - 0
 
 
+essenceAphWolf
+jaopca:mysticalagriculture_essence.aph_wolf - 0
+
+
 essenceBerkelium247
 jaopca:mysticalagriculture_essence.berkelium_247 - 0
 
@@ -7855,6 +8326,14 @@ jaopca:mysticalagriculture_essence.berkelium_248_za - 0
 
 essenceBeryllium
 jaopca:mysticalagriculture_essence.beryllium - 0
+
+
+essenceBlackIron
+jaopca:mysticalagriculture_essence.black_iron - 0
+
+
+essenceBlacktiger
+jaopca:mysticalagriculture_essence.blacktiger - 0
 
 
 essenceBoron10
@@ -7995,6 +8474,10 @@ jaopca:mysticalagriculture_essence.cosmic_neutronium - 0
 
 essenceCrystalMatrix
 jaopca:mysticalagriculture_essence.crystal_matrix - 0
+
+
+essenceCrystaltine
+jaopca:mysticalagriculture_essence.crystaltine - 0
 
 
 essenceCurium243
@@ -8529,12 +9012,20 @@ essenceDepletedTBUZA
 jaopca:mysticalagriculture_essence.depleted_tbuza - 0
 
 
+essenceDillapis
+jaopca:mysticalagriculture_essence.dillapis - 0
+
+
 essenceExtreme
 jaopca:mysticalagriculture_essence.extreme - 0
 
 
 essenceFerroboron
 jaopca:mysticalagriculture_essence.ferroboron - 0
+
+
+essenceFirstTimeGaming
+jaopca:mysticalagriculture_essence.first_time_gaming - 0
 
 
 essenceFluorite
@@ -9141,6 +9632,14 @@ essenceLEU235ZA
 jaopca:mysticalagriculture_essence.leu_235_za - 0
 
 
+essenceLallix
+jaopca:mysticalagriculture_essence.lallix - 0
+
+
+essenceLallixium
+jaopca:mysticalagriculture_essence.lallixium - 0
+
+
 essenceLeadPlatinum
 jaopca:mysticalagriculture_essence.lead_platinum - 0
 
@@ -9273,6 +9772,10 @@ essenceNeptunium237ZA
 jaopca:mysticalagriculture_essence.neptunium_237_za - 0
 
 
+essenceOrangetiger
+jaopca:mysticalagriculture_essence.orangetiger - 0
+
+
 essencePlutonium238
 jaopca:mysticalagriculture_essence.plutonium_238 - 0
 
@@ -9377,6 +9880,10 @@ essencePyrolyticCarbon
 jaopca:mysticalagriculture_essence.pyrolytic_carbon - 0
 
 
+essenceRedhellite
+jaopca:mysticalagriculture_essence.redhellite - 0
+
+
 essenceRhodochrosite
 jaopca:mysticalagriculture_essence.rhodochrosite - 0
 
@@ -9391,6 +9898,14 @@ jaopca:mysticalagriculture_essence.si_c_si_ccmc - 0
 
 essenceSiliconCarbide
 jaopca:mysticalagriculture_essence.silicon_carbide - 0
+
+
+essenceSkitso
+jaopca:mysticalagriculture_essence.skitso - 0
+
+
+essenceSkymium
+jaopca:mysticalagriculture_essence.skymium - 0
 
 
 essenceSuperium
@@ -9425,56 +9940,63 @@ essenceTBUZA
 jaopca:mysticalagriculture_essence.tbuza - 0
 
 
+essenceTechGuy
+jaopca:mysticalagriculture_essence.tech_guy - 0
+
+
 essenceThermoconducting
 jaopca:mysticalagriculture_essence.thermoconducting - 0
 
 
 essenceTier1
-mysticalagriculture:dirt_essence - 0
 mysticalagriculture:ice_essence - 0
-mysticalagriculture:wood_essence - 0
+mysticalagriculture:water_essence - 0
 mysticalagriculture:zombie_essence - 0
 mysticalagriculture:stone_essence - 0
-mysticalagriculture:water_essence - 0
 mysticalagriculture:nature_essence - 0
+mysticalagriculture:dirt_essence - 0
+mysticalagriculture:wood_essence - 0
 
 
 essenceTier2
-mysticalagriculture:copper_essence - 0
-mysticalagriculture:fire_essence - 0
-mysticalagriculture:aluminum_essence - 0
-mysticalagriculture:coal_essence - 0
-mysticalagriculture:sheep_essence - 0
-mysticalagriculture:dye_essence - 0
-mysticalagriculture:slime_essence - 0
 mysticalagriculture:apatite_essence - 0
+mysticalagriculture:fire_essence - 0
+mysticalagriculture:dye_essence - 0
+mysticalagriculture:mystical_flower_essence - 0
+mysticalagriculture:silicon_essence - 0
+mysticalagriculture:sheep_essence - 0
+mysticalagriculture:coal_essence - 0
+mysticalagriculture:sulfur_essence - 0
 mysticalagriculture:pig_essence - 0
 mysticalagriculture:marble_essence - 0
 mysticalagriculture:cow_essence - 0
-mysticalagriculture:mystical_flower_essence - 0
+mysticalagriculture:slime_essence - 0
+mysticalagriculture:aluminum_essence - 0
+mysticalagriculture:copper_essence - 0
 mysticalagriculture:chicken_essence - 0
-mysticalagriculture:sulfur_essence - 0
 mysticalagriculture:nether_essence - 0
 
 
 essenceTier3
 mysticalagriculture:silver_essence - 0
-mysticalagriculture:obsidian_essence - 0
-mysticalagriculture:skeleton_essence - 0
-mysticalagriculture:iron_essence - 0
-mysticalagriculture:tin_essence - 0
-mysticalagriculture:redstone_essence - 0
-mysticalagriculture:aquamarine_essence - 0
-mysticalagriculture:guardian_essence - 0
 mysticalagriculture:manasteel_essence - 0
-mysticalagriculture:rabbit_essence - 0
-mysticalagriculture:graphite_essence - 0
+mysticalagriculture:tin_essence - 0
 mysticalagriculture:bronze_essence - 0
-mysticalagriculture:glowstone_essence - 0
-mysticalagriculture:creeper_essence - 0
-mysticalagriculture:spider_essence - 0
+mysticalagriculture:aquamarine_essence - 0
+mysticalagriculture:rabbit_essence - 0
+mysticalagriculture:iron_essence - 0
+mysticalagriculture:skeleton_essence - 0
+mysticalagriculture:obsidian_essence - 0
 mysticalagriculture:nether_quartz_essence - 0
+mysticalagriculture:certus_quartz_essence - 0
+mysticalagriculture:graphite_essence - 0
+mysticalagriculture:creeper_essence - 0
 mysticalagriculture:lead_essence - 0
+mysticalagriculture:guardian_essence - 0
+mysticalagriculture:redstone_essence - 0
+mysticalagriculture:sky_stone_essence - 0
+mysticalagriculture:glowstone_essence - 0
+mysticalagriculture:spider_essence - 0
 jaopca:mysticalagriculture_essence.americium_241 - 0
 jaopca:mysticalagriculture_essence.americium_241_all - 0
 jaopca:mysticalagriculture_essence.americium_241_carbide - 0
@@ -9493,6 +10015,7 @@ jaopca:mysticalagriculture_essence.americium_243_carbide - 0
 jaopca:mysticalagriculture_essence.americium_243_nitride - 0
 jaopca:mysticalagriculture_essence.americium_243_oxide - 0
 jaopca:mysticalagriculture_essence.americium_243_za - 0
+jaopca:mysticalagriculture_essence.aph_wolf - 0
 jaopca:mysticalagriculture_essence.berkelium_247 - 0
 jaopca:mysticalagriculture_essence.berkelium_247_all - 0
 jaopca:mysticalagriculture_essence.berkelium_247_carbide - 0
@@ -9506,6 +10029,8 @@ jaopca:mysticalagriculture_essence.berkelium_248_nitride - 0
 jaopca:mysticalagriculture_essence.berkelium_248_oxide - 0
 jaopca:mysticalagriculture_essence.berkelium_248_za - 0
 jaopca:mysticalagriculture_essence.beryllium - 0
+jaopca:mysticalagriculture_essence.black_iron - 0
+jaopca:mysticalagriculture_essence.blacktiger - 0
 jaopca:mysticalagriculture_essence.boron_10 - 0
 jaopca:mysticalagriculture_essence.boron_11 - 0
 jaopca:mysticalagriculture_essence.boron_arsenide - 0
@@ -9541,6 +10066,7 @@ jaopca:mysticalagriculture_essence.chocolate - 0
 jaopca:mysticalagriculture_essence.cocoa_butter - 0
 jaopca:mysticalagriculture_essence.cosmic_neutronium - 0
 jaopca:mysticalagriculture_essence.crystal_matrix - 0
+jaopca:mysticalagriculture_essence.crystaltine - 0
 jaopca:mysticalagriculture_essence.curium_243 - 0
 jaopca:mysticalagriculture_essence.curium_243_all - 0
 jaopca:mysticalagriculture_essence.curium_243_carbide - 0
@@ -9674,8 +10200,10 @@ jaopca:mysticalagriculture_essence.depleted_tbu_nitride - 0
 jaopca:mysticalagriculture_essence.depleted_tbu_oxide - 0
 jaopca:mysticalagriculture_essence.depleted_tbutriso - 0
 jaopca:mysticalagriculture_essence.depleted_tbuza - 0
+jaopca:mysticalagriculture_essence.dillapis - 0
 jaopca:mysticalagriculture_essence.extreme - 0
 jaopca:mysticalagriculture_essence.ferroboron - 0
+jaopca:mysticalagriculture_essence.first_time_gaming - 0
 jaopca:mysticalagriculture_essence.fluorite - 0
 jaopca:mysticalagriculture_essence.hea_242 - 0
 jaopca:mysticalagriculture_essence.hea_242_carbide - 0
@@ -9824,6 +10352,8 @@ jaopca:mysticalagriculture_essence.leu_235_nitride - 0
 jaopca:mysticalagriculture_essence.leu_235_oxide - 0
 jaopca:mysticalagriculture_essence.leu_235_triso - 0
 jaopca:mysticalagriculture_essence.leu_235_za - 0
+jaopca:mysticalagriculture_essence.lallix - 0
+jaopca:mysticalagriculture_essence.lallixium - 0
 jaopca:mysticalagriculture_essence.lead_platinum - 0
 jaopca:mysticalagriculture_essence.lithium_6 - 0
 jaopca:mysticalagriculture_essence.lithium_7 - 0
@@ -9857,6 +10387,7 @@ jaopca:mysticalagriculture_essence.neptunium_237_carbide - 0
 jaopca:mysticalagriculture_essence.neptunium_237_nitride - 0
 jaopca:mysticalagriculture_essence.neptunium_237_oxide - 0
 jaopca:mysticalagriculture_essence.neptunium_237_za - 0
+jaopca:mysticalagriculture_essence.orangetiger - 0
 jaopca:mysticalagriculture_essence.plutonium_238 - 0
 jaopca:mysticalagriculture_essence.plutonium_238_all - 0
 jaopca:mysticalagriculture_essence.plutonium_238_carbide - 0
@@ -9882,19 +10413,24 @@ jaopca:mysticalagriculture_essence.plutonium_242_nitride - 0
 jaopca:mysticalagriculture_essence.plutonium_242_oxide - 0
 jaopca:mysticalagriculture_essence.plutonium_242_za - 0
 jaopca:mysticalagriculture_essence.pyrolytic_carbon - 0
+jaopca:mysticalagriculture_essence.redhellite - 0
 jaopca:mysticalagriculture_essence.rhodochrosite - 0
 jaopca:mysticalagriculture_essence.shibuichi - 0
 jaopca:mysticalagriculture_essence.si_c_si_ccmc - 0
 jaopca:mysticalagriculture_essence.silicon_carbide - 0
+jaopca:mysticalagriculture_essence.skitso - 0
+jaopca:mysticalagriculture_essence.skymium - 0
 jaopca:mysticalagriculture_essence.tbu - 0
 jaopca:mysticalagriculture_essence.tbu_carbide - 0
 jaopca:mysticalagriculture_essence.tbu_nitride - 0
 jaopca:mysticalagriculture_essence.tbu_oxide - 0
 jaopca:mysticalagriculture_essence.tbutriso - 0
 jaopca:mysticalagriculture_essence.tbuza - 0
+jaopca:mysticalagriculture_essence.tech_guy - 0
 jaopca:mysticalagriculture_essence.thermoconducting - 0
 jaopca:mysticalagriculture_essence.tin_silver - 0
 jaopca:mysticalagriculture_essence.tough - 0
+jaopca:mysticalagriculture_essence.ultimate - 0
 jaopca:mysticalagriculture_essence.unsweetened_chocolate - 0
 jaopca:mysticalagriculture_essence.uranium_233 - 0
 jaopca:mysticalagriculture_essence.uranium_233_all - 0
@@ -9915,45 +10451,67 @@ jaopca:mysticalagriculture_essence.uranium_238_nitride - 0
 jaopca:mysticalagriculture_essence.uranium_238_oxide - 0
 jaopca:mysticalagriculture_essence.uranium_238_za - 0
 jaopca:mysticalagriculture_essence.villiaumite - 0
+jaopca:mysticalagriculture_essence.violet - 0
+jaopca:mysticalagriculture_essence.warlock - 0
+jaopca:mysticalagriculture_essence.xaelium - 0
+jaopca:mysticalagriculture_essence.xodias - 0
+jaopca:mysticalagriculture_essence.zephyrus - 0
 jaopca:mysticalagriculture_essence.zircaloy - 0
 jaopca:mysticalagriculture_essence.zirconium - 0
 jaopca:mysticalagriculture_essence.zirconium_molybdenum - 0
+jaopca:mysticalagriculture_essence.bluetiger - 0
+jaopca:mysticalagriculture_essence.crao - 0
+jaopca:mysticalagriculture_essence.dawsondude - 0
+jaopca:mysticalagriculture_essence.dustcrafter - 0
+jaopca:mysticalagriculture_essence.irg - 0
+jaopca:mysticalagriculture_essence.kylian - 0
+jaopca:mysticalagriculture_essence.pinktiger - 0
+jaopca:mysticalagriculture_essence.purpletiger - 0
+jaopca:mysticalagriculture_essence.rainbowtiger - 0
+jaopca:mysticalagriculture_essence.ramm - 0
+jaopca:mysticalagriculture_essence.redtiger - 0
+jaopca:mysticalagriculture_essence.star - 0
+jaopca:mysticalagriculture_essence.starwars - 0
+jaopca:mysticalagriculture_essence.tiger - 0
+jaopca:mysticalagriculture_essence.whitetiger - 0
+jaopca:mysticalagriculture_essence.yellowtiger - 0
 
 
 essenceTier4
-mysticalagriculture:gold_essence - 0
-mysticalagriculture:boron_essence - 0
-mysticalagriculture:constantan_essence - 0
-mysticalagriculture:blaze_essence - 0
-mysticalagriculture:ghast_essence - 0
-mysticalagriculture:elementium_essence - 0
-mysticalagriculture:experience_essence - 0
-mysticalagriculture:steel_essence - 0
-mysticalagriculture:lithium_essence - 0
-mysticalagriculture:thorium_essence - 0
-mysticalagriculture:electrum_essence - 0
-mysticalagriculture:hop_graphite_essence - 0
 mysticalagriculture:magnesium_essence - 0
-mysticalagriculture:nickel_essence - 0
+mysticalagriculture:elementium_essence - 0
+mysticalagriculture:lithium_essence - 0
 mysticalagriculture:end_essence - 0
+mysticalagriculture:nickel_essence - 0
+mysticalagriculture:hop_graphite_essence - 0
+mysticalagriculture:electrum_essence - 0
 mysticalagriculture:enderman_essence - 0
+mysticalagriculture:boron_essence - 0
+mysticalagriculture:steel_essence - 0
+mysticalagriculture:gold_essence - 0
+mysticalagriculture:fluix_essence - 0
+mysticalagriculture:thorium_essence - 0
+mysticalagriculture:blaze_essence - 0
 mysticalagriculture:lapis_lazuli_essence - 0
+mysticalagriculture:experience_essence - 0
+mysticalagriculture:constantan_essence - 0
+mysticalagriculture:ghast_essence - 0
 
 
 essenceTier5
 mysticalagriculture:uranium_essence - 0
+mysticalagriculture:starmetal_essence - 0
+mysticalagriculture:diamond_essence - 0
 mysticalagriculture:emerald_essence - 0
 mysticalagriculture:wither_skeleton_essence - 0
-mysticalagriculture:diamond_essence - 0
 mysticalagriculture:rock_crystal_essence - 0
-mysticalagriculture:starmetal_essence - 0
 mysticalagriculture:terrasteel_essence - 0
 
 
 essenceTier6
-mysticalagradditions:neutronium_essence - 0
 mysticalagradditions:dragon_egg_essence - 0
 mysticalagradditions:nether_star_essence - 0
+mysticalagradditions:neutronium_essence - 0
 
 
 essenceTinSilver
@@ -9962,6 +10520,10 @@ jaopca:mysticalagriculture_essence.tin_silver - 0
 
 essenceTough
 jaopca:mysticalagriculture_essence.tough - 0
+
+
+essenceUltimate
+jaopca:mysticalagriculture_essence.ultimate - 0
 
 
 essenceUnsweetenedChocolate
@@ -10044,6 +10606,26 @@ essenceVilliaumite
 jaopca:mysticalagriculture_essence.villiaumite - 0
 
 
+essenceViolet
+jaopca:mysticalagriculture_essence.violet - 0
+
+
+essenceWarlock
+jaopca:mysticalagriculture_essence.warlock - 0
+
+
+essenceXaelium
+jaopca:mysticalagriculture_essence.xaelium - 0
+
+
+essenceXodias
+jaopca:mysticalagriculture_essence.xodias - 0
+
+
+essenceZephyrus
+jaopca:mysticalagriculture_essence.zephyrus - 0
+
+
 essenceZircaloy
 jaopca:mysticalagriculture_essence.zircaloy - 0
 
@@ -10054,6 +10636,70 @@ jaopca:mysticalagriculture_essence.zirconium - 0
 
 essenceZirconiumMolybdenum
 jaopca:mysticalagriculture_essence.zirconium_molybdenum - 0
+
+
+essencebluetiger
+jaopca:mysticalagriculture_essence.bluetiger - 0
+
+
+essencecrao
+jaopca:mysticalagriculture_essence.crao - 0
+
+
+essencedawsondude
+jaopca:mysticalagriculture_essence.dawsondude - 0
+
+
+essencedustcrafter
+jaopca:mysticalagriculture_essence.dustcrafter - 0
+
+
+essenceirg
+jaopca:mysticalagriculture_essence.irg - 0
+
+
+essencekylian
+jaopca:mysticalagriculture_essence.kylian - 0
+
+
+essencepinktiger
+jaopca:mysticalagriculture_essence.pinktiger - 0
+
+
+essencepurpletiger
+jaopca:mysticalagriculture_essence.purpletiger - 0
+
+
+essencerainbowtiger
+jaopca:mysticalagriculture_essence.rainbowtiger - 0
+
+
+essenceramm
+jaopca:mysticalagriculture_essence.ramm - 0
+
+
+essenceredtiger
+jaopca:mysticalagriculture_essence.redtiger - 0
+
+
+essencestar
+jaopca:mysticalagriculture_essence.star - 0
+
+
+essencestarwars
+jaopca:mysticalagriculture_essence.starwars - 0
+
+
+essencetiger
+jaopca:mysticalagriculture_essence.tiger - 0
+
+
+essencewhitetiger
+jaopca:mysticalagriculture_essence.whitetiger - 0
+
+
+essenceyellowtiger
+jaopca:mysticalagriculture_essence.yellowtiger - 0
 
 
 eternalLifeEssence
@@ -13975,6 +14621,14 @@ gaiaIngot
 botania:manaresource - 14
 
 
+gearAphWolf
+contenttweaker:material_part - 50
+
+
+gearBlacktiger
+contenttweaker:material_part - 220
+
+
 gearBronze
 forestry:gear_bronze - 0
 
@@ -13986,8 +14640,16 @@ forestry:gear_copper - 0
 gearDiamond
 
 
+gearDillapis
+contenttweaker:material_part - 0
+
+
 gearDominos
 nuclearcraft:dominos - 0
+
+
+gearFirstTimeGaming
+contenttweaker:material_part - 100
 
 
 gearGold
@@ -13996,11 +14658,127 @@ gearGold
 gearIron
 
 
+gearLallix
+contenttweaker:material_part - 10
+
+
+gearLallixium
+contenttweaker:material_part - 20
+
+
+gearOrangetiger
+contenttweaker:material_part - 250
+
+
+gearRedhellite
+contenttweaker:material_part - 40
+
+
+gearSkitso
+contenttweaker:material_part - 140
+
+
+gearSkymium
+contenttweaker:material_part - 60
+
+
 gearStone
+
+
+gearTechGuy
+contenttweaker:material_part - 160
 
 
 gearTin
 forestry:gear_tin - 0
+
+
+gearViolet
+contenttweaker:material_part - 170
+
+
+gearWarlock
+contenttweaker:material_part - 30
+
+
+gearWood
+appliedenergistics2:material - 40
+
+
+gearXaelium
+contenttweaker:material_part - 310
+
+
+gearXodias
+contenttweaker:material_part - 180
+
+
+gearZephyrus
+contenttweaker:material_part - 190
+
+
+gearbluetiger
+contenttweaker:material_part - 230
+
+
+gearcrao
+contenttweaker:material_part - 70
+
+
+geardawsondude
+contenttweaker:material_part - 80
+
+
+geardustcrafter
+contenttweaker:material_part - 90
+
+
+gearirg
+contenttweaker:material_part - 110
+
+
+gearkylian
+contenttweaker:material_part - 120
+
+
+gearpinktiger
+contenttweaker:material_part - 240
+
+
+gearpurpletiger
+contenttweaker:material_part - 260
+
+
+gearrainbowtiger
+contenttweaker:material_part - 270
+
+
+gearramm
+contenttweaker:material_part - 130
+
+
+gearredtiger
+contenttweaker:material_part - 280
+
+
+gearstar
+contenttweaker:material_part - 150
+
+
+gearstarwars
+contenttweaker:material_part - 200
+
+
+geartiger
+contenttweaker:material_part - 210
+
+
+gearwhitetiger
+contenttweaker:material_part - 290
+
+
+gearyellowtiger
+contenttweaker:material_part - 300
 
 
 gemApatite
@@ -14066,6 +14844,9 @@ nuclearcraft:gem - 3
 
 
 gemnull
+
+
+glass
 
 
 glowstone
@@ -14185,6 +14966,13 @@ ingotAmericium243ZA
 nuclearcraft:americium - 14
 
 
+ingotAphWolf
+contenttweaker:material_part - 53
+
+
+ingotArdite
+
+
 ingotAstralStarmetal
 astralsorcery:itemcraftingcomponent - 1
 
@@ -14251,6 +15039,14 @@ nuclearcraft:berkelium - 9
 
 ingotBeryllium
 nuclearcraft:ingot - 9
+
+
+ingotBlackIron
+extendedcrafting:material - 0
+
+
+ingotBlacktiger
+contenttweaker:material_part - 223
 
 
 ingotBlutonium
@@ -14400,7 +15196,13 @@ ingotChocolate
 nuclearcraft:milk_chocolate - 0
 
 
+ingotChrome
+
+
 ingotCoal
+
+
+ingotCobalt
 
 
 ingotCocoaButter
@@ -14423,6 +15225,10 @@ avaritia:resource - 4
 
 ingotCrystalMatrix
 avaritia:resource - 1
+
+
+ingotCrystaltine
+extendedcrafting:material - 24
 
 
 ingotCurium243
@@ -14976,6 +15782,10 @@ ingotDepletedTBUZA
 nuclearcraft:depleted_fuel_thorium - 3
 
 
+ingotDillapis
+contenttweaker:material_part - 3
+
+
 ingotEbony
 
 
@@ -15004,6 +15814,10 @@ nuclearcraft:alloy - 10
 
 ingotFerroboron
 nuclearcraft:alloy - 6
+
+
+ingotFirstTimeGaming
+contenttweaker:material_part - 103
 
 
 ingotGold
@@ -15334,6 +16148,12 @@ ingotIntermedium
 mysticalagriculture:crafting - 35
 
 
+ingotInvar
+
+
+ingotIridium
+
+
 ingotIron
 minecraft:iron_ingot - 0
 
@@ -15630,6 +16450,14 @@ ingotLEU235ZA
 nuclearcraft:fuel_uranium - 11
 
 
+ingotLallix
+contenttweaker:material_part - 13
+
+
+ingotLallixium
+contenttweaker:material_part - 23
+
+
 ingotLead
 nuclearcraft:ingot - 2
 immersiveengineering:metal - 2
@@ -15653,6 +16481,9 @@ nuclearcraft:lithium - 1
 
 ingotLithiumManganeseDioxide
 nuclearcraft:alloy - 4
+
+
+ingotLumium
 
 
 ingotMIX239
@@ -15727,6 +16558,9 @@ ingotManganeseOxide
 nuclearcraft:ingot - 14
 
 
+ingotManyullyn
+
+
 ingotMarshmallow
 nuclearcraft:marshmallow - 0
 
@@ -15793,6 +16627,10 @@ nuclearcraft:neptunium - 9
 
 ingotNickel
 immersiveengineering:metal - 4
+
+
+ingotOrangetiger
+contenttweaker:material_part - 253
 
 
 ingotOsmium
@@ -15925,6 +16763,10 @@ ingotPyrolyticCarbon
 nuclearcraft:part - 15
 
 
+ingotRedhellite
+contenttweaker:material_part - 43
+
+
 ingotRefinedGlowstone
 
 
@@ -15939,6 +16781,9 @@ ingotSiCSiCCMC
 nuclearcraft:alloy - 14
 
 
+ingotSignalum
+
+
 ingotSiliconCarbide
 nuclearcraft:alloy - 13
 
@@ -15947,6 +16792,14 @@ ingotSilver
 nuclearcraft:ingot - 13
 immersiveengineering:metal - 3
 dungeontactics:silver_ingot - 0
+
+
+ingotSkitso
+contenttweaker:material_part - 143
+
+
+ingotSkymium
+contenttweaker:material_part - 63
 
 
 ingotSoulium
@@ -15991,6 +16844,10 @@ ingotTBUZA
 nuclearcraft:fuel_thorium - 3
 
 
+ingotTechGuy
+contenttweaker:material_part - 163
+
+
 ingotTerrasteel
 botania:manaresource - 4
 
@@ -16020,6 +16877,10 @@ nuclearcraft:alloy - 1
 
 
 ingotTungsten
+
+
+ingotUltimate
+extendedcrafting:material - 32
 
 
 ingotUnsweetenedChocolate
@@ -16115,7 +16976,27 @@ ingotUranium238ZA
 nuclearcraft:uranium - 14
 
 
+ingotViolet
+contenttweaker:material_part - 173
+
+
+ingotWarlock
+contenttweaker:material_part - 33
+
+
+ingotXaelium
+contenttweaker:material_part - 313
+
+
+ingotXodias
+contenttweaker:material_part - 183
+
+
 ingotYellorium
+
+
+ingotZephyrus
+contenttweaker:material_part - 193
 
 
 ingotZinc
@@ -16133,12 +17014,92 @@ ingotZirconiumMolybdenum
 nuclearcraft:alloy - 16
 
 
+ingotbluetiger
+contenttweaker:material_part - 233
+
+
+ingotcrao
+contenttweaker:material_part - 73
+
+
+ingotdawsondude
+contenttweaker:material_part - 83
+
+
+ingotdustcrafter
+contenttweaker:material_part - 93
+
+
+ingotirg
+contenttweaker:material_part - 113
+
+
+ingotkylian
+contenttweaker:material_part - 123
+
+
+ingotpinktiger
+contenttweaker:material_part - 243
+
+
+ingotpurpletiger
+contenttweaker:material_part - 263
+
+
+ingotrainbowtiger
+contenttweaker:material_part - 273
+
+
+ingotramm
+contenttweaker:material_part - 133
+
+
+ingotredtiger
+contenttweaker:material_part - 283
+
+
+ingotstar
+contenttweaker:material_part - 153
+
+
+ingotstarwars
+contenttweaker:material_part - 203
+
+
+ingottiger
+contenttweaker:material_part - 213
+
+
+ingotwhitetiger
+contenttweaker:material_part - 293
+
+
+ingotyellowtiger
+contenttweaker:material_part - 303
+
+
 itemBeeswax
 forestry:beeswax - 0
 
 
+itemIlluminatedPanel
+appliedenergistics2:part - 160
+appliedenergistics2:part - 180
+appliedenergistics2:part - 200
+
+
 itemPollen
 forestry:pollen - 0
+
+
+itemQuartzKnife
+appliedenergistics2:certus_quartz_cutting_knife - 0
+appliedenergistics2:nether_quartz_cutting_knife - 0
+
+
+itemQuartzWrench
+appliedenergistics2:certus_quartz_wrench - 0
+appliedenergistics2:nether_quartz_wrench - 0
 
 
 itemRubber
@@ -16150,6 +17111,7 @@ harvestcraft:saltitem - 0
 
 itemSilicon
 nuclearcraft:gem - 6
+appliedenergistics2:material - 5
 
 
 itemSlag
@@ -17188,6 +18150,10 @@ mysticalCropAmericium243ZA
 jaopca:mysticalagriculture_crop.americium_243_za - 0
 
 
+mysticalCropAphWolf
+jaopca:mysticalagriculture_crop.aph_wolf - 0
+
+
 mysticalCropBerkelium247
 jaopca:mysticalagriculture_crop.berkelium_247 - 0
 
@@ -17238,6 +18204,14 @@ jaopca:mysticalagriculture_crop.berkelium_248_za - 0
 
 mysticalCropBeryllium
 jaopca:mysticalagriculture_crop.beryllium - 0
+
+
+mysticalCropBlackIron
+jaopca:mysticalagriculture_crop.black_iron - 0
+
+
+mysticalCropBlacktiger
+jaopca:mysticalagriculture_crop.blacktiger - 0
 
 
 mysticalCropBoron10
@@ -17378,6 +18352,10 @@ jaopca:mysticalagriculture_crop.cosmic_neutronium - 0
 
 mysticalCropCrystalMatrix
 jaopca:mysticalagriculture_crop.crystal_matrix - 0
+
+
+mysticalCropCrystaltine
+jaopca:mysticalagriculture_crop.crystaltine - 0
 
 
 mysticalCropCurium243
@@ -17912,12 +18890,20 @@ mysticalCropDepletedTBUZA
 jaopca:mysticalagriculture_crop.depleted_tbuza - 0
 
 
+mysticalCropDillapis
+jaopca:mysticalagriculture_crop.dillapis - 0
+
+
 mysticalCropExtreme
 jaopca:mysticalagriculture_crop.extreme - 0
 
 
 mysticalCropFerroboron
 jaopca:mysticalagriculture_crop.ferroboron - 0
+
+
+mysticalCropFirstTimeGaming
+jaopca:mysticalagriculture_crop.first_time_gaming - 0
 
 
 mysticalCropFluorite
@@ -18512,6 +19498,14 @@ mysticalCropLEU235ZA
 jaopca:mysticalagriculture_crop.leu_235_za - 0
 
 
+mysticalCropLallix
+jaopca:mysticalagriculture_crop.lallix - 0
+
+
+mysticalCropLallixium
+jaopca:mysticalagriculture_crop.lallixium - 0
+
+
 mysticalCropLeadPlatinum
 jaopca:mysticalagriculture_crop.lead_platinum - 0
 
@@ -18644,6 +19638,10 @@ mysticalCropNeptunium237ZA
 jaopca:mysticalagriculture_crop.neptunium_237_za - 0
 
 
+mysticalCropOrangetiger
+jaopca:mysticalagriculture_crop.orangetiger - 0
+
+
 mysticalCropPlutonium238
 jaopca:mysticalagriculture_crop.plutonium_238 - 0
 
@@ -18744,6 +19742,10 @@ mysticalCropPyrolyticCarbon
 jaopca:mysticalagriculture_crop.pyrolytic_carbon - 0
 
 
+mysticalCropRedhellite
+jaopca:mysticalagriculture_crop.redhellite - 0
+
+
 mysticalCropRhodochrosite
 jaopca:mysticalagriculture_crop.rhodochrosite - 0
 
@@ -18758,6 +19760,14 @@ jaopca:mysticalagriculture_crop.si_c_si_ccmc - 0
 
 mysticalCropSiliconCarbide
 jaopca:mysticalagriculture_crop.silicon_carbide - 0
+
+
+mysticalCropSkitso
+jaopca:mysticalagriculture_crop.skitso - 0
+
+
+mysticalCropSkymium
+jaopca:mysticalagriculture_crop.skymium - 0
 
 
 mysticalCropTBU
@@ -18784,6 +19794,10 @@ mysticalCropTBUZA
 jaopca:mysticalagriculture_crop.tbuza - 0
 
 
+mysticalCropTechGuy
+jaopca:mysticalagriculture_crop.tech_guy - 0
+
+
 mysticalCropThermoconducting
 jaopca:mysticalagriculture_crop.thermoconducting - 0
 
@@ -18794,6 +19808,10 @@ jaopca:mysticalagriculture_crop.tin_silver - 0
 
 mysticalCropTough
 jaopca:mysticalagriculture_crop.tough - 0
+
+
+mysticalCropUltimate
+jaopca:mysticalagriculture_crop.ultimate - 0
 
 
 mysticalCropUnsweetenedChocolate
@@ -18876,6 +19894,26 @@ mysticalCropVilliaumite
 jaopca:mysticalagriculture_crop.villiaumite - 0
 
 
+mysticalCropViolet
+jaopca:mysticalagriculture_crop.violet - 0
+
+
+mysticalCropWarlock
+jaopca:mysticalagriculture_crop.warlock - 0
+
+
+mysticalCropXaelium
+jaopca:mysticalagriculture_crop.xaelium - 0
+
+
+mysticalCropXodias
+jaopca:mysticalagriculture_crop.xodias - 0
+
+
+mysticalCropZephyrus
+jaopca:mysticalagriculture_crop.zephyrus - 0
+
+
 mysticalCropZircaloy
 jaopca:mysticalagriculture_crop.zircaloy - 0
 
@@ -18886,6 +19924,70 @@ jaopca:mysticalagriculture_crop.zirconium - 0
 
 mysticalCropZirconiumMolybdenum
 jaopca:mysticalagriculture_crop.zirconium_molybdenum - 0
+
+
+mysticalCropbluetiger
+jaopca:mysticalagriculture_crop.bluetiger - 0
+
+
+mysticalCropcrao
+jaopca:mysticalagriculture_crop.crao - 0
+
+
+mysticalCropdawsondude
+jaopca:mysticalagriculture_crop.dawsondude - 0
+
+
+mysticalCropdustcrafter
+jaopca:mysticalagriculture_crop.dustcrafter - 0
+
+
+mysticalCropirg
+jaopca:mysticalagriculture_crop.irg - 0
+
+
+mysticalCropkylian
+jaopca:mysticalagriculture_crop.kylian - 0
+
+
+mysticalCroppinktiger
+jaopca:mysticalagriculture_crop.pinktiger - 0
+
+
+mysticalCroppurpletiger
+jaopca:mysticalagriculture_crop.purpletiger - 0
+
+
+mysticalCroprainbowtiger
+jaopca:mysticalagriculture_crop.rainbowtiger - 0
+
+
+mysticalCropramm
+jaopca:mysticalagriculture_crop.ramm - 0
+
+
+mysticalCropredtiger
+jaopca:mysticalagriculture_crop.redtiger - 0
+
+
+mysticalCropstar
+jaopca:mysticalagriculture_crop.star - 0
+
+
+mysticalCropstarwars
+jaopca:mysticalagriculture_crop.starwars - 0
+
+
+mysticalCroptiger
+jaopca:mysticalagriculture_crop.tiger - 0
+
+
+mysticalCropwhitetiger
+jaopca:mysticalagriculture_crop.whitetiger - 0
+
+
+mysticalCropyellowtiger
+jaopca:mysticalagriculture_crop.yellowtiger - 0
 
 
 mysticalSeedsAmericium241
@@ -18960,6 +20062,10 @@ mysticalSeedsAmericium243ZA
 jaopca:mysticalagriculture_seeds.americium_243_za - 0
 
 
+mysticalSeedsAphWolf
+jaopca:mysticalagriculture_seeds.aph_wolf - 0
+
+
 mysticalSeedsBerkelium247
 jaopca:mysticalagriculture_seeds.berkelium_247 - 0
 
@@ -19010,6 +20116,14 @@ jaopca:mysticalagriculture_seeds.berkelium_248_za - 0
 
 mysticalSeedsBeryllium
 jaopca:mysticalagriculture_seeds.beryllium - 0
+
+
+mysticalSeedsBlackIron
+jaopca:mysticalagriculture_seeds.black_iron - 0
+
+
+mysticalSeedsBlacktiger
+jaopca:mysticalagriculture_seeds.blacktiger - 0
 
 
 mysticalSeedsBoron10
@@ -19150,6 +20264,10 @@ jaopca:mysticalagriculture_seeds.cosmic_neutronium - 0
 
 mysticalSeedsCrystalMatrix
 jaopca:mysticalagriculture_seeds.crystal_matrix - 0
+
+
+mysticalSeedsCrystaltine
+jaopca:mysticalagriculture_seeds.crystaltine - 0
 
 
 mysticalSeedsCurium243
@@ -19684,12 +20802,20 @@ mysticalSeedsDepletedTBUZA
 jaopca:mysticalagriculture_seeds.depleted_tbuza - 0
 
 
+mysticalSeedsDillapis
+jaopca:mysticalagriculture_seeds.dillapis - 0
+
+
 mysticalSeedsExtreme
 jaopca:mysticalagriculture_seeds.extreme - 0
 
 
 mysticalSeedsFerroboron
 jaopca:mysticalagriculture_seeds.ferroboron - 0
+
+
+mysticalSeedsFirstTimeGaming
+jaopca:mysticalagriculture_seeds.first_time_gaming - 0
 
 
 mysticalSeedsFluorite
@@ -20284,6 +21410,14 @@ mysticalSeedsLEU235ZA
 jaopca:mysticalagriculture_seeds.leu_235_za - 0
 
 
+mysticalSeedsLallix
+jaopca:mysticalagriculture_seeds.lallix - 0
+
+
+mysticalSeedsLallixium
+jaopca:mysticalagriculture_seeds.lallixium - 0
+
+
 mysticalSeedsLeadPlatinum
 jaopca:mysticalagriculture_seeds.lead_platinum - 0
 
@@ -20416,6 +21550,10 @@ mysticalSeedsNeptunium237ZA
 jaopca:mysticalagriculture_seeds.neptunium_237_za - 0
 
 
+mysticalSeedsOrangetiger
+jaopca:mysticalagriculture_seeds.orangetiger - 0
+
+
 mysticalSeedsPlutonium238
 jaopca:mysticalagriculture_seeds.plutonium_238 - 0
 
@@ -20516,6 +21654,10 @@ mysticalSeedsPyrolyticCarbon
 jaopca:mysticalagriculture_seeds.pyrolytic_carbon - 0
 
 
+mysticalSeedsRedhellite
+jaopca:mysticalagriculture_seeds.redhellite - 0
+
+
 mysticalSeedsRhodochrosite
 jaopca:mysticalagriculture_seeds.rhodochrosite - 0
 
@@ -20530,6 +21672,14 @@ jaopca:mysticalagriculture_seeds.si_c_si_ccmc - 0
 
 mysticalSeedsSiliconCarbide
 jaopca:mysticalagriculture_seeds.silicon_carbide - 0
+
+
+mysticalSeedsSkitso
+jaopca:mysticalagriculture_seeds.skitso - 0
+
+
+mysticalSeedsSkymium
+jaopca:mysticalagriculture_seeds.skymium - 0
 
 
 mysticalSeedsTBU
@@ -20556,6 +21706,10 @@ mysticalSeedsTBUZA
 jaopca:mysticalagriculture_seeds.tbuza - 0
 
 
+mysticalSeedsTechGuy
+jaopca:mysticalagriculture_seeds.tech_guy - 0
+
+
 mysticalSeedsThermoconducting
 jaopca:mysticalagriculture_seeds.thermoconducting - 0
 
@@ -20566,6 +21720,10 @@ jaopca:mysticalagriculture_seeds.tin_silver - 0
 
 mysticalSeedsTough
 jaopca:mysticalagriculture_seeds.tough - 0
+
+
+mysticalSeedsUltimate
+jaopca:mysticalagriculture_seeds.ultimate - 0
 
 
 mysticalSeedsUnsweetenedChocolate
@@ -20648,6 +21806,26 @@ mysticalSeedsVilliaumite
 jaopca:mysticalagriculture_seeds.villiaumite - 0
 
 
+mysticalSeedsViolet
+jaopca:mysticalagriculture_seeds.violet - 0
+
+
+mysticalSeedsWarlock
+jaopca:mysticalagriculture_seeds.warlock - 0
+
+
+mysticalSeedsXaelium
+jaopca:mysticalagriculture_seeds.xaelium - 0
+
+
+mysticalSeedsXodias
+jaopca:mysticalagriculture_seeds.xodias - 0
+
+
+mysticalSeedsZephyrus
+jaopca:mysticalagriculture_seeds.zephyrus - 0
+
+
 mysticalSeedsZircaloy
 jaopca:mysticalagriculture_seeds.zircaloy - 0
 
@@ -20658,6 +21836,70 @@ jaopca:mysticalagriculture_seeds.zirconium - 0
 
 mysticalSeedsZirconiumMolybdenum
 jaopca:mysticalagriculture_seeds.zirconium_molybdenum - 0
+
+
+mysticalSeedsbluetiger
+jaopca:mysticalagriculture_seeds.bluetiger - 0
+
+
+mysticalSeedscrao
+jaopca:mysticalagriculture_seeds.crao - 0
+
+
+mysticalSeedsdawsondude
+jaopca:mysticalagriculture_seeds.dawsondude - 0
+
+
+mysticalSeedsdustcrafter
+jaopca:mysticalagriculture_seeds.dustcrafter - 0
+
+
+mysticalSeedsirg
+jaopca:mysticalagriculture_seeds.irg - 0
+
+
+mysticalSeedskylian
+jaopca:mysticalagriculture_seeds.kylian - 0
+
+
+mysticalSeedspinktiger
+jaopca:mysticalagriculture_seeds.pinktiger - 0
+
+
+mysticalSeedspurpletiger
+jaopca:mysticalagriculture_seeds.purpletiger - 0
+
+
+mysticalSeedsrainbowtiger
+jaopca:mysticalagriculture_seeds.rainbowtiger - 0
+
+
+mysticalSeedsramm
+jaopca:mysticalagriculture_seeds.ramm - 0
+
+
+mysticalSeedsredtiger
+jaopca:mysticalagriculture_seeds.redtiger - 0
+
+
+mysticalSeedsstar
+jaopca:mysticalagriculture_seeds.star - 0
+
+
+mysticalSeedsstarwars
+jaopca:mysticalagriculture_seeds.starwars - 0
+
+
+mysticalSeedstiger
+jaopca:mysticalagriculture_seeds.tiger - 0
+
+
+mysticalSeedswhitetiger
+jaopca:mysticalagriculture_seeds.whitetiger - 0
+
+
+mysticalSeedsyellowtiger
+jaopca:mysticalagriculture_seeds.yellowtiger - 0
 
 
 netherStar
@@ -20679,11 +21921,23 @@ nuggetApatite
 magicbees:orepart - 2
 
 
+nuggetAphWolf
+contenttweaker:material_part - 52
+
+
 nuggetArdite
 
 
 nuggetBaseEssence
 mysticalagriculture:crafting - 39
+
+
+nuggetBlackIron
+extendedcrafting:material - 1
+
+
+nuggetBlacktiger
+contenttweaker:material_part - 222
 
 
 nuggetBronze
@@ -20706,10 +21960,19 @@ nuggetCosmicNeutronium
 avaritia:resource - 3
 
 
+nuggetCrystaltine
+extendedcrafting:material - 25
+
+
 nuggetDiamond
+extendedcrafting:material - 128
 morebees:diamondfragment - 0
 magicbees:orepart - 0
 dungeontactics:diamond_nugget - 0
+
+
+nuggetDillapis
+contenttweaker:material_part - 2
 
 
 nuggetElectrum
@@ -20721,12 +21984,17 @@ botania:manaresource - 19
 
 
 nuggetEmerald
+extendedcrafting:material - 129
 morebees:emeraldfragment - 0
 magicbees:orepart - 1
 
 
 nuggetExhausting
 scalingfeast:exhaustingnugget - 0
+
+
+nuggetFirstTimeGaming
+contenttweaker:material_part - 102
 
 
 nuggetGold
@@ -20753,6 +22021,14 @@ minecraft:iron_nugget - 0
 immersiveengineering:metal - 29
 
 
+nuggetLallix
+contenttweaker:material_part - 12
+
+
+nuggetLallixium
+contenttweaker:material_part - 22
+
+
 nuggetLead
 immersiveengineering:metal - 22
 
@@ -20768,8 +22044,16 @@ nuggetMithril
 dungeontactics:mithril_nugget - 0
 
 
+nuggetNetherStar
+extendedcrafting:material - 140
+
+
 nuggetNickel
 immersiveengineering:metal - 24
+
+
+nuggetOrangetiger
+contenttweaker:material_part - 252
 
 
 nuggetOsmium
@@ -20782,9 +22066,21 @@ nuggetPrudentium
 mysticalagriculture:crafting - 41
 
 
+nuggetRedhellite
+contenttweaker:material_part - 42
+
+
 nuggetSilver
 immersiveengineering:metal - 23
 dungeontactics:silver_nugget - 0
+
+
+nuggetSkitso
+contenttweaker:material_part - 142
+
+
+nuggetSkymium
+contenttweaker:material_part - 62
 
 
 nuggetSoulium
@@ -20804,6 +22100,10 @@ nuggetSupremium
 mysticalagriculture:crafting - 44
 
 
+nuggetTechGuy
+contenttweaker:material_part - 162
+
+
 nuggetTerrasteel
 botania:manaresource - 18
 
@@ -20812,8 +22112,96 @@ nuggetTin
 magicbees:orepart - 4
 
 
+nuggetUltimate
+extendedcrafting:material - 33
+
+
 nuggetUranium
 immersiveengineering:metal - 25
+
+
+nuggetViolet
+contenttweaker:material_part - 172
+
+
+nuggetWarlock
+contenttweaker:material_part - 32
+
+
+nuggetXaelium
+contenttweaker:material_part - 312
+
+
+nuggetXodias
+contenttweaker:material_part - 182
+
+
+nuggetZephyrus
+contenttweaker:material_part - 192
+
+
+nuggetbluetiger
+contenttweaker:material_part - 232
+
+
+nuggetcrao
+contenttweaker:material_part - 72
+
+
+nuggetdawsondude
+contenttweaker:material_part - 82
+
+
+nuggetdustcrafter
+contenttweaker:material_part - 92
+
+
+nuggetirg
+contenttweaker:material_part - 112
+
+
+nuggetkylian
+contenttweaker:material_part - 122
+
+
+nuggetpinktiger
+contenttweaker:material_part - 242
+
+
+nuggetpurpletiger
+contenttweaker:material_part - 262
+
+
+nuggetrainbowtiger
+contenttweaker:material_part - 272
+
+
+nuggetramm
+contenttweaker:material_part - 132
+
+
+nuggetredtiger
+contenttweaker:material_part - 282
+
+
+nuggetstar
+contenttweaker:material_part - 152
+
+
+nuggetstarwars
+contenttweaker:material_part - 202
+
+
+nuggettiger
+contenttweaker:material_part - 212
+
+
+nuggetwhitetiger
+contenttweaker:material_part - 292
+
+
+nuggetyellowtiger
+contenttweaker:material_part - 302
 
 
 obsidian
@@ -20828,6 +22216,10 @@ oreApatite
 forestry:resources - 0
 
 
+oreAphWolf
+contenttweaker:sub_block_holder_3 - 13
+
+
 oreAquamarine
 astralsorcery:blockcustomsandore - 0
 
@@ -20836,8 +22228,21 @@ oreAstralStarmetal
 astralsorcery:blockcustomore - 1
 
 
+oreBlacktiger
+contenttweaker:sub_block_holder_3 - 9
+
+
 oreBoron
 nuclearcraft:ore - 5
+
+
+oreCertusQuartz
+appliedenergistics2:quartz_ore - 0
+appliedenergistics2:charged_quartz_ore - 0
+
+
+oreChargedCertusQuartz
+appliedenergistics2:charged_quartz_ore - 0
 
 
 oreCoal
@@ -20853,6 +22258,10 @@ immersiveengineering:ore - 0
 oreDiamond
 minecraft:diamond_ore - 0
 dungeontactics:enddiamond_ore - 0
+
+
+oreDillapis
+contenttweaker:sub_block_holder_3 - 12
 
 
 oreEmerald
@@ -20874,6 +22283,10 @@ oreExhausting
 scalingfeast:exhaustingore - any
 
 
+oreFirstTimeGaming
+contenttweaker:sub_block_holder_3 - 15
+
+
 oreGold
 minecraft:gold_ore - 0
 dungeontactics:nethergold_ore - 0
@@ -20885,6 +22298,14 @@ mysticalagriculture:inferium_ore - 0
 
 oreIron
 minecraft:iron_ore - 0
+
+
+oreLallix
+contenttweaker:sub_block_holder_3 - 7
+
+
+oreLallixium
+contenttweaker:sub_block_holder_2 - 6
 
 
 oreLapis
@@ -20921,6 +22342,10 @@ oreNickel
 immersiveengineering:ore - 4
 
 
+oreOrangetiger
+contenttweaker:sub_block_holder_1 - 10
+
+
 orePlatinum
 
 
@@ -20931,6 +22356,10 @@ mysticalagriculture:prosperity_ore - 0
 oreQuartz
 minecraft:quartz_ore - 0
 dungeontactics:stonequartz_ore - 0
+
+
+oreRedhellite
+contenttweaker:sub_block_holder_3 - 3
 
 
 oreRedstone
@@ -20945,7 +22374,19 @@ immersiveengineering:ore - 3
 dungeontactics:silver_ore - 0
 
 
+oreSkitso
+contenttweaker:sub_block_holder_1 - 14
+
+
+oreSkymium
+contenttweaker:sub_block_holder_2 - 14
+
+
 oreSteel
+
+
+oreTechGuy
+contenttweaker:sub_block_holder_1 - 11
 
 
 oreThorium
@@ -20962,7 +22403,91 @@ nuclearcraft:ore - 4
 immersiveengineering:ore - 5
 
 
+oreViolet
+contenttweaker:sub_block_holder_0 - 5
+
+
+oreWarlock
+contenttweaker:sub_block_holder_1 - 13
+
+
+oreXaelium
+contenttweaker:sub_block_holder_0 - 14
+
+
+oreXodias
+contenttweaker:sub_block_holder_1 - 2
+
+
 oreYellorite
+
+
+oreZephyrus
+contenttweaker:sub_block_holder_1 - 3
+
+
+orebluetiger
+contenttweaker:sub_block_holder_2 - 11
+
+
+orecrao
+contenttweaker:sub_block_holder_2 - 4
+
+
+oredawsondude
+contenttweaker:sub_block_holder_3 - 14
+
+
+oredustcrafter
+contenttweaker:sub_block_holder_3 - 1
+
+
+oreirg
+contenttweaker:sub_block_holder_0 - 12
+
+
+orekylian
+contenttweaker:sub_block_holder_1 - 6
+
+
+orepinktiger
+contenttweaker:sub_block_holder_0 - 9
+
+
+orepurpletiger
+contenttweaker:sub_block_holder_0 - 15
+
+
+orerainbowtiger
+contenttweaker:sub_block_holder_3 - 10
+
+
+oreramm
+contenttweaker:sub_block_holder_3 - 2
+
+
+oreredtiger
+contenttweaker:sub_block_holder_3 - 6
+
+
+orestar
+contenttweaker:sub_block_holder_0 - 1
+
+
+orestarwars
+contenttweaker:sub_block_holder_2 - 1
+
+
+oretiger
+contenttweaker:sub_block_holder_0 - 2
+
+
+orewhitetiger
+contenttweaker:sub_block_holder_0 - 8
+
+
+oreyellowtiger
+contenttweaker:sub_block_holder_1 - 8
 
 
 paneGlass
@@ -21040,6 +22565,138 @@ minecraft:stained_glass_pane - 4
 
 paper
 minecraft:paper - 0
+
+
+partToolRodAphWolf
+contenttweaker:material_part - 54
+
+
+partToolRodBlacktiger
+contenttweaker:material_part - 224
+
+
+partToolRodDillapis
+contenttweaker:material_part - 4
+
+
+partToolRodFirstTimeGaming
+contenttweaker:material_part - 104
+
+
+partToolRodLallix
+contenttweaker:material_part - 14
+
+
+partToolRodLallixium
+contenttweaker:material_part - 24
+
+
+partToolRodOrangetiger
+contenttweaker:material_part - 254
+
+
+partToolRodRedhellite
+contenttweaker:material_part - 44
+
+
+partToolRodSkitso
+contenttweaker:material_part - 144
+
+
+partToolRodSkymium
+contenttweaker:material_part - 64
+
+
+partToolRodTechGuy
+contenttweaker:material_part - 164
+
+
+partToolRodViolet
+contenttweaker:material_part - 174
+
+
+partToolRodWarlock
+contenttweaker:material_part - 34
+
+
+partToolRodXaelium
+contenttweaker:material_part - 314
+
+
+partToolRodXodias
+contenttweaker:material_part - 184
+
+
+partToolRodZephyrus
+contenttweaker:material_part - 194
+
+
+partToolRodbluetiger
+contenttweaker:material_part - 234
+
+
+partToolRodcrao
+contenttweaker:material_part - 74
+
+
+partToolRoddawsondude
+contenttweaker:material_part - 84
+
+
+partToolRoddustcrafter
+contenttweaker:material_part - 94
+
+
+partToolRodirg
+contenttweaker:material_part - 114
+
+
+partToolRodkylian
+contenttweaker:material_part - 124
+
+
+partToolRodpinktiger
+contenttweaker:material_part - 244
+
+
+partToolRodpurpletiger
+contenttweaker:material_part - 264
+
+
+partToolRodrainbowtiger
+contenttweaker:material_part - 274
+
+
+partToolRodramm
+contenttweaker:material_part - 134
+
+
+partToolRodredtiger
+contenttweaker:material_part - 284
+
+
+partToolRodstar
+contenttweaker:material_part - 154
+
+
+partToolRodstarwars
+contenttweaker:material_part - 204
+
+
+partToolRodtiger
+contenttweaker:material_part - 214
+
+
+partToolRodwhitetiger
+contenttweaker:material_part - 294
+
+
+partToolRodyellowtiger
+contenttweaker:material_part - 304
+
+
+pearlFluix
+appliedenergistics2:material - 9
 
 
 pebble
@@ -21161,8 +22818,16 @@ plateAluminum
 immersiveengineering:metal - 31
 
 
+plateAphWolf
+contenttweaker:material_part - 51
+
+
 plateBasic
 nuclearcraft:part - 0
+
+
+plateBlacktiger
+contenttweaker:material_part - 221
 
 
 plateConstantan
@@ -21177,12 +22842,20 @@ plateDU
 nuclearcraft:part - 2
 
 
+plateDillapis
+contenttweaker:material_part - 1
+
+
 plateElectrum
 immersiveengineering:metal - 37
 
 
 plateElite
 nuclearcraft:part - 3
+
+
+plateFirstTimeGaming
+contenttweaker:material_part - 101
 
 
 plateGold
@@ -21193,6 +22866,14 @@ plateIron
 immersiveengineering:metal - 39
 
 
+plateLallix
+contenttweaker:material_part - 11
+
+
+plateLallixium
+contenttweaker:material_part - 21
+
+
 plateLead
 immersiveengineering:metal - 32
 
@@ -21201,16 +22882,120 @@ plateNickel
 immersiveengineering:metal - 34
 
 
+plateOrangetiger
+contenttweaker:material_part - 251
+
+
+plateRedhellite
+contenttweaker:material_part - 41
+
+
 plateSilver
 immersiveengineering:metal - 33
+
+
+plateSkitso
+contenttweaker:material_part - 141
+
+
+plateSkymium
+contenttweaker:material_part - 61
 
 
 plateSteel
 immersiveengineering:metal - 38
 
 
+plateTechGuy
+contenttweaker:material_part - 161
+
+
 plateUranium
 immersiveengineering:metal - 35
+
+
+plateViolet
+contenttweaker:material_part - 171
+
+
+plateWarlock
+contenttweaker:material_part - 31
+
+
+plateXaelium
+contenttweaker:material_part - 311
+
+
+plateXodias
+contenttweaker:material_part - 181
+
+
+plateZephyrus
+contenttweaker:material_part - 191
+
+
+platebluetiger
+contenttweaker:material_part - 231
+
+
+platecrao
+contenttweaker:material_part - 71
+
+
+platedawsondude
+contenttweaker:material_part - 81
+
+
+platedustcrafter
+contenttweaker:material_part - 91
+
+
+plateirg
+contenttweaker:material_part - 111
+
+
+platekylian
+contenttweaker:material_part - 121
+
+
+platepinktiger
+contenttweaker:material_part - 241
+
+
+platepurpletiger
+contenttweaker:material_part - 261
+
+
+platerainbowtiger
+contenttweaker:material_part - 271
+
+
+plateramm
+contenttweaker:material_part - 131
+
+
+plateredtiger
+contenttweaker:material_part - 281
+
+
+platestar
+contenttweaker:material_part - 151
+
+
+platestarwars
+contenttweaker:material_part - 201
+
+
+platetiger
+contenttweaker:material_part - 211
+
+
+platewhitetiger
+contenttweaker:material_part - 291
+
+
+plateyellowtiger
+contenttweaker:material_part - 301
 
 
 podzol
@@ -21286,8 +23071,136 @@ redstoneRoot
 botania:manaresource - 6
 
 
+rodAphWolf
+contenttweaker:material_part - 54
+
+
+rodBlacktiger
+contenttweaker:material_part - 224
+
+
 rodBlaze
 minecraft:blaze_rod - 0
+
+
+rodDillapis
+contenttweaker:material_part - 4
+
+
+rodFirstTimeGaming
+contenttweaker:material_part - 104
+
+
+rodLallix
+contenttweaker:material_part - 14
+
+
+rodLallixium
+contenttweaker:material_part - 24
+
+
+rodOrangetiger
+contenttweaker:material_part - 254
+
+
+rodRedhellite
+contenttweaker:material_part - 44
+
+
+rodSkitso
+contenttweaker:material_part - 144
+
+
+rodSkymium
+contenttweaker:material_part - 64
+
+
+rodTechGuy
+contenttweaker:material_part - 164
+
+
+rodViolet
+contenttweaker:material_part - 174
+
+
+rodWarlock
+contenttweaker:material_part - 34
+
+
+rodXaelium
+contenttweaker:material_part - 314
+
+
+rodXodias
+contenttweaker:material_part - 184
+
+
+rodZephyrus
+contenttweaker:material_part - 194
+
+
+rodbluetiger
+contenttweaker:material_part - 234
+
+
+rodcrao
+contenttweaker:material_part - 74
+
+
+roddawsondude
+contenttweaker:material_part - 84
+
+
+roddustcrafter
+contenttweaker:material_part - 94
+
+
+rodirg
+contenttweaker:material_part - 114
+
+
+rodkylian
+contenttweaker:material_part - 124
+
+
+rodpinktiger
+contenttweaker:material_part - 244
+
+
+rodpurpletiger
+contenttweaker:material_part - 264
+
+
+rodrainbowtiger
+contenttweaker:material_part - 274
+
+
+rodramm
+contenttweaker:material_part - 134
+
+
+rodredtiger
+contenttweaker:material_part - 284
+
+
+rodstar
+contenttweaker:material_part - 154
+
+
+rodstarwars
+contenttweaker:material_part - 204
+
+
+rodtiger
+contenttweaker:material_part - 214
+
+
+rodwhitetiger
+contenttweaker:material_part - 294
+
+
+rodyellowtiger
+contenttweaker:material_part - 304
 
 
 runeAirB
@@ -21741,51 +23654,54 @@ minecraft:nether_wart - 0
 
 
 seedsTier1
-mysticalagriculture:dirt_seeds - 0
-mysticalagriculture:wood_seeds - 0
-mysticalagriculture:nature_seeds - 0
 mysticalagriculture:zombie_seeds - 0
+mysticalagriculture:dirt_seeds - 0
 mysticalagriculture:stone_seeds - 0
-mysticalagriculture:water_seeds - 0
+mysticalagriculture:wood_seeds - 0
 mysticalagriculture:ice_seeds - 0
+mysticalagriculture:nature_seeds - 0
+mysticalagriculture:water_seeds - 0
 
 
 seedsTier2
-mysticalagriculture:cow_seeds - 0
-mysticalagriculture:dye_seeds - 0
-mysticalagriculture:sheep_seeds - 0
-mysticalagriculture:apatite_seeds - 0
-mysticalagriculture:copper_seeds - 0
-mysticalagriculture:nether_seeds - 0
-mysticalagriculture:pig_seeds - 0
-mysticalagriculture:aluminum_seeds - 0
-mysticalagriculture:mystical_flower_seeds - 0
-mysticalagriculture:marble_seeds - 0
-mysticalagriculture:chicken_seeds - 0
-mysticalagriculture:fire_seeds - 0
-mysticalagriculture:slime_seeds - 0
 mysticalagriculture:sulfur_seeds - 0
+mysticalagriculture:slime_seeds - 0
+mysticalagriculture:marble_seeds - 0
+mysticalagriculture:aluminum_seeds - 0
+mysticalagriculture:cow_seeds - 0
+mysticalagriculture:copper_seeds - 0
+mysticalagriculture:fire_seeds - 0
+mysticalagriculture:nether_seeds - 0
+mysticalagriculture:apatite_seeds - 0
+mysticalagriculture:chicken_seeds - 0
+mysticalagriculture:dye_seeds - 0
+mysticalagriculture:mystical_flower_seeds - 0
+mysticalagriculture:silicon_seeds - 0
 mysticalagriculture:coal_seeds - 0
+mysticalagriculture:pig_seeds - 0
+mysticalagriculture:sheep_seeds - 0
 
 
 seedsTier3
+mysticalagriculture:iron_seeds - 0
 mysticalagriculture:skeleton_seeds - 0
 mysticalagriculture:manasteel_seeds - 0
-mysticalagriculture:guardian_seeds - 0
-mysticalagriculture:tin_seeds - 0
-mysticalagriculture:obsidian_seeds - 0
-mysticalagriculture:glowstone_seeds - 0
-mysticalagriculture:silver_seeds - 0
-mysticalagriculture:spider_seeds - 0
-mysticalagriculture:bronze_seeds - 0
-mysticalagriculture:graphite_seeds - 0
-mysticalagriculture:iron_seeds - 0
 mysticalagriculture:rabbit_seeds - 0
-mysticalagriculture:nether_quartz_seeds - 0
-mysticalagriculture:creeper_seeds - 0
-mysticalagriculture:aquamarine_seeds - 0
-mysticalagriculture:redstone_seeds - 0
+mysticalagriculture:glowstone_seeds - 0
+mysticalagriculture:certus_quartz_seeds - 0
 mysticalagriculture:lead_seeds - 0
+mysticalagriculture:obsidian_seeds - 0
+mysticalagriculture:nether_quartz_seeds - 0
+mysticalagriculture:graphite_seeds - 0
+mysticalagriculture:bronze_seeds - 0
+mysticalagriculture:sky_stone_seeds - 0
+mysticalagriculture:tin_seeds - 0
+mysticalagriculture:aquamarine_seeds - 0
+mysticalagriculture:silver_seeds - 0
+mysticalagriculture:redstone_seeds - 0
+mysticalagriculture:guardian_seeds - 0
+mysticalagriculture:creeper_seeds - 0
+mysticalagriculture:spider_seeds - 0
 jaopca:mysticalagriculture_seeds.americium_241 - 0
 jaopca:mysticalagriculture_seeds.americium_241_all - 0
 jaopca:mysticalagriculture_seeds.americium_241_carbide - 0
@@ -21804,6 +23720,7 @@ jaopca:mysticalagriculture_seeds.americium_243_carbide - 0
 jaopca:mysticalagriculture_seeds.americium_243_nitride - 0
 jaopca:mysticalagriculture_seeds.americium_243_oxide - 0
 jaopca:mysticalagriculture_seeds.americium_243_za - 0
+jaopca:mysticalagriculture_seeds.aph_wolf - 0
 jaopca:mysticalagriculture_seeds.berkelium_247 - 0
 jaopca:mysticalagriculture_seeds.berkelium_247_all - 0
 jaopca:mysticalagriculture_seeds.berkelium_247_carbide - 0
@@ -21817,6 +23734,8 @@ jaopca:mysticalagriculture_seeds.berkelium_248_nitride - 0
 jaopca:mysticalagriculture_seeds.berkelium_248_oxide - 0
 jaopca:mysticalagriculture_seeds.berkelium_248_za - 0
 jaopca:mysticalagriculture_seeds.beryllium - 0
+jaopca:mysticalagriculture_seeds.black_iron - 0
+jaopca:mysticalagriculture_seeds.blacktiger - 0
 jaopca:mysticalagriculture_seeds.boron_10 - 0
 jaopca:mysticalagriculture_seeds.boron_11 - 0
 jaopca:mysticalagriculture_seeds.boron_arsenide - 0
@@ -21852,6 +23771,7 @@ jaopca:mysticalagriculture_seeds.chocolate - 0
 jaopca:mysticalagriculture_seeds.cocoa_butter - 0
 jaopca:mysticalagriculture_seeds.cosmic_neutronium - 0
 jaopca:mysticalagriculture_seeds.crystal_matrix - 0
+jaopca:mysticalagriculture_seeds.crystaltine - 0
 jaopca:mysticalagriculture_seeds.curium_243 - 0
 jaopca:mysticalagriculture_seeds.curium_243_all - 0
 jaopca:mysticalagriculture_seeds.curium_243_carbide - 0
@@ -21985,8 +23905,10 @@ jaopca:mysticalagriculture_seeds.depleted_tbu_nitride - 0
 jaopca:mysticalagriculture_seeds.depleted_tbu_oxide - 0
 jaopca:mysticalagriculture_seeds.depleted_tbutriso - 0
 jaopca:mysticalagriculture_seeds.depleted_tbuza - 0
+jaopca:mysticalagriculture_seeds.dillapis - 0
 jaopca:mysticalagriculture_seeds.extreme - 0
 jaopca:mysticalagriculture_seeds.ferroboron - 0
+jaopca:mysticalagriculture_seeds.first_time_gaming - 0
 jaopca:mysticalagriculture_seeds.fluorite - 0
 jaopca:mysticalagriculture_seeds.hea_242 - 0
 jaopca:mysticalagriculture_seeds.hea_242_carbide - 0
@@ -22135,6 +24057,8 @@ jaopca:mysticalagriculture_seeds.leu_235_nitride - 0
 jaopca:mysticalagriculture_seeds.leu_235_oxide - 0
 jaopca:mysticalagriculture_seeds.leu_235_triso - 0
 jaopca:mysticalagriculture_seeds.leu_235_za - 0
+jaopca:mysticalagriculture_seeds.lallix - 0
+jaopca:mysticalagriculture_seeds.lallixium - 0
 jaopca:mysticalagriculture_seeds.lead_platinum - 0
 jaopca:mysticalagriculture_seeds.lithium_6 - 0
 jaopca:mysticalagriculture_seeds.lithium_7 - 0
@@ -22168,6 +24092,7 @@ jaopca:mysticalagriculture_seeds.neptunium_237_carbide - 0
 jaopca:mysticalagriculture_seeds.neptunium_237_nitride - 0
 jaopca:mysticalagriculture_seeds.neptunium_237_oxide - 0
 jaopca:mysticalagriculture_seeds.neptunium_237_za - 0
+jaopca:mysticalagriculture_seeds.orangetiger - 0
 jaopca:mysticalagriculture_seeds.plutonium_238 - 0
 jaopca:mysticalagriculture_seeds.plutonium_238_all - 0
 jaopca:mysticalagriculture_seeds.plutonium_238_carbide - 0
@@ -22193,19 +24118,24 @@ jaopca:mysticalagriculture_seeds.plutonium_242_nitride - 0
 jaopca:mysticalagriculture_seeds.plutonium_242_oxide - 0
 jaopca:mysticalagriculture_seeds.plutonium_242_za - 0
 jaopca:mysticalagriculture_seeds.pyrolytic_carbon - 0
+jaopca:mysticalagriculture_seeds.redhellite - 0
 jaopca:mysticalagriculture_seeds.rhodochrosite - 0
 jaopca:mysticalagriculture_seeds.shibuichi - 0
 jaopca:mysticalagriculture_seeds.si_c_si_ccmc - 0
 jaopca:mysticalagriculture_seeds.silicon_carbide - 0
+jaopca:mysticalagriculture_seeds.skitso - 0
+jaopca:mysticalagriculture_seeds.skymium - 0
 jaopca:mysticalagriculture_seeds.tbu - 0
 jaopca:mysticalagriculture_seeds.tbu_carbide - 0
 jaopca:mysticalagriculture_seeds.tbu_nitride - 0
 jaopca:mysticalagriculture_seeds.tbu_oxide - 0
 jaopca:mysticalagriculture_seeds.tbutriso - 0
 jaopca:mysticalagriculture_seeds.tbuza - 0
+jaopca:mysticalagriculture_seeds.tech_guy - 0
 jaopca:mysticalagriculture_seeds.thermoconducting - 0
 jaopca:mysticalagriculture_seeds.tin_silver - 0
 jaopca:mysticalagriculture_seeds.tough - 0
+jaopca:mysticalagriculture_seeds.ultimate - 0
 jaopca:mysticalagriculture_seeds.unsweetened_chocolate - 0
 jaopca:mysticalagriculture_seeds.uranium_233 - 0
 jaopca:mysticalagriculture_seeds.uranium_233_all - 0
@@ -22226,45 +24156,67 @@ jaopca:mysticalagriculture_seeds.uranium_238_nitride - 0
 jaopca:mysticalagriculture_seeds.uranium_238_oxide - 0
 jaopca:mysticalagriculture_seeds.uranium_238_za - 0
 jaopca:mysticalagriculture_seeds.villiaumite - 0
+jaopca:mysticalagriculture_seeds.violet - 0
+jaopca:mysticalagriculture_seeds.warlock - 0
+jaopca:mysticalagriculture_seeds.xaelium - 0
+jaopca:mysticalagriculture_seeds.xodias - 0
+jaopca:mysticalagriculture_seeds.zephyrus - 0
 jaopca:mysticalagriculture_seeds.zircaloy - 0
 jaopca:mysticalagriculture_seeds.zirconium - 0
 jaopca:mysticalagriculture_seeds.zirconium_molybdenum - 0
+jaopca:mysticalagriculture_seeds.bluetiger - 0
+jaopca:mysticalagriculture_seeds.crao - 0
+jaopca:mysticalagriculture_seeds.dawsondude - 0
+jaopca:mysticalagriculture_seeds.dustcrafter - 0
+jaopca:mysticalagriculture_seeds.irg - 0
+jaopca:mysticalagriculture_seeds.kylian - 0
+jaopca:mysticalagriculture_seeds.pinktiger - 0
+jaopca:mysticalagriculture_seeds.purpletiger - 0
+jaopca:mysticalagriculture_seeds.rainbowtiger - 0
+jaopca:mysticalagriculture_seeds.ramm - 0
+jaopca:mysticalagriculture_seeds.redtiger - 0
+jaopca:mysticalagriculture_seeds.star - 0
+jaopca:mysticalagriculture_seeds.starwars - 0
+jaopca:mysticalagriculture_seeds.tiger - 0
+jaopca:mysticalagriculture_seeds.whitetiger - 0
+jaopca:mysticalagriculture_seeds.yellowtiger - 0
 
 
 seedsTier4
-mysticalagriculture:thorium_seeds - 0
-mysticalagriculture:lithium_seeds - 0
-mysticalagriculture:blaze_seeds - 0
-mysticalagriculture:boron_seeds - 0
-mysticalagriculture:electrum_seeds - 0
-mysticalagriculture:lapis_lazuli_seeds - 0
-mysticalagriculture:gold_seeds - 0
-mysticalagriculture:ghast_seeds - 0
-mysticalagriculture:constantan_seeds - 0
-mysticalagriculture:magnesium_seeds - 0
-mysticalagriculture:steel_seeds - 0
-mysticalagriculture:elementium_seeds - 0
-mysticalagriculture:nickel_seeds - 0
-mysticalagriculture:hop_graphite_seeds - 0
-mysticalagriculture:end_seeds - 0
-mysticalagriculture:enderman_seeds - 0
 mysticalagriculture:experience_seeds - 0
+mysticalagriculture:boron_seeds - 0
+mysticalagriculture:steel_seeds - 0
+mysticalagriculture:blaze_seeds - 0
+mysticalagriculture:end_seeds - 0
+mysticalagriculture:fluix_seeds - 0
+mysticalagriculture:magnesium_seeds - 0
+mysticalagriculture:lapis_lazuli_seeds - 0
+mysticalagriculture:enderman_seeds - 0
+mysticalagriculture:hop_graphite_seeds - 0
+mysticalagriculture:constantan_seeds - 0
+mysticalagriculture:ghast_seeds - 0
+mysticalagriculture:lithium_seeds - 0
+mysticalagriculture:nickel_seeds - 0
+mysticalagriculture:electrum_seeds - 0
+mysticalagriculture:elementium_seeds - 0
+mysticalagriculture:thorium_seeds - 0
+mysticalagriculture:gold_seeds - 0
 
 
 seedsTier5
-mysticalagriculture:emerald_seeds - 0
-mysticalagriculture:uranium_seeds - 0
 mysticalagriculture:terrasteel_seeds - 0
 mysticalagriculture:rock_crystal_seeds - 0
-mysticalagriculture:diamond_seeds - 0
+mysticalagriculture:emerald_seeds - 0
 mysticalagriculture:starmetal_seeds - 0
 mysticalagriculture:wither_skeleton_seeds - 0
+mysticalagriculture:diamond_seeds - 0
+mysticalagriculture:uranium_seeds - 0
 
 
 seedsTier6
 mysticalagradditions:nether_star_seeds - 0
-mysticalagradditions:neutronium_seeds - 0
 mysticalagradditions:dragon_egg_seeds - 0
+mysticalagradditions:neutronium_seeds - 0
 
 
 servo
@@ -22363,6 +24315,10 @@ singularityApatite
 jaopca:avaritia_singularity.apatite - 0
 
 
+singularityAphWolf
+jaopca:avaritia_singularity.aph_wolf - 0
+
+
 singularityAquamarine
 jaopca:avaritia_singularity.aquamarine - 0
 
@@ -22425,6 +24381,14 @@ jaopca:avaritia_singularity.berkelium_248_za - 0
 
 singularityBeryllium
 jaopca:avaritia_singularity.beryllium - 0
+
+
+singularityBlackIron
+jaopca:avaritia_singularity.black_iron - 0
+
+
+singularityBlacktiger
+jaopca:avaritia_singularity.blacktiger - 0
 
 
 singularityBoron
@@ -22559,6 +24523,10 @@ singularityCarobbiite
 jaopca:avaritia_singularity.carobbiite - 0
 
 
+singularityCertusQuartz
+jaopca:avaritia_singularity.certus_quartz - 0
+
+
 singularityChocolate
 jaopca:avaritia_singularity.chocolate - 0
 
@@ -22581,6 +24549,10 @@ jaopca:avaritia_singularity.cosmic_neutronium - 0
 
 singularityCrystalMatrix
 jaopca:avaritia_singularity.crystal_matrix - 0
+
+
+singularityCrystaltine
+jaopca:avaritia_singularity.crystaltine - 0
 
 
 singularityCurium243
@@ -23115,6 +25087,10 @@ singularityDepletedTBUZA
 jaopca:avaritia_singularity.depleted_tbuza - 0
 
 
+singularityDillapis
+jaopca:avaritia_singularity.dillapis - 0
+
+
 singularityElectrum
 jaopca:avaritia_singularity.electrum - 0
 
@@ -23129,6 +25105,10 @@ jaopca:avaritia_singularity.extreme - 0
 
 singularityFerroboron
 jaopca:avaritia_singularity.ferroboron - 0
+
+
+singularityFirstTimeGaming
+jaopca:avaritia_singularity.first_time_gaming - 0
 
 
 singularityFluorite
@@ -23739,6 +25719,14 @@ singularityLEU235ZA
 jaopca:avaritia_singularity.leu_235_za - 0
 
 
+singularityLallix
+jaopca:avaritia_singularity.lallix - 0
+
+
+singularityLallixium
+jaopca:avaritia_singularity.lallixium - 0
+
+
 singularityLeadPlatinum
 jaopca:avaritia_singularity.lead_platinum - 0
 
@@ -23883,6 +25871,10 @@ singularityNeptunium237ZA
 jaopca:avaritia_singularity.neptunium_237_za - 0
 
 
+singularityOrangetiger
+jaopca:avaritia_singularity.orangetiger - 0
+
+
 singularityPlutonium238
 jaopca:avaritia_singularity.plutonium_238 - 0
 
@@ -23991,6 +25983,10 @@ singularityPyrolyticCarbon
 jaopca:avaritia_singularity.pyrolytic_carbon - 0
 
 
+singularityRedhellite
+jaopca:avaritia_singularity.redhellite - 0
+
+
 singularityRhodochrosite
 jaopca:avaritia_singularity.rhodochrosite - 0
 
@@ -24005,6 +26001,14 @@ jaopca:avaritia_singularity.si_c_si_ccmc - 0
 
 singularitySiliconCarbide
 jaopca:avaritia_singularity.silicon_carbide - 0
+
+
+singularitySkitso
+jaopca:avaritia_singularity.skitso - 0
+
+
+singularitySkymium
+jaopca:avaritia_singularity.skymium - 0
 
 
 singularitySoulium
@@ -24047,6 +26051,10 @@ singularityTBUZA
 jaopca:avaritia_singularity.tbuza - 0
 
 
+singularityTechGuy
+jaopca:avaritia_singularity.tech_guy - 0
+
+
 singularityTerrasteel
 jaopca:avaritia_singularity.terrasteel - 0
 
@@ -24065,6 +26073,10 @@ jaopca:avaritia_singularity.tin_silver - 0
 
 singularityTough
 jaopca:avaritia_singularity.tough - 0
+
+
+singularityUltimate
+jaopca:avaritia_singularity.ultimate - 0
 
 
 singularityUnsweetenedChocolate
@@ -24151,6 +26163,26 @@ singularityVilliaumite
 jaopca:avaritia_singularity.villiaumite - 0
 
 
+singularityViolet
+jaopca:avaritia_singularity.violet - 0
+
+
+singularityWarlock
+jaopca:avaritia_singularity.warlock - 0
+
+
+singularityXaelium
+jaopca:avaritia_singularity.xaelium - 0
+
+
+singularityXodias
+jaopca:avaritia_singularity.xodias - 0
+
+
+singularityZephyrus
+jaopca:avaritia_singularity.zephyrus - 0
+
+
 singularityZircaloy
 jaopca:avaritia_singularity.zircaloy - 0
 
@@ -24161,6 +26193,70 @@ jaopca:avaritia_singularity.zirconium - 0
 
 singularityZirconiumMolybdenum
 jaopca:avaritia_singularity.zirconium_molybdenum - 0
+
+
+singularitybluetiger
+jaopca:avaritia_singularity.bluetiger - 0
+
+
+singularitycrao
+jaopca:avaritia_singularity.crao - 0
+
+
+singularitydawsondude
+jaopca:avaritia_singularity.dawsondude - 0
+
+
+singularitydustcrafter
+jaopca:avaritia_singularity.dustcrafter - 0
+
+
+singularityirg
+jaopca:avaritia_singularity.irg - 0
+
+
+singularitykylian
+jaopca:avaritia_singularity.kylian - 0
+
+
+singularitypinktiger
+jaopca:avaritia_singularity.pinktiger - 0
+
+
+singularitypurpletiger
+jaopca:avaritia_singularity.purpletiger - 0
+
+
+singularityrainbowtiger
+jaopca:avaritia_singularity.rainbowtiger - 0
+
+
+singularityramm
+jaopca:avaritia_singularity.ramm - 0
+
+
+singularityredtiger
+jaopca:avaritia_singularity.redtiger - 0
+
+
+singularitystar
+jaopca:avaritia_singularity.star - 0
+
+
+singularitystarwars
+jaopca:avaritia_singularity.starwars - 0
+
+
+singularitytiger
+jaopca:avaritia_singularity.tiger - 0
+
+
+singularitywhitetiger
+jaopca:avaritia_singularity.whitetiger - 0
+
+
+singularityyellowtiger
+jaopca:avaritia_singularity.yellowtiger - 0
 
 
 slabAluminum
@@ -24512,24 +26608,152 @@ stickAluminum
 immersiveengineering:material - 3
 
 
+stickAphWolf
+contenttweaker:material_part - 54
+
+
+stickBlacktiger
+contenttweaker:material_part - 224
+
+
 stickBone
 minecraft:bone - 0
+
+
+stickDillapis
+contenttweaker:material_part - 4
+
+
+stickFirstTimeGaming
+contenttweaker:material_part - 104
 
 
 stickIron
 immersiveengineering:material - 1
 
 
+stickLallix
+contenttweaker:material_part - 14
+
+
+stickLallixium
+contenttweaker:material_part - 24
+
+
+stickOrangetiger
+contenttweaker:material_part - 254
+
+
+stickRedhellite
+contenttweaker:material_part - 44
+
+
+stickSkitso
+contenttweaker:material_part - 144
+
+
+stickSkymium
+contenttweaker:material_part - 64
+
+
 stickSteel
 immersiveengineering:material - 2
+
+
+stickTechGuy
+contenttweaker:material_part - 164
 
 
 stickTreatedWood
 immersiveengineering:material - 0
 
 
+stickViolet
+contenttweaker:material_part - 174
+
+
+stickWarlock
+contenttweaker:material_part - 34
+
+
 stickWood
 minecraft:stick - 0
+
+
+stickXaelium
+contenttweaker:material_part - 314
+
+
+stickXodias
+contenttweaker:material_part - 184
+
+
+stickZephyrus
+contenttweaker:material_part - 194
+
+
+stickbluetiger
+contenttweaker:material_part - 234
+
+
+stickcrao
+contenttweaker:material_part - 74
+
+
+stickdawsondude
+contenttweaker:material_part - 84
+
+
+stickdustcrafter
+contenttweaker:material_part - 94
+
+
+stickirg
+contenttweaker:material_part - 114
+
+
+stickkylian
+contenttweaker:material_part - 124
+
+
+stickpinktiger
+contenttweaker:material_part - 244
+
+
+stickpurpletiger
+contenttweaker:material_part - 264
+
+
+stickrainbowtiger
+contenttweaker:material_part - 274
+
+
+stickramm
+contenttweaker:material_part - 134
+
+
+stickredtiger
+contenttweaker:material_part - 284
+
+
+stickstar
+contenttweaker:material_part - 154
+
+
+stickstarwars
+contenttweaker:material_part - 204
+
+
+sticktiger
+contenttweaker:material_part - 214
+
+
+stickwhitetiger
+contenttweaker:material_part - 294
+
+
+stickyellowtiger
+contenttweaker:material_part - 304
 
 
 stone

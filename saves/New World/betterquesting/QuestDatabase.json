@@ -15,12 +15,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:table_basic",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:table_basic"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -44,12 +40,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:table_basic",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:table_basic"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -78,12 +70,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:table_advanced",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:table_advanced"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -107,12 +95,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:table_advanced",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:table_advanced"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -139,12 +123,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:table_elite",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:table_elite"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -168,12 +148,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:table_elite",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:table_elite"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -200,12 +176,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:table_ultimate",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:table_ultimate"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -229,12 +201,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:table_ultimate",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:table_ultimate"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -259,12 +227,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:ender_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:ender_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -288,12 +252,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:ender_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:ender_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -318,12 +278,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:crafting_core",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:crafting_core"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -347,12 +303,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:crafting_core",
               "Count:3": 12,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:crafting_core"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -377,12 +329,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:ender_alternator",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:ender_alternator"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -406,12 +354,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:ender_alternator",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:ender_alternator"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -436,12 +380,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:pedestal",
             "Count:3": 64,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:pedestal"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -465,12 +405,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:pedestal",
               "Count:3": 500,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:pedestal"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -498,12 +434,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "extendedcrafting:interface",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "extendedcrafting:interface"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -527,12 +459,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "extendedcrafting:interface",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "extendedcrafting:interface"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -872,12 +800,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:drive",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:drive"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -901,12 +825,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:drive",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:drive"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1702,12 +1622,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_unit",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_unit"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1731,12 +1647,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_unit",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_unit"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1761,12 +1673,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_storage_1k",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_storage_1k"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1790,12 +1698,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_storage_1k",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_storage_1k"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1821,12 +1725,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_storage_4k",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_storage_4k"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1850,12 +1750,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_storage_4k",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_storage_4k"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1881,12 +1777,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_storage_16k",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_storage_16k"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1910,12 +1802,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_storage_16k",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_storage_16k"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1941,12 +1829,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_storage_64k",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_storage_64k"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1970,12 +1854,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_storage_64k",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_storage_64k"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -2000,12 +1880,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_accelerator",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_accelerator"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -2029,12 +1905,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_accelerator",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_accelerator"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -2059,12 +1931,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:crafting_monitor",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:crafting_monitor"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -2088,12 +1956,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:crafting_monitor",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:crafting_monitor"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -3251,15 +3115,11 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:energy_cell",
             "Count:3": 64,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "internalMaxPower:6": 200000.0,
-                "internalCurrentPower:6": 200000.0
-              },
-              "orig_id:8": "appliedenergistics2:energy_cell"
+              "internalMaxPower:6": 200000.0,
+              "internalCurrentPower:6": 200000.0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -3284,15 +3144,11 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:energy_cell",
               "Count:3": 64,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "internalMaxPower:6": 200000.0,
-                  "internalCurrentPower:6": 200000.0
-                },
-                "orig_id:8": "appliedenergistics2:energy_cell"
+                "internalMaxPower:6": 200000.0,
+                "internalCurrentPower:6": 200000.0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -3318,15 +3174,11 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:dense_energy_cell",
             "Count:3": 64,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "internalMaxPower:6": 1600000.0,
-                "internalCurrentPower:6": 1600000.0
-              },
-              "orig_id:8": "appliedenergistics2:dense_energy_cell"
+              "internalMaxPower:6": 1600000.0,
+              "internalCurrentPower:6": 1600000.0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -3351,15 +3203,11 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:dense_energy_cell",
               "Count:3": 64,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "internalMaxPower:6": 1600000.0,
-                  "internalCurrentPower:6": 1600000.0
-                },
-                "orig_id:8": "appliedenergistics2:dense_energy_cell"
+                "internalMaxPower:6": 1600000.0,
+                "internalCurrentPower:6": 1600000.0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -3456,12 +3304,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 54,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 54,
             "OreDict:8": ""
           },
@@ -3485,12 +3329,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 54,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 54,
               "OreDict:8": ""
             }
@@ -3516,12 +3356,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 55,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 55,
             "OreDict:8": ""
           },
@@ -3545,12 +3381,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 55,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 55,
               "OreDict:8": ""
             }
@@ -3576,12 +3408,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 56,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 56,
             "OreDict:8": ""
           },
@@ -3605,12 +3433,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 56,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 56,
               "OreDict:8": ""
             }
@@ -3636,12 +3460,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 57,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 57,
             "OreDict:8": ""
           },
@@ -3665,12 +3485,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 57,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 57,
               "OreDict:8": ""
             }
@@ -3816,12 +3632,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 39,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 39,
             "OreDict:8": ""
           },
@@ -3845,12 +3657,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 39,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 39,
               "OreDict:8": ""
             }
@@ -3866,13 +3674,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:storage_cell_1k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:storage_cell_1k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -3888,13 +3695,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:storage_cell_4k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:storage_cell_4k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -3910,13 +3716,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:storage_cell_16k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:storage_cell_16k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -3932,13 +3737,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:storage_cell_64k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:storage_cell_64k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -4083,13 +3887,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:portable_cell"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:portable_cell",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -4117,12 +3920,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 35,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 35,
             "OreDict:8": ""
           },
@@ -4146,12 +3945,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 35,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 35,
               "OreDict:8": ""
             }
@@ -4178,12 +3973,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 36,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 36,
             "OreDict:8": ""
           },
@@ -4207,12 +3998,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 36,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 36,
               "OreDict:8": ""
             }
@@ -4239,12 +4026,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 37,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 37,
             "OreDict:8": ""
           },
@@ -4268,12 +4051,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 37,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 37,
               "OreDict:8": ""
             }
@@ -4300,12 +4079,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 38,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 38,
             "OreDict:8": ""
           },
@@ -4329,12 +4104,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 38,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 38,
               "OreDict:8": ""
             }
@@ -5309,13 +5080,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:fluid_storage_cell_1k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:fluid_storage_cell_1k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -5331,13 +5101,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:fluid_storage_cell_4k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:fluid_storage_cell_4k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -5353,13 +5122,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:fluid_storage_cell_16k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:fluid_storage_cell_16k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -5375,13 +5143,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:fluid_storage_cell_64k"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:fluid_storage_cell_64k",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -5562,12 +5329,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 28,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 28,
             "OreDict:8": ""
           },
@@ -5591,123 +5354,75 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 28,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 28,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 25,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 25,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 27,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 27,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 53,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 53,
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 29,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 29,
               "OreDict:8": ""
             },
             "5:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 31,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 31,
               "OreDict:8": ""
             },
             "6:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 60,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:material"
-              },
+              "tag:10": {},
               "Damage:2": 60,
               "OreDict:8": ""
             },
             "7:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 58,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 58,
               "OreDict:8": ""
             },
             "8:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 58,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 58,
               "OreDict:8": ""
             },
             "9:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 59,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 59,
               "OreDict:8": ""
             },
             "10:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 26,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 26,
               "OreDict:8": ""
             },
             "11:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 30,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 30,
               "OreDict:8": ""
             },
@@ -5743,12 +5458,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:controller",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:controller"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -5772,12 +5483,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:controller",
               "Count:3": 400,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:controller"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -5804,13 +5511,12 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {},
-              "orig_id:8": "appliedenergistics2:wireless_terminal"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "appliedenergistics2:wireless_terminal",
+            "Count:3": 1,
+            "tag:10": {},
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -5834,24 +5540,22 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:wireless_terminal"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:wireless_terminal",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "appliedenergistics2:wireless_crafting_terminal"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "appliedenergistics2:wireless_crafting_terminal",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -6221,12 +5925,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:part",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 380,
-              "orig_id:8": "appliedenergistics2:part"
-            },
             "Damage:2": 380,
             "OreDict:8": ""
           },
@@ -6250,42 +5950,26 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 380,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 380,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 340,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 340,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 480,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 480,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 520,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 520,
               "OreDict:8": ""
             },
@@ -6311,12 +5995,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 360,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 360,
               "OreDict:8": ""
             },
@@ -6352,32 +6032,20 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 521,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 521,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 522,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 522,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:part",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 341,
-                "orig_id:8": "appliedenergistics2:part"
-              },
               "Damage:2": 341,
               "OreDict:8": ""
             },
@@ -7303,12 +6971,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:security_station",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:security_station"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -7332,12 +6996,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:security_station",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:security_station"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -7362,12 +7022,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:quartz_growth_accelerator",
             "Count:3": 6,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:quartz_growth_accelerator"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -7391,12 +7047,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:quartz_growth_accelerator",
               "Count:3": 6,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:quartz_growth_accelerator"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -7421,12 +7073,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:molecular_assembler",
             "Count:3": 64,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "appliedenergistics2:molecular_assembler"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -7450,12 +7098,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:molecular_assembler",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "appliedenergistics2:molecular_assembler"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -7480,12 +7124,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "appliedenergistics2:material",
             "Count:3": 64,
-            "tag:10": {
-              "orig_meta:3": 7,
-              "orig_id:8": "appliedenergistics2:material"
-            },
             "Damage:2": 7,
             "OreDict:8": ""
           },
@@ -7509,12 +7149,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "appliedenergistics2:material",
               "Count:3": 1000,
-              "tag:10": {
-                "orig_meta:3": 7,
-                "orig_id:8": "appliedenergistics2:material"
-              },
               "Damage:2": 7,
               "OreDict:8": ""
             }
