@@ -2630,3 +2630,272 @@ java.lang.NullPointerException: null
 	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[13:25:01] [Client thread/INFO] [jeibees]: JEI Plugin initializing
+[13:25:01] [Client thread/INFO] [jeibees]: Added 132 mutation recipes for Trees
+[13:25:01] [Client thread/INFO] [jeibees]: Added 132 produce recipes for Trees
+[13:25:01] [Client thread/INFO] [jeibees]: Added 1 mutation recipes for Butterflies
+[13:25:01] [Client thread/INFO] [jeibees]: Not adding produce recipes for Butterflies - disabled
+[13:25:01] [Client thread/INFO] [jeibees]: Added 387 mutation recipes for Bees
+[13:25:01] [Client thread/INFO] [jeibees]: Added 344 produce recipes for Bees
+[13:25:01] [Client thread/INFO] [jeibees]: Added 37 mutation recipes for Flowers
+[13:25:01] [Client thread/INFO] [jeibees]: Added 0 produce recipes for Flowers
+[13:25:01] [Client thread/INFO] [jei]: Registering mod plugins took 3.378 s
+[13:25:01] [Client thread/INFO] [jei]: Building recipe registry...
+[13:25:03] [Client thread/INFO] [jei]: Building recipe registry took 1.966 s
+[13:25:03] [Client thread/INFO] [jei]: Building ingredient list...
+[13:25:04] [Client thread/INFO] [jei]: Building ingredient list took 392.7 ms
+[13:25:04] [Client thread/INFO] [jei]: Building ingredient filter...
+[13:25:06] [Client thread/INFO] [jei]: Building ingredient filter took 2.103 s
+[13:25:06] [Client thread/INFO] [jei]: Building bookmarks...
+[13:25:06] [Client thread/INFO] [jei]: Building bookmarks took 5.975 ms
+[13:25:06] [Client thread/INFO] [jei]: Building runtime...
+[13:25:06] [Client thread/INFO] [jei]: Building runtime took 100.0 ms
+[13:25:06] [Client thread/INFO] [jei]: Optimizing memory usage...
+[13:25:06] [Client thread/INFO] [jei]: Optimizing memory usage took 184.1 ms
+[13:25:06] [Client thread/INFO] [jei]: Starting JEI took 9.433 s
+[13:25:09] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 104 mods
+[13:25:09] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[13:25:09] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN minecraft
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain minecraft is missing 1 texture
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain minecraft has 7 locations:
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod botania resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\Botania r1.10-364.4.jar
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:DungeonTactics
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:More Loot Tables
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Psi
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod rpsideas resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\rpsideas-2.4.4.jar
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod immersiveengineering resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\ImmersiveEngineering-0.12-98.jar
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain minecraft are:
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/missingno.png
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain minecraft
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN powersuits
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain powersuits is missing 2 textures
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain powersuits has 1 location:
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       mod powersuits resources at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\ModularPowersuits-1.12.2-1.1.048.jar
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain powersuits are:
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/coalgen.png
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/modules/empty_set.png
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain powersuits
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[13:25:09] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[13:25:56] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[13:25:56] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[13:25:56] [Client thread/INFO] [LibrarianLib ASM]: Transforming NetHandlerPlayServer
+[13:25:56] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[13:25:56] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[13:25:56] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:25:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[13:25:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[13:25:56] [Server thread/INFO] [mcjtylib_ng]: Preparing all world data
+[13:25:56] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod modularmachinery which appears to be missing, things may not work well
+[13:25:56] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockoutputbus
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockcontroller
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:alloy_furnace_controller
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:transformer_controller
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockfluidinputhatch
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockcasing
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:crushing_wheels
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockupgradebus
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockparallelcontroller
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blocksmartinterface
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockinputbus
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockfluidoutputhatch
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:iron_centrifuge_controller
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockenergyoutputhatch
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockenergyinputhatch
+[13:25:56] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockfactorycontroller
+[13:25:56] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockupgradebus
+[13:25:56] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockfluidoutputhatch
+[13:25:56] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:iron_centrifuge_controller
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockenergyoutputhatch
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockfactorycontroller
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockoutputbus
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockcontroller
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:alloy_furnace_controller
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:machine_projector
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:itemmodularium
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:transformer_controller
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockfluidinputhatch
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockcasing
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:crushing_wheels
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockparallelcontroller
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:itemconstructtool
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blocksmartinterface
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockinputbus
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:itemblueprint
+[13:25:57] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world modularmachinery:blockenergyinputhatch
+[13:25:57] [Server thread/ERROR] [FML]: Unidentified mapping from registry minecraft:blocks
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:crushing_wheels: 1853
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:iron_centrifuge_controller: 1850
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockoutputbus: 1856
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockcontroller: 1848
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockcasing: 1854
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:alloy_furnace_controller: 1852
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockinputbus: 1855
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockupgradebus: 1863
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockenergyinputhatch: 1859
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:transformer_controller: 1851
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockfluidoutputhatch: 1858
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockenergyoutputhatch: 1860
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockfluidinputhatch: 1857
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockfactorycontroller: 1849
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockparallelcontroller: 1862
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blocksmartinterface: 1861
+[13:25:57] [Server thread/ERROR] [FML]: Unidentified mapping from registry minecraft:items
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:machine_projector: 6847
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:itemconstructtool: 6846
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockfluidinputhatch: 6853
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockcasing: 6850
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:itemblueprint: 6844
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockcontroller: 6848
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockoutputbus: 6852
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockfluidoutputhatch: 6854
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockenergyinputhatch: 6855
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockupgradebus: 6859
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockfactorycontroller: 6849
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:alloy_furnace_controller: 6862
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:itemmodularium: 6845
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockparallelcontroller: 6858
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockenergyoutputhatch: 6856
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:crushing_wheels: 6863
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:iron_centrifuge_controller: 6860
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blocksmartinterface: 6857
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:blockinputbus: 6851
+[13:25:57] [Server thread/ERROR] [FML]:     modularmachinery:transformer_controller: 6861
+[13:25:59] [Server thread/INFO] [FML]: World backup created at D:\New folder\Instances\Instances\NEW copy of my pack final outcome\saves\New World-20230714-132559.zip.
+[13:25:59] [Server thread/ERROR] [FML]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[13:26:03] [Server thread/INFO] [FML]: Applying holder lookups
+[13:26:03] [Server thread/INFO] [FML]: Holder lookups applied
+[13:26:03] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@4378affc)
+[13:26:03] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't load loot table pamsbreadcraft:bakerychest from jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/Pam's+BreadCraft+1.12.2-1.1.2.jar!/assets/pamsbreadcraft/loot_tables/bakerychest.json
+com.google.gson.JsonParseException: Loot Table "pamsbreadcraft:bakerychest" Missing `name` entry for pool #0
+	at net.minecraftforge.common.ForgeHooks.readPoolName(ForgeHooks.java:1252) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:143) ~[bfq$a.class:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:138) ~[bfq$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[TypeAdapterRuntimeTypeWrapper.class:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[ArrayTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:204) ~[bfs$a.class:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:199) ~[bfs$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:852) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:801) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:773) ~[Gson.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:1176) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.world.storage.loot.LootTableManager$Loader.func_186518_c(LootTableManager.java:156) [bfv$a.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager$Loader.load(LootTableManager.java:72) [bfv$a.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager$Loader.load(LootTableManager.java:53) [bfv$a.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_186521_a(LootTableManager.java:40) [bfv.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_186522_a(LootTableManager.java:49) [bfv.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager.<init>(LootTableManager.java:35) [bfv.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:155) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[13:26:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 747 advancements
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 0
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[13:26:05] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@4378affc)
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension -1
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[13:26:05] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@4378affc)
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 1
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[13:26:05] [Server thread/INFO] [FML]: Loading dimension 3 (New World) (net.minecraft.server.integrated.IntegratedServer@4378affc)
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 3
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[13:26:05] [Server thread/INFO] [FML]: Loading dimension 4598 (New World) (net.minecraft.server.integrated.IntegratedServer@4378affc)
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 4598
+[13:26:05] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[13:26:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[13:26:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
+[13:26:07] [Server thread/INFO] [betterquesting]: Loaded 132 quests
+[13:26:07] [Server thread/INFO] [betterquesting]: Loaded 9 quest lines
+[13:26:07] [Server thread/INFO] [betterquesting]: Loaded 0 parties
+[13:26:07] [Server thread/INFO] [betterquesting]: Loaded 1 names
+[13:26:07] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[13:26:07] [Server thread/INFO] [immersiveengineering]: WorldData retrieved
+[13:26:07] [Server thread/INFO] [FML]: Unloading dimension -1
+[13:26:07] [Server thread/INFO] [FML]: Unloading dimension 1
+[13:26:07] [Server thread/INFO] [FML]: Unloading dimension 4598
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:hopper to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:dropper to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:white_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:orange_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:magenta_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:light_blue_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:yellow_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:lime_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:pink_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:gray_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:silver_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:cyan_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:blue_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:brown_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:green_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:red_shulker_box to the Lootr block replacement list.
+[13:26:07] [Server thread/INFO] [Lootr]: Added minecraft:black_shulker_box to the Lootr block replacement list.
+[13:26:08] [Server thread/INFO] [Lootr]: Added securitycraft:keypad_chest to the Lootr block replacement list.
+[13:26:08] [Server thread/INFO] [Lootr]: Added securitycraft:reinforced_hopper to the Lootr block replacement list.
+[13:26:08] [Server thread/ERROR] [FML]: Unable to find clip default in the model botania:block/pump_head
+[13:26:08] [Server thread/ERROR] [FML]: Unable to find clip moving in the model botania:block/pump_head
+[13:26:08] [Server thread/INFO] [Lootr]: Added dungeontactics:barrel to the Lootr block replacement list.
+[13:26:09] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[13:26:09] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[13:26:09] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[13:26:09] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 104 mods : p455w0rdslib@2.3.161,dungeonsmod@@VERSION@,astralsorcery@1.10.27,bqt@1.0,jaffa@7.63.1,binniecore@2.5.1.203,moretweaker@1.0.19,contenttweaker@1.12.2-4.10.0,lttweaker@1.1.14,nates_foodcraft@1.0.0,jeibees@0.9.0.5,betterquesting@3.5.329,forgelin@1.8.4,betterbuilderswands@0.11.1,matc@1.0.1-hotfix,librarianliblate@4.22,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,bq_standard@3.4.173,mysticalagradditions@1.3.2,openmodularturrets@3.1.14-382,lootgames@1.0.3.1,extratrees@2.5.1.203,powersuits@1.1.048,crafttweakerjei@2.0.3,lootoverhaul@1.2,jehc@1.7.2,mtlib@3.0.7,botany@2.5.1.203,redstoneflux@2.1.1,modtweaker@4.0.19,botania@r1.10-364,gendustry@1.6.5.8,mysticaladaptations@1.8.8,roguelike@1.8.0,bqforestry@2.1.0,FML@8.0.99.99,ompd@3.1.1-76,jargca@1.12.2-1.0.0.0,psipherals@1.1.0,zensummoning@1.1.0,zenutils@1.14.3,mysticalcreations@1.6.1,codechickenlib@3.2.3.358,beebetteratbees@2.0.3,binniedesign@2.5.1.203,danknull@1.7.91,ctgui@1.0.0,dldungeonsjbg@1.14.12,crafttweakerutils@0.7,cucumber@1.1.3,dungeontactics@DT-0.16.9,mixinbooter@8.3,librarianlib@4.22,moreloottables@0.1.0,mystagradcompat@1.2,jei@4.16.1.301,careerbees@1.0,pamscookables@1.1,bdlib@1.14.3.12,mcp@9.42,notenoughwands@1.8.1,nuclearcraft@2o.6.2,harvestcraft@1.12.2zb,omlib@3.1.5-256,extrabees@2.5.1.203,crafttweaker@4.1.20,rpsideas@2.4.4,forge@14.23.5.2860,magicbees@1.0,pamsbreadcraft@1.1.0,mysticalagriculture@1.7.5,craftingtweaks@8.1.9,minecraft@1.12.2,foodtweaker@1.1.3,avaritia@3.3.0,immersiveengineering@0.12-98,psi@r1.1-78,baubles@1.5.2,applecore@3.4.0,numina@1.0,manatweaks@1.4,genetics@2.5.1.203,ctintegration@1.8.0,timecore@1.0.1.1,loottweaker@0.3.1,jaopca@1.12.2-2.3.2.3,securitycraft@v1.9.7,autoreglib@1.3-32,harvestcrafttweaker@@VERSION@,jaopcasingularities@1.12.2-3.0.0.0,lootbags@2.5.8.5,gendustryjei@1.0.2,wrapup@1.12-1.1.3,morelootstuff@0.0.5,lootr@0.6.1,modularrouters@1.12.2-3.3.0-33,customizeddungeonloot@1.0.3,scalingfeast@v1.8.2,looty@0.0.1,packmode@1.2.0,forestry@5.8.2.387,base@3.14.0,morebees@1.12.2-2.0.1
+[13:26:09] [Netty Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[13:26:09] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[13:26:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:26:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Dawsondude11[local:E:5b8f9566] logged in with entity id 265 at (92.80727660055413, 73.0, 251.33519982240816)
+[13:26:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Dawsondude11 joined the game
+[13:26:09] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Dawsondude11...
+[13:26:09] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Dawsondude11
+[13:26:09] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:blocks/all
+[13:26:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:entities/all
+[13:26:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[13:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[13:26:10] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [§6SecurityCraft§f] Thanks for using SecurityCraft v1.9.7! Tip: Typing /sc help will give you the recipe for the SecurityCraft manual, which will display help info for SecurityCraft blocks/items.
+[13:26:11] [Client thread/INFO] [Astral Sorcery]: Using gateway screenshots for folder 'new_world'
+[13:26:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[13:26:11] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 26 advancements
+[13:26:39] [Client thread/WARN] [jei]: Recipe registry plugin is slow, took 12.77 ms. class binnie.extratrees.integration.jei.multifence.MultiFenceRecipeRegistryPlugin
+[13:26:49] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /bq_admin, /bq_user, /bqs_advancement_dump, /bqs_loot
+[13:26:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Usage: /bq_admin edit [true|false], /bq_admin hardcore [true|false], /bq_admin reset [all|<quest_id>] [username|uuid], /bq_admin complete <quest_id> [username|uuid], /bq_admin delete [all|<quest_id>], /bq_admin default [save|load|set] [file_name], /bq_admin lives [add|set|max|default] <value> [username|uuid], /bq_admin purge_hidden_quests
+[13:26:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Edit mode ON
+[13:26:54] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[13:26:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[13:26:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[13:27:09] [Server thread/INFO] [betterquesting]: Importing 229 quest(s) and 7 quest line(s) from Dawsondude11
+[13:27:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /bq_admin, /bq_user, /bqs_advancement_dump, /bqs_loot
+[13:27:34] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] default, delete
+[13:27:35] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] save, set
+[13:27:35] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Quest database saved as default
