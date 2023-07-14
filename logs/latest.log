@@ -606,3 +606,5 @@ SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.7.jar)
 [13:24:16] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
 [13:24:16] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
 [13:24:17] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[13:24:24] [Client thread/INFO] [immersiveengineering]: Stitching Revolver Textures!
+[13:24:24] [Client thread/INFO] [FML]: Max texture size: 16384

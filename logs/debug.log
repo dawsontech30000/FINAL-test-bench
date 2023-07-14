@@ -7087,3 +7087,8 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [13:24:16] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
 [13:24:17] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
 [13:24:21] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: blocks took 5.469s
+[13:24:24] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: items took 2.020s
+[13:24:24] [Client thread/DEBUG] [FML]: Bar Finished: CCL ModelLoading: Blocks took 0.339s
+[13:24:24] [Client thread/DEBUG] [FML]: Bar Finished: CCL ModelLoading: Items took 0.267s
+[13:24:24] [Client thread/INFO] [immersiveengineering]: Stitching Revolver Textures!
+[13:24:24] [Client thread/INFO] [FML]: Max texture size: 16384
