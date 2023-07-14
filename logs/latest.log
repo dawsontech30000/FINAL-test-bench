@@ -532,3 +532,11 @@ AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
 [13:34:47] [Client thread/INFO] [immersiveengineering]: Custom OBJLoader: Domain has been added: immersiveengineering
 [13:34:47] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
 [13:34:48] [Client thread/INFO] [FML]: OBJLoader: Domain nates_foodcraft has been added.
+[13:34:52] [Client thread/INFO] [omlib]: Found the following mods: 
+[13:34:52] [Client thread/INFO] [FML]: OBJLoader: Domain pamsbreadcraft has been added.
+[13:34:53] [Client thread/INFO] [scalingfeast]: [SCALING FEAST] Scaling Feast pre-initialization complete!
+[13:34:54] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `case`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:54] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_pulsar_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_star_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_ethereal_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `psi_dampener`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.

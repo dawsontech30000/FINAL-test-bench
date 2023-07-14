@@ -6424,3 +6424,72 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [13:34:48] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod notenoughwands
 [13:34:48] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Not Enough Wands took 0.144s
 [13:34:48] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod nuclearcraft
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod nuclearcraft
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - NuclearCraft took 3.762s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod omlib
+[13:34:52] [Client thread/INFO] [omlib]: Found the following mods: 
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod omlib
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - OMLib took 0.128s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod ompd
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod ompd
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Open Modular Passive Defense took 0.040s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod openmodularturrets
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod openmodularturrets entity openmodularturrets:rocketProjectile as openmodularturrets:rocketprojectile
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod openmodularturrets entity openmodularturrets:grenadeProjectile as openmodularturrets:grenadeprojectile
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod openmodularturrets entity openmodularturrets:bulletProjectile as openmodularturrets:bulletprojectile
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod openmodularturrets entity openmodularturrets:blazingClayProjectile as openmodularturrets:blazingclayprojectile
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod openmodularturrets
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Open Modular Turrets took 0.145s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod packmode
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod packmode
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - PackMode took 0.015s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod pamsbreadcraft
+[13:34:52] [Client thread/INFO] [FML]: OBJLoader: Domain pamsbreadcraft has been added.
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod pamsbreadcraft
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Pam's BreadCraft took 0.050s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod pamscookables
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod pamscookables
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Pam's Cookables took 0.000s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod psi
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod psi entity psi:spell_projectile as psi:spell_projectile
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod psi entity psi:spell_circle as psi:spell_circle
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod psi entity psi:spell_grenade as psi:spell_grenade
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod psi entity psi:spell_charge as psi:spell_charge
+[13:34:52] [Client thread/TRACE] [FML]: Automatically registered mod psi entity psi:spell_mine as psi:spell_mine
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod psi
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Psi took 0.310s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod psipherals
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod psipherals
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Psionic Peripherals took 0.070s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod roguelike
+[13:34:52] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod roguelike
+[13:34:52] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Roguelike Dungeons took 0.000s
+[13:34:52] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod rpsideas
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity gauss as rpsideas:gauss
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity psi_firework as rpsideas:psi_firework
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity entity_conjured_text as rpsideas:entity_conjured_text
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity entity_fancy_circle as rpsideas:entity_fancy_circle
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity entity_hail_particle as rpsideas:entity_hail_particle
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity entity_summoned_clone as rpsideas:entity_summoned_clone
+[13:34:53] [Client thread/TRACE] [FML]: Automatically registered mod rpsideas entity psi_mana_burst as rpsideas:psi_mana_burst
+[13:34:53] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod rpsideas
+[13:34:53] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Random PSIdeas took 0.264s
+[13:34:53] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod scalingfeast
+[13:34:53] [Client thread/INFO] [scalingfeast]: [SCALING FEAST] Scaling Feast pre-initialization complete!
+[13:34:53] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod scalingfeast
+[13:34:53] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Scaling Feast took 0.110s
+[13:34:53] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod bq_standard
+[13:34:53] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod bq_standard
+[13:34:53] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Standard Expansion took 0.021s
+[13:34:53] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod zensummoning
+[13:34:53] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod zensummoning
+[13:34:53] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Zen Summoning took 0.005s
+[13:34:53] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod zenutils
+[13:34:53] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod zenutils
+[13:34:53] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - ZenUtils took 0.016s
+[13:34:53] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod librarianliblate
+[13:34:54] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `case`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:54] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_pulsar_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_star_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `conjured_ethereal_block`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:55] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `rpsideas` for name `psi_dampener`, expected `librarianliblate`. This could be a intended override, but in most cases indicates a broken mod.
