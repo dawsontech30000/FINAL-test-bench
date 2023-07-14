@@ -7384,3 +7384,10 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [13:35:08] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
 [13:35:08] [Thread-8/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
 [13:35:08] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[13:35:23] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: blocks took 14.962s
+[13:35:28] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: items took 5.190s
+[13:35:28] [Client thread/DEBUG] [FML]: Bar Finished: CCL ModelLoading: Blocks took 0.429s
+[13:35:29] [Client thread/DEBUG] [FML]: Bar Finished: CCL ModelLoading: Items took 0.637s
+[13:35:29] [Client thread/INFO] [immersiveengineering]: Stitching Revolver Textures!
+[13:35:29] [Client thread/INFO] [FML]: Max texture size: 16384
+[13:35:29] [Client thread/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture contenttweaker:textures/items/rak_coin.png with size 84x84 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
