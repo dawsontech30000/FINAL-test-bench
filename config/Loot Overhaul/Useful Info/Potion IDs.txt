@@ -504,3 +504,27 @@ twilightforest:frosted
 	- Is Beneficial: false
 
 
+apotheosis:sundering
+   - Id: 62
+   - Color: 10000536
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+biomesoplenty:curse
+   - Id: 63
+   - Color: 304618
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+apotheosis:knowledge
+   - Id: 64
+   - Color: 16051778
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+

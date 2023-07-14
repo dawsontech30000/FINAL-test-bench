@@ -293,3 +293,13 @@ twilightforest:snow_queen - 290
 twilightforest:wand_bolt - 291
 twilightforest:stable_ice_core - 292
 twilightforest:thrown_ice - 293
+biomesoplenty:wasp - 294
+mekanism:babyskeleton - 295
+mekanism:robit - 296
+biomesoplenty:bop_boat - 297
+mekanism:flame - 298
+mekanism:balloon - 299
+cfm:mountable_block - 300
+mekanism:obsidiantnt - 301
+biomesoplenty:mudball - 302
+cfm:mirror - 303

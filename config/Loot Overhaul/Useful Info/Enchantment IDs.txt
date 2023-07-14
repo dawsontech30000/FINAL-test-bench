@@ -744,3 +744,147 @@ cofhcore:vorpal
    - Max Level: 3
 
 
+apotheosis:stable_footing
+   - Id: 92
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+apotheosis:depth_miner
+   - Id: 93
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 7
+
+
+apotheosis:tempting
+   - Id: 94
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+apotheosis:knowledge
+   - Id: 95
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+apotheosis:rebounding
+   - Id: 96
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+apotheosis:magic_protection
+   - Id: 97
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+apotheosis:capturing
+   - Id: 98
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+apotheosis:natures_blessing
+   - Id: 99
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+apotheosis:hell_infusion
+   - Id: 100
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 10
+
+
+apotheosis:splitting
+   - Id: 101
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+apotheosis:shield_bash
+   - Id: 102
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+apotheosis:life_mending
+   - Id: 103
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+apotheosis:berserk
+   - Id: 104
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+apotheosis:icy_thorns
+   - Id: 105
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+apotheosis:true_infinity
+   - Id: 106
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+apotheosis:scavenger
+   - Id: 107
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+apotheosis:mounted_strike
+   - Id: 108
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 6
+
+
+apotheosis:reflective
+   - Id: 109
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+

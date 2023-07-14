@@ -8,8 +8,56 @@
 
 
 
+AntimatterPellet
+mekanism:antimatterpellet - 0
+
+
+CharCoalDust
+mekanism:otherdust - 9
+
+
+Fluorite
+mekanism:otherdust - 7
+
+
+FluoriteDust
+mekanism:otherdust - 8
+
+
+PlutoniumPellet
+mekanism:plutoniumpellet - 0
+
+
+PoloniumPellet
+mekanism:poloniumpellet - 0
+
+
+ReprocessedFissileFragment
+mekanism:reprocessedfissilefragment - 0
+
+
+YellowCakeUranium
+mekanism:yellowcakeuranium - 0
+
+
 actuator
 nuclearcraft:part - 9
+
+
+alloyAdvanced
+mekanism:enrichedalloy - 0
+
+
+alloyBasic
+minecraft:redstone - 0
+
+
+alloyElite
+mekanism:reinforcedalloy - 0
+
+
+alloyUltimate
+mekanism:atomicalloy - 0
 
 
 bEnderAirBottle
@@ -30,6 +78,14 @@ botania:manaresource - 12
 
 bVial
 botania:vial - 0
+
+
+ballMud
+biomesoplenty:mudball - 0
+
+
+battery
+mekanism:energytablet - 0
 
 
 beeComb
@@ -82,6 +138,10 @@ blockAluminum
 thermalfoundation:storage - 4
 nuclearcraft:ingot_block - 12
 immersiveengineering:storage - 1
+
+
+blockAmber
+biomesoplenty:gem_block - 7
 
 
 blockAmericium241
@@ -154,6 +214,10 @@ jaopca:block.americium_243_oxide - 0
 
 blockAmericium243ZA
 jaopca:block.americium_243_za - 0
+
+
+blockAmethyst
+biomesoplenty:gem_block - 0
 
 
 blockApatite
@@ -278,6 +342,7 @@ jaopca:block.brick_nether - 0
 blockBronze
 forestry:resource_storage - 3
 thermalfoundation:storage_alloy - 3
+mekanism:basicblock - 1
 
 
 blockCactus
@@ -391,6 +456,7 @@ jaopca:block.certus_quartz - 0
 blockCharcoal
 forestry:charcoal - 0
 thermalfoundation:storage_resource - 0
+mekanism:basicblock - 3
 
 
 blockChocolate
@@ -418,6 +484,7 @@ blockCopper
 forestry:resource_storage - 1
 thermalfoundation:storage - 0
 nuclearcraft:ingot_block - 0
+mekanism:basicblock - 12
 immersiveengineering:storage - 0
 
 
@@ -1782,6 +1849,7 @@ minecraft:lapis_block - 0
 blockLead
 thermalfoundation:storage - 3
 nuclearcraft:ingot_block - 2
+mekanism:basicblock2 - 11
 immersiveengineering:storage - 2
 
 
@@ -1873,6 +1941,10 @@ blockMagnesiumDiboride
 jaopca:block.magnesium_diboride - 0
 
 
+blockMalachite
+biomesoplenty:gem_block - 5
+
+
 blockManasteel
 jaopca:block.manasteel - 0
 
@@ -1904,11 +1976,16 @@ jaopca:block.marshmallow - 0
 
 
 blockMeatRaw
+biomesoplenty:flesh - 0
 
 
 blockMithril
 thermalfoundation:storage - 8
 dungeontactics:mithril_block - 0
+
+
+blockMud
+biomesoplenty:mud - 0
 
 
 blockNeptunium236
@@ -1973,8 +2050,16 @@ blockOrangetiger
 contenttweaker:sub_block_holder_1 - 7
 
 
+blockOsmium
+mekanism:basicblock - 0
+
+
 blockPackedIce
 minecraft:packed_ice - 0
+
+
+blockPeridot
+biomesoplenty:gem_block - 2
 
 
 blockPlatinum
@@ -2192,12 +2277,32 @@ blockRedstone
 minecraft:redstone_block - 0
 
 
+blockRefinedGlowstone
+mekanism:basicblock - 4
+
+
+blockRefinedObsidian
+mekanism:basicblock - 2
+
+
 blockRhodochrosite
 jaopca:block.rhodochrosite - 0
 
 
 blockRockwool
 thermalfoundation:rockwool - any
+
+
+blockRuby
+biomesoplenty:gem_block - 1
+
+
+blockSalt
+mekanism:saltblock - 0
+
+
+blockSapphire
+biomesoplenty:gem_block - 6
 
 
 blockSheetmetalAluminum
@@ -2285,6 +2390,7 @@ mysticalagriculture:ingot_storage - 6
 
 blockSteel
 thermalfoundation:storage_alloy - 0
+mekanism:basicblock - 5
 immersiveengineering:storage - 8
 dungeontactics:steel_block - 0
 
@@ -2341,6 +2447,10 @@ blockTBUZA
 jaopca:block.tbuza - 0
 
 
+blockTanzanite
+biomesoplenty:gem_block - 4
+
+
 blockTechGuy
 contenttweaker:sub_block_holder_1 - 12
 
@@ -2361,6 +2471,7 @@ blockTin
 forestry:resource_storage - 2
 thermalfoundation:storage - 1
 nuclearcraft:ingot_block - 1
+mekanism:basicblock - 13
 
 
 blockTinSilver
@@ -2369,6 +2480,10 @@ jaopca:block.tin_silver - 0
 
 blockTitanium
 jaopca:block.titanium - 0
+
+
+blockTopaz
+biomesoplenty:gem_block - 3
 
 
 blockTorch
@@ -2389,6 +2504,7 @@ jaopca:block.unsweetened_chocolate - 0
 
 blockUranium
 nuclearcraft:ingot_block - 4
+mekanism:basicblock2 - 10
 immersiveengineering:storage - 5
 
 
@@ -2736,12 +2852,19 @@ minecraft:chest - 0
 
 
 circuitAdvanced
+mekanism:controlcircuit - 1
 
 
 circuitBasic
+mekanism:controlcircuit - 0
 
 
 circuitElite
+mekanism:controlcircuit - 2
+
+
+circuitUltimate
+mekanism:controlcircuit - 3
 
 
 clathrateEnder
@@ -2762,6 +2885,218 @@ thermalfoundation:material - 893
 
 clothManaweave
 botania:manaresource - 22
+
+
+clumpAluminum
+jaopca:mekanism_clump.aluminum - 0
+
+
+clumpAphWolf
+jaopca:mekanism_clump.aph_wolf - 0
+
+
+clumpAstralStarmetal
+jaopca:mekanism_clump.astral_starmetal - 0
+
+
+clumpBlacktiger
+jaopca:mekanism_clump.blacktiger - 0
+
+
+clumpBoron
+jaopca:mekanism_clump.boron - 0
+
+
+clumpCopper
+mekanism:clump - 3
+
+
+clumpDillapis
+jaopca:mekanism_clump.dillapis - 0
+
+
+clumpEnder
+jaopca:mekanism_clump.ender - 0
+
+
+clumpFirstTimeGaming
+jaopca:mekanism_clump.first_time_gaming - 0
+
+
+clumpGold
+mekanism:clump - 1
+
+
+clumpIridium
+jaopca:mekanism_clump.iridium - 0
+
+
+clumpIron
+mekanism:clump - 0
+
+
+clumpLallix
+jaopca:mekanism_clump.lallix - 0
+
+
+clumpLallixium
+jaopca:mekanism_clump.lallixium - 0
+
+
+clumpLead
+mekanism:clump - 6
+
+
+clumpLithium
+jaopca:mekanism_clump.lithium - 0
+
+
+clumpLunar
+jaopca:mekanism_clump.lunar - 0
+
+
+clumpMagnesium
+jaopca:mekanism_clump.magnesium - 0
+
+
+clumpMithril
+jaopca:mekanism_clump.mithril - 0
+
+
+clumpNickel
+jaopca:mekanism_clump.nickel - 0
+
+
+clumpOrangetiger
+jaopca:mekanism_clump.orangetiger - 0
+
+
+clumpOsmium
+mekanism:clump - 2
+
+
+clumpPlatinum
+jaopca:mekanism_clump.platinum - 0
+
+
+clumpRedhellite
+jaopca:mekanism_clump.redhellite - 0
+
+
+clumpSilver
+mekanism:clump - 5
+
+
+clumpSkitso
+jaopca:mekanism_clump.skitso - 0
+
+
+clumpSkymium
+jaopca:mekanism_clump.skymium - 0
+
+
+clumpTechGuy
+jaopca:mekanism_clump.tech_guy - 0
+
+
+clumpThorium
+jaopca:mekanism_clump.thorium - 0
+
+
+clumpTin
+mekanism:clump - 4
+
+
+clumpTitanium
+jaopca:mekanism_clump.titanium - 0
+
+
+clumpUranium
+mekanism:clump - 7
+
+
+clumpViolet
+jaopca:mekanism_clump.violet - 0
+
+
+clumpWarlock
+jaopca:mekanism_clump.warlock - 0
+
+
+clumpXaelium
+jaopca:mekanism_clump.xaelium - 0
+
+
+clumpXodias
+jaopca:mekanism_clump.xodias - 0
+
+
+clumpZephyrus
+jaopca:mekanism_clump.zephyrus - 0
+
+
+clumpbluetiger
+jaopca:mekanism_clump.bluetiger - 0
+
+
+clumpcrao
+jaopca:mekanism_clump.crao - 0
+
+
+clumpdawsondude
+jaopca:mekanism_clump.dawsondude - 0
+
+
+clumpdustcrafter
+jaopca:mekanism_clump.dustcrafter - 0
+
+
+clumpirg
+jaopca:mekanism_clump.irg - 0
+
+
+clumpkylian
+jaopca:mekanism_clump.kylian - 0
+
+
+clumppinktiger
+jaopca:mekanism_clump.pinktiger - 0
+
+
+clumppurpletiger
+jaopca:mekanism_clump.purpletiger - 0
+
+
+clumprainbowtiger
+jaopca:mekanism_clump.rainbowtiger - 0
+
+
+clumpramm
+jaopca:mekanism_clump.ramm - 0
+
+
+clumpredtiger
+jaopca:mekanism_clump.redtiger - 0
+
+
+clumpstar
+jaopca:mekanism_clump.star - 0
+
+
+clumpstarwars
+jaopca:mekanism_clump.starwars - 0
+
+
+clumptiger
+jaopca:mekanism_clump.tiger - 0
+
+
+clumpwhitetiger
+jaopca:mekanism_clump.whitetiger - 0
+
+
+clumpyellowtiger
+jaopca:mekanism_clump.yellowtiger - 0
 
 
 clusterAluminium
@@ -3534,6 +3869,7 @@ harvestcraft:parsnipitem - 0
 cropPeach
 extratrees:food - 12
 extratrees:food - 19
+biomesoplenty:peach - 0
 harvestcraft:peachitem - 0
 
 
@@ -3543,6 +3879,7 @@ harvestcraft:peanutitem - 0
 
 cropPear
 extratrees:food - 22
+biomesoplenty:pear - 0
 harvestcraft:pearitem - 0
 
 
@@ -3560,6 +3897,7 @@ harvestcraft:peppercornitem - 0
 
 
 cropPersimmon
+biomesoplenty:persimmon - 0
 harvestcraft:persimmonitem - 0
 
 
@@ -5687,6 +6025,26 @@ cruxyellowtiger
 jaopca:mysticalagriculture_crux.yellowtiger - 0
 
 
+crystalAluminum
+jaopca:mekanism_crystal.aluminum - 0
+
+
+crystalAphWolf
+jaopca:mekanism_crystal.aph_wolf - 0
+
+
+crystalAstralStarmetal
+jaopca:mekanism_crystal.astral_starmetal - 0
+
+
+crystalBlacktiger
+jaopca:mekanism_crystal.blacktiger - 0
+
+
+crystalBoron
+jaopca:mekanism_crystal.boron - 0
+
+
 crystalCertusQuartz
 appliedenergistics2:material - 0
 
@@ -5700,12 +6058,25 @@ minecraft:coal - 0
 minecraft:coal - 1
 
 
+crystalCopper
+mekanism:crystal - 3
+
+
 crystalCrudeOil
 thermalfoundation:material - 892
 
 
+crystalDillapis
+jaopca:mekanism_crystal.dillapis - 0
+
+
 crystalEnder
 thermalfoundation:material - 895
+jaopca:mekanism_crystal.ender - 0
+
+
+crystalFirstTimeGaming
+jaopca:mekanism_crystal.first_time_gaming - 0
 
 
 crystalFluix
@@ -5714,6 +6085,62 @@ appliedenergistics2:material - 7
 
 crystalGlowstone
 thermalfoundation:material - 894
+
+
+crystalGold
+mekanism:crystal - 1
+
+
+crystalIridium
+jaopca:mekanism_crystal.iridium - 0
+
+
+crystalIron
+mekanism:crystal - 0
+
+
+crystalLallix
+jaopca:mekanism_crystal.lallix - 0
+
+
+crystalLallixium
+jaopca:mekanism_crystal.lallixium - 0
+
+
+crystalLead
+mekanism:crystal - 6
+
+
+crystalLithium
+jaopca:mekanism_crystal.lithium - 0
+
+
+crystalLunar
+jaopca:mekanism_crystal.lunar - 0
+
+
+crystalMagnesium
+jaopca:mekanism_crystal.magnesium - 0
+
+
+crystalMithril
+jaopca:mekanism_crystal.mithril - 0
+
+
+crystalNickel
+jaopca:mekanism_crystal.nickel - 0
+
+
+crystalOrangetiger
+jaopca:mekanism_crystal.orangetiger - 0
+
+
+crystalOsmium
+mekanism:crystal - 2
+
+
+crystalPlatinum
+jaopca:mekanism_crystal.platinum - 0
 
 
 crystalPureCertusQuartz
@@ -5728,8 +6155,24 @@ crystalPureNetherQuartz
 appliedenergistics2:material - 11
 
 
+crystalRedhellite
+jaopca:mekanism_crystal.redhellite - 0
+
+
 crystalRedstone
 thermalfoundation:material - 893
+
+
+crystalSilver
+mekanism:crystal - 5
+
+
+crystalSkitso
+jaopca:mekanism_crystal.skitso - 0
+
+
+crystalSkymium
+jaopca:mekanism_crystal.skymium - 0
 
 
 crystalSlag
@@ -5741,8 +6184,112 @@ crystalSlagRich
 thermalfoundation:material - 865
 
 
+crystalTechGuy
+jaopca:mekanism_crystal.tech_guy - 0
+
+
+crystalThorium
+jaopca:mekanism_crystal.thorium - 0
+
+
+crystalTin
+mekanism:crystal - 4
+
+
+crystalTitanium
+jaopca:mekanism_crystal.titanium - 0
+
+
+crystalUranium
+mekanism:crystal - 7
+
+
+crystalViolet
+jaopca:mekanism_crystal.violet - 0
+
+
+crystalWarlock
+jaopca:mekanism_crystal.warlock - 0
+
+
+crystalXaelium
+jaopca:mekanism_crystal.xaelium - 0
+
+
+crystalXodias
+jaopca:mekanism_crystal.xodias - 0
+
+
+crystalZephyrus
+jaopca:mekanism_crystal.zephyrus - 0
+
+
+crystalbluetiger
+jaopca:mekanism_crystal.bluetiger - 0
+
+
+crystalcrao
+jaopca:mekanism_crystal.crao - 0
+
+
+crystaldawsondude
+jaopca:mekanism_crystal.dawsondude - 0
+
+
+crystaldustcrafter
+jaopca:mekanism_crystal.dustcrafter - 0
+
+
+crystalirg
+jaopca:mekanism_crystal.irg - 0
+
+
+crystalkylian
+jaopca:mekanism_crystal.kylian - 0
+
+
+crystalpinktiger
+jaopca:mekanism_crystal.pinktiger - 0
+
+
+crystalpurpletiger
+jaopca:mekanism_crystal.purpletiger - 0
+
+
+crystalrainbowtiger
+jaopca:mekanism_crystal.rainbowtiger - 0
+
+
+crystalramm
+jaopca:mekanism_crystal.ramm - 0
+
+
+crystalredtiger
+jaopca:mekanism_crystal.redtiger - 0
+
+
 crystalsPrismarine
 minecraft:prismarine_crystals - 0
+
+
+crystalstar
+jaopca:mekanism_crystal.star - 0
+
+
+crystalstarwars
+jaopca:mekanism_crystal.starwars - 0
+
+
+crystaltiger
+jaopca:mekanism_crystal.tiger - 0
+
+
+crystalwhitetiger
+jaopca:mekanism_crystal.whitetiger - 0
+
+
+crystalyellowtiger
+jaopca:mekanism_crystal.yellowtiger - 0
 
 
 depletedFuelIC2MOX
@@ -5755,6 +6302,7 @@ nuclearcraft:depleted_fuel_ic2 - 0
 
 dirt
 minecraft:dirt - 0
+biomesoplenty:dirt - 0
 
 
 doorWood
@@ -5831,6 +6379,14 @@ extratrees:doors.syzgium - any
 extratrees:doors.pinkivory - any
 
 
+drawerBasic
+storagedrawers:basicdrawers - any
+
+
+drawerTrim
+storagedrawers:trim - any
+
+
 dreamwood
 botania:dreamwood - 0
 
@@ -5874,6 +6430,10 @@ thermalfoundation:material - 68
 nuclearcraft:dust - 12
 immersiveengineering:metal - 10
 morebees:dustaluminium - 0
+
+
+dustAmber
+jaopca:dust.amber - 0
 
 
 dustAmericium241
@@ -5946,6 +6506,10 @@ jaopca:dust.americium_243_oxide - 0
 
 dustAmericium243ZA
 jaopca:dust.americium_243_za - 0
+
+
+dustAmethyst
+jaopca:dust.amethyst - 0
 
 
 dustApatite
@@ -6250,6 +6814,7 @@ immersiveengineering:metal - 15
 dustCopper
 thermalfoundation:material - 64
 nuclearcraft:dust - 0
+mekanism:dust - 3
 immersiveengineering:metal - 9
 morebees:dustcopper - 0
 careerbees:ingredients - 6
@@ -6813,6 +7378,7 @@ jaopca:dust.depleted_tbuza - 0
 
 dustDiamond
 nuclearcraft:gem_dust - 0
+mekanism:otherdust - 0
 
 
 dustDillapis
@@ -6821,6 +7387,218 @@ contenttweaker:material_part - 5
 
 dustDimensional
 nuclearcraft:compound - 9
+
+
+dustDirtyAluminum
+jaopca:mekanism_dirty_dust.aluminum - 0
+
+
+dustDirtyAphWolf
+jaopca:mekanism_dirty_dust.aph_wolf - 0
+
+
+dustDirtyAstralStarmetal
+jaopca:mekanism_dirty_dust.astral_starmetal - 0
+
+
+dustDirtyBlacktiger
+jaopca:mekanism_dirty_dust.blacktiger - 0
+
+
+dustDirtyBoron
+jaopca:mekanism_dirty_dust.boron - 0
+
+
+dustDirtyCopper
+mekanism:dirtydust - 3
+
+
+dustDirtyDillapis
+jaopca:mekanism_dirty_dust.dillapis - 0
+
+
+dustDirtyEnder
+jaopca:mekanism_dirty_dust.ender - 0
+
+
+dustDirtyFirstTimeGaming
+jaopca:mekanism_dirty_dust.first_time_gaming - 0
+
+
+dustDirtyGold
+mekanism:dirtydust - 1
+
+
+dustDirtyIridium
+jaopca:mekanism_dirty_dust.iridium - 0
+
+
+dustDirtyIron
+mekanism:dirtydust - 0
+
+
+dustDirtyLallix
+jaopca:mekanism_dirty_dust.lallix - 0
+
+
+dustDirtyLallixium
+jaopca:mekanism_dirty_dust.lallixium - 0
+
+
+dustDirtyLead
+mekanism:dirtydust - 6
+
+
+dustDirtyLithium
+jaopca:mekanism_dirty_dust.lithium - 0
+
+
+dustDirtyLunar
+jaopca:mekanism_dirty_dust.lunar - 0
+
+
+dustDirtyMagnesium
+jaopca:mekanism_dirty_dust.magnesium - 0
+
+
+dustDirtyMithril
+jaopca:mekanism_dirty_dust.mithril - 0
+
+
+dustDirtyNickel
+jaopca:mekanism_dirty_dust.nickel - 0
+
+
+dustDirtyOrangetiger
+jaopca:mekanism_dirty_dust.orangetiger - 0
+
+
+dustDirtyOsmium
+mekanism:dirtydust - 2
+
+
+dustDirtyPlatinum
+jaopca:mekanism_dirty_dust.platinum - 0
+
+
+dustDirtyRedhellite
+jaopca:mekanism_dirty_dust.redhellite - 0
+
+
+dustDirtySilver
+mekanism:dirtydust - 5
+
+
+dustDirtySkitso
+jaopca:mekanism_dirty_dust.skitso - 0
+
+
+dustDirtySkymium
+jaopca:mekanism_dirty_dust.skymium - 0
+
+
+dustDirtyTechGuy
+jaopca:mekanism_dirty_dust.tech_guy - 0
+
+
+dustDirtyThorium
+jaopca:mekanism_dirty_dust.thorium - 0
+
+
+dustDirtyTin
+mekanism:dirtydust - 4
+
+
+dustDirtyTitanium
+jaopca:mekanism_dirty_dust.titanium - 0
+
+
+dustDirtyUranium
+mekanism:dirtydust - 7
+
+
+dustDirtyViolet
+jaopca:mekanism_dirty_dust.violet - 0
+
+
+dustDirtyWarlock
+jaopca:mekanism_dirty_dust.warlock - 0
+
+
+dustDirtyXaelium
+jaopca:mekanism_dirty_dust.xaelium - 0
+
+
+dustDirtyXodias
+jaopca:mekanism_dirty_dust.xodias - 0
+
+
+dustDirtyZephyrus
+jaopca:mekanism_dirty_dust.zephyrus - 0
+
+
+dustDirtybluetiger
+jaopca:mekanism_dirty_dust.bluetiger - 0
+
+
+dustDirtycrao
+jaopca:mekanism_dirty_dust.crao - 0
+
+
+dustDirtydawsondude
+jaopca:mekanism_dirty_dust.dawsondude - 0
+
+
+dustDirtydustcrafter
+jaopca:mekanism_dirty_dust.dustcrafter - 0
+
+
+dustDirtyirg
+jaopca:mekanism_dirty_dust.irg - 0
+
+
+dustDirtykylian
+jaopca:mekanism_dirty_dust.kylian - 0
+
+
+dustDirtypinktiger
+jaopca:mekanism_dirty_dust.pinktiger - 0
+
+
+dustDirtypurpletiger
+jaopca:mekanism_dirty_dust.purpletiger - 0
+
+
+dustDirtyrainbowtiger
+jaopca:mekanism_dirty_dust.rainbowtiger - 0
+
+
+dustDirtyramm
+jaopca:mekanism_dirty_dust.ramm - 0
+
+
+dustDirtyredtiger
+jaopca:mekanism_dirty_dust.redtiger - 0
+
+
+dustDirtystar
+jaopca:mekanism_dirty_dust.star - 0
+
+
+dustDirtystarwars
+jaopca:mekanism_dirty_dust.starwars - 0
+
+
+dustDirtytiger
+jaopca:mekanism_dirty_dust.tiger - 0
+
+
+dustDirtywhitetiger
+jaopca:mekanism_dirty_dust.whitetiger - 0
+
+
+dustDirtyyellowtiger
+jaopca:mekanism_dirty_dust.yellowtiger - 0
 
 
 dustDraconium
@@ -6895,6 +7673,7 @@ minecraft:glowstone_dust - 0
 dustGold
 thermalfoundation:material - 1
 appliedenergistics2:material - 51
+mekanism:dust - 1
 immersiveengineering:metal - 19
 morebees:dustgold - 0
 careerbees:ingredients - 5
@@ -7233,6 +8012,7 @@ morebees:dustiridium - 0
 dustIron
 thermalfoundation:material - 0
 appliedenergistics2:material - 49
+mekanism:dust - 0
 immersiveengineering:metal - 18
 morebees:dustiron - 0
 careerbees:ingredients - 4
@@ -7546,6 +8326,7 @@ jaopca:dust.lapis - 0
 dustLead
 thermalfoundation:material - 67
 nuclearcraft:dust - 2
+mekanism:dust - 6
 immersiveengineering:metal - 11
 morebees:dustlead - 0
 dungeontactics:lead_dust - 0
@@ -7557,6 +8338,7 @@ jaopca:dust.lead_platinum - 0
 
 dustLithium
 nuclearcraft:dust - 6
+mekanism:otherdust - 4
 
 
 dustLithium6
@@ -7633,6 +8415,10 @@ nuclearcraft:dust - 7
 
 dustMagnesiumDiboride
 jaopca:dust.magnesium_diboride - 0
+
+
+dustMalachite
+jaopca:dust.malachite - 0
 
 
 dustMana
@@ -7731,6 +8517,7 @@ dungeontactics:nickel_dust - 0
 dustObsidian
 thermalfoundation:material - 770
 nuclearcraft:gem_dust - 3
+mekanism:otherdust - 6
 
 
 dustOrangetiger
@@ -7738,7 +8525,12 @@ contenttweaker:material_part - 255
 
 
 dustOsmium
+mekanism:dust - 2
 dungeontactics:osmium_dust - 0
+
+
+dustPeridot
+jaopca:dust.peridot - 0
 
 
 dustPetrotheum
@@ -7904,8 +8696,20 @@ dustRedstone
 minecraft:redstone - 0
 
 
+dustRefinedGlowstone
+jaopca:dust.refined_glowstone - 0
+
+
+dustRefinedObsidian
+mekanism:otherdust - 5
+
+
 dustRhodochrosite
 nuclearcraft:gem_dust - 1
+
+
+dustRuby
+jaopca:dust.ruby - 0
 
 
 dustRuthenium106
@@ -7913,12 +8717,17 @@ nuclearcraft:fission_dust - 7
 
 
 dustSalt
+mekanism:salt - 0
 harvestcraft:saltitem - 0
 
 
 dustSaltpeter
 thermalfoundation:material - 772
 immersiveengineering:material - 24
+
+
+dustSapphire
+jaopca:dust.sapphire - 0
 
 
 dustSawdust
@@ -7943,6 +8752,7 @@ jaopca:dust.silicon_carbide - 0
 dustSilver
 thermalfoundation:material - 66
 nuclearcraft:dust - 13
+mekanism:dust - 5
 immersiveengineering:metal - 12
 morebees:dustsilver - 0
 dungeontactics:silver_dust - 0
@@ -7994,6 +8804,7 @@ jaopca:dust.soulium - 0
 
 dustSteel
 thermalfoundation:material - 96
+mekanism:otherdust - 1
 immersiveengineering:metal - 17
 dungeontactics:steel_dust - 0
 
@@ -8005,6 +8816,7 @@ nuclearcraft:fission_dust - 5
 dustSulfur
 thermalfoundation:material - 771
 nuclearcraft:gem_dust - 6
+mekanism:otherdust - 3
 immersiveengineering:material - 25
 
 
@@ -8047,6 +8859,10 @@ dustTBUZA
 jaopca:dust.tbuza - 0
 
 
+dustTanzanite
+jaopca:dust.tanzanite - 0
+
+
 dustTechGuy
 contenttweaker:material_part - 165
 
@@ -8066,6 +8882,7 @@ nuclearcraft:dust - 3
 dustTin
 thermalfoundation:material - 65
 nuclearcraft:dust - 1
+mekanism:dust - 4
 morebees:dusttin - 0
 careerbees:ingredients - 7
 dungeontactics:tin_dust - 0
@@ -8144,6 +8961,10 @@ thermalsolars:itemtitaniumdust - 0
 dungeontactics:titanium_dust - 0
 
 
+dustTopaz
+jaopca:dust.topaz - 0
+
+
 dustTough
 jaopca:dust.tough - 0
 
@@ -8162,6 +8983,7 @@ jaopca:dust.unsweetened_chocolate - 0
 
 dustUranium
 nuclearcraft:dust - 4
+mekanism:dust - 7
 immersiveengineering:metal - 14
 
 
@@ -8256,6 +9078,7 @@ appliedenergistics2:material - 4
 
 dustWood
 thermalfoundation:material - 800
+mekanism:sawdust - 0
 
 
 dustXaelium
@@ -8361,6 +9184,7 @@ botania:dye - any
 dyeBlack
 minecraft:dye - 0
 extrabees:misc - 24
+biomesoplenty:black_dye - 0
 thermalfoundation:dye - 0
 botania:dye - 15
 gendustry:honey_drop - 10
@@ -8369,6 +9193,7 @@ gendustry:honey_drop - 10
 dyeBlue
 minecraft:dye - 4
 extrabees:misc - 21
+biomesoplenty:blue_dye - 0
 thermalfoundation:dye - 4
 botania:dye - 11
 gendustry:honey_drop - 14
@@ -8377,6 +9202,7 @@ gendustry:honey_drop - 14
 dyeBrown
 minecraft:dye - 3
 extrabees:misc - 25
+biomesoplenty:brown_dye - 0
 thermalfoundation:dye - 3
 nuclearcraft:cocoa_solids - 0
 botania:dye - 12
@@ -8400,6 +9226,7 @@ gendustry:honey_drop - 18
 dyeGreen
 minecraft:dye - 2
 extrabees:misc - 22
+biomesoplenty:green_dye - 0
 thermalfoundation:dye - 2
 botania:dye - 13
 gendustry:honey_drop - 12
@@ -8468,6 +9295,7 @@ dyeSilver
 dyeWhite
 minecraft:dye - 15
 extrabees:misc - 23
+biomesoplenty:white_dye - 0
 thermalfoundation:dye - 15
 botania:dye - 0
 gendustry:honey_drop - 25
@@ -10278,58 +11106,58 @@ jaopca:mysticalagriculture_essence.thermoconducting - 0
 essenceTier1
 mysticalagriculture:zombie_essence - 0
 mysticalagriculture:nature_essence - 0
-mysticalagriculture:dirt_essence - 0
-mysticalagriculture:wood_essence - 0
 mysticalagriculture:water_essence - 0
 mysticalagriculture:stone_essence - 0
+mysticalagriculture:wood_essence - 0
 mysticalagriculture:ice_essence - 0
+mysticalagriculture:dirt_essence - 0
 
 
 essenceTier2
-mysticalagriculture:fire_essence - 0
-mysticalagriculture:coal_essence - 0
-mysticalagriculture:sheep_essence - 0
 mysticalagriculture:pig_essence - 0
-mysticalagriculture:cow_essence - 0
 mysticalagriculture:silicon_essence - 0
-mysticalagriculture:nether_essence - 0
-mysticalagriculture:sulfur_essence - 0
-mysticalagriculture:slime_essence - 0
-mysticalagriculture:marble_essence - 0
-mysticalagriculture:apatite_essence - 0
 mysticalagriculture:aluminum_essence - 0
+mysticalagriculture:slime_essence - 0
+mysticalagriculture:coal_essence - 0
+mysticalagriculture:cow_essence - 0
+mysticalagriculture:sulfur_essence - 0
+mysticalagriculture:apatite_essence - 0
+mysticalagriculture:marble_essence - 0
+mysticalagriculture:nether_essence - 0
 mysticalagriculture:mystical_flower_essence - 0
-mysticalagriculture:chicken_essence - 0
-mysticalagriculture:dye_essence - 0
 mysticalagriculture:copper_essence - 0
+mysticalagriculture:dye_essence - 0
+mysticalagriculture:fire_essence - 0
+mysticalagriculture:sheep_essence - 0
+mysticalagriculture:chicken_essence - 0
 
 
 essenceTier3
-mysticalagriculture:silver_essence - 0
-mysticalagriculture:nether_quartz_essence - 0
-mysticalagriculture:creeper_essence - 0
-mysticalagriculture:glowstone_essence - 0
-mysticalagriculture:iron_essence - 0
-mysticalagriculture:guardian_essence - 0
-mysticalagriculture:bronze_essence - 0
 mysticalagriculture:basalz_essence - 0
 mysticalagriculture:saltpeter_essence - 0
-mysticalagriculture:aquamarine_essence - 0
-mysticalagriculture:manasteel_essence - 0
-mysticalagriculture:ironwood_essence - 0
-mysticalagriculture:skeleton_essence - 0
-mysticalagriculture:redstone_essence - 0
-mysticalagriculture:steeleaf_essence - 0
-mysticalagriculture:graphite_essence - 0
-mysticalagriculture:certus_quartz_essence - 0
-mysticalagriculture:obsidian_essence - 0
-mysticalagriculture:blizz_essence - 0
-mysticalagriculture:blitz_essence - 0
-mysticalagriculture:spider_essence - 0
-mysticalagriculture:tin_essence - 0
 mysticalagriculture:rabbit_essence - 0
-mysticalagriculture:sky_stone_essence - 0
+mysticalagriculture:creeper_essence - 0
+mysticalagriculture:iron_essence - 0
+mysticalagriculture:blizz_essence - 0
 mysticalagriculture:lead_essence - 0
+mysticalagriculture:blitz_essence - 0
+mysticalagriculture:redstone_essence - 0
+mysticalagriculture:glowstone_essence - 0
+mysticalagriculture:certus_quartz_essence - 0
+mysticalagriculture:graphite_essence - 0
+mysticalagriculture:sky_stone_essence - 0
+mysticalagriculture:spider_essence - 0
+mysticalagriculture:silver_essence - 0
+mysticalagriculture:aquamarine_essence - 0
+mysticalagriculture:guardian_essence - 0
+mysticalagriculture:skeleton_essence - 0
+mysticalagriculture:tin_essence - 0
+mysticalagriculture:steeleaf_essence - 0
+mysticalagriculture:obsidian_essence - 0
+mysticalagriculture:bronze_essence - 0
+mysticalagriculture:ironwood_essence - 0
+mysticalagriculture:manasteel_essence - 0
+mysticalagriculture:nether_quartz_essence - 0
 jaopca:mysticalagriculture_essence.americium_241 - 0
 jaopca:mysticalagriculture_essence.americium_241_all - 0
 jaopca:mysticalagriculture_essence.americium_241_carbide - 0
@@ -10813,49 +11641,60 @@ jaopca:mysticalagriculture_essence.yellowtiger - 0
 
 
 essenceTier4
-mysticalagriculture:elementium_essence - 0
-mysticalagriculture:fluix_essence - 0
-mysticalagriculture:magnesium_essence - 0
-mysticalagriculture:hop_graphite_essence - 0
+mysticalagriculture:tanzanite_essence - 0
+mysticalagriculture:nickel_essence - 0
 mysticalagriculture:blaze_essence - 0
+mysticalagriculture:ruby_essence - 0
+mysticalagriculture:electrum_essence - 0
+mysticalagriculture:amber_essence - 0
+mysticalagriculture:hop_graphite_essence - 0
+mysticalagriculture:topaz_essence - 0
+mysticalagriculture:osmium_essence - 0
+mysticalagriculture:fluix_essence - 0
 mysticalagriculture:lapis_lazuli_essence - 0
-mysticalagriculture:invar_essence - 0
-mysticalagriculture:mithril_essence - 0
-mysticalagriculture:gold_essence - 0
-mysticalagriculture:knightmetal_essence - 0
+mysticalagriculture:constantan_essence - 0
+mysticalagriculture:sapphire_essence - 0
+mysticalagriculture:thorium_essence - 0
+mysticalagriculture:lumium_essence - 0
+mysticalagriculture:steel_essence - 0
+mysticalagriculture:peridot_essence - 0
+mysticalagriculture:end_essence - 0
+mysticalagriculture:enderman_essence - 0
+mysticalagriculture:glowstone_ingot_essence - 0
+mysticalagriculture:magnesium_essence - 0
+mysticalagriculture:ghast_essence - 0
 mysticalagriculture:lithium_essence - 0
 mysticalagriculture:boron_essence - 0
-mysticalagriculture:fiery_ingot_essence - 0
-mysticalagriculture:enderman_essence - 0
-mysticalagriculture:end_essence - 0
-mysticalagriculture:ghast_essence - 0
-mysticalagriculture:signalum_essence - 0
-mysticalagriculture:electrum_essence - 0
-mysticalagriculture:lumium_essence - 0
-mysticalagriculture:nickel_essence - 0
-mysticalagriculture:steel_essence - 0
+mysticalagriculture:malachite_essence - 0
 mysticalagriculture:experience_essence - 0
-mysticalagriculture:thorium_essence - 0
-mysticalagriculture:constantan_essence - 0
+mysticalagriculture:mithril_essence - 0
+mysticalagriculture:elementium_essence - 0
+mysticalagriculture:knightmetal_essence - 0
+mysticalagriculture:signalum_essence - 0
+mysticalagriculture:fiery_ingot_essence - 0
+mysticalagriculture:invar_essence - 0
+mysticalagriculture:gold_essence - 0
 
 
 essenceTier5
-mysticalagriculture:platinum_essence - 0
-mysticalagriculture:rock_crystal_essence - 0
+mysticalagriculture:diamond_essence - 0
 mysticalagriculture:enderium_essence - 0
-mysticalagriculture:terrasteel_essence - 0
+mysticalagriculture:rock_crystal_essence - 0
+mysticalagriculture:uranium_essence - 0
+mysticalagriculture:refined_obsidian_essence - 0
 mysticalagriculture:iridium_essence - 0
 mysticalagriculture:starmetal_essence - 0
+mysticalagriculture:ender_amethyst_essence - 0
+mysticalagriculture:platinum_essence - 0
 mysticalagriculture:wither_skeleton_essence - 0
-mysticalagriculture:diamond_essence - 0
-mysticalagriculture:uranium_essence - 0
 mysticalagriculture:emerald_essence - 0
+mysticalagriculture:terrasteel_essence - 0
 
 
 essenceTier6
+mysticalagradditions:neutronium_essence - 0
 mysticalagradditions:nether_star_essence - 0
 mysticalagradditions:dragon_egg_essence - 0
-mysticalagradditions:neutronium_essence - 0
 
 
 essenceTinSilver
@@ -11206,6 +12045,22 @@ extratrees:fence.gates.pinkivory - any
 extratrees:fence.gates.fireproof.pinkivory - any
 extratrees:fence.gates.banana - any
 extratrees:fence.gates.fireproof.banana - any
+biomesoplenty:sacred_oak_fence_gate - 0
+biomesoplenty:cherry_fence_gate - 0
+biomesoplenty:umbran_fence_gate - 0
+biomesoplenty:fir_fence_gate - 0
+biomesoplenty:ethereal_fence_gate - 0
+biomesoplenty:magic_fence_gate - 0
+biomesoplenty:mangrove_fence_gate - 0
+biomesoplenty:palm_fence_gate - 0
+biomesoplenty:redwood_fence_gate - 0
+biomesoplenty:willow_fence_gate - 0
+biomesoplenty:pine_fence_gate - 0
+biomesoplenty:hellbark_fence_gate - 0
+biomesoplenty:jacaranda_fence_gate - 0
+biomesoplenty:mahogany_fence_gate - 0
+biomesoplenty:ebony_fence_gate - 0
+biomesoplenty:eucalyptus_fence_gate - 0
 twilightforest:twilight_oak_gate - 0
 twilightforest:canopy_gate - 0
 twilightforest:mangrove_gate - 0
@@ -11242,6 +12097,22 @@ extratrees:fences.2 - any
 extratrees:fences.fireproof.0 - any
 extratrees:fences.fireproof.1 - any
 extratrees:fences.fireproof.2 - any
+biomesoplenty:sacred_oak_fence - 0
+biomesoplenty:cherry_fence - 0
+biomesoplenty:umbran_fence - 0
+biomesoplenty:fir_fence - 0
+biomesoplenty:ethereal_fence - 0
+biomesoplenty:magic_fence - 0
+biomesoplenty:mangrove_fence - 0
+biomesoplenty:palm_fence - 0
+biomesoplenty:redwood_fence - 0
+biomesoplenty:willow_fence - 0
+biomesoplenty:pine_fence - 0
+biomesoplenty:hellbark_fence - 0
+biomesoplenty:jacaranda_fence - 0
+biomesoplenty:mahogany_fence - 0
+biomesoplenty:ebony_fence - 0
+biomesoplenty:eucalyptus_fence - 0
 twilightforest:twilight_oak_fence - 0
 twilightforest:canopy_fence - 0
 twilightforest:mangrove_fence - 0
@@ -11270,8 +12141,96 @@ minecraft:red_flower - any
 minecraft:yellow_flower - any
 
 
+flowerBlueHydrangea
+biomesoplenty:flower_0 - 4
+
+
+flowerBluebells
+biomesoplenty:flower_1 - 2
+
+
+flowerBromeliad
+biomesoplenty:flower_0 - 11
+
+
+flowerBurningBlossom
+biomesoplenty:flower_0 - 15
+
+
+flowerClover
+biomesoplenty:flower_0 - 0
+
+
+flowerDeathbloom
+biomesoplenty:flower_0 - 2
+
+
+flowerEnderlotus
+biomesoplenty:flower_0 - 10
+
+
+flowerGlowflower
+biomesoplenty:flower_0 - 3
+
+
+flowerGoldenrod
+biomesoplenty:flower_1 - 1
+
+
+flowerIcyIris
+biomesoplenty:flower_1 - 4
+
+
+flowerLavender
+biomesoplenty:flower_1 - 0
+
+
+flowerLilyOfTheValley
+biomesoplenty:flower_0 - 14
+
+
+flowerMinersDelight
+biomesoplenty:flower_1 - 3
+
+
+flowerOrangeCosmos
+biomesoplenty:flower_0 - 5
+
+
+flowerPinkDaffodil
+biomesoplenty:flower_0 - 6
+
+
+flowerPinkHibiscus
+biomesoplenty:flower_0 - 13
+
+
 flowerRed
 minecraft:red_flower - 0
+
+
+flowerRose
+biomesoplenty:flower_1 - 5
+
+
+flowerSwampflower
+biomesoplenty:flower_0 - 1
+
+
+flowerViolet
+biomesoplenty:flower_0 - 8
+
+
+flowerWhiteAnemone
+biomesoplenty:flower_0 - 9
+
+
+flowerWildflower
+biomesoplenty:flower_0 - 7
+
+
+flowerWiltedLily
+biomesoplenty:flower_0 - 12
 
 
 flowerYellow
@@ -11642,6 +12601,10 @@ harvestcraft:bolognaitem - 0
 
 foodBolognasandwich
 harvestcraft:bolognasandwichitem - 0
+
+
+foodBowlofrice
+biomesoplenty:ricebowl - 0
 
 
 foodBraisedonions
@@ -12547,6 +13510,10 @@ harvestcraft:figsmoothieitem - 0
 
 foodFigyogurt
 harvestcraft:figyogurtitem - 0
+
+
+foodFilledhoneycomb
+biomesoplenty:filled_honeycomb - 0
 
 
 foodFirmtofu
@@ -13533,6 +14500,10 @@ foodMushroomlasagna
 harvestcraft:mushroomlasagnaitem - 0
 
 
+foodMushroompowder
+biomesoplenty:shroompowder - 0
+
+
 foodMushroomrisotto
 harvestcraft:mushroomrisottoitem - 0
 
@@ -14256,6 +15227,7 @@ harvestcraft:salsaitem - 0
 
 
 foodSalt
+mekanism:salt - 0
 harvestcraft:saltitem - 0
 
 
@@ -15215,6 +16187,14 @@ gearyellowtiger
 contenttweaker:material_part - 300
 
 
+gemAmber
+biomesoplenty:gem - 7
+
+
+gemAmethyst
+biomesoplenty:gem - 0
+
+
 gemApatite
 forestry:apatite - 0
 
@@ -15251,6 +16231,14 @@ gemLapis
 minecraft:dye - 4
 
 
+gemMalachite
+biomesoplenty:gem - 5
+
+
+gemPeridot
+biomesoplenty:gem - 2
+
+
 gemPrismarine
 minecraft:prismarine_shard - 0
 
@@ -15268,9 +16256,19 @@ nuclearcraft:gem - 0
 
 
 gemRuby
+biomesoplenty:gem - 1
 
 
 gemSapphire
+biomesoplenty:gem - 6
+
+
+gemTanzanite
+biomesoplenty:gem - 4
+
+
+gemTopaz
+biomesoplenty:gem - 3
 
 
 gemVilliaumite
@@ -15289,6 +16287,7 @@ minecraft:glowstone - 0
 
 grass
 minecraft:grass - 0
+biomesoplenty:grass - 0
 
 
 gravel
@@ -15514,6 +16513,7 @@ ingotBronze
 forestry:ingot_bronze - 0
 thermalfoundation:material - 163
 nuclearcraft:alloy - 0
+mekanism:ingot - 2
 
 
 ingotCalifornium249
@@ -15654,6 +16654,7 @@ ingotCopper
 forestry:ingot_copper - 0
 thermalfoundation:material - 128
 nuclearcraft:ingot - 0
+mekanism:ingot - 5
 immersiveengineering:metal - 0
 
 
@@ -16919,6 +17920,7 @@ contenttweaker:material_part - 23
 ingotLead
 thermalfoundation:material - 131
 nuclearcraft:ingot - 2
+mekanism:ingot - 7
 immersiveengineering:metal - 2
 
 
@@ -17029,6 +18031,9 @@ ingotMarshmallow
 nuclearcraft:marshmallow - 0
 
 
+ingotMeatRaw
+
+
 ingotMithril
 thermalfoundation:material - 136
 dungeontactics:mithril_ingot - 0
@@ -17100,6 +18105,7 @@ contenttweaker:material_part - 253
 
 
 ingotOsmium
+mekanism:ingot - 1
 
 
 ingotPlatinum
@@ -17235,9 +18241,14 @@ contenttweaker:material_part - 43
 
 
 ingotRefinedGlowstone
+mekanism:ingot - 3
+
+
+ingotRefinedIron
 
 
 ingotRefinedObsidian
+mekanism:ingot - 0
 
 
 ingotShibuichi
@@ -17278,6 +18289,7 @@ mysticalagriculture:crafting - 38
 ingotSteel
 thermalfoundation:material - 160
 nuclearcraft:alloy - 5
+mekanism:ingot - 4
 immersiveengineering:metal - 8
 dungeontactics:steel_ingot - 0
 
@@ -17338,6 +18350,7 @@ ingotTin
 forestry:ingot_tin - 0
 thermalfoundation:material - 129
 nuclearcraft:ingot - 1
+mekanism:ingot - 6
 
 
 ingotTinSilver
@@ -17365,6 +18378,7 @@ nuclearcraft:unsweetened_chocolate - 0
 
 ingotUranium
 nuclearcraft:ingot - 4
+mekanism:ingot - 8
 immersiveengineering:metal - 5
 
 
@@ -17554,8 +18568,15 @@ ingotyellowtiger
 contenttweaker:material_part - 303
 
 
+itemAlloyEnriched
+
+
 itemBeeswax
 forestry:beeswax - 0
+
+
+itemBioFuel
+mekanism:biofuel - 0
 
 
 itemBioblend
@@ -17576,6 +18597,26 @@ thermalfoundation:material - 817
 
 itemCinnabar
 thermalfoundation:material - 866
+
+
+itemCompressedCarbon
+mekanism:compressedcarbon - 0
+
+
+itemCompressedDiamond
+mekanism:compresseddiamond - 0
+
+
+itemCompressedObsidian
+mekanism:compressedobsidian - 0
+
+
+itemCompressedRedstone
+mekanism:compressedredstone - 0
+
+
+itemEnrichedAlloy
+mekanism:enrichedalloy - 0
 
 
 itemIlluminatedPanel
@@ -17602,6 +18643,7 @@ itemRubber
 
 
 itemSalt
+mekanism:salt - 0
 harvestcraft:saltitem - 0
 
 
@@ -17832,6 +18874,9 @@ extratrees:food - 49
 extratrees:food - 52
 extratrees:food - 57
 extratrees:food - 58
+biomesoplenty:peach - 0
+biomesoplenty:persimmon - 0
+biomesoplenty:pear - 0
 minecraft:apple - 0
 minecraft:chorus_fruit - 0
 harvestcraft:cranberryitem - 0
@@ -18419,6 +19464,24 @@ extratrees:logs.fireproof.6 - any
 extratrees:logs.fireproof.7 - any
 extratrees:logs.fireproof.8 - any
 extratrees:logs.fireproof.9 - any
+biomesoplenty:log_0 - 4
+biomesoplenty:log_0 - 5
+biomesoplenty:log_0 - 6
+biomesoplenty:log_0 - 7
+biomesoplenty:log_1 - 4
+biomesoplenty:log_1 - 5
+biomesoplenty:log_1 - 6
+biomesoplenty:log_1 - 7
+biomesoplenty:log_2 - 4
+biomesoplenty:log_2 - 5
+biomesoplenty:log_2 - 6
+biomesoplenty:log_2 - 7
+biomesoplenty:log_3 - 4
+biomesoplenty:log_3 - 5
+biomesoplenty:log_3 - 6
+biomesoplenty:log_3 - 7
+biomesoplenty:log_4 - 4
+biomesoplenty:log_4 - 5
 harvestcraft:pammaple - 0
 harvestcraft:pampaperbark - 0
 harvestcraft:pamcinnamon - 0
@@ -22466,6 +23529,7 @@ contenttweaker:material_part - 222
 
 nuggetBronze
 thermalfoundation:material - 227
+mekanism:nugget - 2
 magicbees:orepart - 5
 
 
@@ -22479,6 +23543,7 @@ immersiveengineering:metal - 26
 
 nuggetCopper
 thermalfoundation:material - 192
+mekanism:nugget - 5
 immersiveengineering:metal - 20
 magicbees:orepart - 3
 
@@ -22570,6 +23635,7 @@ contenttweaker:material_part - 22
 
 nuggetLead
 thermalfoundation:material - 195
+mekanism:nugget - 7
 immersiveengineering:metal - 22
 
 
@@ -22582,6 +23648,9 @@ botania:manaresource - 17
 
 
 nuggetManyullyn
+
+
+nuggetMeatRaw
 
 
 nuggetMithril
@@ -22603,6 +23672,7 @@ contenttweaker:material_part - 252
 
 
 nuggetOsmium
+mekanism:nugget - 1
 
 
 nuggetPlatinum
@@ -22615,6 +23685,14 @@ mysticalagriculture:crafting - 41
 
 nuggetRedhellite
 contenttweaker:material_part - 42
+
+
+nuggetRefinedGlowstone
+mekanism:nugget - 3
+
+
+nuggetRefinedObsidian
+mekanism:nugget - 0
 
 
 nuggetSignalum
@@ -22641,6 +23719,7 @@ mysticalagriculture:crafting - 45
 
 nuggetSteel
 thermalfoundation:material - 224
+mekanism:nugget - 4
 immersiveengineering:metal - 28
 dungeontactics:steel_nugget - 0
 
@@ -22663,6 +23742,7 @@ botania:manaresource - 18
 
 nuggetTin
 thermalfoundation:material - 193
+mekanism:nugget - 6
 magicbees:orepart - 4
 
 
@@ -22671,6 +23751,7 @@ extendedcrafting:material - 33
 
 
 nuggetUranium
+mekanism:nugget - 8
 immersiveengineering:metal - 25
 
 
@@ -22767,6 +23848,14 @@ thermalfoundation:ore - 4
 immersiveengineering:ore - 1
 
 
+oreAmber
+biomesoplenty:gem_ore - 7
+
+
+oreAmethyst
+biomesoplenty:gem_ore - 0
+
+
 oreApatite
 forestry:resources - 0
 
@@ -22829,6 +23918,7 @@ oreCopper
 forestry:resources - 1
 thermalfoundation:ore - 0
 nuclearcraft:ore - 0
+mekanism:oreblock - 1
 immersiveengineering:ore - 0
 
 
@@ -22866,6 +23956,10 @@ scalingfeast:exhaustingore - any
 
 oreFirstTimeGaming
 contenttweaker:sub_block_holder_3 - 15
+
+
+oreFluorite
+mekanism:oreblock - 3
 
 
 oreGold
@@ -22909,6 +24003,7 @@ dungeontactics:endlapis_ore - 0
 oreLead
 thermalfoundation:ore - 3
 nuclearcraft:ore - 2
+mekanism:oreblock - 4
 immersiveengineering:ore - 2
 
 
@@ -22922,6 +24017,10 @@ thermalsolars:blocklunarorenether - 0
 
 oreMagnesium
 nuclearcraft:ore - 7
+
+
+oreMalachite
+biomesoplenty:gem_ore - 5
 
 
 oreMithril
@@ -22944,6 +24043,14 @@ immersiveengineering:ore - 4
 
 oreOrangetiger
 contenttweaker:sub_block_holder_1 - 10
+
+
+oreOsmium
+mekanism:oreblock - 0
+
+
+orePeridot
+biomesoplenty:gem_ore - 2
 
 
 orePlatinum
@@ -22970,6 +24077,14 @@ minecraft:redstone_ore - 0
 oreResonating
 
 
+oreRuby
+biomesoplenty:gem_ore - 1
+
+
+oreSapphire
+biomesoplenty:gem_ore - 6
+
+
 oreSilver
 thermalfoundation:ore - 2
 immersiveengineering:ore - 3
@@ -22987,6 +24102,10 @@ contenttweaker:sub_block_holder_2 - 14
 oreSteel
 
 
+oreTanzanite
+biomesoplenty:gem_ore - 4
+
+
 oreTechGuy
 contenttweaker:sub_block_holder_1 - 11
 
@@ -22999,14 +24118,20 @@ oreTin
 forestry:resources - 2
 thermalfoundation:ore - 1
 nuclearcraft:ore - 1
+mekanism:oreblock - 2
 
 
 oreTitanium
 thermalsolars:blocktitaniumore - 0
 
 
+oreTopaz
+biomesoplenty:gem_ore - 3
+
+
 oreUranium
 nuclearcraft:ore - 4
+mekanism:oreblock - 5
 immersiveengineering:ore - 5
 
 
@@ -23415,6 +24540,22 @@ extratrees:planks.2 - any
 extratrees:planks.fireproof.0 - any
 extratrees:planks.fireproof.1 - any
 extratrees:planks.fireproof.2 - any
+biomesoplenty:planks_0 - 0
+biomesoplenty:planks_0 - 1
+biomesoplenty:planks_0 - 2
+biomesoplenty:planks_0 - 3
+biomesoplenty:planks_0 - 4
+biomesoplenty:planks_0 - 5
+biomesoplenty:planks_0 - 6
+biomesoplenty:planks_0 - 7
+biomesoplenty:planks_0 - 8
+biomesoplenty:planks_0 - 9
+biomesoplenty:planks_0 - 10
+biomesoplenty:planks_0 - 11
+biomesoplenty:planks_0 - 12
+biomesoplenty:planks_0 - 13
+biomesoplenty:planks_0 - 14
+biomesoplenty:planks_0 - 15
 twilightforest:tower_wood - any
 twilightforest:twilight_oak_planks - 0
 twilightforest:canopy_planks - 0
@@ -23424,6 +24565,123 @@ twilightforest:time_planks - 0
 twilightforest:trans_planks - 0
 twilightforest:mine_planks - 0
 twilightforest:sort_planks - 0
+
+
+plantBarley
+biomesoplenty:plant_1 - 11
+
+
+plantBerrybush
+biomesoplenty:plant_0 - 5
+
+
+plantBush
+biomesoplenty:plant_0 - 2
+
+
+plantCattail
+biomesoplenty:plant_1 - 4
+biomesoplenty:double_plant - 1
+
+
+plantCloverpatch
+biomesoplenty:plant_0 - 10
+
+
+plantDampgrass
+biomesoplenty:plant_0 - 8
+
+
+plantDeadgrass
+biomesoplenty:plant_0 - 13
+
+
+plantDeadleafpile
+biomesoplenty:plant_0 - 12
+
+
+plantDesertgrass
+biomesoplenty:plant_0 - 14
+
+
+plantDesertsprouts
+biomesoplenty:plant_0 - 15
+
+
+plantDevilweed
+biomesoplenty:plant_1 - 7
+
+
+plantDunegrass
+biomesoplenty:plant_1 - 0
+
+
+plantFlax
+biomesoplenty:double_plant - 0
+
+
+plantKoru
+biomesoplenty:plant_0 - 9
+
+
+plantLeafpile
+biomesoplenty:plant_0 - 11
+
+
+plantMediumgrass
+biomesoplenty:plant_0 - 1
+
+
+plantPoisonivy
+biomesoplenty:plant_0 - 4
+
+
+plantRafflesia
+biomesoplenty:plant_1 - 10
+
+
+plantReed
+biomesoplenty:plant_1 - 8
+
+
+plantRivercane
+biomesoplenty:plant_1 - 5
+
+
+plantRoot
+biomesoplenty:plant_1 - 9
+
+
+plantShortgrass
+biomesoplenty:plant_0 - 0
+
+
+plantShrub
+biomesoplenty:plant_0 - 6
+
+
+plantSpectralfern
+biomesoplenty:plant_1 - 1
+
+
+plantSprout
+biomesoplenty:plant_0 - 3
+
+
+plantThorn
+biomesoplenty:plant_1 - 2
+
+
+plantTinycactus
+biomesoplenty:plant_1 - 6
+
+
+plantWheatgrass
+biomesoplenty:plant_0 - 7
+
+
+plantWildrice
+biomesoplenty:plant_1 - 3
 
 
 plateAdvanced
@@ -23675,6 +24933,7 @@ botania:manaresource - 23
 pulpWood
 forestry:wood_pulp - 0
 extratrees:misc - 0
+mekanism:sawdust - 0
 
 
 quartzBlaze
@@ -23723,6 +24982,7 @@ minecraft:record_strad - 0
 minecraft:record_ward - 0
 minecraft:record_11 - 0
 minecraft:record_wait - 0
+biomesoplenty:record_wanderer - 0
 nuclearcraft:record_wanderer - 0
 nuclearcraft:record_end_of_the_world - 0
 nuclearcraft:record_money_for_nothing - 0
@@ -23948,11 +25208,13 @@ minecraft:fish - 0
 
 sand
 minecraft:sand - any
+biomesoplenty:white_sand - 0
 
 
 sandstone
 minecraft:sandstone - any
 minecraft:red_sandstone - any
+biomesoplenty:white_sandstone - 0
 
 
 sawdust
@@ -24340,60 +25602,60 @@ minecraft:nether_wart - 0
 
 
 seedsTier1
-mysticalagriculture:wood_seeds - 0
-mysticalagriculture:water_seeds - 0
 mysticalagriculture:ice_seeds - 0
 mysticalagriculture:stone_seeds - 0
-mysticalagriculture:zombie_seeds - 0
-mysticalagriculture:dirt_seeds - 0
 mysticalagriculture:nature_seeds - 0
+mysticalagriculture:dirt_seeds - 0
+mysticalagriculture:water_seeds - 0
+mysticalagriculture:zombie_seeds - 0
+mysticalagriculture:wood_seeds - 0
 
 
 seedsTier2
-mysticalagriculture:aluminum_seeds - 0
-mysticalagriculture:coal_seeds - 0
-mysticalagriculture:nether_seeds - 0
-mysticalagriculture:slime_seeds - 0
-mysticalagriculture:chicken_seeds - 0
-mysticalagriculture:mystical_flower_seeds - 0
-mysticalagriculture:marble_seeds - 0
-mysticalagriculture:pig_seeds - 0
-mysticalagriculture:apatite_seeds - 0
-mysticalagriculture:copper_seeds - 0
-mysticalagriculture:silicon_seeds - 0
 mysticalagriculture:fire_seeds - 0
-mysticalagriculture:sheep_seeds - 0
-mysticalagriculture:dye_seeds - 0
+mysticalagriculture:nether_seeds - 0
+mysticalagriculture:coal_seeds - 0
+mysticalagriculture:slime_seeds - 0
+mysticalagriculture:silicon_seeds - 0
 mysticalagriculture:sulfur_seeds - 0
+mysticalagriculture:sheep_seeds - 0
+mysticalagriculture:pig_seeds - 0
+mysticalagriculture:aluminum_seeds - 0
+mysticalagriculture:mystical_flower_seeds - 0
 mysticalagriculture:cow_seeds - 0
+mysticalagriculture:copper_seeds - 0
+mysticalagriculture:dye_seeds - 0
+mysticalagriculture:chicken_seeds - 0
+mysticalagriculture:apatite_seeds - 0
+mysticalagriculture:marble_seeds - 0
 
 
 seedsTier3
-mysticalagriculture:basalz_seeds - 0
-mysticalagriculture:graphite_seeds - 0
+mysticalagriculture:skeleton_seeds - 0
+mysticalagriculture:sky_stone_seeds - 0
+mysticalagriculture:glowstone_seeds - 0
+mysticalagriculture:creeper_seeds - 0
 mysticalagriculture:redstone_seeds - 0
+mysticalagriculture:bronze_seeds - 0
+mysticalagriculture:steeleaf_seeds - 0
+mysticalagriculture:silver_seeds - 0
+mysticalagriculture:lead_seeds - 0
+mysticalagriculture:ironwood_seeds - 0
+mysticalagriculture:saltpeter_seeds - 0
+mysticalagriculture:obsidian_seeds - 0
+mysticalagriculture:tin_seeds - 0
+mysticalagriculture:iron_seeds - 0
+mysticalagriculture:aquamarine_seeds - 0
+mysticalagriculture:graphite_seeds - 0
+mysticalagriculture:blizz_seeds - 0
+mysticalagriculture:basalz_seeds - 0
 mysticalagriculture:certus_quartz_seeds - 0
 mysticalagriculture:nether_quartz_seeds - 0
-mysticalagriculture:tin_seeds - 0
-mysticalagriculture:creeper_seeds - 0
-mysticalagriculture:obsidian_seeds - 0
-mysticalagriculture:manasteel_seeds - 0
-mysticalagriculture:aquamarine_seeds - 0
-mysticalagriculture:sky_stone_seeds - 0
-mysticalagriculture:bronze_seeds - 0
-mysticalagriculture:blitz_seeds - 0
-mysticalagriculture:ironwood_seeds - 0
 mysticalagriculture:spider_seeds - 0
-mysticalagriculture:blizz_seeds - 0
-mysticalagriculture:steeleaf_seeds - 0
-mysticalagriculture:glowstone_seeds - 0
-mysticalagriculture:lead_seeds - 0
-mysticalagriculture:saltpeter_seeds - 0
-mysticalagriculture:iron_seeds - 0
 mysticalagriculture:rabbit_seeds - 0
-mysticalagriculture:skeleton_seeds - 0
 mysticalagriculture:guardian_seeds - 0
-mysticalagriculture:silver_seeds - 0
+mysticalagriculture:manasteel_seeds - 0
+mysticalagriculture:blitz_seeds - 0
 jaopca:mysticalagriculture_seeds.americium_241 - 0
 jaopca:mysticalagriculture_seeds.americium_241_all - 0
 jaopca:mysticalagriculture_seeds.americium_241_carbide - 0
@@ -24877,43 +26139,54 @@ jaopca:mysticalagriculture_seeds.yellowtiger - 0
 
 
 seedsTier4
-mysticalagriculture:magnesium_seeds - 0
-mysticalagriculture:lumium_seeds - 0
-mysticalagriculture:blaze_seeds - 0
-mysticalagriculture:nickel_seeds - 0
-mysticalagriculture:enderman_seeds - 0
 mysticalagriculture:lapis_lazuli_seeds - 0
-mysticalagriculture:steel_seeds - 0
+mysticalagriculture:signalum_seeds - 0
+mysticalagriculture:glowstone_ingot_seeds - 0
 mysticalagriculture:ghast_seeds - 0
+mysticalagriculture:steel_seeds - 0
+mysticalagriculture:lumium_seeds - 0
 mysticalagriculture:thorium_seeds - 0
 mysticalagriculture:boron_seeds - 0
-mysticalagriculture:fiery_ingot_seeds - 0
-mysticalagriculture:fluix_seeds - 0
+mysticalagriculture:ruby_seeds - 0
+mysticalagriculture:peridot_seeds - 0
+mysticalagriculture:experience_seeds - 0
+mysticalagriculture:nickel_seeds - 0
+mysticalagriculture:gold_seeds - 0
+mysticalagriculture:magnesium_seeds - 0
+mysticalagriculture:invar_seeds - 0
+mysticalagriculture:hop_graphite_seeds - 0
+mysticalagriculture:osmium_seeds - 0
+mysticalagriculture:tanzanite_seeds - 0
 mysticalagriculture:lithium_seeds - 0
 mysticalagriculture:end_seeds - 0
-mysticalagriculture:mithril_seeds - 0
-mysticalagriculture:hop_graphite_seeds - 0
-mysticalagriculture:constantan_seeds - 0
-mysticalagriculture:gold_seeds - 0
-mysticalagriculture:invar_seeds - 0
-mysticalagriculture:experience_seeds - 0
-mysticalagriculture:electrum_seeds - 0
+mysticalagriculture:topaz_seeds - 0
+mysticalagriculture:blaze_seeds - 0
 mysticalagriculture:knightmetal_seeds - 0
+mysticalagriculture:fiery_ingot_seeds - 0
+mysticalagriculture:malachite_seeds - 0
+mysticalagriculture:fluix_seeds - 0
 mysticalagriculture:elementium_seeds - 0
-mysticalagriculture:signalum_seeds - 0
+mysticalagriculture:enderman_seeds - 0
+mysticalagriculture:electrum_seeds - 0
+mysticalagriculture:sapphire_seeds - 0
+mysticalagriculture:constantan_seeds - 0
+mysticalagriculture:mithril_seeds - 0
+mysticalagriculture:amber_seeds - 0
 
 
 seedsTier5
-mysticalagriculture:platinum_seeds - 0
-mysticalagriculture:starmetal_seeds - 0
-mysticalagriculture:uranium_seeds - 0
 mysticalagriculture:iridium_seeds - 0
-mysticalagriculture:terrasteel_seeds - 0
-mysticalagriculture:rock_crystal_seeds - 0
-mysticalagriculture:emerald_seeds - 0
-mysticalagriculture:diamond_seeds - 0
 mysticalagriculture:enderium_seeds - 0
+mysticalagriculture:platinum_seeds - 0
+mysticalagriculture:rock_crystal_seeds - 0
+mysticalagriculture:starmetal_seeds - 0
+mysticalagriculture:diamond_seeds - 0
+mysticalagriculture:uranium_seeds - 0
+mysticalagriculture:emerald_seeds - 0
+mysticalagriculture:refined_obsidian_seeds - 0
+mysticalagriculture:terrasteel_seeds - 0
 mysticalagriculture:wither_skeleton_seeds - 0
+mysticalagriculture:ender_amethyst_seeds - 0
 
 
 seedsTier6
@@ -24926,6 +26199,98 @@ servo
 nuclearcraft:part - 7
 
 
+shardAluminum
+jaopca:mekanism_shard.aluminum - 0
+
+
+shardAphWolf
+jaopca:mekanism_shard.aph_wolf - 0
+
+
+shardAstralStarmetal
+jaopca:mekanism_shard.astral_starmetal - 0
+
+
+shardBlacktiger
+jaopca:mekanism_shard.blacktiger - 0
+
+
+shardBoron
+jaopca:mekanism_shard.boron - 0
+
+
+shardCopper
+mekanism:shard - 3
+
+
+shardDillapis
+jaopca:mekanism_shard.dillapis - 0
+
+
+shardEnder
+jaopca:mekanism_shard.ender - 0
+
+
+shardFirstTimeGaming
+jaopca:mekanism_shard.first_time_gaming - 0
+
+
+shardGold
+mekanism:shard - 1
+
+
+shardIridium
+jaopca:mekanism_shard.iridium - 0
+
+
+shardIron
+mekanism:shard - 0
+
+
+shardLallix
+jaopca:mekanism_shard.lallix - 0
+
+
+shardLallixium
+jaopca:mekanism_shard.lallixium - 0
+
+
+shardLead
+mekanism:shard - 6
+
+
+shardLithium
+jaopca:mekanism_shard.lithium - 0
+
+
+shardLunar
+jaopca:mekanism_shard.lunar - 0
+
+
+shardMagnesium
+jaopca:mekanism_shard.magnesium - 0
+
+
+shardMithril
+jaopca:mekanism_shard.mithril - 0
+
+
+shardNickel
+jaopca:mekanism_shard.nickel - 0
+
+
+shardOrangetiger
+jaopca:mekanism_shard.orangetiger - 0
+
+
+shardOsmium
+mekanism:shard - 2
+
+
+shardPlatinum
+jaopca:mekanism_shard.platinum - 0
+
+
 shardPrismarine
 minecraft:prismarine_shard - 0
 
@@ -24934,12 +26299,136 @@ shardProsperity
 mysticalagriculture:crafting - 5
 
 
+shardRedhellite
+jaopca:mekanism_shard.redhellite - 0
+
+
+shardSilver
+mekanism:shard - 5
+
+
+shardSkitso
+jaopca:mekanism_shard.skitso - 0
+
+
+shardSkymium
+jaopca:mekanism_shard.skymium - 0
+
+
+shardTechGuy
+jaopca:mekanism_shard.tech_guy - 0
+
+
+shardThorium
+jaopca:mekanism_shard.thorium - 0
+
+
+shardTin
+mekanism:shard - 4
+
+
+shardTitanium
+jaopca:mekanism_shard.titanium - 0
+
+
+shardUranium
+mekanism:shard - 7
+
+
+shardViolet
+jaopca:mekanism_shard.violet - 0
+
+
+shardWarlock
+jaopca:mekanism_shard.warlock - 0
+
+
+shardXaelium
+jaopca:mekanism_shard.xaelium - 0
+
+
+shardXodias
+jaopca:mekanism_shard.xodias - 0
+
+
+shardZephyrus
+jaopca:mekanism_shard.zephyrus - 0
+
+
+shardbluetiger
+jaopca:mekanism_shard.bluetiger - 0
+
+
+shardcrao
+jaopca:mekanism_shard.crao - 0
+
+
+sharddawsondude
+jaopca:mekanism_shard.dawsondude - 0
+
+
+sharddustcrafter
+jaopca:mekanism_shard.dustcrafter - 0
+
+
+shardirg
+jaopca:mekanism_shard.irg - 0
+
+
+shardkylian
+jaopca:mekanism_shard.kylian - 0
+
+
+shardpinktiger
+jaopca:mekanism_shard.pinktiger - 0
+
+
+shardpurpletiger
+jaopca:mekanism_shard.purpletiger - 0
+
+
+shardrainbowtiger
+jaopca:mekanism_shard.rainbowtiger - 0
+
+
+shardramm
+jaopca:mekanism_shard.ramm - 0
+
+
+shardredtiger
+jaopca:mekanism_shard.redtiger - 0
+
+
+shardstar
+jaopca:mekanism_shard.star - 0
+
+
+shardstarwars
+jaopca:mekanism_shard.starwars - 0
+
+
+shardtiger
+jaopca:mekanism_shard.tiger - 0
+
+
+shardwhitetiger
+jaopca:mekanism_shard.whitetiger - 0
+
+
+shardyellowtiger
+jaopca:mekanism_shard.yellowtiger - 0
+
+
 singularityAluminium
 jaopca:avaritia_singularity.aluminium - 0
 
 
 singularityAluminum
 jaopca:avaritia_singularity.aluminum - 0
+
+
+singularityAmber
+jaopca:avaritia_singularity.amber - 0
 
 
 singularityAmericium241
@@ -25012,6 +26501,10 @@ jaopca:avaritia_singularity.americium_243_oxide - 0
 
 singularityAmericium243ZA
 jaopca:avaritia_singularity.americium_243_za - 0
+
+
+singularityAmethyst
+jaopca:avaritia_singularity.amethyst - 0
 
 
 singularityApatite
@@ -26526,6 +28019,10 @@ singularityMagnesiumDiboride
 jaopca:avaritia_singularity.magnesium_diboride - 0
 
 
+singularityMalachite
+jaopca:avaritia_singularity.malachite - 0
+
+
 singularityManasteel
 jaopca:avaritia_singularity.manasteel - 0
 
@@ -26600,6 +28097,14 @@ jaopca:avaritia_singularity.neptunium_237_za - 0
 
 singularityOrangetiger
 jaopca:avaritia_singularity.orangetiger - 0
+
+
+singularityOsmium
+jaopca:avaritia_singularity.osmium - 0
+
+
+singularityPeridot
+jaopca:avaritia_singularity.peridot - 0
 
 
 singularityPlutonium238
@@ -26714,8 +28219,24 @@ singularityRedhellite
 jaopca:avaritia_singularity.redhellite - 0
 
 
+singularityRefinedGlowstone
+jaopca:avaritia_singularity.refined_glowstone - 0
+
+
+singularityRefinedObsidian
+jaopca:avaritia_singularity.refined_obsidian - 0
+
+
 singularityRhodochrosite
 jaopca:avaritia_singularity.rhodochrosite - 0
+
+
+singularityRuby
+jaopca:avaritia_singularity.ruby - 0
+
+
+singularitySapphire
+jaopca:avaritia_singularity.sapphire - 0
 
 
 singularityShibuichi
@@ -26782,6 +28303,10 @@ singularityTBUZA
 jaopca:avaritia_singularity.tbuza - 0
 
 
+singularityTanzanite
+jaopca:avaritia_singularity.tanzanite - 0
+
+
 singularityTechGuy
 jaopca:avaritia_singularity.tech_guy - 0
 
@@ -26804,6 +28329,10 @@ jaopca:avaritia_singularity.tin_silver - 0
 
 singularityTitanium
 jaopca:avaritia_singularity.titanium - 0
+
+
+singularityTopaz
+jaopca:avaritia_singularity.topaz - 0
 
 
 singularityTough
@@ -27131,6 +28660,22 @@ extratrees:slabs.fireproof.1 - any
 extratrees:slabs.fireproof.2 - any
 extratrees:slabs.fireproof.3 - any
 extratrees:slabs.fireproof.4 - any
+biomesoplenty:wood_slab_0 - 0
+biomesoplenty:wood_slab_0 - 1
+biomesoplenty:wood_slab_0 - 2
+biomesoplenty:wood_slab_0 - 3
+biomesoplenty:wood_slab_0 - 4
+biomesoplenty:wood_slab_0 - 5
+biomesoplenty:wood_slab_0 - 6
+biomesoplenty:wood_slab_0 - 7
+biomesoplenty:wood_slab_1 - 0
+biomesoplenty:wood_slab_1 - 1
+biomesoplenty:wood_slab_1 - 2
+biomesoplenty:wood_slab_1 - 3
+biomesoplenty:wood_slab_1 - 4
+biomesoplenty:wood_slab_1 - 5
+biomesoplenty:wood_slab_1 - 6
+biomesoplenty:wood_slab_1 - 7
 twilightforest:twilight_oak_slab - 0
 twilightforest:canopy_slab - 0
 twilightforest:mangrove_slab - 0
@@ -27341,6 +28886,22 @@ extratrees:stairs.fireproof.eucalyptus - any
 extratrees:stairs.fireproof.box - any
 extratrees:stairs.fireproof.syzgium - any
 extratrees:stairs.fireproof.pinkivory - any
+biomesoplenty:sacred_oak_stairs - 0
+biomesoplenty:cherry_stairs - 0
+biomesoplenty:umbran_stairs - 0
+biomesoplenty:fir_stairs - 0
+biomesoplenty:ethereal_stairs - 0
+biomesoplenty:magic_stairs - 0
+biomesoplenty:mangrove_stairs - 0
+biomesoplenty:palm_stairs - 0
+biomesoplenty:redwood_stairs - 0
+biomesoplenty:willow_stairs - 0
+biomesoplenty:pine_stairs - 0
+biomesoplenty:hellbark_stairs - 0
+biomesoplenty:jacaranda_stairs - 0
+biomesoplenty:mahogany_stairs - 0
+biomesoplenty:ebony_stairs - 0
+biomesoplenty:eucalyptus_stairs - 0
 twilightforest:twilight_oak_stairs - 0
 twilightforest:canopy_stairs - 0
 twilightforest:mangrove_stairs - 0
@@ -27429,6 +28990,8 @@ contenttweaker:material_part - 34
 
 stickWood
 minecraft:stick - 0
+biomesoplenty:bamboo - 0
+biomesoplenty:plant_1 - 5
 
 
 stickXaelium
@@ -27674,6 +29237,32 @@ extratrees:leaves.decorative.3 - any
 extratrees:leaves.decorative.4 - any
 extratrees:leaves.decorative.5 - any
 extratrees:leaves.decorative.6 - any
+biomesoplenty:leaves_0 - 8
+biomesoplenty:leaves_0 - 9
+biomesoplenty:leaves_0 - 10
+biomesoplenty:leaves_0 - 11
+biomesoplenty:leaves_1 - 8
+biomesoplenty:leaves_1 - 9
+biomesoplenty:leaves_1 - 10
+biomesoplenty:leaves_1 - 11
+biomesoplenty:leaves_2 - 8
+biomesoplenty:leaves_2 - 9
+biomesoplenty:leaves_2 - 10
+biomesoplenty:leaves_2 - 11
+biomesoplenty:leaves_3 - 8
+biomesoplenty:leaves_3 - 9
+biomesoplenty:leaves_3 - 10
+biomesoplenty:leaves_3 - 11
+biomesoplenty:leaves_4 - 8
+biomesoplenty:leaves_4 - 9
+biomesoplenty:leaves_4 - 10
+biomesoplenty:leaves_4 - 11
+biomesoplenty:leaves_5 - 8
+biomesoplenty:leaves_5 - 9
+biomesoplenty:leaves_5 - 10
+biomesoplenty:leaves_5 - 11
+biomesoplenty:leaves_6 - 8
+biomesoplenty:leaves_6 - 9
 twilightforest:twilight_leaves - any
 twilightforest:magic_leaves - any
 twilightforest:twilight_leaves_3 - any
@@ -27684,6 +29273,30 @@ treeSapling
 minecraft:sapling - any
 forestry:sapling - any
 forestry:sapling_ge - any
+biomesoplenty:sapling_0 - 0
+biomesoplenty:sapling_0 - 1
+biomesoplenty:sapling_0 - 2
+biomesoplenty:sapling_0 - 3
+biomesoplenty:sapling_0 - 4
+biomesoplenty:sapling_0 - 5
+biomesoplenty:sapling_0 - 6
+biomesoplenty:sapling_0 - 7
+biomesoplenty:sapling_1 - 0
+biomesoplenty:sapling_1 - 1
+biomesoplenty:sapling_1 - 2
+biomesoplenty:sapling_1 - 3
+biomesoplenty:sapling_1 - 4
+biomesoplenty:sapling_1 - 5
+biomesoplenty:sapling_1 - 6
+biomesoplenty:sapling_1 - 7
+biomesoplenty:sapling_2 - 0
+biomesoplenty:sapling_2 - 1
+biomesoplenty:sapling_2 - 2
+biomesoplenty:sapling_2 - 3
+biomesoplenty:sapling_2 - 4
+biomesoplenty:sapling_2 - 5
+biomesoplenty:sapling_2 - 6
+biomesoplenty:sapling_2 - 7
 harvestcraft:almond_sapling - 0
 harvestcraft:apple_sapling - 0
 harvestcraft:apricot_sapling - 0
@@ -27730,6 +29343,10 @@ harvestcraft:rambutan_sapling - 0
 harvestcraft:tamarind_sapling - 0
 twilightforest:twilight_sapling - any
 minecraft:sapling - 0
+
+
+universalCable
+mekanism:transmitter - 0
 
 
 vine

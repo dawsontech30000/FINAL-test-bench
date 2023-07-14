@@ -134,5 +134,10 @@
     "dataName": "shockAbsorber",
     "showOnHud": false,
     "currentKey": 0
+  },
+  "module.powersuits.madModule.name": {
+    "dataName": "madModule",
+    "showOnHud": false,
+    "currentKey": 0
   }
 }

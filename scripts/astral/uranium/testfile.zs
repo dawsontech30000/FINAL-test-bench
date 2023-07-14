@@ -1,3 +1,4 @@
+#reloadable
 
 
 
@@ -13,8 +14,11 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:tnt_singular
 <minecraft:tnt>, 100000000, <extendedcrafting:material:11>, 100000);
 //----------------------------------------------------------------------------------------------------------
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.uranium_238_z_a>, 
-<jaopca:block.uranium_233_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.uranium_233_za>, 
+<jaopca:block.uranium_233_za>, 100000000, <extendedcrafting:material:11>, 100000);
+
+
 
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.uranium_238_oxide>, 
 <jaopca:block.uranium_238_oxide>, 100000000, <extendedcrafting:material:11>, 100000);

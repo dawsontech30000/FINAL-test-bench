@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-07-14 14:08:00 +0100"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-07-14 14:08:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "jungle": "2023-07-14 13:08:07 +0100"

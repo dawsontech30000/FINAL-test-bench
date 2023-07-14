@@ -38,12 +38,12 @@ minecraft:long_night_vision
 
 minecraft:invisibility
    - Effects: 
-       minecraft:invisibility - 3600 - 0 - false - true
+       minecraft:invisibility - 3600 - 0 - false - false
 
 
 minecraft:long_invisibility
    - Effects: 
-       minecraft:invisibility - 9600 - 0 - false - true
+       minecraft:invisibility - 9600 - 0 - false - false
 
 
 minecraft:leaping
@@ -659,5 +659,110 @@ cofhcore:wither3+
 cofhcore:swiftness3+
    - Effects: 
        minecraft:speed - 2400 - 2 - false - true
+
+
+apotheosis:strong_haste
+   - Effects: 
+       minecraft:haste - 1800 - 1 - false - true
+
+
+apotheosis:strong_knowledge
+   - Effects: 
+       apotheosis:knowledge - 1200 - 1 - false - true
+
+
+apotheosis:strong_wither
+   - Effects: 
+       minecraft:wither - 1800 - 1 - false - true
+
+
+apotheosis:long_absorption
+   - Effects: 
+       minecraft:absorption - 3600 - 1 - false - true
+
+
+apotheosis:long_haste
+   - Effects: 
+       minecraft:haste - 9600 - 0 - false - true
+
+
+apotheosis:absorption
+   - Effects: 
+       minecraft:absorption - 1200 - 1 - false - true
+
+
+apotheosis:wither
+   - Effects: 
+       minecraft:wither - 3600 - 0 - false - true
+
+
+apotheosis:long_fatigue
+   - Effects: 
+       minecraft:mining_fatigue - 9600 - 0 - false - true
+
+
+apotheosis:knowledge
+   - Effects: 
+       apotheosis:knowledge - 2400 - 0 - false - true
+
+
+apotheosis:fatigue
+   - Effects: 
+       minecraft:mining_fatigue - 3600 - 0 - false - true
+
+
+apotheosis:sundering
+   - Effects: 
+       apotheosis:sundering - 3600 - 0 - false - true
+
+
+apotheosis:long_sundering
+   - Effects: 
+       apotheosis:sundering - 9600 - 0 - false - true
+
+
+apotheosis:long_knowledge
+   - Effects: 
+       apotheosis:knowledge - 4800 - 0 - false - true
+
+
+apotheosis:resistance
+   - Effects: 
+       minecraft:resistance - 3600 - 0 - false - true
+
+
+apotheosis:strong_fatigue
+   - Effects: 
+       minecraft:mining_fatigue - 1800 - 1 - false - true
+
+
+apotheosis:long_wither
+   - Effects: 
+       minecraft:wither - 9600 - 0 - false - true
+
+
+apotheosis:haste
+   - Effects: 
+       minecraft:haste - 3600 - 0 - false - true
+
+
+apotheosis:long_resistance
+   - Effects: 
+       minecraft:resistance - 9600 - 0 - false - true
+
+
+apotheosis:strong_resistance
+   - Effects: 
+       minecraft:resistance - 1800 - 1 - false - true
+
+
+apotheosis:strong_sundering
+   - Effects: 
+       apotheosis:sundering - 1800 - 1 - false - true
+
+
+apotheosis:strong_absorption
+   - Effects: 
+       minecraft:absorption - 600 - 3 - false - true
 
 
