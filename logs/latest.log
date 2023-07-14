@@ -591,3 +591,18 @@ SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.7.jar)
 [13:24:10] [Client thread/INFO] [FML]: Applying holder lookups
 [13:24:10] [Client thread/INFO] [FML]: Holder lookups applied
 [13:24:10] [Client thread/INFO] [thelm.jaopca.materials.MaterialHandler]: Added 484 materials
+[13:24:14] [Client thread/INFO] [thelm.jaopca.recipes.RecipeHandler]: Registered 0 early recipes
+[13:24:14] [Client thread/INFO] [FML]: Applying holder lookups
+[13:24:14] [Client thread/INFO] [FML]: Holder lookups applied
+[13:24:14] [Client thread/INFO] [FML]: OBJLoader: Domain botania has been added.
+[13:24:14] [Client thread/INFO] [FML]: OBJLoader: Domain dungeonsmod has been added.
+[13:24:15] [Client thread/INFO] [FML]: OBJLoader: Domain magicbees has been added.
+[13:24:15] [Client thread/INFO] [FML]: Applying holder lookups
+[13:24:15] [Client thread/INFO] [FML]: Holder lookups applied
+[13:24:15] [Client thread/INFO] [FML]: Injecting itemstacks
+[13:24:15] [Client thread/INFO] [FML]: Itemstack injection complete
+[13:24:16] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[13:24:16] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[13:24:16] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:24:16] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[13:24:17] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
