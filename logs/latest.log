@@ -8285,3 +8285,355 @@ java.lang.NullPointerException: null
 [19:24:12] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain powersuits
 [19:24:12] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
 [19:24:12] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[19:50:06] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[19:50:06] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[19:50:06] [Client thread/INFO] [LibrarianLib ASM]: Transforming NetHandlerPlayServer
+[19:50:06] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[19:50:06] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[19:50:06] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[19:50:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[19:50:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[19:50:07] [Server thread/INFO] [mcjtylib_ng]: Preparing all world data
+[19:50:07] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockoutputbus
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockcontroller
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:alloy_furnace_controller
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:transformer_controller
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockfluidinputhatch
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockcasing
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:crushing_wheels
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockupgradebus
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nuclearcraft:fluid_steam
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockparallelcontroller
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blocksmartinterface
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockinputbus
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockfluidoutputhatch
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:iron_centrifuge_controller
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nuclearcraft:fluid_cryotheum
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockenergyoutputhatch
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nuclearcraft:fluid_ender
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nuclearcraft:fluid_coal
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockenergyinputhatch
+[19:50:07] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world modularmachinery:blockfactorycontroller
+[19:50:15] [Server thread/INFO] [FML]: Applying holder lookups
+[19:50:15] [Server thread/INFO] [FML]: Holder lookups applied
+[19:50:15] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:15] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't load loot table pamsbreadcraft:bakerychest from jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/Pam's+BreadCraft+1.12.2-1.1.2.jar!/assets/pamsbreadcraft/loot_tables/bakerychest.json
+com.google.gson.JsonParseException: Loot Table "pamsbreadcraft:bakerychest" Missing `name` entry for pool #0
+	at net.minecraftforge.common.ForgeHooks.readPoolName(ForgeHooks.java:1252) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:143) ~[bfq$a.class:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:138) ~[bfq$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[TypeAdapterRuntimeTypeWrapper.class:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[ArrayTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:204) ~[bfs$a.class:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:199) ~[bfs$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:852) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:801) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:773) ~[Gson.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:1176) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.world.storage.loot.LootTableManager$Loader.func_186518_c(LootTableManager.java:156) [bfv$a.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager$Loader.load(LootTableManager.java:72) [bfv$a.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager$Loader.load(LootTableManager.java:53) [bfv$a.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_186521_a(LootTableManager.java:40) [bfv.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_186522_a(LootTableManager.java:49) [bfv.class:?]
+	at net.minecraft.world.storage.loot.LootTableManager.<init>(LootTableManager.java:35) [bfv.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:155) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[19:50:17] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1244 advancements
+[19:50:18] [Server thread/INFO] [neid]: Patching class: "ru.fewizz.neid.asm.Hooks" with Transformer Group: "TransformerGroupChunkPrimer"
+[19:50:18] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 0
+[19:50:18] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:18] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:18] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 1
+[19:50:18] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[19:50:19] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension -1
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:19] [Server thread/INFO] [FML]: Loading dimension 3 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 3
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:19] [Server thread/INFO] [FML]: Loading dimension 4598 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 4598
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:19] [Server thread/INFO] [FML]: Loading dimension 2 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 2
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:19] [Server thread/INFO] [neid]: Patching class: "net.minecraft.world.chunk.ChunkPrimer" with Transformer Group: "TransformerGroupChunkPrimer"
+[19:50:19] [Server thread/INFO] [FML]: Loading dimension 7 (New World) (net.minecraft.server.integrated.IntegratedServer@58b1ffc6)
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 7
+[19:50:19] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[19:50:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:50:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
+[19:50:21] [Server thread/INFO] [betterquesting]: Loaded 361 quests
+[19:50:21] [Server thread/INFO] [betterquesting]: Loaded 15 quest lines
+[19:50:21] [Server thread/INFO] [betterquesting]: Loaded 0 parties
+[19:50:21] [Server thread/INFO] [betterquesting]: Loaded 1 names
+[19:50:22] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[19:50:22] [Server thread/INFO] [immersiveengineering]: WorldData retrieved
+[19:50:22] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:50:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:50:22] [Server thread/INFO] [FML]: Unloading dimension 4598
+[19:50:22] [Server thread/INFO] [FML]: Unloading dimension 7
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:hopper to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:dropper to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:white_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:orange_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:magenta_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:light_blue_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:yellow_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:lime_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:pink_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:gray_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:silver_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:cyan_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:blue_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:brown_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:green_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:red_shulker_box to the Lootr block replacement list.
+[19:50:22] [Server thread/INFO] [Lootr]: Added minecraft:black_shulker_box to the Lootr block replacement list.
+[19:50:23] [Netty Local Client IO #0/INFO] [neid]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[19:50:24] [Server thread/INFO] [Lootr]: Added securitycraft:keypad_chest to the Lootr block replacement list.
+[19:50:24] [Server thread/INFO] [Lootr]: Added securitycraft:reinforced_hopper to the Lootr block replacement list.
+[19:50:24] [Server thread/ERROR] [FML]: Unable to find clip default in the model botania:block/pump_head
+[19:50:24] [Server thread/ERROR] [FML]: Unable to find clip moving in the model botania:block/pump_head
+[19:50:24] [Server thread/INFO] [Lootr]: Added dungeontactics:barrel to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_pink to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:washing_machine to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_granite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:tv_stand to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_andesite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_spruce to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:present to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_jungle to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_acacia to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:mail_box_birch to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_birch to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_brown to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_diorite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:crate_spruce to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_jungle to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:crate_dark_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_birch to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_spruce to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_diorite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:crate to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:mail_box_jungle to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:mail_box_spruce to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_granite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:printer to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:freezer to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:oven to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_andesite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_acacia to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bin to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_magenta to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_stone to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_blue to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:microwave to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_dark_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_andesite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:counter_drawer to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:mail_box_acacia to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_jungle to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:crate_acacia to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_light_blue to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_chest to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:mail_box_dark_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:fridge to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_kitchen to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_red to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_dark_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_lime to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_cyan to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:crate_jungle to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_white to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_stone to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_green to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_gray to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_orange to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_birch to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_black to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:esky to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_yellow to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:wall_cabinet to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:dishwasher to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_acacia to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_spruce to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:computer to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:mail_box to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_silver to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_stone to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:cabinet_granite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_purple to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:crate_birch to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_dark_oak to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_diorite to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added byg:netherfurnacelit to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added tconstruct:wooden_hopper to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [Lootr]: Added byg:crate to the Lootr block replacement list.
+[19:50:25] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[19:50:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3370ms behind, skipping 67 tick(s)
+[19:50:25] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[19:50:25] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[19:50:25] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 149 mods : p455w0rdslib@2.3.161,dungeonsmod@@VERSION@,astralsorcery@1.10.27,bqt@1.0,jaffa@7.63.1,binniecore@2.5.1.203,creativecoredummy@1.0.0,moretweaker@1.0.19,extendedcrafting@1.7.0,cofhcore@4.6.6,contenttweaker@1.12.2-4.10.0,thermalinnovation@0.3.6,lttweaker@1.1.14,nates_foodcraft@1.0.0,jeibees@0.9.0.5,ctm@MC1.12.2-1.0.2.31,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,placebo@1.6.0,reauth@4.0.7,neid@1.5.4.4,bookshelf@2.3.590,forgelin@1.8.4,apotheosis@1.12.4,cofhworld@1.4.0,darkutils@1.8.230,betterbuilderswands@0.11.1,mekanismgenerators@1.12.2-9.8.11.150-sddsd2332,matc@1.0.1-hotfix,librarianliblate@4.22,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,bq_standard@3.4.173,mysticalagradditions@1.3.2,openmodularturrets@3.1.14-382,twilightforest@3.11.1021,lootgames@1.0.3.1,extratrees@2.5.1.203,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,powersuits@1.1.048,crafttweakerjei@2.0.3,lootoverhaul@1.2,jehc@1.7.2,mtlib@3.0.7,botany@2.5.1.203,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,modtweaker@4.0.19,botania@r1.10-364,gendustry@1.6.5.8,mysticaladaptations@1.8.8,roguelike@1.8.0,bqforestry@2.1.0,patchouli@1.0-23.6,extendeddays@0.2.9,elevatorid@1.3.14,FML@8.0.99.99,thermalexpansion@5.5.7,ompd@3.1.1-76,jargca@1.12.2-1.0.0.0,mekanismtools@1.12.2-9.8.11.150-sddsd2332,cfm@6.3.0,psipherals@1.1.0,zensummoning@1.1.0,zenutils@1.14.3,mysticalcreations@1.6.1,codechickenlib@3.2.3.358,fastleafdecay@v14,beebetteratbees@2.0.3,binniedesign@2.5.1.203,danknull@1.7.91,ctgui@1.0.0,dldungeonsjbg@1.14.12,crafttweakerutils@0.7,cucumber@1.1.3,dungeontactics@DT-0.16.9,mixinbooter@8.3,librarianlib@4.22,moreloottables@0.1.0,mystagradcompat@1.2,jei@4.16.1.301,careerbees@1.0,pamscookables@1.1,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.11.150-sddsd2332,thermalfoundation@2.6.7,bdlib@1.14.3.12,mcp@9.42,journeymap@1.12.2-5.7.1,appliedenergistics2@rv6-stable-7-extended_life-v0.55.18,notenoughwands@1.8.1,nuclearcraft@2o.6.2,chameleon@1.12-4.1.3,harvestcraft@1.12.2zb,omlib@3.1.5-256,extrabees@2.5.1.203,moartinkers@0.6.0,crafttweaker@4.1.20,thermalsolars@1.12.2 V1.9.5,rpsideas@2.4.4,forge@14.23.5.2860,magicbees@1.0,pamsbreadcraft@1.1.0,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,craftingtweaks@8.1.9,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,foodtweaker@1.1.3,mousetweaks@2.10,avaritia@3.3.0,psi@r1.1-78,immersiveengineering@0.12-98,thermaldynamics@2.5.6,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,applecore@3.4.0,numina@1.0,manatweaks@1.4,genetics@2.5.1.203,ctintegration@1.8.0,timecore@1.0.1.1,mantle@1.12-1.3.3.55,loottweaker@0.3.1,jaopca@1.12.2-2.3.2.3,securitycraft@v1.9.7,autoreglib@1.3-32,harvestcrafttweaker@@VERSION@,jaopcasingularities@1.12.2-3.0.0.0,lootbags@2.5.8.5,storagedrawers@5.2.2,gendustryjei@1.0.2,wrapup@1.12-1.1.3,morelootstuff@0.0.5,taiga@1.12.2-1.3.3,lootr@0.6.1,modularrouters@1.12.2-3.3.0-33,byg@1.7.1,customizeddungeonloot@1.0.3,scalingfeast@v1.8.2,looty@0.0.1,cosmeticarmorreworked@1.12.2-v5a,packmode@1.2.0,forestry@5.8.2.387,base@3.14.0,morebees@1.12.2-2.0.1
+[19:50:25] [Netty Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:50:25] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[19:50:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:50:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Dawsondude11[local:E:2ae7aa49] logged in with entity id 325 at (93.85312669288892, 86.0, 245.2281898907272)
+[19:50:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Dawsondude11 joined the game
+[19:50:26] [Server thread/INFO] [torchmaster]: Clearing cached mega torches
+[19:50:26] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Dawsondude11...
+[19:50:26] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Dawsondude11
+[19:50:38] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[19:50:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:50:38] [Netty Local Client IO #0/INFO] [Mekanism]: Received Cardboard Box blacklist entries from server (28 explicit blocks, 2 mod wildcards)
+[19:50:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[19:50:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/Storage Cell
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [§6SecurityCraft§f] Thanks for using SecurityCraft v1.9.7! Tip: Have a suggestion for the mod or found a bug? Join our Discord server (English only)! You'll also receive important updates and announcements regarding SecurityCraft. https://discord.gg/U8DvBAW
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:89: Could not resolve <jaopca : avaritia_singularity . plutonium_239_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:90: Could not resolve <jaopca : block . plutonium_239_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:105: Could not resolve <jaopca : avaritia_singularity . plutonium_238_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:106: Could not resolve <jaopca : block . plutonium_238_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:122: Could not resolve <jaopca : avaritia_singularity . plutonium>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:123: Could not resolve <zollerngalaxy : plutoniumblock>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:125: Could not resolve <jaopca : avaritia_singularity . curium_247_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:126: Could not resolve <jaopca : block . curium_247_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:140: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:141: Could not resolve <jaopca : block . curium_246_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:156: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:157: Could not resolve <jaopca : block . curium_245_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:171: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:172: Could not resolve <jaopca : block . curium_243_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:186: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:187: Could not resolve <jaopca : block . californium_252_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:201: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:202: Could not resolve <jaopca : block . californium_251_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:213: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:214: Could not resolve <jaopca : block . californium_250_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:228: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:229: Could not resolve <jaopca : block . californium_249_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:244: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:245: Could not resolve <jaopca : block . caesium_137>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:247: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:248: Could not resolve <jaopca : block . berkelium_248_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:262: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:263: Could not resolve <jaopca : block . berkelium_247_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:277: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:278: Could not resolve <jaopca : block . americium_243_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:294: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:295: Could not resolve <jaopca : block . americium_242_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:309: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:310: Could not resolve <jaopca : block . americium_241_z_a>
+[19:50:41] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 50 advancements
+[19:50:43] [Client thread/INFO] [Astral Sorcery]: Using gateway screenshots for folder 'new_world'
+[19:50:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3261ms behind, skipping 65 tick(s)
+[19:50:47] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:entities/all
+[19:50:47] [Client thread/INFO] [journeymap]: Custom modded block handling enabled for biomesoplenty
+[19:50:48] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:50:48] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[19:50:48] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\waypoints
+[19:50:49] [Client thread/INFO] [journeymap]: Mapping started in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0. Memory: 7040MB total, 1500MB free 
+[19:50:49] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[19:50:49] [Client thread/INFO] [journeymap]: JourneyMap: Press [J]
+[19:52:05] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §bBeginning reload scripts
+[19:52:05] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Only scripts that marked §7#reloadable §rcan be reloaded.
+[19:52:05] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §eMost recipe modifications are not reloadable, they will be ignored.
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:119: Could not resolve <jaopca : avaritia_singularity . plutonium>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:120: Could not resolve <zollerngalaxy : plutoniumblock>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:122: Could not resolve <jaopca : avaritia_singularity . curium_247_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:123: Could not resolve <jaopca : block . curium_247_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:137: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:138: Could not resolve <jaopca : block . curium_246_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:153: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:154: Could not resolve <jaopca : block . curium_245_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:168: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:169: Could not resolve <jaopca : block . curium_243_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:183: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:184: Could not resolve <jaopca : block . californium_252_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:198: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:199: Could not resolve <jaopca : block . californium_251_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:210: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:211: Could not resolve <jaopca : block . californium_250_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:225: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:226: Could not resolve <jaopca : block . californium_249_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:241: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:242: Could not resolve <jaopca : block . caesium_137>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:244: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:245: Could not resolve <jaopca : block . berkelium_248_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:259: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:260: Could not resolve <jaopca : block . berkelium_247_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:274: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:275: Could not resolve <jaopca : block . americium_243_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:291: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:292: Could not resolve <jaopca : block . americium_242_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:306: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:307: Could not resolve <jaopca : block . americium_241_z_a>
+[19:52:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Reloaded successfully
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §bBeginning reload scripts
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Only scripts that marked §7#reloadable §rcan be reloaded.
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §eMost recipe modifications are not reloadable, they will be ignored.
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:135: Could not resolve <jaopca : avaritia_singularity . curium_246_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:136: Could not resolve <jaopca : block . curium_246_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:151: Could not resolve <jaopca : avaritia_singularity . curium_245_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:152: Could not resolve <jaopca : block . curium_245_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:166: Could not resolve <jaopca : avaritia_singularity . curium_243_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:167: Could not resolve <jaopca : block . curium_243_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:181: Could not resolve <jaopca : avaritia_singularity . californium_252_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:182: Could not resolve <jaopca : block . californium_252_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:196: Could not resolve <jaopca : avaritia_singularity . californium_251_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:197: Could not resolve <jaopca : block . californium_251_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:208: Could not resolve <jaopca : avaritia_singularity . californium_250_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:209: Could not resolve <jaopca : block . californium_250_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:223: Could not resolve <jaopca : avaritia_singularity . californium_249_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:224: Could not resolve <jaopca : block . californium_249_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:239: Could not resolve <jaopca : avaritia_singularity . caesium_137>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:240: Could not resolve <jaopca : block . caesium_137>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:242: Could not resolve <jaopca : avaritia_singularity . berkelium_248_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:243: Could not resolve <jaopca : block . berkelium_248_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:257: Could not resolve <jaopca : avaritia_singularity . berkelium_247_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:258: Could not resolve <jaopca : block . berkelium_247_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:272: Could not resolve <jaopca : avaritia_singularity . americium_243_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:273: Could not resolve <jaopca : block . americium_243_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:289: Could not resolve <jaopca : avaritia_singularity . americium_242_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:290: Could not resolve <jaopca : block . americium_242_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:304: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:305: Could not resolve <jaopca : block . americium_241_z_a>
+[19:52:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Reloaded successfully
+[19:53:25] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[19:53:25] [Client thread/INFO] [journeymap]: Mapping halted in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0
+[19:53:25] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[19:53:25] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: b7407c6a-242a-4af3-92e6-f826bcb4d88b
+[19:53:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:53:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:53:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:53:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:53:25] [Netty Local Client IO #0/INFO] [Astral Sorcery]: Cleaning client cache...
+[19:53:25] [Netty Local Client IO #0/INFO] [Astral Sorcery]: Cleared cached client data! Disconnected from server.
+[19:53:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[19:53:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/Storage Cell
+[19:53:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:53:26] [Server thread/INFO] [FML]: Unloading dimension 3
+[19:53:26] [Server thread/INFO] [FML]: Unloading dimension 2

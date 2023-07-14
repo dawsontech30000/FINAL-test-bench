@@ -94,3 +94,10 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 26 more
+[19:50:47] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[19:50:48] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:50:48] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[19:50:48] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\waypoints
+[19:50:49] [Client thread/INFO] [JourneymapClient] Mapping started in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0. Memory: 7040MB total, 1500MB free 
+[19:50:49] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[19:53:25] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0

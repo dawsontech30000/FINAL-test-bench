@@ -86,11 +86,9 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_241>, 
 <jaopca:block.plutonium_241>, 100000000, <extendedcrafting:material:11>, 100000);
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_239_z_a>, 
-<jaopca:block.plutonium_239_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+// mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_239_z_a>, <jaopca:block.plutonium_239_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_239_oxide>, 
-<jaopca:block.plutonium_239_oxide>, 100000000, <extendedcrafting:material:11>, 100000);
+// mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_239_oxide>, <jaopca:block.plutonium_239_oxide>, 100000000, <extendedcrafting:material:11>, 100000);
 
 
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_239_nitride>, 
@@ -102,8 +100,7 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_239>, 
 <jaopca:block.plutonium_239>, 100000000, <extendedcrafting:material:11>, 100000);
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_238_z_a>, 
-<jaopca:block.plutonium_238_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+// mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_238_z_a>, <jaopca:block.plutonium_238_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
 
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium_238_oxide>, 
 <jaopca:block.plutonium_238_oxide>, 100000000, <extendedcrafting:material:11>, 100000);
@@ -119,11 +116,9 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 <jaopca:block.plutonium_238>, 100000000, <extendedcrafting:material:11>, 100000);
 
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium>, 
-<zollerngalaxy:plutoniumblock>, 100000000, <extendedcrafting:material:11>, 100000);
+// mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.plutonium>, <zollerngalaxy:plutoniumblock>, 100000000, <extendedcrafting:material:11>, 100000);
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.curium_247_z_a>, 
-<jaopca:block.curium_247_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+// mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.curium_247_z_a>, <jaopca:block.curium_247_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
 
 //-----------------------------------
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.curium_247_oxide>, 
@@ -306,8 +301,7 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_242>, 
 <jaopca:block.americium_242>, 100000000, <extendedcrafting:material:11>, 100000);
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_z_a>, 
-<jaopca:block.americium_241_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+// mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_z_a>, <jaopca:block.americium_241_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
 
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_oxide>, 
 <jaopca:block.americium_241_oxide>, 100000000, <extendedcrafting:material:11>, 100000);
