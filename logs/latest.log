@@ -177,3 +177,75 @@ AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
 [13:34:14] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mixinbooter, securitycraft, applecore, appliedenergistics2, astralsorcery, autoreglib, avaritia, base, baubles, bdlib, beebetteratbees, betterbuilderswands, betterquesting, bqt, binniecore, botany, binniedesign, extrabees, extratrees, genetics, botania, bqforestry, careerbees, codechickenlib, contenttweaker, craftingtweaks, ctgui, crafttweaker, crafttweakerjei, crafttweakerutils, ctintegration, cucumber, customizeddungeonloot, danknull, dldungeonsjbg, dungeonsmod, dungeontactics, extendedcrafting, extendeddays, foodtweaker, forestry, forgelin, gendustry, gendustryjei, harvestcrafttweaker, jaffa, jaopca, jaopcasingularities, jargca, jei, jeibees, jehc, jeresources, librarianliblate, librarianlib, lootbags, lootgames, lootoverhaul, lootr, lttweaker, loottweaker, looty, magicbees, manatweaks, matc, mcjtylib_ng, modtweaker, modularrouters, powersuits, morebees, morelootstuff, moreloottables, moretweaker, mtlib, mystagradcompat, mysticaladaptations, mysticalagradditions, mysticalagriculture, mysticalcreations, nates_foodcraft, notenoughwands, nuclearcraft, numina, omlib, ompd, openmodularturrets, p455w0rdslib, packmode, harvestcraft, pamsbreadcraft, pamscookables, psi, psipherals, redstoneflux, roguelike, rpsideas, scalingfeast, silentlib, bq_standard, timecore, wrapup, zensummoning, zenutils, immersiveengineering] at SERVER
 [13:34:14] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:128]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150791_c
 [13:34:14] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:128]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150788_a
+[13:34:15] [Client thread/ERROR] [FML]: The mod appliedenergistics2 is expecting signature dfa4d3ac143316c6f32aa1a1beda1e34d42132e5 for source appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar, however there is no signature matching that description
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Transforming Particle
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [getBrightnessForRender, func_189214_a] Descriptor (F)I)
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Potion particle glow
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at java.security.AccessController.doPrivileged(Native Method)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at crafttweaker.mc1120.CraftTweaker.lambda$onConstruction$1(CraftTweaker.java:103)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at crafttweaker.mc1120.CraftTweaker$$Lambda$110/2076180848.run(Unknown Source)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at java.lang.Thread.run(Thread.java:745)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	... 20 more
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	... 26 more
+[13:34:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[13:34:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Transforming NetHandlerPlayServer
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Transforming RenderItem
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderItem, func_180454_a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Item render hook
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow activation
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow return
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming buq : net.minecraft.client.renderer.EntityRenderer with 1 patches!
+[13:34:17] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYRENDEREREXTENDEDENTITYREACH
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Transforming BlockRendererDispatcher
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Block render hook
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Fluid render hook
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success

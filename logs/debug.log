@@ -2281,3 +2281,966 @@ AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
 [13:34:14] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mixinbooter, securitycraft, applecore, appliedenergistics2, astralsorcery, autoreglib, avaritia, base, baubles, bdlib, beebetteratbees, betterbuilderswands, betterquesting, bqt, binniecore, botany, binniedesign, extrabees, extratrees, genetics, botania, bqforestry, careerbees, codechickenlib, contenttweaker, craftingtweaks, ctgui, crafttweaker, crafttweakerjei, crafttweakerutils, ctintegration, cucumber, customizeddungeonloot, danknull, dldungeonsjbg, dungeonsmod, dungeontactics, extendedcrafting, extendeddays, foodtweaker, forestry, forgelin, gendustry, gendustryjei, harvestcrafttweaker, jaffa, jaopca, jaopcasingularities, jargca, jei, jeibees, jehc, jeresources, librarianliblate, librarianlib, lootbags, lootgames, lootoverhaul, lootr, lttweaker, loottweaker, looty, magicbees, manatweaks, matc, mcjtylib_ng, modtweaker, modularrouters, powersuits, morebees, morelootstuff, moreloottables, moretweaker, mtlib, mystagradcompat, mysticaladaptations, mysticalagradditions, mysticalagriculture, mysticalcreations, nates_foodcraft, notenoughwands, nuclearcraft, numina, omlib, ompd, openmodularturrets, p455w0rdslib, packmode, harvestcraft, pamsbreadcraft, pamscookables, psi, psipherals, redstoneflux, roguelike, rpsideas, scalingfeast, silentlib, bq_standard, timecore, wrapup, zensummoning, zenutils, immersiveengineering] at SERVER
 [13:34:14] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:128]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150791_c
 [13:34:14] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:128]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150788_a
+[13:34:14] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[13:34:14] [Client thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 1.699s
+[13:34:14] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
+[13:34:14] [Client thread/DEBUG] [forge]: Loading Vanilla annotations: null
+[13:34:14] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[13:34:14] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[13:34:14] [Client thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[13:34:14] [Client thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[13:34:14] [Client thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2860)
+[13:34:14] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[13:34:14] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
+[13:34:14] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0.030s
+[13:34:14] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mixinbooter
+[13:34:14] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mixinbooter
+[13:34:14] [Client thread/DEBUG] [FML]: Bar Step: Construction - MixinBooter took 0.000s
+[13:34:14] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod securitycraft
+[13:34:14] [Client thread/TRACE] [FML]: Mod securitycraft is using network checker : Accepting version v1.9.7
+[13:34:14] [Client thread/TRACE] [FML]: Testing mod securitycraft to verify it accepts its own version in a remote connection
+[13:34:14] [Client thread/TRACE] [FML]: The mod securitycraft accepts its own version (v1.9.7)
+[13:34:14] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.geforcemods.securitycraft.network.ClientProxy for mod securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.geforcemods.securitycraft.network.ClientProxy
+[13:34:14] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.geforcemods.securitycraft.ConfigHandler for mod securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.geforcemods.securitycraft.ConfigHandler
+[13:34:14] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.geforcemods.securitycraft.SCClientEventHandler for mod securitycraft
+[13:34:14] [Client thread/DEBUG] [mixin]: Mixing camera.RenderGlobalMixin from securitycraft.mixins.json into net.minecraft.client.renderer.RenderGlobal
+[13:34:14] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/ViewFrustum to metadata cache
+[13:34:14] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/resources/IResourceManagerReloadListener to metadata cache
+[13:34:14] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/world/IWorldEventListener to metadata cache
+[13:34:14] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/DestroyBlockProgress to metadata cache
+[13:34:14] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/culling/Frustum to metadata cache
+[13:34:14] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/culling/ICamera to metadata cache
+[13:34:14] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.geforcemods.securitycraft.SCClientEventHandler
+[13:34:14] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.geforcemods.securitycraft.SCEventHandler for mod securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.geforcemods.securitycraft.SCEventHandler
+[13:34:14] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.geforcemods.securitycraft.RegistrationHandler for mod securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.geforcemods.securitycraft.RegistrationHandler
+[13:34:14] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.geforcemods.securitycraft.entity.camera.CameraController for mod securitycraft
+[13:34:14] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.geforcemods.securitycraft.entity.camera.CameraController
+[13:34:14] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into securitycraft for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod securitycraft
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - SecurityCraft took 0.250s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod applecore
+[13:34:15] [Client thread/TRACE] [FML]: Mod applecore is using network checker : No network checking performed
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod applecore to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod applecore accepts its own version (3.4.0)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into applecore
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for applecore
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into applecore for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod applecore
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - AppleCore took 0.002s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod appliedenergistics2
+[13:34:15] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[13:34:15] [Client thread/DEBUG] [forge]: 	appeng/core/crash/BaseCrashEnhancement
+[13:34:15] [Client thread/ERROR] [FML]: The mod appliedenergistics2 is expecting signature dfa4d3ac143316c6f32aa1a1beda1e34d42132e5 for source appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar, however there is no signature matching that description
+[13:34:15] [Client thread/TRACE] [FML]: Mod appliedenergistics2 is using network checker : Accepting version rv6-stable-7-extended_life-v0.55.18
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod appliedenergistics2 to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod appliedenergistics2 accepts its own version (rv6-stable-7-extended_life-v0.55.18)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into appliedenergistics2
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Transforming Particle
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [getBrightnessForRender, func_189214_a] Descriptor (F)I)
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Potion particle glow
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for appliedenergistics2
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for appeng.integration.modules.chisel.ChiselBlockSpeedHandler for mod appliedenergistics2
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class appeng.integration.modules.chisel.ChiselBlockSpeedHandler
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into appliedenergistics2 for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod appliedenergistics2
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - AE2 Unofficial Extended Life took 0.101s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod baubles
+[13:34:15] [Client thread/TRACE] [FML]: Mod baubles is using network checker : Accepting version 1.5.2
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod baubles to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod baubles accepts its own version (1.5.2)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into baubles
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for baubles
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for baubles.common.items.ItemRing for mod baubles
+[13:34:15] [Client thread/DEBUG] [mixin]: Mixing taser.ModelBipedMixin from securitycraft.mixins.json into net.minecraft.client.model.ModelBiped
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/model/ModelBase to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/client/model/ModelRenderer to metadata cache
+[13:34:15] [Client thread/DEBUG] [mixin]: securitycraft.mixins.json:taser.ModelBipedMixin from mod _5B1_12_2_5D_20SecurityCraft_20v1_9_7->@Inject::securitycraft$positionArmsWhenHoldingTaser(FFFFFFLnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[13:34:15] [Client thread/DEBUG] [mixin]: securitycraft.mixins.json:taser.ModelBipedMixin from mod _5B1_12_2_5D_20SecurityCraft_20v1_9_7->@Inject::securitycraft$positionArmsWhenHoldingTaser(FFFFFFLnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[13:34:15] [Client thread/DEBUG] [mixin]: securitycraft.mixins.json:taser.ModelBipedMixin from mod _5B1_12_2_5D_20SecurityCraft_20v1_9_7->@Inject::securitycraft$positionArmsWhenHoldingTaser(FFFFFFLnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class baubles.common.items.ItemRing
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into baubles for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod baubles
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Baubles took 0.024s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod crafttweaker
+[13:34:15] [Client thread/TRACE] [FML]: Mod crafttweaker is using network checker : Accepting version 4.1.20
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod crafttweaker to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod crafttweaker accepts its own version (4.1.20)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into crafttweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Skipping proxy injection for com.blamejared.ctgui.MTRecipe.PROXY since it is not for mod crafttweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for crafttweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into crafttweaker for type INSTANCE
+[13:34:15] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for com.blamejared.ctgui.MTRecipe.INSTANCE since it is not for mod crafttweaker
+[13:34:15] [Client thread/DEBUG] [mixin]: Mixing MixinZenType from mixins.zenutils.json into stanhebben.zenscript.type.ZenType
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/ZenTokener to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/parser/TokenStream to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/parser/Token to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for youyihj/zenutils/impl/zenscript/IOrderlyType to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/compiler/IEnvironmentGlobal to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/compiler/ITypeRegistry to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/IZenErrorLogger to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/IZenLogger to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/dump/IDumpConvertable to metadata cache
+[13:34:15] [Client thread/DEBUG] [mixin]: mixins.zenutils.json:MixinZenType from mod zenutils_1_14_3->@Inject::readOrderlyTag(Lstanhebben/zenscript/ZenTokener;Lstanhebben/zenscript/compiler/IEnvironmentGlobal;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeArrayBasic to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeAny to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeArray to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeArrayList to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeBool to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeByte to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeShort to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeInt to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeLong to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeFloat to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeDouble to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeString to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeFunctionCallable to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeFunction to metadata cache
+[13:34:15] [Client thread/TRACE] [mixin]: Added class metadata for stanhebben/zenscript/type/ZenTypeVoid to metadata cache
+[13:34:15] [Client thread/DEBUG] [mixin]: Mixing MixinZenTypeAssociate from mixins.zenutils.json into stanhebben.zenscript.type.ZenTypeAssociative
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at java.security.AccessController.doPrivileged(Native Method)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at crafttweaker.mc1120.CraftTweaker.lambda$onConstruction$1(CraftTweaker.java:103)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at crafttweaker.mc1120.CraftTweaker$$Lambda$110/2076180848.run(Unknown Source)
+[13:34:15] [Thread-5/INFO] [STDERR]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:107]: 	at java.lang.Thread.run(Thread.java:745)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:634]: 	... 20 more
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[13:34:15] [Thread-5/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:643]: 	... 26 more
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod crafttweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - CraftTweaker2 took 0.385s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod astralsorcery
+[13:34:15] [Client thread/TRACE] [FML]: Mod astralsorcery is using network checker : Invoking method checkModLists
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod astralsorcery to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod astralsorcery accepts its own version (1.10.27)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into astralsorcery
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for astralsorcery
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into astralsorcery for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod astralsorcery
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Astral Sorcery took 0.218s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod autoreglib
+[13:34:15] [Client thread/TRACE] [FML]: Mod autoreglib is using network checker : Accepting version 1.3-32
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod autoreglib to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod autoreglib accepts its own version (1.3-32)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.arl.util.ModelHandler for mod autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.arl.util.ModelHandler
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.arl.util.ProxyRegistry for mod autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.arl.util.ProxyRegistry
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.arl.util.DropInHandler for mod autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.arl.util.DropInHandler
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.arl.util.ClientTicker for mod autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.arl.util.ClientTicker
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into autoreglib for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod autoreglib
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - AutoRegLib took 0.018s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod codechickenlib
+[13:34:15] [Client thread/TRACE] [FML]: Mod codechickenlib is using network checker : Accepting version 3.2.3.358
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod codechickenlib to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod codechickenlib accepts its own version (3.2.3.358)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into codechickenlib
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for codechickenlib
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for codechicken.lib.configuration.ConfigSyncManager for mod codechickenlib
+[13:34:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[13:34:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Transforming NetHandlerPlayServer
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[13:34:15] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class codechicken.lib.configuration.ConfigSyncManager
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for codechicken.lib.internal.ExceptionMessageEventHandler for mod codechickenlib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class codechicken.lib.internal.ExceptionMessageEventHandler
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for codechicken.lib.internal.CCLLog for mod codechickenlib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class codechicken.lib.internal.CCLLog
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for codechicken.lib.internal.HighlightHandler for mod codechickenlib
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class codechicken.lib.internal.HighlightHandler
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into codechickenlib for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod codechickenlib
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - CodeChicken Lib took 0.103s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod avaritia
+[13:34:15] [Client thread/TRACE] [FML]: Mod avaritia is using network checker : Accepting version 3.3.0
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod avaritia to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod avaritia accepts its own version (3.3.0)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into avaritia
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for avaritia
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into avaritia for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod avaritia
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Avaritia took 0.029s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mtlib
+[13:34:15] [Client thread/TRACE] [FML]: Mod mtlib is using network checker : Accepting version 3.0.7
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod mtlib to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod mtlib accepts its own version (3.0.7)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mtlib
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mtlib
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into mtlib for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mtlib
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - MTLib took 0.002s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod modtweaker
+[13:34:15] [Client thread/TRACE] [FML]: Mod modtweaker is using network checker : Accepting version 4.0.19
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod modtweaker to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod modtweaker accepts its own version (4.0.19)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into modtweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for modtweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into modtweaker for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod modtweaker
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Mod Tweaker took 0.003s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jei
+[13:34:15] [Client thread/TRACE] [FML]: Mod jei is using network checker : Invoking method checkModLists
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod jei to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod jei accepts its own version (4.16.1.301)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jei
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jei
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for mezz.jei.input.MouseHelper for mod jei
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class mezz.jei.input.MouseHelper
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jei for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jei
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - Just Enough Items took 0.031s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod base
+[13:34:15] [Client thread/TRACE] [FML]: Mod base is using network checker : Accepting version 3.14.0
+[13:34:15] [Client thread/TRACE] [FML]: Testing mod base to verify it accepts its own version in a remote connection
+[13:34:15] [Client thread/TRACE] [FML]: The mod base accepts its own version (3.14.0)
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into base
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for base
+[13:34:15] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamacronymcoders.base.recipesystem.event.RecipeSystemEventHandler for mod base
+[13:34:15] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamacronymcoders.base.recipesystem.event.RecipeSystemEventHandler
+[13:34:15] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into base for type INSTANCE
+[13:34:15] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod base
+[13:34:15] [Client thread/DEBUG] [FML]: Bar Step: Construction - B.A.S.E took 0.076s
+[13:34:15] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod bdlib
+[13:34:16] [Client thread/TRACE] [FML]: Mod bdlib is using network checker : Accepting version 1.14.3.12
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod bdlib to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod bdlib accepts its own version (1.14.3.12)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into bdlib
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for bdlib
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into bdlib for type INSTANCE
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod bdlib
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - BD Lib took 0.029s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forestry
+[13:34:16] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[13:34:16] [Client thread/DEBUG] [forge]: 	forestry/core/utils/ForestryModEnvWarningCallable
+[13:34:16] [Client thread/TRACE] [FML]: Mod forestry is using network checker : Accepting version 5.8.2.387
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod forestry to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod forestry accepts its own version (5.8.2.387)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into forestry
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for forestry
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for forestry.core.utils.MigrationHelper for mod forestry
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class forestry.core.utils.MigrationHelper
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into forestry for type INSTANCE
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forestry
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Forestry took 0.215s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod beebetteratbees
+[13:34:16] [Client thread/TRACE] [FML]: Mod beebetteratbees is using network checker : Accepting version 2.0.3
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod beebetteratbees to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod beebetteratbees accepts its own version (2.0.3)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into beebetteratbees
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for beebetteratbees
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into beebetteratbees for type INSTANCE
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod beebetteratbees
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Bee Better at Bees took 0.005s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod betterbuilderswands
+[13:34:16] [Client thread/TRACE] [FML]: Mod betterbuilderswands is using network checker : Accepting version 0.11.1
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod betterbuilderswands to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod betterbuilderswands accepts its own version (0.11.1)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into betterbuilderswands
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for betterbuilderswands
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into betterbuilderswands for type INSTANCE
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod betterbuilderswands
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Better Builder's Wands took 0.019s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod betterquesting
+[13:34:16] [Client thread/TRACE] [FML]: Mod betterquesting is using network checker : Accepting version 3.5.329
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod betterquesting to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod betterquesting accepts its own version (3.5.329)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into betterquesting
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for betterquesting
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for betterquesting.api2.client.gui.SceneController for mod betterquesting
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class betterquesting.api2.client.gui.SceneController
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for betterquesting.api2.client.gui.events.CommonPanelEvents for mod betterquesting
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class betterquesting.api2.client.gui.events.CommonPanelEvents
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for betterquesting.core.RegEventHandler for mod betterquesting
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class betterquesting.core.RegEventHandler
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into betterquesting for type INSTANCE
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod betterquesting
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Better Questing took 0.031s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod bqt
+[13:34:16] [Client thread/TRACE] [FML]: Mod bqt is using network checker : Accepting version 1.0
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod bqt to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod bqt accepts its own version (1.0)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into bqt
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for bqt
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.mramericanmike.bqt.handlers.RegistryHandler for mod bqt
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.mramericanmike.bqt.handlers.RegistryHandler
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into bqt for type INSTANCE
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod bqt
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Better Questing Triggerer took 0.009s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod binniecore
+[13:34:16] [Client thread/TRACE] [FML]: Mod binniecore is using network checker : Accepting version 2.5.1.203
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod binniecore to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod binniecore accepts its own version (2.5.1.203)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.genetics.Genetics.proxy since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extrabees.ExtraBees.proxy since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.botany.Botany.proxy since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extratrees.ExtraTrees.proxy since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into binniecore for type INSTANCE
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.genetics.Genetics.instance since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extratrees.ExtraTrees.instance since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.design.Design.instance since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extrabees.ExtraBees.instance since it is not for mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.botany.Botany.instance since it is not for mod binniecore
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod binniecore
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Binnie Core took 0.046s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod binniedesign
+[13:34:16] [Client thread/TRACE] [FML]: Mod binniedesign is using network checker : Accepting version 2.5.1.203
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod binniedesign to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod binniedesign accepts its own version (2.5.1.203)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.genetics.Genetics.proxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.BinnieCore.proxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extrabees.ExtraBees.proxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.network.BinniePacketHandler.messageProxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.botany.Botany.proxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.util.I18N.proxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extratrees.ExtraTrees.proxy since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into binniedesign for type INSTANCE
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.genetics.Genetics.instance since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extratrees.ExtraTrees.instance since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extrabees.ExtraBees.instance since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.core.BinnieCore.instance since it is not for mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.botany.Botany.instance since it is not for mod binniedesign
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod binniedesign
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Binnie's Design took 0.008s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod genetics
+[13:34:16] [Client thread/TRACE] [FML]: Mod genetics is using network checker : Accepting version 2.5.1.203
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod genetics to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod genetics accepts its own version (2.5.1.203)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.BinnieCore.proxy since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extrabees.ExtraBees.proxy since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.network.BinniePacketHandler.messageProxy since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.botany.Botany.proxy since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.util.I18N.proxy since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extratrees.ExtraTrees.proxy since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into genetics for type INSTANCE
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extratrees.ExtraTrees.instance since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.design.Design.instance since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extrabees.ExtraBees.instance since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.core.BinnieCore.instance since it is not for mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.botany.Botany.instance since it is not for mod genetics
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod genetics
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Binnie's Genetics took 0.054s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod botany
+[13:34:16] [Client thread/TRACE] [FML]: Mod botany is using network checker : Accepting version 2.5.1.203
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod botany to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod botany accepts its own version (2.5.1.203)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.genetics.Genetics.proxy since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.BinnieCore.proxy since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extrabees.ExtraBees.proxy since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.network.BinniePacketHandler.messageProxy since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.util.I18N.proxy since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extratrees.ExtraTrees.proxy since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for botany
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into botany for type INSTANCE
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.genetics.Genetics.instance since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extratrees.ExtraTrees.instance since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.design.Design.instance since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extrabees.ExtraBees.instance since it is not for mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.core.BinnieCore.instance since it is not for mod botany
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod botany
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Binnie's Botany took 0.014s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod extrabees
+[13:34:16] [Client thread/TRACE] [FML]: Mod extrabees is using network checker : Accepting version 2.5.1.203
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod extrabees to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod extrabees accepts its own version (2.5.1.203)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.genetics.Genetics.proxy since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.BinnieCore.proxy since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.network.BinniePacketHandler.messageProxy since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.botany.Botany.proxy since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.util.I18N.proxy since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extratrees.ExtraTrees.proxy since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into extrabees for type INSTANCE
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.genetics.Genetics.instance since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extratrees.ExtraTrees.instance since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.design.Design.instance since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.core.BinnieCore.instance since it is not for mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.botany.Botany.instance since it is not for mod extrabees
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod extrabees
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Binnie's Extra Bees took 0.024s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod extratrees
+[13:34:16] [Client thread/TRACE] [FML]: Mod extratrees is using network checker : Accepting version 2.5.1.203
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod extratrees to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod extratrees accepts its own version (2.5.1.203)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.genetics.Genetics.proxy since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.BinnieCore.proxy since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.extrabees.ExtraBees.proxy since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.network.BinniePacketHandler.messageProxy since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.botany.Botany.proxy since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping proxy injection for binnie.core.util.I18N.proxy since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into extratrees for type INSTANCE
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.genetics.Genetics.instance since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.design.Design.instance since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.extrabees.ExtraBees.instance since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.core.BinnieCore.instance since it is not for mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for binnie.botany.Botany.instance since it is not for mod extratrees
+[13:34:16] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod extratrees
+[13:34:16] [Client thread/DEBUG] [FML]: Bar Step: Construction - Binnie's Extra Trees took 0.143s
+[13:34:16] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod botania
+[13:34:16] [Client thread/TRACE] [FML]: Mod botania is using network checker : Accepting version r1.10-364
+[13:34:16] [Client thread/TRACE] [FML]: Testing mod botania to verify it accepts its own version in a remote connection
+[13:34:16] [Client thread/TRACE] [FML]: The mod botania accepts its own version (r1.10-364)
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into botania
+[13:34:16] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for botania
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.block.ItemBlockSpecialFlower for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.block.ItemBlockSpecialFlower
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.handler.ModSounds for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.handler.ModSounds
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.handler.SheddingHandler for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.handler.SheddingHandler
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.equipment.bauble.ItemBauble for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.equipment.bauble.ItemBauble
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.TooltipHandler for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.TooltipHandler
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.RenderLexicon for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.RenderLexicon
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.handler.CommonTickHandler for mod botania
+[13:34:16] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.handler.CommonTickHandler
+[13:34:16] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.ModItems for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.ModItems
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.BlockFelPumpkin for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.BlockFelPumpkin
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.equipment.bauble.ItemDodgeRing for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.equipment.bauble.ItemDodgeRing
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.string.BlockRedStringInterceptor for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.string.BlockRedStringInterceptor
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.ClientTickHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.ClientTickHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.ModFluffBlocks for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.ModFluffBlocks
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.TooltipAdditionDisplayHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.TooltipAdditionDisplayHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.relic.ItemOdinRing for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.relic.ItemOdinRing
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.HUDHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.HUDHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.AstrolabePreviewHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.AstrolabePreviewHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.CorporeaInputHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.CorporeaInputHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.equipment.bauble.ItemGoddessCharm for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.equipment.bauble.ItemGoddessCharm
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.render.world.SkyblockRenderEvents for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.render.world.SkyblockRenderEvents
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.LightningHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.LightningHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.MultiblockRenderHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.MultiblockRenderHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.handler.ConfigHandler$ChangeListener for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.handler.ConfigHandler$ChangeListener
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.DebugHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.DebugHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.BlockHighlightRenderHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.BlockHighlightRenderHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.subtile.generating.SubTileNarslimmus for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.subtile.generating.SubTileNarslimmus
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.subtile.functional.SubTileLoonuim for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.subtile.functional.SubTileLoonuim
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.ModelHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.ModelHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.handler.PixieHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.handler.PixieHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.subtile.functional.BergamuteEventHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.subtile.functional.BergamuteEventHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.brew.ModPotions for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.brew.ModPotions
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.ModBlocks for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.ModBlocks
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.BlockGhostRail for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.BlockGhostRail
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.item.relic.ItemLokiRing for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.item.relic.ItemLokiRing
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.handler.SleepingHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.handler.SleepingHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.block.subtile.functional.SubTileVinculotus for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.block.subtile.functional.SubTileVinculotus
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.core.version.VersionChecker for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.core.version.VersionChecker
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.common.crafting.ModCraftingRecipes for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.common.crafting.ModCraftingRecipes
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for vazkii.botania.client.core.handler.BossBarHandler for mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class vazkii.botania.client.core.handler.BossBarHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into botania for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod botania
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Botania took 0.780s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod redstoneflux
+[13:34:17] [Client thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[13:34:17] [Client thread/TRACE] [FML]: Mod redstoneflux is using network checker : Accepting version 2.1.1
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod redstoneflux to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod redstoneflux accepts its own version (2.1.1)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into redstoneflux
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for redstoneflux
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into redstoneflux for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod redstoneflux
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Redstone Flux took 0.002s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod gendustry
+[13:34:17] [Client thread/TRACE] [FML]: Mod gendustry is using network checker : Accepting version 1.6.5.8
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod gendustry to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod gendustry accepts its own version (1.6.5.8)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into gendustry
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for gendustry
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into gendustry for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod gendustry
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - GenDustry took 0.011s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod bqforestry
+[13:34:17] [Client thread/TRACE] [FML]: Mod bqforestry is using network checker : Accepting version 2.1.0
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod bqforestry to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod bqforestry accepts its own version (2.1.0)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into bqforestry
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for bqforestry
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.nicjames2378.bqforestry.proxy.ClientProxy for mod bqforestry
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.nicjames2378.bqforestry.proxy.ClientProxy
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into bqforestry for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod bqforestry
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - BQ Forestry Expansion took 0.007s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod careerbees
+[13:34:17] [Client thread/TRACE] [FML]: Mod careerbees is using network checker : Accepting version 1.0
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod careerbees to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod careerbees accepts its own version (1.0)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into careerbees
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for careerbees
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into careerbees for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod careerbees
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - careerbees took 0.066s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod contenttweaker
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Transforming RenderItem
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderItem, func_180454_a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Item render hook
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow activation
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderEffect, func_191966_a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Enchantment glint glow return
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming buq : net.minecraft.client.renderer.EntityRenderer with 1 patches!
+[13:34:17] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYRENDEREREXTENDEDENTITYREACH
+[13:34:17] [Client thread/DEBUG] [mixin]: Mixing camera.EntityRendererMixin from securitycraft.mixins.json into net.minecraft.client.renderer.EntityRenderer
+[13:34:17] [Client thread/TRACE] [mixin]: Added class metadata for net/geforcemods/securitycraft/entity/camera/SecurityCamera to metadata cache
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Transforming BlockRendererDispatcher
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Block render hook
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [renderBlock, func_175018_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/renderer/BufferBuilder;)Z)
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Attempting to insert: Fluid render hook
+[13:34:17] [Client thread/INFO] [LibrarianLib ASM]: Patch result: Success
+[13:34:17] [Client thread/TRACE] [FML]: Mod contenttweaker is using network checker : Accepting version 1.12.2-4.10.0
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod contenttweaker to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod contenttweaker accepts its own version (1.12.2-4.10.0)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into contenttweaker
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for contenttweaker
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into contenttweaker for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod contenttweaker
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - ContentTweaker took 0.139s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod craftingtweaks
+[13:34:17] [Client thread/TRACE] [FML]: Mod craftingtweaks is using network checker : Invoking method checkNetwork
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod craftingtweaks to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod craftingtweaks accepts its own version (8.1.9)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into craftingtweaks
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for craftingtweaks
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into craftingtweaks for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod craftingtweaks
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Crafting Tweaks took 0.029s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod ctgui
+[13:34:17] [Client thread/TRACE] [FML]: Mod ctgui is using network checker : Accepting version 1.0.0
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod ctgui to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod ctgui accepts its own version (1.0.0)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into ctgui
+[13:34:17] [Client thread/DEBUG] [FML]: Skipping proxy injection for crafttweaker.mc1120.CraftTweaker.PROXY since it is not for mod ctgui
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for ctgui
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into ctgui for type INSTANCE
+[13:34:17] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for crafttweaker.mc1120.CraftTweaker.INSTANCE since it is not for mod ctgui
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod ctgui
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - CT-GUI took 0.004s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod crafttweakerjei
+[13:34:17] [Client thread/TRACE] [FML]: Mod crafttweakerjei is using network checker : Accepting version 2.0.3
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod crafttweakerjei to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod crafttweakerjei accepts its own version (2.0.3)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into crafttweakerjei
+[13:34:17] [Client thread/DEBUG] [FML]: Skipping proxy injection for com.blamejared.ctgui.MTRecipe.PROXY since it is not for mod crafttweakerjei
+[13:34:17] [Client thread/DEBUG] [FML]: Skipping proxy injection for crafttweaker.mc1120.CraftTweaker.PROXY since it is not for mod crafttweakerjei
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for crafttweakerjei
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into crafttweakerjei for type INSTANCE
+[13:34:17] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for crafttweaker.mc1120.CraftTweaker.INSTANCE since it is not for mod crafttweakerjei
+[13:34:17] [Client thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for com.blamejared.ctgui.MTRecipe.INSTANCE since it is not for mod crafttweakerjei
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod crafttweakerjei
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - CraftTweaker JEI Support took 0.009s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod crafttweakerutils
+[13:34:17] [Client thread/TRACE] [FML]: Mod crafttweakerutils is using network checker : Accepting version 0.7
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod crafttweakerutils to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod crafttweakerutils accepts its own version (0.7)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into crafttweakerutils
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for crafttweakerutils
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into crafttweakerutils for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod crafttweakerutils
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - CraftTweaker Utils took 0.003s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod ctintegration
+[13:34:17] [Client thread/TRACE] [FML]: Mod ctintegration is using network checker : Accepting version 1.8.0
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod ctintegration to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod ctintegration accepts its own version (1.8.0)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into ctintegration
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for ctintegration
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into ctintegration for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod ctintegration
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - CraftTweaker Integration took 0.002s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod cucumber
+[13:34:17] [Client thread/TRACE] [FML]: Mod cucumber is using network checker : Accepting version 1.1.3
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod cucumber to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod cucumber accepts its own version (1.1.3)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into cucumber
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for cucumber
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.blakebr0.cucumber.event.BowFovHandler for mod cucumber
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.blakebr0.cucumber.event.BowFovHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into cucumber for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod cucumber
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Cucumber Library took 0.015s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod customizeddungeonloot
+[13:34:17] [Client thread/TRACE] [FML]: Mod customizeddungeonloot is using network checker : No network checking performed
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod customizeddungeonloot to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod customizeddungeonloot accepts its own version (1.0.3)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into customizeddungeonloot
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for customizeddungeonloot
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for xxrexraptorxx.customizeddungeonloot.util.LootHandler for mod customizeddungeonloot
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class xxrexraptorxx.customizeddungeonloot.util.LootHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into customizeddungeonloot for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod customizeddungeonloot
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Customized Dungeon Loot took 0.013s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod p455w0rdslib
+[13:34:17] [Client thread/TRACE] [FML]: Mod p455w0rdslib is using network checker : Accepting version 2.3.161
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod p455w0rdslib to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod p455w0rdslib accepts its own version (2.3.161)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into p455w0rdslib
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for p455w0rdslib
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for p455w0rdslib.LibEvents for mod p455w0rdslib
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class p455w0rdslib.LibEvents
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into p455w0rdslib for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod p455w0rdslib
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - p455w0rd's Library took 0.015s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod danknull
+[13:34:17] [Client thread/TRACE] [FML]: Mod danknull is using network checker : Accepting version 1.7.91
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod danknull to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod danknull accepts its own version (1.7.91)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into danknull
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for danknull
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for p455w0rd.danknull.init.ModEvents for mod danknull
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class p455w0rd.danknull.init.ModEvents
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into danknull for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod danknull
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - /dank/null took 0.019s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod dldungeonsjbg
+[13:34:17] [Client thread/TRACE] [FML]: Mod dldungeonsjbg is using network checker : No network checking performed
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod dldungeonsjbg to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod dldungeonsjbg accepts its own version (1.14.12)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into dldungeonsjbg
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for dldungeonsjbg
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into dldungeonsjbg for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod dldungeonsjbg
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Doomlike Dungeons took 0.008s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod dungeonsmod
+[13:34:17] [Client thread/TRACE] [FML]: Mod dungeonsmod is using network checker : Accepting version @VERSION@
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod dungeonsmod to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod dungeonsmod accepts its own version (@VERSION@)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into dungeonsmod
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for dungeonsmod
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.dainxt.dungeonsmod.util.handlers.RegistryHandler for mod dungeonsmod
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.dainxt.dungeonsmod.util.handlers.RegistryHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.dainxt.dungeonsmod.util.handlers.ItemRegisterEvent for mod dungeonsmod
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.dainxt.dungeonsmod.util.handlers.ItemRegisterEvent
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.dainxt.dungeonsmod.init.ProfessionsInit$RegistrationHandler for mod dungeonsmod
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.dainxt.dungeonsmod.init.ProfessionsInit$RegistrationHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into dungeonsmod for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod dungeonsmod
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Dungeons Mod took 0.026s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod dungeontactics
+[13:34:17] [Client thread/TRACE] [FML]: Mod dungeontactics is using network checker : Accepting version DT-0.16.9
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod dungeontactics to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod dungeontactics accepts its own version (DT-0.16.9)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for pegbeard.dungeontactics.handlers.DTBlocks$RegistrationHandler for mod dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class pegbeard.dungeontactics.handlers.DTBlocks$RegistrationHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for pegbeard.dungeontactics.handlers.DTRecipes$RegistrationHandler for mod dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class pegbeard.dungeontactics.handlers.DTRecipes$RegistrationHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for pegbeard.dungeontactics.handlers.DTItems$RegistrationHandler for mod dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class pegbeard.dungeontactics.handlers.DTItems$RegistrationHandler
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for pegbeard.dungeontactics.handlers.client.DTRenderRegister for mod dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class pegbeard.dungeontactics.handlers.client.DTRenderRegister
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into dungeontactics for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod dungeontactics
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - DungeonTactics took 0.079s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod extendedcrafting
+[13:34:17] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[13:34:17] [Client thread/DEBUG] [forge]: 	com/blakebr0/extendedcrafting/lib/AddonReferenced$CrashCallable
+[13:34:17] [Client thread/TRACE] [FML]: Mod extendedcrafting is using network checker : Accepting version 1.7.0
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod extendedcrafting to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod extendedcrafting accepts its own version (1.7.0)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into extendedcrafting
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for extendedcrafting
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into extendedcrafting for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod extendedcrafting
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - ExtendedCrafting: Nomifactory Edition took 0.012s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod silentlib
+[13:34:17] [Client thread/DEBUG] [Silent Lib]: Add LogHelper for "Silent Lib"
+[13:34:17] [Client thread/TRACE] [FML]: Mod silentlib is using network checker : Accepting version 3.0.13
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod silentlib to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod silentlib accepts its own version (3.0.13)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.silentchaos512.lib.event.ServerTicks for mod silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.silentchaos512.lib.event.ServerTicks
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.silentchaos512.lib.event.InitialSpawnItems for mod silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.silentchaos512.lib.event.InitialSpawnItems
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.silentchaos512.lib.event.ClientTicks for mod silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.silentchaos512.lib.event.ClientTicks
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.silentchaos512.lib.event.Greetings for mod silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.silentchaos512.lib.event.Greetings
+[13:34:17] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for net.silentchaos512.lib.util.EntityHelper for mod silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class net.silentchaos512.lib.util.EntityHelper
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into silentlib for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod silentlib
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Silent Lib took 0.019s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod extendeddays
+[13:34:17] [Client thread/DEBUG] [Extended Days]: Add LogHelper for "Extended Days"
+[13:34:17] [Client thread/DEBUG] [Extended Days/SRegistry]: Add LogHelper for "Extended Days/SRegistry"
+[13:34:17] [Client thread/TRACE] [FML]: Mod extendeddays is using network checker : Accepting version 0.2.9
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod extendeddays to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod extendeddays accepts its own version (0.2.9)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into extendeddays
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for extendeddays
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into extendeddays for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod extendeddays
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Extended Days took 0.026s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod foodtweaker
+[13:34:17] [Client thread/TRACE] [FML]: Mod foodtweaker is using network checker : Accepting version 1.1.3
+[13:34:17] [Client thread/TRACE] [FML]: Testing mod foodtweaker to verify it accepts its own version in a remote connection
+[13:34:17] [Client thread/TRACE] [FML]: The mod foodtweaker accepts its own version (1.1.3)
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into foodtweaker
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for foodtweaker
+[13:34:17] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into foodtweaker for type INSTANCE
+[13:34:17] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod foodtweaker
+[13:34:17] [Client thread/DEBUG] [FML]: Bar Step: Construction - Food Tweaker took 0.006s
+[13:34:17] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forgelin
+[13:34:17] [Client thread/DEBUG] [KotlinAdapter]: FML has asked for Forgelin to be constructed
+[13:34:19] [Client thread/TRACE] [FML]: Mod forgelin is using network checker : No network checking performed
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod forgelin to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod forgelin accepts its own version (1.8.4)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into forgelin
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for forgelin
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into forgelin for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forgelin
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Shadowfacts' Forgelin took 1.423s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod gendustryjei
+[13:34:19] [Client thread/TRACE] [FML]: Mod gendustryjei is using network checker : Accepting version 1.0.2
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod gendustryjei to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod gendustryjei accepts its own version (1.0.2)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into gendustryjei
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for gendustryjei
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for ninjabrain.gendustryjei.util.ConfigHelper for mod gendustryjei
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class ninjabrain.gendustryjei.util.ConfigHelper
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into gendustryjei for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod gendustryjei
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Gendustry JEI Addon took 0.047s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod harvestcrafttweaker
+[13:34:19] [Client thread/TRACE] [FML]: Mod harvestcrafttweaker is using network checker : Accepting version @VERSION@
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod harvestcrafttweaker to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod harvestcrafttweaker accepts its own version (@VERSION@)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into harvestcrafttweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for harvestcrafttweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into harvestcrafttweaker for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod harvestcrafttweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - HarvestCraft Tweaker took 0.003s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod harvestcraft
+[13:34:19] [Client thread/TRACE] [FML]: Mod harvestcraft is using network checker : Accepting version 1.12.2zb
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod harvestcraft to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod harvestcraft accepts its own version (1.12.2zb)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into harvestcraft
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for harvestcraft
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pam.harvestcraft.item.RecipeRemoval for mod harvestcraft
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pam.harvestcraft.item.RecipeRemoval
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into harvestcraft for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod harvestcraft
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Pam's HarvestCraft took 0.020s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jaffa
+[13:34:19] [Client thread/TRACE] [FML]: Mod jaffa is using network checker : Accepting version 7.63.1
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jaffa to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jaffa accepts its own version (7.63.1)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jaffa
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jaffa
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.murdy.jaffa.food.JAFFAFoods for mod jaffa
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.murdy.jaffa.food.JAFFAFoods
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.murdy.jaffa.item.JAFFAItems for mod jaffa
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.murdy.jaffa.item.JAFFAItems
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jaffa for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jaffa
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - JAFFA (HarvestCraft Addon) took 0.012s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jaopcasingularities
+[13:34:19] [Client thread/TRACE] [FML]: Mod jaopcasingularities is using network checker : Accepting version 1.12.2-3.0.0.0
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jaopcasingularities to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jaopcasingularities accepts its own version (1.12.2-3.0.0.0)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jaopcasingularities
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jaopcasingularities
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jaopcasingularities for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jaopcasingularities
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - JAOPCASingularities took 0.003s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jargca
+[13:34:19] [Client thread/TRACE] [FML]: Mod jargca is using network checker : Accepting version 1.12.2-1.0.0.0
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jargca to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jargca accepts its own version (1.12.2-1.0.0.0)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jargca
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jargca
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jargca for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jargca
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - JARGCA took 0.002s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jaopca
+[13:34:19] [Client thread/TRACE] [FML]: Mod jaopca is using network checker : Accepting version 1.12.2-2.3.2.3
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jaopca to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jaopca accepts its own version (1.12.2-2.3.2.3)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jaopca
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - TexturedFluidModel$Loader took 0.000s
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jaopca
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jaopca for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jaopca
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - JAOPCA took 0.038s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jeibees
+[13:34:19] [Client thread/TRACE] [FML]: Mod jeibees is using network checker : Accepting version 0.9.0.5
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jeibees to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jeibees accepts its own version (0.9.0.5)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jeibees
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jeibees
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jeibees for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jeibees
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - JEI Bees took 0.005s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jehc
+[13:34:19] [Client thread/TRACE] [FML]: Mod jehc is using network checker : Accepting version 1.7.2
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jehc to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jehc accepts its own version (1.7.2)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jehc
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jehc
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jehc for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jehc
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Just Enough HarvestCraft took 0.003s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod loottweaker
+[13:34:19] [Client thread/TRACE] [FML]: Mod loottweaker is using network checker : Invoking method networkCheck
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod loottweaker to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod loottweaker accepts its own version (0.3.1)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into loottweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for loottweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for leviathan143.loottweaker.common.DeprecationWarningManager for mod loottweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class leviathan143.loottweaker.common.DeprecationWarningManager
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for leviathan143.loottweaker.common.zenscript.ZenLootTableTweakManager for mod loottweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class leviathan143.loottweaker.common.zenscript.ZenLootTableTweakManager
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for leviathan143.loottweaker.common.LTConfig for mod loottweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class leviathan143.loottweaker.common.LTConfig
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into loottweaker for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod loottweaker
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - LootTweaker took 0.022s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod jeresources
+[13:34:19] [Client thread/TRACE] [FML]: Mod jeresources is using network checker : Accepting version 0.9.2.60
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod jeresources to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod jeresources accepts its own version (0.9.2.60)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into jeresources
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for jeresources
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into jeresources for type INSTANCE
+[13:34:19] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod jeresources
+[13:34:19] [Client thread/DEBUG] [FML]: Bar Step: Construction - Just Enough Resources took 0.005s
+[13:34:19] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod librarianlib
+[13:34:19] [Client thread/DEBUG] [KotlinAdapter]: FML has asked for LibrarianLib to be constructed
+[13:34:19] [Client thread/TRACE] [FML]: Mod librarianlib is using network checker : Accepting version 4.22
+[13:34:19] [Client thread/TRACE] [FML]: Testing mod librarianlib to verify it accepts its own version in a remote connection
+[13:34:19] [Client thread/TRACE] [FML]: The mod librarianlib accepts its own version (4.22)
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into librarianlib
+[13:34:19] [Client thread/DEBUG] [KotlinAdapter]: Setting proxy: LibrarianLib.PROXY -> com.teamwizardry.librarianlib.core.client.LibClientProxy@7f269571
+[13:34:19] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.particle.ParticleSpawner
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.ClientTickHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.LibClientProxy
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.block.BlockModSlab
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.gui.GuiOverlay
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.particle.ParticleRenderManager
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.utilities.client.F3Handler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.features.base.ModSoundEvent
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.common.RegistrationHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
+[13:34:19] [Client thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.teamwizardry.librarianlib.core.client.ModelHandler
+[13:34:19] [Client thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
