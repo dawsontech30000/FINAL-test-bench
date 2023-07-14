@@ -9602,3 +9602,51 @@ com.google.gson.JsonParseException: Loot Table "pamsbreadcraft:bakerychest" Miss
 [14:18:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:317: Could not resolve <jaopca : avaritia_singularity . americium_241_z_a>
 [14:18:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §cERROR: astral\uranium\testfile.zs:318: Could not resolve <jaopca : block . americium_241_z_a>
 [14:18:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Reloaded successfully
+[14:24:37] [Client thread/ERROR] [forestry]: Got a genetic item with no genome, setting it to a default value.
+[14:24:37] [Client thread/ERROR] [forestry]: Got a genetic item with no genome, setting it to a default value.
+[14:24:37] [Client thread/ERROR] [forestry]: Got a genetic item with no genome, setting it to a default value.
+[14:25:10] [Client thread/ERROR] [jei]: Error caught from Recipe Category: com.blakebr0.extendedcrafting.compat.jei.tablecrafting.UltimateTableCategory
+java.lang.NullPointerException: null
+	at mezz.jei.gui.ingredients.GuiIngredientGroup.set(GuiIngredientGroup.java:116) ~[GuiIngredientGroup.class:?]
+	at com.blakebr0.extendedcrafting.compat.jei.tablecrafting.UltimateTableCategory.setRecipe(UltimateTableCategory.java:85) ~[UltimateTableCategory.class:?]
+	at mezz.jei.gui.recipes.RecipeLayout.create(RecipeLayout.java:69) [RecipeLayout.class:?]
+	at mezz.jei.gui.recipes.RecipeGuiLogic.getRecipeLayouts(RecipeGuiLogic.java:198) [RecipeGuiLogic.class:?]
+	at mezz.jei.gui.recipes.RecipesGui.updateLayout(RecipesGui.java:492) [RecipesGui.class:?]
+	at mezz.jei.gui.recipes.RecipesGui.onStateChange(RecipesGui.java:538) [RecipesGui.class:?]
+	at mezz.jei.gui.recipes.RecipeGuiLogic.setRecipeCategory(RecipeGuiLogic.java:231) [RecipeGuiLogic.class:?]
+	at mezz.jei.gui.recipes.RecipeCategoryTab.handleMouseClicked(RecipeCategoryTab.java:33) [RecipeCategoryTab.class:?]
+	at mezz.jei.gui.recipes.RecipeGuiTabs.handleMouseClicked(RecipeGuiTabs.java:133) [RecipeGuiTabs.class:?]
+	at mezz.jei.gui.recipes.RecipesGui.func_73864_a(RecipesGui.java:327) [RecipesGui.class:?]
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533) [blk.class:?]
+	at mezz.jei.gui.recipes.RecipesGui.func_146274_d(RecipesGui.java:304) [RecipesGui.class:?]
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501) [blk.class:?]
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1759) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[15:00:38] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[15:00:38] [Client thread/INFO] [journeymap]: Mapping halted in D:\New folder\Instances\Instances\NEW copy of my pack final outcome\journeymap\data\sp\New World\DIM0
+[15:00:38] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[15:00:38] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: b7407c6a-242a-4af3-92e6-f826bcb4d88b
+[15:00:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:00:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:00:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:00:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[15:00:38] [Netty Local Client IO #0/INFO] [Astral Sorcery]: Cleaning client cache...
+[15:00:38] [Netty Local Client IO #0/INFO] [Astral Sorcery]: Cleared cached client data! Disconnected from server.
+[15:00:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/plantd
+[15:00:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/Storage Cell
+[15:00:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:00:38] [Server thread/INFO] [FML]: Unloading dimension 3
+[15:00:38] [Server thread/INFO] [FML]: Unloading dimension 2
+[15:00:43] [Server thread/INFO] [FML]: Applying holder lookups
+[15:00:43] [Server thread/INFO] [FML]: Holder lookups applied
+[15:00:43] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 0 data blobs
+[15:00:43] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[15:00:43] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
