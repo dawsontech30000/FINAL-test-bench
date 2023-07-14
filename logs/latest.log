@@ -168,3 +168,54 @@
 [20:05:16] [Client thread/INFO] [Mekanism KeybindingMigrationHelper]: Patching GameSettings.datafix
 [20:05:16] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
 [20:05:16] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[20:05:17] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 72155200 bytes (68 MB) / 268435456 bytes (256 MB) up to 12884901888 bytes (12288 MB)
+	JVM Flags: 21 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx12288m -Xms256m -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+Transformer (harvestcrafttweaker-1.2c.jar)
+  
+IELoadingPlugin (ImmersiveEngineering-core-0.12-98.jar)
+  blusunrize.immersiveengineering.common.asm.IEClassTransformer
+LibrarianLib Plugin (librarianlib-1.12.2-4.22.jar)
+  com.teamwizardry.librarianlib.asm.LibLibTransformer
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+ZenUtilsPlugin (zenutils-1.14.3.jar)
+  
+CreativePatchingLoader (CreativeCore_v1.10.70_mc1.12.2.jar)
+  
+AppleCore (AppleCore-mc1.12.2-3.4.0.jar)
+  squeek.applecore.asm.TransformerModuleHandler
+ApotheosisCore (Apotheosis-1.12.2-1.12.5.jar)
+  shadows.ApotheosisTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.7.jar)
+  
+AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
+  appeng.core.transformer.AE2ELTransformer
+Plugin (NotEnoughIDs-1.5.4.4.jar)
+  ru.fewizz.neid.asm.Transformer
+MixinBooter (!mixinbooter-8.3.jar)
+  
+AstralCore (astralsorcery-1.12.2-1.10.27.jar)
+  
+MekanismCoremod (MekanismAll-1.12.2-9.8.11.150-sddsd2332.jar)
+  mekanism.coremod.KeybindingMigrationHelper
+LootrCore (lootr-1.12.2-0.6.1.jar)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 531.79' Renderer: 'NVIDIA GeForce GTX 970/PCIe/SSE2'
+[20:05:17] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[20:05:17] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:05:17] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:05:17] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:05:17] [Client thread/INFO] [FML]: Searching D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods for mods
+[20:05:19] [Client thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.7
+[20:05:19] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 147174503 nanos

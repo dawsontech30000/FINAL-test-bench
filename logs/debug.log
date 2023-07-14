@@ -1392,3 +1392,511 @@
 [20:05:16] [Client thread/INFO] [Mekanism KeybindingMigrationHelper]: Patching GameSettings.datafix
 [20:05:16] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
 [20:05:16] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[20:05:17] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - LanguageManager took 0.002s
+[20:05:17] [Client thread/DEBUG] [mixin]: Mixing CrashReportMixin from mixin.mixinbooter.init.json into net.minecraft.crash.CrashReport
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/HashSet to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/AbstractSet to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/AbstractCollection to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/Collection to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/Iterable to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/Set to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/io/Serializable to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/Cloneable to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/StackTraceElement to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/Class to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/reflect/Field to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/reflect/AccessibleObject to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/transformer/ClassInfo to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for zone/rong/mixinbooter/MixinBooterPlugin to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for org/apache/logging/log4j/Logger to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/StringBuilder to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/AbstractStringBuilder to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/Appendable to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/CharSequence to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/extensibility/IMixinInfo to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for zone/rong/mixinbooter/ConfigDecorators to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/ReflectiveOperationException to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/io/StringWriter to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/io/PrintWriter to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/io/Writer to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/OutOfMemoryError to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/VirtualMachineError to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/StackOverflowError to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/NullPointerException to metadata cache
+[20:05:17] [Client thread/DEBUG] [mixin]: mixin.mixinbooter.init.json:CrashReportMixin from mod _mixinbooter_8_3->@Inject::afterStackTracePopulation(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Ljava/io/StringWriter;Ljava/io/PrintWriter;Ljava/lang/Throwable;)V does use it's CallbackInfoReturnable
+[20:05:17] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 72155200 bytes (68 MB) / 268435456 bytes (256 MB) up to 12884901888 bytes (12288 MB)
+	JVM Flags: 21 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx12288m -Xms256m -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+Transformer (harvestcrafttweaker-1.2c.jar)
+  
+IELoadingPlugin (ImmersiveEngineering-core-0.12-98.jar)
+  blusunrize.immersiveengineering.common.asm.IEClassTransformer
+LibrarianLib Plugin (librarianlib-1.12.2-4.22.jar)
+  com.teamwizardry.librarianlib.asm.LibLibTransformer
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+ZenUtilsPlugin (zenutils-1.14.3.jar)
+  
+CreativePatchingLoader (CreativeCore_v1.10.70_mc1.12.2.jar)
+  
+AppleCore (AppleCore-mc1.12.2-3.4.0.jar)
+  squeek.applecore.asm.TransformerModuleHandler
+ApotheosisCore (Apotheosis-1.12.2-1.12.5.jar)
+  shadows.ApotheosisTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.7.jar)
+  
+AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar)
+  appeng.core.transformer.AE2ELTransformer
+Plugin (NotEnoughIDs-1.5.4.4.jar)
+  ru.fewizz.neid.asm.Transformer
+MixinBooter (!mixinbooter-8.3.jar)
+  
+AstralCore (astralsorcery-1.12.2-1.10.27.jar)
+  
+MekanismCoremod (MekanismAll-1.12.2-9.8.11.150-sddsd2332.jar)
+  mekanism.coremod.KeybindingMigrationHelper
+LootrCore (lootr-1.12.2-0.6.1.jar)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 531.79' Renderer: 'NVIDIA GeForce GTX 970/PCIe/SSE2'
+[20:05:17] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[20:05:17] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:05:17] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:05:17] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:05:17] [Client thread/DEBUG] [FML]: File D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\injectedDependencies.json not found. No dependencies injected
+[20:05:17] [Client thread/DEBUG] [mixin]: Mixing LoadControllerMixin from mixin.mixinbooter.init.json into net.minecraftforge.fml.common.LoadController
+[20:05:17] [Client thread/DEBUG] [mixin]: Renaming synthetic method lambda$beforeConstructing$0(Lnet/minecraft/launchwrapper/IClassTransformer;)Z to mdd73bd5$_mixinbooter_8_3$lambda$beforeConstructing$0$0 in mixin.mixinbooter.init.json:LoadControllerMixin from mod _mixinbooter_8_3
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/LoaderState to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/discovery/ASMDataTable to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/discovery/ModCandidate to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/ModClassLoader to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for zone/rong/mixinbooter/ILateMixinLoader to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/List to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/Mixins to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for zone/rong/mixinbooter/MixinFixer to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/Loader to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/ModContainer to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/launchwrapper/Launch to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/launchwrapper/LaunchClassLoader to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/invoke/LambdaMetafactory to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/stream/Stream to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/Optional to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/reflect/Method to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/reflect/Executable to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/MixinEnvironment to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/NoSuchMethodException to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for zone/rong/mixinbooter/MixinLoader to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/transformer/Proxy to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/util/function/Predicate to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for net/minecraft/launchwrapper/IClassTransformer to metadata cache
+[20:05:17] [Client thread/DEBUG] [mixin]: mixin.mixinbooter.init.json:LoadControllerMixin from mod _mixinbooter_8_3->@Inject::beforeConstructing(Lnet/minecraftforge/fml/common/LoaderState;[Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[20:05:17] [Client thread/DEBUG] [mixin]: mixin.mixinbooter.init.json:LoadControllerMixin from mod _mixinbooter_8_3->@Inject::beforeConstructing(Lnet/minecraftforge/fml/common/LoaderState;[Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[20:05:17] [Client thread/DEBUG] [mixin]: mixin.mixinbooter.init.json:LoadControllerMixin from mod _mixinbooter_8_3->@Inject::beforeConstructing(Lnet/minecraftforge/fml/common/LoaderState;[Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/InstantiationException to metadata cache
+[20:05:17] [Client thread/TRACE] [mixin]: Added class metadata for java/lang/IllegalAccessException to metadata cache
+[20:05:17] [Client thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, com.creativemd.creativecore.core.CreativeCoreDummy, zone.rong.mixinbooter.MixinBooterPlugin$Container]
+[20:05:17] [Client thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[20:05:17] [Client thread/DEBUG] [FML]: Found a minecraft related file at D:\New folder\Instances\Install\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar, examining for mod candidates
+[20:05:17] [Client thread/DEBUG] [FML]: Found a minecraft related file at D:\New folder\Instances\Install\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar, examining for mod candidates
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a minecraft related file at D:\New folder\Instances\Install\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar, examining for mod candidates
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a minecraft related file at D:\New folder\Instances\Install\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar, examining for mod candidates
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Install\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a minecraft related file at D:\New folder\Instances\Install\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar, examining for mod candidates
+[20:05:17] [Client thread/DEBUG] [FML]: Found a minecraft related file at D:\New folder\Instances\Install\versions\1.12.2\1.12.2.jar, examining for mod candidates
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\!mixinbooter-8.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\[1.12.2] SecurityCraft v1.9.7.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\Apotheosis-1.12.2-1.12.5.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\AppleCore-mc1.12.2-3.4.0.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\astralsorcery-1.12.2-1.10.27.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\CreativeCore_v1.10.70_mc1.12.2.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\CTM-MC1.12.2-1.0.2.31.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\Forgelin-1.8.4.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\harvestcrafttweaker-1.2c.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\librarianlib-1.12.2-4.22.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\lootr-1.12.2-0.6.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\MekanismAll-1.12.2-9.8.11.150-sddsd2332.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\NotEnoughIDs-1.5.4.4.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\TimeCore-1.12.2-1.0.1.1.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\zenutils-1.14.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods\memory_repo\blusunrize\ImmersiveEngineering-core\0.12-98\ImmersiveEngineering-core-0.12-98.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping known library file D:\New folder\Instances\Instances\NEW copy of my pack final outcome\.\mods\Pam's HarvestCraft 1.12.2zg.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[20:05:17] [Client thread/INFO] [FML]: Searching D:\New folder\Instances\Instances\NEW copy of my pack final outcome\mods for mods
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.301.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding modular-routers-1.12.2-3.3.0-33.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding omlib-1.12.2-3.1.5-256.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding openmodularturrets-1.12.2-3.1.14-382.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ompd-1.12.2-3.1.1-76.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding !mixinbooter-8.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CraftingTweaks_1.12.2-8.1.9.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding mcjtylib-1.12-3.5.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding notenoughwands-1.12-1.8.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding AutoRegLib-1.3-32.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Psi-r1.1-78.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Forgelin-1.8.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding librarianlib-1.12.2-4.22.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding psipherals-1.1.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding rpsideas-2.4.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding bdlib-1.14.3.12-mc1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding forestry_1.12.2-5.8.2.387.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding jeibees-0.9.0.5-mc1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MagicBees-1.12.2-3.1.10.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding gendustry-1.6.5.8-mc1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding careerbees-0.4.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding binnie-mods-1.12.2-2.5.1.203.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding gendustryjei-1.0.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding morebees-1.12.2-2.0.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding beebetteratbees-1.12.2-2.0.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding StandardExpansion-3.4.173.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding BetterQuestingTriggerer-1.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding BetterQuesting-3.5.329.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding bqforestry-2.1.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Customized-Dungeon-Loot-1.12 -(v.1.0.3).jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding DungeonsMod-1.12.2-1.0.8.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding DungeonTactics-1.12.2-0.16.9.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding RoguelikeDungeons-1.12.2-1.8.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding DoomlikeDungeons-1.14.12-MC1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding LootTableTweaker-1.12.2-1.1.14.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding looty-1.0.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding LootTweaker-0.3.1+MC1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MTLib-3.0.7.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MoreTweaker-1.0.19.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding lootr-1.12.2-0.6.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding LootBags-1.12.2-2.5.8.5.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding TimeCore-1.12.2-1.0.1.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding LootGames-1.12.2-1.0.3.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding LootOverhaul-1.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding moreloottables-1.12.0-0.1.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MoreLootStuff-1.12.2-0.0.5.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding [1.12.2] SecurityCraft v1.9.7.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding JustEnoughResources-1.12.2-0.9.2.60.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding modtweaker-4.0.20.11.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding base-1.12.2-3.14.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ContentTweaker-1.12.2-4.10.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Zen Summoning-1.12-1.1.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding packmode-1.12.2-1.2.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding harvestcrafttweaker-1.2c.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding RedstoneFlux-1.12-2.1.1.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding zenutils-1.14.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding crafttweakerutils-0.7.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ctintegration-1.8.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Baubles-1.12-1.5.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Botania r1.10-364.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding manatweaks-1.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding FoodTweaker-1.1.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding AppleCore-mc1.12.2-3.4.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding scalingfeast-1.8.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Pam's HarvestCraft 1.12.2zg.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Pam's+BreadCraft+1.12.2-1.1.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding pamscookables-1.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding just-enough-harvestcraft-1.12.2-1.7.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding JAFFA-7.63.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Nate's FoodCraft-1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding p455w0rdslib-1.12.2-2.3.161.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding DankNull-1.12.2-1.7.91.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Numina-1.12.2-1.1.049.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ModularPowersuits-1.12.2-1.1.048.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CraftTweaker2-1.12-4.1.20.690.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding astralsorcery-1.12.2-1.10.27.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding WrapUp-1.12-1.1.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CodeChickenLib-1.12.2-3.2.3.358-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Avaritia-1.12.2-3.3.0.37-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding JAOPCASingularities-1.12.2-3.0.0.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding JARGCA-1.12.2-1.0.0.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding JAOPCA-1.12.2-2.3.2.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding NuclearCraft-2o.6.2-1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Cucumber-1.12.2-1.1.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MysticalAgriculture-1.12.2-1.7.5.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MysticalAgradditions-1.12.2-1.3.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ImmersiveEngineering-0.12-98.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding mystagradcompat-1.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding matc-1.0.1-hotfix.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MysticalAdaptations-1.12.2-1.8.8.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MysticalCreations-1.12.2-1.6.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ExtendedCrafting-Nomifactory-Edition-1.7.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding SilentLib-1.12.2-3.0.14+168.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ExtendedDays-1.12.2-0.2.9-28.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MouseTweaks-2.10-mc1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Controlling-3.0.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CTM-MC1.12.2-1.0.2.31.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Patchouli-1.0-23.6.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding twilightforest-1.12.2-3.11.1021-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CoFHCore-1.12.2-4.6.6.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CoFHWorld-1.12.2-1.4.0.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ThermalFoundation-1.12.2-2.6.7.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ThermalExpansion-1.12.2-5.5.7.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ThermalInnovation-1.12.2-0.3.6.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ThermalDynamics-1.12.2-2.5.6.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ThermalCultivation-1.12.2-0.3.6.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding thermalsolars-1.12.2-1.9.5.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CreativeCore_v1.10.70_mc1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Chameleon-1.12-4.1.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding StorageDrawers-1.12.2-5.4.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ironchest-1.12.2-7.0.72.847.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding FastLeafDecay-v14.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CookingForBlockheads_1.12.2-6.5.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding CosmeticArmorReworked-1.12.2-v5a.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding furniture-6.3.2-1.12.2.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Placebo-1.12.2-1.6.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Apotheosis-1.12.2-1.12.5.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding torchmaster_1.12.2-1.8.5.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ReAuth-1.12-Forge-4.0.7.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding MekanismAll-1.12.2-9.8.11.150-sddsd2332.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding NotEnoughIDs-1.5.4.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding ElevatorMod-1.12.2-1.3.14.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Bookshelf-1.12.2-2.3.590.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding DarkUtils-1.12.2-1.8.230.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding BiomesYouGo1.7.1.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.55.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.13.0.183.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding TinkerToolLeveling-1.12.2-1.1.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding moartinkers-0.6.0.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding taiga-1.12.2-1.3.4.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding OreExcavation-1.4.150.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding RedstoneArsenal-1.12.2-2.6.6.1-universal.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding baubley-heart-canisters-1.12.2-2.0.3.jar to the mod list
+[20:05:17] [Client thread/DEBUG] [FML]:   Adding SimplyJetpacks2-1.12.2-2.2.20.0.jar to the mod list
+[20:05:17] [Client thread/TRACE] [FML]: Skipping already parsed coremod or tweaker !mixinbooter-8.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file [1.12.2] SecurityCraft v1.9.7.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Apotheosis-1.12.2-1.12.5.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file AppleCore-mc1.12.2-3.4.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file astralsorcery-1.12.2-1.10.27.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file AutoRegLib-1.3-32.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Avaritia-1.12.2-3.3.0.37-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file base-1.12.2-3.14.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Baubles-1.12-1.5.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file baubley-heart-canisters-1.12.2-2.0.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file bdlib-1.14.3.12-mc1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file beebetteratbees-1.12.2-2.0.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file BetterQuesting-3.5.329.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file BetterQuestingTriggerer-1.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file binnie-mods-1.12.2-2.5.1.203.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file BiomesYouGo1.7.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Bookshelf-1.12.2-2.3.590.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Botania r1.10-364.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file bqforestry-2.1.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file careerbees-0.4.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Chameleon-1.12-4.1.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CoFHCore-1.12.2-4.6.6.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CoFHWorld-1.12.2-1.4.0.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ContentTweaker-1.12.2-4.10.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Controlling-3.0.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CookingForBlockheads_1.12.2-6.5.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CosmeticArmorReworked-1.12.2-v5a.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CraftingTweaks_1.12.2-8.1.9.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CraftTweaker2-1.12-4.1.20.690.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file crafttweakerutils-0.7.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CreativeCore_v1.10.70_mc1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ctintegration-1.8.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file CTM-MC1.12.2-1.0.2.31.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Cucumber-1.12.2-1.1.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Customized-Dungeon-Loot-1.12 -(v.1.0.3).jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file DankNull-1.12.2-1.7.91.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file DarkUtils-1.12.2-1.8.230.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file DoomlikeDungeons-1.14.12-MC1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file DungeonsMod-1.12.2-1.0.8.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file DungeonTactics-1.12.2-0.16.9.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ElevatorMod-1.12.2-1.3.14.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ExtendedCrafting-Nomifactory-Edition-1.7.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ExtendedDays-1.12.2-0.2.9-28.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file FastLeafDecay-v14.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file FoodTweaker-1.1.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file forestry_1.12.2-5.8.2.387.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Forgelin-1.8.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file furniture-6.3.2-1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file gendustry-1.6.5.8-mc1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file gendustryjei-1.0.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file harvestcrafttweaker-1.2c.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ironchest-1.12.2-7.0.72.847.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file JAFFA-7.63.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file JAOPCA-1.12.2-2.3.2.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file JAOPCASingularities-1.12.2-3.0.0.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file JARGCA-1.12.2-1.0.0.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file jei_1.12.2-4.16.1.301.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file jeibees-0.9.0.5-mc1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file journeymap-1.12.2-5.7.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file just-enough-harvestcraft-1.12.2-1.7.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file JustEnoughResources-1.12.2-0.9.2.60.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file librarianlib-1.12.2-4.22.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file LootBags-1.12.2-2.5.8.5.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file LootGames-1.12.2-1.0.3.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file LootOverhaul-1.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file lootr-1.12.2-0.6.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file LootTableTweaker-1.12.2-1.1.14.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file LootTweaker-0.3.1+MC1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file looty-1.0.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MagicBees-1.12.2-3.1.10.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file manatweaks-1.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Mantle-1.12-1.3.3.55.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file matc-1.0.1-hotfix.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file mcjtylib-1.12-3.5.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MekanismAll-1.12.2-9.8.11.150-sddsd2332.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file moartinkers-0.6.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file modtweaker-4.0.20.11.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file modular-routers-1.12.2-3.3.0-33.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ModularPowersuits-1.12.2-1.1.048.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file morebees-1.12.2-2.0.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MoreLootStuff-1.12.2-0.0.5.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file moreloottables-1.12.0-0.1.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MoreTweaker-1.0.19.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MouseTweaks-2.10-mc1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MTLib-3.0.7.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file mystagradcompat-1.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MysticalAdaptations-1.12.2-1.8.8.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MysticalAgradditions-1.12.2-1.3.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MysticalAgriculture-1.12.2-1.7.5.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file MysticalCreations-1.12.2-1.6.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Nate's FoodCraft-1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file NotEnoughIDs-1.5.4.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file notenoughwands-1.12-1.8.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file NuclearCraft-2o.6.2-1.12.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Numina-1.12.2-1.1.049.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file omlib-1.12.2-3.1.5-256.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ompd-1.12.2-3.1.1-76.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file openmodularturrets-1.12.2-3.1.14-382.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file OreExcavation-1.4.150.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file p455w0rdslib-1.12.2-2.3.161.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file packmode-1.12.2-1.2.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Pam's HarvestCraft 1.12.2zg.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Pam's+BreadCraft+1.12.2-1.1.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file pamscookables-1.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Patchouli-1.0-23.6.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Placebo-1.12.2-1.6.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Psi-r1.1-78.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file psipherals-1.1.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ReAuth-1.12-Forge-4.0.7.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file RedstoneArsenal-1.12.2-2.6.6.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file RedstoneFlux-1.12-2.1.1.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file RoguelikeDungeons-1.12.2-1.8.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file rpsideas-2.4.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file scalingfeast-1.8.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file SilentLib-1.12.2-3.0.14+168.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file SimplyJetpacks2-1.12.2-2.2.20.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file StandardExpansion-3.4.173.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file StorageDrawers-1.12.2-5.4.2.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file taiga-1.12.2-1.3.4.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file TConstruct-1.12.2-2.13.0.183.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ThermalCultivation-1.12.2-0.3.6.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file thermalsolars-1.12.2-1.9.5.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file TimeCore-1.12.2-1.0.1.1.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file TinkerToolLeveling-1.12.2-1.1.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file torchmaster_1.12.2-1.8.5.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file twilightforest-1.12.2-3.11.1021-universal.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file WrapUp-1.12-1.1.3.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file Zen Summoning-1.12-1.1.0.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file zenutils-1.14.3.jar
+[20:05:17] [Client thread/TRACE] [FML]: Skipping already parsed coremod or tweaker ImmersiveEngineering-core-0.12-98.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file ImmersiveEngineering-0.12-98.jar
+[20:05:17] [Client thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2860.jar for potential mods
+[20:05:17] [Client thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2860.jar appears to be missing an mcmod.info file
+[20:05:18] [Client thread/DEBUG] [FML]: Examining file asm-debug-all-5.2.jar for potential mods
+[20:05:18] [Client thread/DEBUG] [FML]: The mod container asm-debug-all-5.2.jar appears to be missing an mcmod.info file
+[20:05:18] [Client thread/DEBUG] [FML]: Examining file maven-artifact-3.5.3.jar for potential mods
+[20:05:18] [Client thread/DEBUG] [FML]: The mod container maven-artifact-3.5.3.jar appears to be missing an mcmod.info file
+[20:05:18] [Client thread/DEBUG] [FML]: Examining file patchy-1.3.9.jar for potential mods
+[20:05:18] [Client thread/DEBUG] [FML]: The mod container patchy-1.3.9.jar appears to be missing an mcmod.info file
+[20:05:18] [Client thread/DEBUG] [FML]: Examining file text2speech-1.10.3.jar for potential mods
+[20:05:18] [Client thread/DEBUG] [FML]: The mod container text2speech-1.10.3.jar appears to be missing an mcmod.info file
+[20:05:18] [Client thread/DEBUG] [FML]: Examining file 1.12.2.jar for potential mods
+[20:05:18] [Client thread/DEBUG] [FML]: The mod container 1.12.2.jar appears to be missing an mcmod.info file
+[20:05:18] [Client thread/DEBUG] [FML]: Examining file [1.12.2] SecurityCraft v1.9.7.jar for potential mods
+[20:05:18] [Client thread/TRACE] [FML]: Located mcmod.info file in file [1.12.2] SecurityCraft v1.9.7.jar
+[20:05:19] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.geforcemods.securitycraft.SecurityCraft) - loading
+[20:05:19] [Client thread/TRACE] [FML]: Parsed dependency info for securitycraft: Requirements: [forge@[14.23.5.2826,)] After:[forge@[14.23.5.2826,)] Before:[]
+[20:05:19] [Client thread/DEBUG] [FML]: Attempting to load the file version.properties from [1.12.2] SecurityCraft v1.9.7.jar to locate a version number for mod securitycraft
+[20:05:19] [Client thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.7
+[20:05:19] [Client thread/DEBUG] [FML]: Examining file Apotheosis-1.12.2-1.12.5.jar for potential mods
+[20:05:19] [Client thread/TRACE] [FML]: Located mcmod.info file in file Apotheosis-1.12.2-1.12.5.jar
+[20:05:19] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (shadows.Apotheosis) - loading
+[20:05:19] [Client thread/TRACE] [FML]: Parsed dependency info for apotheosis: Requirements: [placebo@[1.5.1,)] After:[placebo@[1.5.1,), inspirations, forge@[14.23.5.2836,)] Before:[]
+[20:05:19] [Client thread/DEBUG] [FML]: Examining file AppleCore-mc1.12.2-3.4.0.jar for potential mods
+[20:05:19] [Client thread/DEBUG] [FML]: The mod container AppleCore-mc1.12.2-3.4.0.jar appears to be missing an mcmod.info file
+[20:05:19] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (squeek.applecore.AppleCore) - loading
+[20:05:19] [Client thread/TRACE] [FML]: Parsed dependency info for applecore: Requirements: [forge@[14.23,)] After:[forge@[14.23,)] Before:[]
+[20:05:19] [Client thread/DEBUG] [FML]: Examining file appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar for potential mods
+[20:05:19] [Client thread/TRACE] [FML]: Located mcmod.info file in file appliedenergistics2-rv6-stable-7-extended_life-v0.55.18.jar
+[20:05:19] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 147174503 nanos
+[20:05:20] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (appeng.core.AppEng) - loading
+[20:05:20] [Client thread/TRACE] [FML]: Parsed dependency info for appliedenergistics2: Requirements: [forge@[14.23.5.2847,15.0.0.0)] After:[forge@[14.23.5.2847,15.0.0.0), ctm@[MC1.12.2-0.3.1.16,), itemstages, recipestages] Before:[bogosorter@[1.2.2,)]
+[20:05:22] [Client thread/DEBUG] [FML]: Examining file astralsorcery-1.12.2-1.10.27.jar for potential mods
+[20:05:22] [Client thread/TRACE] [FML]: Located mcmod.info file in file astralsorcery-1.12.2-1.10.27.jar
+[20:05:22] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (hellfirepvp.astralsorcery.AstralSorcery) - loading
+[20:05:22] [Client thread/TRACE] [FML]: Parsed dependency info for astralsorcery: Requirements: [forge@[14.23.5.2781,), baubles] After:[forge@[14.23.5.2781,), baubles, crafttweaker] Before:[]
+[20:05:22] [Client thread/DEBUG] [FML]: Examining file AutoRegLib-1.3-32.jar for potential mods
+[20:05:22] [Client thread/TRACE] [FML]: Located mcmod.info file in file AutoRegLib-1.3-32.jar
+[20:05:22] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (vazkii.arl.AutoRegLib) - loading
+[20:05:22] [Client thread/TRACE] [FML]: Parsed dependency info for autoreglib: Requirements: [forge@[14.21.1.2387,)] After:[forge@[14.21.1.2387,)] Before:[]
+[20:05:22] [Client thread/DEBUG] [FML]: Examining file Avaritia-1.12.2-3.3.0.37-universal.jar for potential mods
+[20:05:22] [Client thread/TRACE] [FML]: Located mcmod.info file in file Avaritia-1.12.2-3.3.0.37-universal.jar
+[20:05:22] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (morph.avaritia.Avaritia) - loading
+[20:05:22] [Client thread/TRACE] [FML]: Parsed dependency info for avaritia: Requirements: [codechickenlib@[3.1.9,)] After:[codechickenlib@[3.1.9,)] Before:[]
+[20:05:22] [Client thread/DEBUG] [FML]: Examining file base-1.12.2-3.14.0.jar for potential mods
+[20:05:22] [Client thread/TRACE] [FML]: Located mcmod.info file in file base-1.12.2-3.14.0.jar
+[20:05:22] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.teamacronymcoders.base.Base) - loading
+[20:05:22] [Client thread/TRACE] [FML]: Parsed dependency info for base: Requirements: [] After:[crafttweaker, jei] Before:[]
