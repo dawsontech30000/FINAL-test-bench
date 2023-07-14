@@ -384,96 +384,8 @@ rpsideas:affinity
 	- Is Beneficial: true
 
 
-nates_foodcraft:tiredness
-   - Id: 47
-   - Color: -13421773
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-nates_foodcraft:oliveoilp
-   - Id: 48
-   - Color: -5333248
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-astralsorcery:potioncheatdeath
-   - Id: 49
-   - Color: 16733969
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-astralsorcery:potiondropmodifier
-   - Id: 50
-   - Color: 16765204
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-astralsorcery:potiontimefreeze
-   - Id: 51
-   - Color: 12098303
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-astralsorcery:potionspellplague
-   - Id: 52
-   - Color: 6816144
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-astralsorcery:potionbleed
-   - Id: 53
-   - Color: 7672320
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-immersiveengineering:stunned
-   - Id: 54
-   - Color: 6441624
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-immersiveengineering:conductive
-   - Id: 55
-   - Color: 6881280
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-immersiveengineering:sticky
-   - Id: 56
-   - Color: 10250240
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-immersiveengineering:flashed
-   - Id: 57
-   - Color: 6441624
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
 immersiveengineering:flammable
-   - Id: 58
+   - Id: 47
    - Color: 9387807
    - Is Instant: false
    - Is Bad: true
@@ -481,18 +393,106 @@ immersiveengineering:flammable
 
 
 immersiveengineering:slippery
-   - Id: 59
+   - Id: 48
    - Color: 1511427
    - Is Instant: false
    - Is Bad: true
 	- Is Beneficial: false
 
 
-immersiveengineering:concretefeet
-   - Id: 60
+immersiveengineering:conductive
+   - Id: 49
+   - Color: 6881280
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:sticky
+   - Id: 50
+   - Color: 10250240
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:stunned
+   - Id: 51
    - Color: 6441624
    - Is Instant: false
    - Is Bad: true
 	- Is Beneficial: false
+
+
+immersiveengineering:concretefeet
+   - Id: 52
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:flashed
+   - Id: 53
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potioncheatdeath
+   - Id: 54
+   - Color: 16733969
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potionbleed
+   - Id: 55
+   - Color: 7672320
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potionspellplague
+   - Id: 56
+   - Color: 6816144
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potiondropmodifier
+   - Id: 57
+   - Color: 16765204
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potiontimefreeze
+   - Id: 58
+   - Color: 12098303
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+nates_foodcraft:tiredness
+   - Id: 59
+   - Color: -13421773
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+nates_foodcraft:oliveoilp
+   - Id: 60
+   - Color: -5333248
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
 
 
