@@ -368,3 +368,140 @@ SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.7.jar)
 [13:05:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `avaritia_extreme_crafting_table`, expected `avaritia`. This could be a intended override, but in most cases indicates a broken mod.
 [13:05:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `neutron_collector`, expected `avaritia`. This could be a intended override, but in most cases indicates a broken mod.
 [13:05:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `neutronium_compressor`, expected `avaritia`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:43] [Client thread/FATAL] [base]: Module JourneyMap did not load due to issue: Mod with modid: journeymap was not found
+[13:05:43] [Client thread/INFO] [base]: Module Tool has successfully loaded
+[13:05:43] [Client thread/INFO] [bdlib]: bdlib 1.14.3.12 loaded
+[13:05:43] [Client thread/INFO] [bdlib]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[13:05:44] [Client thread/INFO] [forestry]: Module BiomesOPlenty Module failed to load: BiomesOPlenty not found
+[13:05:44] [Client thread/INFO] [forestry]: Module rustic Module failed to load: Rustic not found
+[13:05:44] [Client thread/INFO] [forestry]: Module BuildCraft 6 Transport Module failed to load: buildcrafttransport not found
+[13:05:44] [Client thread/INFO] [forestry]: Module BuildCraft 6 Fuels Module failed to load: Compatible BuildCraftAPI|fuels version not found
+[13:05:44] [Client thread/INFO] [forestry]: Module BuildCraft 6 Statements Module failed to load: Compatible BuildCraftAPI|statements version not found
+[13:05:44] [Client thread/INFO] [forestry]: Module TechReborn Module failed to load: TechReborn not found
+[13:05:44] [Client thread/INFO] [forestry]: Module IndustrialCraft2 Module failed to load: IndustrialCraft2 not found
+[13:05:44] [Client thread/INFO] [forestry]: Module Roots Module failed to load: Roots not found
+[13:05:44] [Client thread/INFO] [forestry]: Module Natura Module failed to load: Natura not found
+[13:05:44] [Client thread/INFO] [forestry]: Module EnderIO Module failed to load: EnderIO not found
+[13:05:44] [Client thread/INFO] [forestry]: Module BuildCraft 6 Recipes Module failed to load: Compatible BuildCraftAPI|recipes version not found
+[13:05:44] [Client thread/INFO] [forestry]: Module Actually Additions Module failed to load: Actually Additions not found
+[13:05:44] [Client thread/INFO] [forestry]: Module Better With Mods Module failed to load: Better With Mods not found
+[13:05:44] [Client thread/INFO] [forestry]: Module Extra Utilities Module failed to load: Extra Utilities not found
+[13:05:46] [Client thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[13:05:48] [Client thread/INFO] [gendustry]: IC2 Version: NOT FOUND
+[13:05:48] [Client thread/INFO] [gendustry]: RF API Version: redstoneflux 2.1.1
+[13:05:48] [Client thread/INFO] [gendustry]: Tesla Version: NOT FOUND
+[13:05:48] [Client thread/INFO] [gendustry]: Available Forestry species roots:
+[13:05:48] [Client thread/INFO] [gendustry]:  * rootTrees - forestry.arboriculture.genetics.TreeRoot
+[13:05:48] [Client thread/INFO] [gendustry]:  * rootButterflies - forestry.lepidopterology.genetics.ButterflyRoot
+[13:05:48] [Client thread/INFO] [gendustry]:  * rootBees - forestry.apiculture.genetics.BeeRoot
+[13:05:48] [Client thread/INFO] [gendustry]:  * rootFlowers - binnie.botany.genetics.FlowerRoot
+[13:05:48] [Client thread/INFO] [bdlib]: Loading internal config files for mod Gendustry
+[13:05:48] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/tuning.cfg
+[13:05:48] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/recipes.cfg
+[13:05:49] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/upgrades.cfg
+[13:05:49] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_color.cfg
+[13:05:49] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_patreon.cfg
+[13:05:49] [Client thread/INFO] [bdlib]: Loading user config files for mod Gendustry
+[13:05:49] [Client thread/INFO] [bdlib]: Config loading for mod Gendustry finished
+[13:05:49] [Client thread/INFO] [bdlib]: Loaded creative tabs for gendustry
+[13:05:49] [Client thread/INFO] [gendustry]: Blocks loaded
+[13:05:49] [Client thread/INFO] [gendustry]: Fluids loaded
+[13:05:49] [Client thread/INFO] [gendustry]: Items loaded
+[13:05:49] [Client thread/INFO] [gendustry]: Machines loaded
+[13:05:49] [Client thread/INFO] [gendustry]: Resource manager reload, new language: en_us
+[13:05:49] [Client thread/INFO] [gendustry]: Registered reload listener
+[13:05:49] [Client thread/INFO] [FML]: OBJLoader: Domain contenttweaker has been added.
+[13:05:49] [Client thread/INFO] [contenttweaker]: Module Vanilla CraftTweaker has successfully loaded
+[13:05:49] [Client thread/FATAL] [contenttweaker]: Module Chickens did not load due to issue: Mod with modid: chickens was not found
+[13:05:49] [Client thread/INFO] [contenttweaker]: Module Materials has successfully loaded
+[13:05:49] [Client thread/FATAL] [contenttweaker]: Module Tinkers did not load due to issue: Mod with modid: tconstruct was not found
+[13:05:49] [Client thread/INFO] [/dank/null]: The One Probe Integation: Disabled
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: themesdir is D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will use API? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[13:05:49] [Client thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[13:05:50] [Client thread/INFO] [DLDUNGEONS]: themesdir will be set to D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\themes\
+[13:05:50] [Client thread/INFO] [DLDUNGEONS]: themesdir File is be set to D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\themes
+[13:05:50] [Client thread/INFO] [DLDUNGEONS]: themesdir is D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\themes
+[13:05:50] [Client thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\chests.cfg
+[13:05:50] [Client thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/INFO] [jeresources]: Loading configs..
+[13:05:50] [Client thread/INFO] [jeresources]: Updating ModMetaData...
+[13:05:50] [Client thread/INFO] [jeresources]: Providing API...
+[13:05:50] [Client thread/INFO] [lootbags]: Your current LootBags version is: 2.5.8.5; Your current LootBags Config Version is: CONFIGVER257
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: java.io.FileNotFoundException: https://www.dropbox.com/s/dl/9isvxvrq5uxovzu/Customized%20Dungeon%20Loot%201.12.txt
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivileged(Native Method)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at java.net.URL.openStream(URL.java:1038)
+[13:05:50] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1.run(UpdateChecker.java:24)
+[13:05:50] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitymagicbeeseffectjar`, expected `magicbees`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:50] [Client thread/INFO] [MagicBees]: Mod appliedenergistics2 not detected, not activating module AE2 Integration
+[13:05:50] [Client thread/INFO] [MagicBees]: Mod thermalexpansion not detected, not activating module ThermalExpansion Integration
+[13:05:50] [Client thread/INFO] [MagicBees]: Mod redstonearsenal not detected, not activating module RedstoneArsenal Integration
+[13:05:50] [Client thread/INFO] [MagicBees]: Mod railcraft not detected, not activating module Railcraft Integration
+[13:05:50] [Client thread/INFO] [MagicBees]: Preinitializing modules for mod magicbees...
+[13:05:50] [Client thread/INFO] [MagicBees]:    Preinitializing module Vanilla Module
+[13:05:50] [Client thread/INFO] [MagicBees]:    Preinitializing module Botania Integration
+[13:05:50] [Client thread/INFO] [MagicBees]: Preinitialized 2 modules for mod magicbees
+[13:05:50] [Client thread/INFO] [MagicBees]: MagicBees has Pre-initialized in 208 ms
+[13:05:51] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma.tinkering_table`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[13:05:51] [Client thread/INFO] [matc]: Pre Init
+[13:05:51] [Client thread/INFO] [matc]: MysticalAgridditions Found!
+[13:05:51] [Client thread/INFO] [modularrouters]: Modular Routers is loading!
+[13:05:51] [Client thread/INFO] [modularmachinery]: [ModularMachinery-CE] Parallel executor is ready (8 Threads), Let's get started!!!
+[13:05:51] [Client thread/INFO] [MachineMuse]: MuseOBJLoader: Domain powersuits has been added.
+[13:05:51] [Client thread/INFO] [moretweaker]: Loading MoreTweaker v1.0.19
+[13:05:52] [Client thread/INFO] [FML]: OBJLoader: Domain immersiveengineering has been added.
+[13:05:52] [Client thread/INFO] [immersiveengineering]: Custom OBJLoader: Domain has been added: immersiveengineering
+[13:05:52] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
+[13:05:52] [Client thread/INFO] [FML]: OBJLoader: Domain nates_foodcraft has been added.
