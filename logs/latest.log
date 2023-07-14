@@ -59,3 +59,112 @@
 [20:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
 [20:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
 [20:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:05:10] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[20:05:10] [main/INFO] [mixin]: Lazily initialising Mixin FML Remapper Adapter
+[20:05:10] [main/INFO] [MixinBooter]: Grabbing class noobanidus.mods.lootr.LootrCore for its mixins.
+[20:05:10] [main/INFO] [MixinBooter]: Adding lootr.mixins.json mixin configuration.
+[20:05:10] [main/INFO] [MixinBooter]: Grabbing class youyihj.zenutils.impl.core.ZenUtilsPlugin for its mixins.
+[20:05:10] [main/INFO] [MixinBooter]: Adding mixins.zenutils.vanilla.json mixin configuration.
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:05:10] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[20:05:10] [main/INFO] [Astral Core]: [AstralTransformer] Found 0 Transformers! Trying to recover with direct references...
+[20:05:10] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 14 class patches!
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:05:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:05:11] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:05:11] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:05:11] [main/INFO] [Astral Core]: [AstralTransformer] Transforming buq : net.minecraft.client.renderer.EntityRenderer with 1 patches!
+[20:05:11] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYRENDEREREXTENDEDENTITYREACH
+[20:05:11] [main/INFO] [neid]: Patching class: "net.minecraft.client.renderer.RenderGlobal" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[20:05:11] [main/INFO] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: A re-entrant transformer '$wrapper.ru.fewizz.neid.asm.Transformer' was detected and will no longer process meta class data
+[20:05:11] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[20:05:11] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCLIENT
+[20:05:11] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Transforming World
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[20:05:11] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[20:05:11] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCLIENT
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Transforming World
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[20:05:12] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[20:05:12] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[20:05:12] [main/INFO] [Apotheosis : Core]: Transforming EntityLivingBase...
+[20:05:12] [main/INFO] [Apotheosis : Core]: Successfully transformed EntityLivingBase
+[20:05:12] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[20:05:12] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[20:05:12] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Dawsondude11
+[20:05:12] [Client thread/INFO] [neid]: Patching class: "net.minecraftforge.registries.GameData" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[20:05:12] [Client thread/INFO] [neid]: Patching class: "net.minecraft.block.Block" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[20:05:12] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[20:05:12] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[20:05:13] [Client thread/INFO] [Apotheosis : Core]: Transforming Item...
+[20:05:13] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed Item
+[20:05:13] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[20:05:13] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIP
+[20:05:13] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT
+[20:05:13] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.ItemStackPatch:patchCountGetSet:53]: Patched ItemStack Count getter!
+[20:05:13] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.ItemStackPatch:patchCountGetSet:81]: Patched ItemStack Count setter!
+[20:05:13] [Client thread/INFO] [Apotheosis : Core]: Transforming BlockBed...
+[20:05:13] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed BlockBed
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Transforming SharedMonsterAttributes...
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed SharedMonsterAttributes
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Transforming ItemArrow...
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed ItemArrow
+[20:05:14] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[20:05:14] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[20:05:14] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[20:05:14] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[20:05:14] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Transforming EntityLivingBase...
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed EntityLivingBase
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Transforming PotionEffect...
+[20:05:14] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed PotionEffect
+[20:05:15] [Client thread/INFO] [Apotheosis : Core]: Transforming Item...
+[20:05:15] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed Item
+[20:05:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[20:05:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIP
+[20:05:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT
+[20:05:15] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.ItemStackPatch:patchCountGetSet:53]: Patched ItemStack Count getter!
+[20:05:15] [Client thread/INFO] [STDOUT]: [appeng.core.transformer.ItemStackPatch:patchCountGetSet:81]: Patched ItemStack Count setter!
+[20:05:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[20:05:15] [Client thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[20:05:15] [Client thread/INFO] [Apotheosis : Core]: Transforming EntityAITempt...
+[20:05:15] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed EntityAITempt
+[20:05:15] [Client thread/INFO] [neid]: Patching class: "net.minecraft.stats.StatList" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[20:05:16] [Client thread/INFO] [neid]: Patching class: "net.minecraft.world.chunk.storage.AnvilChunkLoader" with Transformer Group: "TransformerGroupAnvilChunkLoader"
+[20:05:16] [Client thread/INFO] [Apotheosis : Core]: Transforming TileEntityMobSpawner$2...
+[20:05:16] [Client thread/INFO] [Apotheosis : Core]: Successfully transformed TileEntityMobSpawner$2
+[20:05:16] [Client thread/INFO] [Mekanism KeybindingMigrationHelper]: Patching GameSettings.datafix
+[20:05:16] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[20:05:16] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
