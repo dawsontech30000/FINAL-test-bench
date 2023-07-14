@@ -13,3 +13,11 @@
 	#The model type of the material.
 	modelType = "metallic"
 
+[mysticalagriculture]
+	#The crop tier of this material.
+	tier = 3
+	#The amount of Mystical Agriculture essence required to craft materials.
+	inputCount = 8
+	#The amount of material obtained by crafting Mystical Agriculture essence.
+	outputCount = 4
+

@@ -440,3 +440,59 @@ astralsorcery:potionbleed
 	- Is Beneficial: false
 
 
+immersiveengineering:stunned
+   - Id: 54
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:conductive
+   - Id: 55
+   - Color: 6881280
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:sticky
+   - Id: 56
+   - Color: 10250240
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:flashed
+   - Id: 57
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:flammable
+   - Id: 58
+   - Color: 9387807
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:slippery
+   - Id: 59
+   - Color: 1511427
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+immersiveengineering:concretefeet
+   - Id: 60
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
