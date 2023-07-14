@@ -5214,3 +5214,1139 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [13:34:41] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod extrabees
 [13:34:41] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Extra Bees took 0.117s
 [13:34:41] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod extratrees
+[13:34:42] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod extratrees
+[13:34:42] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Binnie's Extra Trees took 0.612s
+[13:34:42] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod botania
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:manaBurst as botania:mana_burst
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:signalFlare as botania:signal_flare
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:pixie as botania:pixie
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:flameRing as botania:flame_ring
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:vineBall as botania:vine_ball
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:doppleganger as botania:doppleganger
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:magicLandmine as botania:magic_landmine
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:spark as botania:spark
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:thrownItem as botania:thrown_item
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:magicMissile as botania:magic_missile
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:thornChakram as botania:thorn_chakram
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:corporeaSpark as botania:corporea_spark
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:enderAirBottle as botania:ender_air_bottle
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:poolMinecart as botania:pool_minecart
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:pinkWither as botania:pink_wither
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:playerMover as botania:player_mover
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:manaStorm as botania:mana_storm
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:babylonWeapon as botania:babylon_weapon
+[13:34:42] [Client thread/TRACE] [FML]: Automatically registered mod botania entity botania:fallingStar as botania:falling_star
+[13:34:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ShaderHelper$$Lambda$705/1970215090 took 0.022s
+[13:34:43] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod botania
+[13:34:43] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Botania took 0.790s
+[13:34:43] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod redstoneflux
+[13:34:43] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod redstoneflux
+[13:34:43] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Redstone Flux took 0.004s
+[13:34:43] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod gendustry
+[13:34:43] [Client thread/INFO] [gendustry]: IC2 Version: NOT FOUND
+[13:34:43] [Client thread/INFO] [gendustry]: RF API Version: redstoneflux 2.1.1
+[13:34:43] [Client thread/INFO] [gendustry]: Tesla Version: NOT FOUND
+[13:34:43] [Client thread/INFO] [gendustry]: Available Forestry species roots:
+[13:34:43] [Client thread/INFO] [gendustry]:  * rootBees - forestry.apiculture.genetics.BeeRoot
+[13:34:43] [Client thread/INFO] [gendustry]:  * rootTrees - forestry.arboriculture.genetics.TreeRoot
+[13:34:43] [Client thread/INFO] [gendustry]:  * rootButterflies - forestry.lepidopterology.genetics.ButterflyRoot
+[13:34:43] [Client thread/INFO] [gendustry]:  * rootFlowers - binnie.botany.genetics.FlowerRoot
+[13:34:43] [Client thread/INFO] [bdlib]: Loading internal config files for mod Gendustry
+[13:34:43] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/tuning.cfg
+[13:34:43] [Client thread/DEBUG] [bdlib]: Starting parsing
+[13:34:43] [Client thread/DEBUG] [bdlib]: Processing 4 statements
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.PowerUseRate = EntryDouble(5.0E-4)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.MjPerItem = EntryDouble(100000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.MaxStoredEnergy = EntryDouble(500000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.ActivationEnergy = EntryDouble(25.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutagenProducer.TankSize = EntryDouble(10000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.PowerUseRate = EntryDouble(0.001)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.MjPerItem = EntryDouble(20000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.MaxStoredEnergy = EntryDouble(100000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.ActivationEnergy = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.TankSize = EntryDouble(10000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.MutagenPerItem = EntryDouble(1000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.LabwareConsumeChance = EntryDouble(100.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.DegradeChanceNatural = EntryDouble(0.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.DeathChanceArtificial = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Mutatron.SecretMutationChance = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.PowerUseRate = EntryDouble(0.00125)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.MjPerItem = EntryDouble(20000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.MaxStoredEnergy = EntryDouble(160000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.ActivationEnergy = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.TankSize = EntryDouble(10000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.MutagenPerItem = EntryDouble(1000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.MutatronAdv.LabwareConsumeChance = EntryDouble(100.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.PowerUseRate = EntryDouble(0.001)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.MjPerItem = EntryDouble(20000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.MaxStoredEnergy = EntryDouble(100000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.ActivationEnergy = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Sampler.LabwareConsumeChance = EntryDouble(100.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.PowerUseRate = EntryDouble(5.0E-4)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.MjPerItem = EntryDouble(80000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.MaxStoredEnergy = EntryDouble(400000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.ActivationEnergy = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.LabwareConsumeChance = EntryDouble(100.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.DeathChanceNatural = EntryDouble(0.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Imprinter.DeathChanceArtificial = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.IndustrialApiary.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.IndustrialApiary.MaxReceivedEnergy = EntryDouble(100.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.IndustrialApiary.MaxStoredEnergy = EntryDouble(10000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.IndustrialApiary.ActivationEnergy = EntryDouble(0.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.IndustrialApiary.BaseMjPerTick = EntryDouble(2.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.PowerUseRate = EntryDouble(0.001)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.MjPerItem = EntryDouble(80000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.MaxStoredEnergy = EntryDouble(400000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.ActivationEnergy = EntryDouble(40.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.TankSize = EntryDouble(5000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Extractor.LabwareConsumeChance = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.MaxReceivedEnergy = EntryDouble(1000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.PowerUseRate = EntryDouble(0.002)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.MjPerItem = EntryDouble(20000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.MaxStoredEnergy = EntryDouble(100000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.ActivationEnergy = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Liquifier.TankSize = EntryDouble(5000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.MaxReceivedEnergy = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.PowerUseRate = EntryDouble(0.002)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.MjPerItem = EntryDouble(20000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.MaxStoredEnergy = EntryDouble(100000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.ActivationEnergy = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Transposer.LabwareConsumeChance = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.MaxReceivedEnergy = EntryDouble(1000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.PowerUseRate = EntryDouble(0.001)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.MjPerItem = EntryDouble(250000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.MaxStoredEnergy = EntryDouble(500000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.ActivationEnergy = EntryDouble(50.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.DNATankSize = EntryDouble(10000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.DNAPerItem = EntryDouble(1000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.ProteinTankSize = EntryDouble(50000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.ProteinPerItem = EntryDouble(5000.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Machines.Replicator.MakePristineBees = EntryStr(False)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialGrafter.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialGrafter.Charges = EntryDouble(200.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialGrafter.MjPerCharge = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialGrafter.AOE = EntryDouble(2.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialGrafter.SaplingModifier = EntryDouble(100.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialScoop.Enabled = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialScoop.Charges = EntryDouble(500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialScoop.MjPerCharge = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Items.IndustrialScoop.SilktouchCharges = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Genetics.MutatronOverrides.forestry.speciesLeporine = EntryStr(REQUIREMENTS)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Genetics.MutatronOverrides.forestry.speciesMerry = EntryStr(REQUIREMENTS)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Genetics.MutatronOverrides.forestry.speciesTipsy = EntryStr(REQUIREMENTS)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Genetics.MutatronOverrides.forestry.speciesTricky = EntryStr(REQUIREMENTS)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.RF_MJ_Ratio = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.EU_MJ_Ratio = EntryDouble(2.5)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.T_MJ_Ratio = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.Forge_MJ_Ratio = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.EU.Enabled = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.EU.SinkTier = EntryDouble(4.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.RF.Enabled = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.Tesla.Enabled = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.Forge.Enabled = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.RedstoneCharging.Enabled = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Power.RedstoneCharging.RedstoneValue = EntryDouble(2500.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Done
+[13:34:43] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/recipes.cfg
+[13:34:43] [Client thread/DEBUG] [bdlib]: Starting parsing
+[13:34:43] [Client thread/DEBUG] [bdlib]: Processing 7 statements
+[13:34:43] [Client thread/DEBUG] [bdlib]: Done
+[13:34:43] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/upgrades.cfg
+[13:34:43] [Client thread/DEBUG] [bdlib]: Starting parsing
+[13:34:43] [Client thread/DEBUG] [bdlib]: Processing 3 statements
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.prod.id = EntryDouble(0.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.prod.max = EntryDouble(8.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.prod.production = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.prod.energy = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.life.id = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.life.max = EntryDouble(4.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.life.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.life.lifespan = EntryModifierDiv(1.5)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.flowering.id = EntryDouble(2.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.flowering.max = EntryDouble(8.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.flowering.energy = EntryModifierMul(1.1)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.flowering.flowering = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.territory.id = EntryDouble(3.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.territory.max = EntryDouble(4.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.territory.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.territory.territory = EntryModifierMul(1.5)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.humidifier.id = EntryDouble(4.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.humidifier.max = EntryDouble(8.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.humidifier.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.humidifier.humidity = EntryModifierAdd(0.25)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.dryer.id = EntryDouble(5.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.dryer.max = EntryDouble(8.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.dryer.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.dryer.humidity = EntryModifierSub(0.25)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.heater.id = EntryDouble(6.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.heater.max = EntryDouble(8.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.heater.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.heater.temperature = EntryModifierAdd(0.25)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.cooler.id = EntryDouble(7.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.cooler.max = EntryDouble(8.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.cooler.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.cooler.temperature = EntryModifierSub(0.25)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sealing.id = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sealing.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sealing.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sealing.sealed = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.light.id = EntryDouble(11.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.light.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.light.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.light.selfLighted = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sky.id = EntryDouble(12.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sky.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sky.energy = EntryModifierMul(1.05)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sky.sunlightSimulated = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.hell.id = EntryDouble(13.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.hell.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.hell.energy = EntryModifierMul(1.5)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.hell.biomeOverride = EntryStr(minecraft:hell)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.auto.id = EntryDouble(14.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.auto.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.auto.energy = EntryModifierMul(1.1)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.auto.automated = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sieve.id = EntryDouble(15.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sieve.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sieve.energy = EntryModifierMul(1.25)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.sieve.collectingPollen = EntryStr(Y)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.desert.id = EntryDouble(16.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.desert.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.desert.energy = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.desert.biomeOverride = EntryStr(minecraft:desert)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.plains.id = EntryDouble(17.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.plains.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.plains.energy = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.plains.biomeOverride = EntryStr(minecraft:plains)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.jungle.id = EntryDouble(18.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.jungle.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.jungle.energy = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.jungle.biomeOverride = EntryStr(minecraft:jungle)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.stabilizer.id = EntryDouble(19.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.stabilizer.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.stabilizer.energy = EntryModifierMul(2.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.stabilizer.geneticDecay = EntryModifierMul(0.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.winter.id = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.winter.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.winter.energy = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.winter.biomeOverride = EntryStr(minecraft:taiga)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.ocean.id = EntryDouble(21.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.ocean.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.ocean.energy = EntryModifierMul(1.2)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.ocean.biomeOverride = EntryStr(minecraft:ocean)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.scrubber.id = EntryDouble(22.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.scrubber.max = EntryDouble(1.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.scrubber.energy = EntryModifierMul(1.3)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Upgrades.scrubber.flowering = EntryModifierMul(0.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Done
+[13:34:43] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_color.cfg
+[13:34:43] [Client thread/DEBUG] [bdlib]: Starting parsing
+[13:34:43] [Client thread/DEBUG] [bdlib]: Processing 1 statements
+[13:34:43] [Client thread/DEBUG] [bdlib]: Condition CndHaveRoot(Bees) - TRUE
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Branches.Color.UID = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Branches.Color.Parent = EntryStr(apidae)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Branches.Color.Scientific = EntryStr(Chromatis)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.PrimaryColor = EntryDouble(1973019.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Binominal = EntryStr(Atrum)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Products = EntryLootList(List((30.0,StackHoneyComb(black))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.black.Traits.Speed = EntryStr(forestry.speedFast)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.PrimaryColor = EntryDouble(1.1743532E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Binominal = EntryStr(Rubrum)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Products = EntryLootList(List((30.0,StackHoneyComb(red))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.red.Traits.Speed = EntryStr(forestry.speedFast)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.PrimaryColor = EntryDouble(3887386.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Binominal = EntryStr(Prasinus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Products = EntryLootList(List((30.0,StackHoneyComb(green))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.green.Traits.Speed = EntryStr(forestry.speedFaster)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.PrimaryColor = EntryDouble(5320730.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Binominal = EntryStr(Cerinus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Products = EntryLootList(List((30.0,StackHoneyComb(brown))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.brown.Traits.Speed = EntryStr(forestry.speedFast)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.PrimaryColor = EntryDouble(2437522.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Binominal = EntryStr(Cumatilis)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Products = EntryLootList(List((30.0,StackHoneyComb(blue))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.blue.Traits.Speed = EntryStr(forestry.speedFast)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.PrimaryColor = EntryDouble(8073150.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Binominal = EntryStr(Ferrugineus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Products = EntryLootList(List((30.0,StackHoneyComb(purple))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.purple.Traits.Speed = EntryStr(forestry.speedFaster)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.PrimaryColor = EntryDouble(2651799.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Binominal = EntryStr(Cyanus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Products = EntryLootList(List((30.0,StackHoneyComb(cyan))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Traits.Speed = EntryStr(forestry.speedFastest)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.cyan.Traits.Humidity_Tolerance = EntryStr(forestry.toleranceBoth3)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.PrimaryColor = EntryDouble(1.1250603E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Binominal = EntryStr(Argentum)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Products = EntryLootList(List((30.0,StackHoneyComb(silver))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.silver.Traits.Speed = EntryStr(forestry.speedFaster)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.PrimaryColor = EntryDouble(4408131.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Binominal = EntryStr(Pullus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Products = EntryLootList(List((30.0,StackHoneyComb(gray))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.gray.Traits.Speed = EntryStr(forestry.speedFaster)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.PrimaryColor = EntryDouble(1.4188952E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Binominal = EntryStr(Albens)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Products = EntryLootList(List((30.0,StackHoneyComb(pink))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Traits.Speed = EntryStr(forestry.speedFastest)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.pink.Traits.Humidity_Tolerance = EntryStr(forestry.toleranceBoth3)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.PrimaryColor = EntryDouble(4312372.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Binominal = EntryStr(Ferris)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Authority = EntryStr(Prasinus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Products = EntryLootList(List((30.0,StackHoneyComb(lime))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Traits.Speed = EntryStr(forestry.speedFastest)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lime.Traits.Temperature_Tolerance = EntryStr(forestry.toleranceBoth3)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.PrimaryColor = EntryDouble(1.4602026E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Binominal = EntryStr(Croceus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Products = EntryLootList(List((30.0,StackHoneyComb(yellow))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.yellow.Traits.Speed = EntryStr(forestry.speedFast)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.PrimaryColor = EntryDouble(6719955.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Binominal = EntryStr(Aer)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Products = EntryLootList(List((30.0,StackHoneyComb(lightblue))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.lightblue.Traits.Speed = EntryStr(forestry.speedFastest)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.PrimaryColor = EntryDouble(1.2801229E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Binominal = EntryStr(Magentas)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Products = EntryLootList(List((30.0,StackHoneyComb(magenta))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Traits.Speed = EntryStr(forestry.speedFastest)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.magenta.Traits.Temperature_Tolerance = EntryStr(forestry.toleranceBoth3)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.PrimaryColor = EntryDouble(1.5435844E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Binominal = EntryStr(Crocotulus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Products = EntryLootList(List((30.0,StackHoneyComb(orange))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.orange.Traits.Speed = EntryStr(forestry.speedFaster)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.PrimaryColor = EntryDouble(1.579032E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Binominal = EntryStr(Albus)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Authority = EntryStr(BDEW)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Branch = EntryStr(gendustry.color)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Products = EntryLootList(List((30.0,StackHoneyComb(white))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Traits.Base = EntryStr(forestry.speciesDiligent)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.white.Traits.Speed = EntryStr(forestry.speedFast)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.black.ID = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.black.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.black.SecondaryColor = EntryDouble(1973019.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.red.ID = EntryDouble(11.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.red.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.red.SecondaryColor = EntryDouble(1.1743532E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.green.ID = EntryDouble(12.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.green.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.green.SecondaryColor = EntryDouble(3887386.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.brown.ID = EntryDouble(13.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.brown.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.brown.SecondaryColor = EntryDouble(5320730.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.blue.ID = EntryDouble(14.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.blue.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.blue.SecondaryColor = EntryDouble(2437522.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.purple.ID = EntryDouble(15.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.purple.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.purple.SecondaryColor = EntryDouble(8073150.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.cyan.ID = EntryDouble(16.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.cyan.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.cyan.SecondaryColor = EntryDouble(2651799.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.silver.ID = EntryDouble(17.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.silver.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.silver.SecondaryColor = EntryDouble(1.1250603E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.gray.ID = EntryDouble(18.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.gray.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.gray.SecondaryColor = EntryDouble(4408131.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.pink.ID = EntryDouble(19.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.pink.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.pink.SecondaryColor = EntryDouble(1.4188952E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.lime.ID = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.lime.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.lime.SecondaryColor = EntryDouble(4312372.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.yellow.ID = EntryDouble(21.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.yellow.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.yellow.SecondaryColor = EntryDouble(1.4602026E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.lightblue.ID = EntryDouble(22.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.lightblue.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.lightblue.SecondaryColor = EntryDouble(6719955.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.magenta.ID = EntryDouble(23.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.magenta.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.magenta.SecondaryColor = EntryDouble(1.2801229E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.orange.ID = EntryDouble(24.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.orange.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.orange.SecondaryColor = EntryDouble(1.5435844E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.white.ID = EntryDouble(25.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.white.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyCombs.white.SecondaryColor = EntryDouble(1.579032E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.black.ID = EntryDouble(10.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.black.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.black.SecondaryColor = EntryDouble(1973019.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.red.ID = EntryDouble(11.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.red.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.red.SecondaryColor = EntryDouble(1.1743532E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.green.ID = EntryDouble(12.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.green.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.green.SecondaryColor = EntryDouble(3887386.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.brown.ID = EntryDouble(13.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.brown.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.brown.SecondaryColor = EntryDouble(5320730.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.blue.ID = EntryDouble(14.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.blue.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.blue.SecondaryColor = EntryDouble(2437522.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.purple.ID = EntryDouble(15.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.purple.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.purple.SecondaryColor = EntryDouble(8073150.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.cyan.ID = EntryDouble(16.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.cyan.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.cyan.SecondaryColor = EntryDouble(2651799.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.silver.ID = EntryDouble(17.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.silver.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.silver.SecondaryColor = EntryDouble(1.1250603E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.gray.ID = EntryDouble(18.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.gray.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.gray.SecondaryColor = EntryDouble(4408131.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.pink.ID = EntryDouble(19.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.pink.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.pink.SecondaryColor = EntryDouble(1.4188952E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.lime.ID = EntryDouble(20.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.lime.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.lime.SecondaryColor = EntryDouble(4312372.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.yellow.ID = EntryDouble(21.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.yellow.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.yellow.SecondaryColor = EntryDouble(1.4602026E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.lightblue.ID = EntryDouble(22.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.lightblue.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.lightblue.SecondaryColor = EntryDouble(6719955.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.magenta.ID = EntryDouble(23.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.magenta.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.magenta.SecondaryColor = EntryDouble(1.2801229E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.orange.ID = EntryDouble(24.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.orange.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.orange.SecondaryColor = EntryDouble(1.5435844E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.white.ID = EntryDouble(25.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.white.PrimaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: HoneyDrops.white.SecondaryColor = EntryDouble(1.579032E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Done
+[13:34:43] [Client thread/INFO] [bdlib]: Loading config: jar:file:/D:/New%20folder/Instances/Instances/NEW%20copy%20of%20my%20pack%20final%20outcome/mods/gendustry-1.6.5.8-mc1.12.2.jar!/assets/gendustry/config/bees_patreon.cfg
+[13:34:43] [Client thread/DEBUG] [bdlib]: Starting parsing
+[13:34:43] [Client thread/DEBUG] [bdlib]: Processing 1 statements
+[13:34:43] [Client thread/DEBUG] [bdlib]: Condition CndHaveRoot(Bees) - TRUE
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Branches.Patreon.UID = EntryStr(gendustry.patreon)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Branches.Patreon.Parent = EntryStr(apidae)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Branches.Patreon.Scientific = EntryStr(Patreoni)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Dominant = EntryStr(Yes)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Glowing = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.PrimaryColor = EntryDouble(7322359.0)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.SecondaryColor = EntryDouble(1.5258986E7)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Secret = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Humidity = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Temperature = EntryStr(Normal)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Nocturnal = EntryStr(No)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Binominal = EntryStr(Asinalis)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Authority = EntryStr(Evan B.)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Branch = EntryStr(gendustry.patreon)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Products = EntryLootList(List((15.0,StackItem(forestry,bee_combs,3))))
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Specialty = EntryLootList(List())
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Traits.Base = EntryStr(forestry.speciesMarshy)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Traits.Effect = EntryStr(forestry.effectNone)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Traits.Flower_Provider = EntryStr(forestry.flowersVanilla)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Config: Bees.derpious.Traits.Flowering = EntryStr(forestry.floweringFastest)
+[13:34:43] [Client thread/DEBUG] [bdlib]: Done
+[13:34:43] [Client thread/INFO] [bdlib]: Loading user config files for mod Gendustry
+[13:34:43] [Client thread/INFO] [bdlib]: Config loading for mod Gendustry finished
+[13:34:43] [Client thread/DEBUG] [gendustry]: Registering fluid Mutagen
+[13:34:43] [Client thread/INFO] [bdlib]: Loaded creative tabs for gendustry
+[13:34:43] [Client thread/INFO] [gendustry]: Blocks loaded
+[13:34:43] [Client thread/DEBUG] [gendustry]: Registering fluid LiquidDNA
+[13:34:43] [Client thread/DEBUG] [gendustry]: Registering fluid Protein
+[13:34:43] [Client thread/INFO] [gendustry]: Fluids loaded
+[13:34:43] [Client thread/INFO] [gendustry]: Items loaded
+[13:34:44] [Client thread/INFO] [gendustry]: Machines loaded
+[13:34:44] [Client thread/INFO] [gendustry]: Resource manager reload, new language: en_us
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ResourceListener$ took 0.003s
+[13:34:44] [Client thread/INFO] [gendustry]: Registered reload listener
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ExtendedModelLoader$ took 0.000s
+[13:34:44] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod gendustry
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - GenDustry took 1.085s
+[13:34:44] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod bqforestry
+[13:34:44] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod bqforestry
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - BQ Forestry Expansion took 0.020s
+[13:34:44] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod careerbees
+[13:34:44] [Client thread/TRACE] [FML]: Automatically registered mod careerbees entity entitychunkdata as careerbees:entitychunkdata
+[13:34:44] [Client thread/TRACE] [FML]: Automatically registered mod careerbees entity beeswarm as careerbees:beeswarm
+[13:34:44] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod careerbees
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - careerbees took 0.223s
+[13:34:44] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod contenttweaker
+[13:34:44] [Client thread/INFO] [FML]: OBJLoader: Domain contenttweaker has been added.
+[13:34:44] [Client thread/INFO] [contenttweaker]: Module Vanilla CraftTweaker has successfully loaded
+[13:34:44] [Client thread/FATAL] [contenttweaker]: Module Chickens did not load due to issue: Mod with modid: chickens was not found
+[13:34:44] [Client thread/INFO] [contenttweaker]: Module Materials has successfully loaded
+[13:34:44] [Client thread/FATAL] [contenttweaker]: Module Tinkers did not load due to issue: Mod with modid: tconstruct was not found
+[13:34:44] [Client thread/INFO] [STDOUT]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: mods.contenttweaker.IItemUse
+[13:34:44] [Client thread/INFO] [STDOUT]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: mods.contenttweaker.IItemUse
+[13:34:44] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod contenttweaker
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - ContentTweaker took 0.634s
+[13:34:44] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod craftingtweaks
+[13:34:44] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod craftingtweaks
+[13:34:44] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Crafting Tweaks took 0.017s
+[13:34:44] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod ctgui
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod ctgui
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CT-GUI took 0.011s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod crafttweakerjei
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod crafttweakerjei
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker JEI Support took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod crafttweakerutils
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod crafttweakerutils
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker Utils took 0.003s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod ctintegration
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod ctintegration
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - CraftTweaker Integration took 0.001s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod cucumber
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod cucumber
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Cucumber Library took 0.005s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod customizeddungeonloot
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod customizeddungeonloot
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Customized Dungeon Loot took 0.010s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod p455w0rdslib
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod p455w0rdslib
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - p455w0rd's Library took 0.020s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod danknull
+[13:34:45] [Client thread/INFO] [/dank/null]: The One Probe Integation: Disabled
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod danknull
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - /dank/null took 0.060s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod dldungeonsjbg
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: themesdir is D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will use API? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: themesdir will be set to D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\themes\
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: themesdir File is be set to D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\themes
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: themesdir is D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\themes
+[13:34:45] [Client thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files D:\New folder\Instances\Instances\NEW copy of my pack final outcome\config\DLDungeonsJBG\chests.cfg
+[13:34:45] [Client thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod dldungeonsjbg
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Doomlike Dungeons took 0.097s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod dungeonsmod
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Rogue as dungeonsmod:rogue
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Anthermite as dungeonsmod:anthermite
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Mimic as dungeonsmod:mimic
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Crawler as dungeonsmod:crawler
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Slimond as dungeonsmod:slimond
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Piranha as dungeonsmod:piranha
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Shark as dungeonsmod:shark
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Kraken as dungeonsmod:kraken
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity King as dungeonsmod:king
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Deserted as dungeonsmod:deserted
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Traveler as dungeonsmod:traveler
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity IronSlime as dungeonsmod:ironslime
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity KingGuard as dungeonsmod:kingguard
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Ninja as dungeonsmod:ninja
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Refractor as dungeonsmod:refractor
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Scientist as dungeonsmod:scientist
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Phoenix as dungeonsmod:phoenix
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Sun as dungeonsmod:sun
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeonsmod entity Slimewolf as dungeonsmod:slimewolf
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod dungeonsmod
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Dungeons Mod took 0.155s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod dungeontactics
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:towerguardian as dungeontactics:towerguardian
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:bone_wolf as dungeontactics:bone_wolf
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:attacken as dungeontactics:attacken
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:cushion_entity as dungeontactics:cushion_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:powderkeg_entity as dungeontactics:powderkeg_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:slingshotammo_entity as dungeontactics:slingshotammo_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:goldnugget_entity as dungeontactics:goldnugget_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:throwingknife_entity as dungeontactics:throwingknife_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:bullet_entity as dungeontactics:bullet_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:fragbomb_entity as dungeontactics:fragbomb_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:pyrobomb_entity as dungeontactics:pyrobomb_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:portingbomb_entity as dungeontactics:portingbomb_entity
+[13:34:45] [Client thread/TRACE] [FML]: Automatically registered mod dungeontactics entity dungeontactics:cryobomb_entity as dungeontactics:cryobomb_entity
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod dungeontactics
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - DungeonTactics took 0.074s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod extendedcrafting
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_pedestal`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_crafting_core`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_automation_interface`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_basic_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_advanced_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_elite_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_ultimate_table`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ec_compressor`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extendedcraftingender_crafter`, expected `extendedcrafting`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod extendedcrafting
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - ExtendedCrafting: Nomifactory Edition took 0.087s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod silentlib
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod silentlib
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Silent Lib took 0.022s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod extendeddays
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod extendeddays
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Extended Days took 0.042s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod foodtweaker
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod foodtweaker
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Food Tweaker took 0.004s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forgelin
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for securitycraft since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for applecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for appliedenergistics2 since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for baubles since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerjei since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctgui since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for astralsorcery since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for autoreglib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for codechickenlib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for avaritia since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mtlib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for modtweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jei since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for base since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for bdlib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for forestry since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for beebetteratbees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for betterbuilderswands since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for betterquesting since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for bqt since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for genetics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extrabees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extratrees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botany since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for binniedesign since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for botania since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for redstoneflux since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for gendustry since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for bqforestry since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for careerbees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for contenttweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for craftingtweaks since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerjei since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctgui since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerjei since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctgui since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for crafttweakerutils since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ctintegration since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for cucumber since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for customizeddungeonloot since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for p455w0rdslib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for danknull since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for dldungeonsjbg since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for dungeonsmod since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for dungeontactics since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extendedcrafting since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for silentlib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for extendeddays since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for foodtweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for forgelin
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for gendustryjei since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for harvestcrafttweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for harvestcraft since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jaffa since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jaopcasingularities since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jargca since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jaopca since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jeibees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jehc since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for loottweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for jeresources since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for lootbags since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for timecore since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for lootgames since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for lootoverhaul since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for lootr since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for lttweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for looty since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for magicbees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for manatweaks since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mysticalagriculture since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for matc since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mcjtylib_ng since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for modularrouters since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for numina since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for powersuits since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for morebees since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for morelootstuff since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for moreloottables since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for moretweaker since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mysticalagradditions since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for immersiveengineering since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mystagradcompat since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mysticaladaptations since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for mysticalcreations since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for nates_foodcraft since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for notenoughwands since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for nuclearcraft since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for omlib since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for ompd since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for openmodularturrets since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for packmode since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for pamsbreadcraft since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for pamscookables since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for psi since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for psipherals since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for roguelike since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for rpsideas since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for scalingfeast since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for bq_standard since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for zensummoning since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for zenutils since it does not use KotlinAdapter
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Attempting to register Kotlin @EventBusSubscriber objects for librarianlib
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleSpawner for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ClientTickHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.LibClientProxy for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.OreDictionaryRegistrar for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.BlockModSlab for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.guicontainer.GuiContainerBase for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiOverlay for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.CustomBlockMapSprites for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particle.ParticleRenderManager for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.F3Handler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.ModSoundEvent for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.common.RegistrationHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.ModelHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.gui.GuiBase for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.structure.InWorldRender for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.item.IShieldItem$Companion for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.animator.Animator for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.RayWorldCollider for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.particlesystem.GameParticleSystems for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.chunkdata.ChunkWorldData for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.config.EasyConfigHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.block.IMultipleComponentGeometry for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.client.ScissorUtil for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.network.PacketHandler for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.core.client.TextureMapExporter for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.utilities.ClientRayWorldCollider for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.worlddata.WorldDataContainer for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Could not determine owning mod for @EventBusSubscriber on com.teamwizardry.librarianlib.features.base.capability.CapabilityMod for mod librarianliblate
+[13:34:45] [Client thread/DEBUG] [net.shadowfacts.forgelin.ForgelinAutomaticEventSubscriber]: Skipping @EventBusSubscriber injection for wrapup since it does not use KotlinAdapter
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forgelin
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Shadowfacts' Forgelin took 0.009s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod gendustryjei
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod gendustryjei
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Gendustry JEI Addon took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod harvestcrafttweaker
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod harvestcrafttweaker
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - HarvestCraft Tweaker took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod harvestcraft
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod harvestcraft
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Pam's HarvestCraft took 0.209s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jaffa
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jaffa
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - JAFFA (HarvestCraft Addon) took 0.003s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jaopcasingularities
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jaopcasingularities
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - JAOPCASingularities took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jargca
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jargca
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - JARGCA took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jaopca
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jaopca
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - JAOPCA took 0.003s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jeibees
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jeibees
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - JEI Bees took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jehc
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jehc
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Just Enough HarvestCraft took 0.000s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod loottweaker
+[13:34:45] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into loottweaker for type INSTANCE
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod loottweaker
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - LootTweaker took 0.014s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod jeresources
+[13:34:45] [Client thread/INFO] [jeresources]: Loading configs..
+[13:34:45] [Client thread/INFO] [jeresources]: Updating ModMetaData...
+[13:34:45] [Client thread/INFO] [jeresources]: Providing API...
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod jeresources
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Just Enough Resources took 0.031s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod librarianlib
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: java.io.FileNotFoundException: https://www.dropbox.com/s/dl/9isvxvrq5uxovzu/Customized%20Dungeon%20Loot%201.12.txt
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivileged(Native Method)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at java.net.URL.openStream(URL.java:1038)
+[13:34:45] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1:run:34]: 	at xxrexraptorxx.customizeddungeonloot.util.UpdateChecker$1.run(UpdateChecker.java:24)
+[13:34:45] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod librarianlib
+[13:34:45] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - LibrarianLib took 0.090s
+[13:34:45] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod lootbags
+[13:34:45] [Client thread/INFO] [lootbags]: Your current LootBags version is: 2.5.8.5; Your current LootBags Config Version is: CONFIGVER257
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod lootbags
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Loot Bags took 0.055s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod timecore
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod timecore
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Time Core took 0.000s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod lootgames
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod lootgames
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - LootGames took 0.048s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod lootoverhaul
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod lootoverhaul
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Loot Overhaul took 0.119s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod lootr
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod lootr
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Lootr took 0.009s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod lttweaker
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod lttweaker
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Loot Table Tweaker took 0.003s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod looty
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod looty
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Looty took 0.000s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod magicbees
+[13:34:46] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitymagicbeeseffectjar`, expected `magicbees`. This could be a intended override, but in most cases indicates a broken mod.
+[13:34:46] [Client thread/INFO] [MagicBees]: Mod redstonearsenal not detected, not activating module RedstoneArsenal Integration
+[13:34:46] [Client thread/INFO] [MagicBees]: Mod railcraft not detected, not activating module Railcraft Integration
+[13:34:46] [Client thread/INFO] [MagicBees]: Mod thermalexpansion not detected, not activating module ThermalExpansion Integration
+[13:34:46] [Client thread/INFO] [MagicBees]: Preinitializing modules for mod magicbees...
+[13:34:46] [Client thread/INFO] [MagicBees]:    Preinitializing module AE2 Integration
+[13:34:46] [Client thread/INFO] [MagicBees]:    Preinitializing module Vanilla Module
+[13:34:46] [Client thread/INFO] [MagicBees]:    Preinitializing module Botania Integration
+[13:34:46] [Client thread/INFO] [MagicBees]: Preinitialized 3 modules for mod magicbees
+[13:34:46] [Client thread/INFO] [MagicBees]: MagicBees has Pre-initialized in 273 ms
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod magicbees
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - MagicBees took 0.273s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod manatweaks
+[13:34:46] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod manatweaks
+[13:34:46] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - ManaTweaks took 0.000s
+[13:34:46] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mysticalagriculture
