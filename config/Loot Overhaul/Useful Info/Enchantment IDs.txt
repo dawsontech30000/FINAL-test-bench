@@ -680,3 +680,67 @@ astralsorcery:enchantment.as.smelting
    - Max Level: 1
 
 
+cofhcore:holding
+   - Id: 84
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+cofhcore:insight
+   - Id: 85
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+cofhcore:leech
+   - Id: 86
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+cofhcore:multishot
+   - Id: 87
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+cofhcore:smashing
+   - Id: 88
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cofhcore:smelting
+   - Id: 89
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cofhcore:soulbound
+   - Id: 90
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+cofhcore:vorpal
+   - Id: 91
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+

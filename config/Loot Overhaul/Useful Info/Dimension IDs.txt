@@ -63,3 +63,12 @@ Storage Cell
 	- Terrain Scale: 1.0
 
 
+twilight_forest
+	- Id: 7
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 161.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+

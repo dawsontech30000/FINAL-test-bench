@@ -29,3 +29,11 @@
 	#Should the singularity be added to the Infinity Catalyst recipe.
 	addToCatalyst = true
 
+[thermalexpansion_mysticalagriculture]
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Phyto-Gro.
+	basicChance = 100
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Rich Phyto-Gro.
+	richChance = 105
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Fluxed Phyto-Gro.
+	fluxChance = 110
+

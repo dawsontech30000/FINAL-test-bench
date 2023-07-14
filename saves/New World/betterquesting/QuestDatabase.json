@@ -10239,25 +10239,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -10282,25 +10278,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -10427,25 +10419,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -10470,25 +10458,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -10616,25 +10600,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -10659,25 +10639,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -10807,25 +10783,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -10850,25 +10822,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -11202,25 +11170,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -11245,25 +11209,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -11495,25 +11455,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -11538,25 +11494,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -11686,25 +11638,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -11729,25 +11677,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -11874,25 +11818,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -11917,25 +11857,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -12063,25 +11999,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -12106,25 +12038,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -12254,25 +12182,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -12297,25 +12221,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -12649,25 +12569,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -12692,25 +12608,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -12842,12 +12754,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:augment",
             "Count:3": 64,
-            "tag:10": {
-              "orig_meta:3": 497,
-              "orig_id:8": "thermalexpansion:augment"
-            },
             "Damage:2": 497,
             "OreDict:8": ""
           },
@@ -12871,12 +12779,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:augment",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 497,
-                "orig_id:8": "thermalexpansion:augment"
-              },
               "Damage:2": 497,
               "OreDict:8": ""
             }
@@ -12958,15 +12862,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -12991,15 +12894,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13026,15 +12928,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13059,15 +12960,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13094,15 +12994,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13127,15 +13026,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13162,15 +13060,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13195,15 +13092,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13230,15 +13126,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13263,15 +13158,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13298,15 +13192,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13331,15 +13224,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13366,15 +13258,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13399,15 +13290,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13434,15 +13324,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13467,15 +13356,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13502,15 +13390,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13535,15 +13422,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13570,15 +13456,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13603,15 +13488,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -13637,15 +13521,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -13670,15 +13553,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -15304,25 +15186,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -15347,25 +15225,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -15492,25 +15366,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -15535,25 +15405,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -15681,25 +15547,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -15724,25 +15586,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -15872,25 +15730,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -15915,25 +15769,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -16267,25 +16117,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -16310,25 +16156,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -16560,25 +16402,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -16603,25 +16441,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -16751,25 +16585,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -16794,25 +16624,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -16939,25 +16765,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -16982,25 +16804,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -17128,25 +16946,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -17171,25 +16985,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -17319,25 +17129,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -17362,25 +17168,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -17714,25 +17516,21 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:machine",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 15,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Facing:1": 3,
-                "Energy:3": 0,
-                "SideCache:7": [
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2
-                ],
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:machine"
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
             },
             "Damage:2": 15,
             "OreDict:8": ""
@@ -17757,25 +17555,21 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:machine",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 15,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Facing:1": 3,
-                  "Energy:3": 0,
-                  "SideCache:7": [
-                    1,
-                    1,
-                    2,
-                    2,
-                    2,
-                    2
-                  ],
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:machine"
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
               },
               "Damage:2": 15,
               "OreDict:8": ""
@@ -17907,12 +17701,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalexpansion:augment",
             "Count:3": 64,
-            "tag:10": {
-              "orig_meta:3": 497,
-              "orig_id:8": "thermalexpansion:augment"
-            },
             "Damage:2": 497,
             "OreDict:8": ""
           },
@@ -17936,12 +17726,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalexpansion:augment",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 497,
-                "orig_id:8": "thermalexpansion:augment"
-              },
               "Damage:2": 497,
               "OreDict:8": ""
             }
@@ -18023,15 +17809,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18056,15 +17841,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18091,15 +17875,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18124,15 +17907,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18159,15 +17941,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18192,15 +17973,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18227,15 +18007,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18260,15 +18039,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18295,15 +18073,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18328,15 +18105,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18363,15 +18139,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18396,15 +18171,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18431,15 +18205,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18464,15 +18237,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18499,15 +18271,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18532,15 +18303,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18567,15 +18337,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18600,15 +18369,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18635,15 +18403,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18668,15 +18435,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -18702,15 +18468,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -18735,15 +18500,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -19443,12 +19207,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 359,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 359,
             "OreDict:8": ""
           },
@@ -19472,12 +19232,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 359,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 359,
               "OreDict:8": ""
             }
@@ -19502,12 +19258,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 358,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 358,
             "OreDict:8": ""
           },
@@ -19531,12 +19283,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 358,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 358,
               "OreDict:8": ""
             }
@@ -19561,12 +19309,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 355,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 355,
             "OreDict:8": ""
           },
@@ -19590,12 +19334,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 356,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 356,
               "OreDict:8": ""
             }
@@ -19620,12 +19360,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 64,
-            "tag:10": {
-              "orig_meta:3": 354,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 354,
             "OreDict:8": ""
           },
@@ -19649,12 +19385,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 354,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 354,
               "OreDict:8": ""
             }
@@ -19679,12 +19411,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 357,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 357,
             "OreDict:8": ""
           },
@@ -19708,12 +19436,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 357,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 357,
               "OreDict:8": ""
             }
@@ -19738,12 +19462,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 353,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 353,
             "OreDict:8": ""
           },
@@ -19767,12 +19487,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 353,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 353,
               "OreDict:8": ""
             }
@@ -19797,12 +19513,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 328,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 328,
             "OreDict:8": ""
           },
@@ -19826,12 +19538,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 328,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 328,
               "OreDict:8": ""
             }
@@ -19856,12 +19564,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 352,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 352,
             "OreDict:8": ""
           },
@@ -19885,12 +19589,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 352,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 352,
               "OreDict:8": ""
             }
@@ -19915,12 +19615,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 327,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 327,
             "OreDict:8": ""
           },
@@ -19944,12 +19640,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 64,
-              "tag:10": {
-                "orig_meta:3": 327,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 327,
               "OreDict:8": ""
             }
@@ -19974,12 +19666,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 325,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 325,
             "OreDict:8": ""
           },
@@ -20003,12 +19691,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 325,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 325,
               "OreDict:8": ""
             }
@@ -20033,12 +19717,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 322,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 322,
             "OreDict:8": ""
           },
@@ -20062,12 +19742,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 322,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 322,
               "OreDict:8": ""
             }
@@ -20092,12 +19768,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 324,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 324,
             "OreDict:8": ""
           },
@@ -20121,12 +19793,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 324,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 324,
               "OreDict:8": ""
             }
@@ -20151,12 +19819,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 32,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 32,
             "OreDict:8": ""
           },
@@ -20180,12 +19844,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 32,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 32,
               "OreDict:8": ""
             }
@@ -20210,12 +19870,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 323,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 323,
             "OreDict:8": ""
           },
@@ -20239,12 +19895,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 323,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 323,
               "OreDict:8": ""
             }
@@ -20269,12 +19921,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 353,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 353,
             "OreDict:8": ""
           },
@@ -20298,12 +19946,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 33,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 33,
               "OreDict:8": ""
             }
@@ -20328,12 +19972,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 321,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 321,
             "OreDict:8": ""
           },
@@ -20357,12 +19997,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 321,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 321,
               "OreDict:8": ""
             }
@@ -20387,12 +20023,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 320,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 320,
             "OreDict:8": ""
           },
@@ -20416,12 +20048,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 320,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 320,
               "OreDict:8": ""
             }
@@ -20446,12 +20074,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:material",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 326,
-              "orig_id:8": "thermalfoundation:material"
-            },
             "Damage:2": 326,
             "OreDict:8": ""
           },
@@ -20475,12 +20099,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:material",
               "Count:3": 128,
-              "tag:10": {
-                "orig_meta:3": 326,
-                "orig_id:8": "thermalfoundation:material"
-              },
               "Damage:2": 326,
               "OreDict:8": ""
             }
@@ -20534,15 +20154,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Facing:1": 3,
-                "Level:1": 0
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "Facing:1": 3,
+              "Level:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -20567,15 +20186,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Facing:1": 3,
-                  "Level:1": 0
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "Facing:1": 3,
+                "Level:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -20602,16 +20220,15 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Creative:1": 0,
-                "Level:1": 2
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 2
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -20636,16 +20253,15 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Creative:1": 0,
-                  "Level:1": 2
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "RSControl:1": 0,
+                "Creative:1": 0,
+                "Level:1": 2
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -20672,16 +20288,15 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Creative:1": 0,
-                "Level:1": 3
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 3
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -20706,16 +20321,15 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Creative:1": 0,
-                  "Level:1": 3
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "RSControl:1": 0,
+                "Creative:1": 0,
+                "Level:1": 3
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -20742,16 +20356,15 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Creative:1": 0,
-                "Level:1": 4
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 4
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -20776,16 +20389,15 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "Creative:1": 0,
-                  "Level:1": 4
-                },
-                "orig_id:8": "thermalexpansion:cache"
+                "RSControl:1": 0,
+                "Creative:1": 0,
+                "Level:1": 4
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -20811,12 +20423,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "thermalfoundation:upgrade",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "thermalfoundation:upgrade"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -20840,12 +20448,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:upgrade",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "thermalfoundation:upgrade"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -20870,16 +20474,15 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Creative:1": 0,
-                "Level:1": 2
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 2
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -20904,12 +20507,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:upgrade",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_id:8": "thermalfoundation:upgrade"
-              },
               "Damage:2": 1,
               "OreDict:8": ""
             }
@@ -20934,16 +20533,15 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Creative:1": 0,
-                "Level:1": 3
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 3
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -20968,12 +20566,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:upgrade",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_id:8": "thermalfoundation:upgrade"
-              },
               "Damage:2": 2,
               "OreDict:8": ""
             }
@@ -20998,16 +20592,15 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "Creative:1": 0,
-                "Level:1": 4
-              },
-              "orig_id:8": "thermalexpansion:cache"
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 4
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -21032,12 +20625,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "thermalfoundation:upgrade",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 3,
-                "orig_id:8": "thermalfoundation:upgrade"
-              },
               "Damage:2": 3,
               "OreDict:8": ""
             }
@@ -21197,28 +20786,27 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "ench:9": {
-                  "0:10": {
-                    "lvl:2": 4,
-                    "id:2": 46
-                  }
-                },
-                "Item:10": {
-                  "id:2": 4,
-                  "Count:3": 60000,
-                  "Damage:2": 0
-                },
-                "Creative:1": 0,
-                "Level:1": 0,
-                "Lock:1": 1
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
               },
-              "orig_id:8": "thermalexpansion:cache"
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 60000,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 0,
+              "Lock:1": 1
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -21243,28 +20831,27 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 60000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 0,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21279,28 +20866,27 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 60000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 0,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21324,28 +20910,27 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "ench:9": {
-                  "0:10": {
-                    "lvl:2": 4,
-                    "id:2": 46
-                  }
-                },
-                "Item:10": {
-                  "id:2": 4,
-                  "Count:3": 240000,
-                  "Damage:2": 0
-                },
-                "Creative:1": 0,
-                "Level:1": 1,
-                "Lock:1": 1
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
               },
-              "orig_id:8": "thermalexpansion:cache"
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 240000,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 1,
+              "Lock:1": 1
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -21370,28 +20955,27 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 240000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 1,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21406,55 +20990,53 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 60000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 0,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 240000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 1,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21478,28 +21060,27 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "ench:9": {
-                  "0:10": {
-                    "lvl:2": 4,
-                    "id:2": 46
-                  }
-                },
-                "Item:10": {
-                  "id:2": 4,
-                  "Count:3": 472640,
-                  "Damage:2": 0
-                },
-                "Creative:1": 0,
-                "Level:1": 2,
-                "Lock:1": 0
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
               },
-              "orig_id:8": "thermalexpansion:cache"
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 472640,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 2,
+              "Lock:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -21524,28 +21105,27 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 472640,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 2,
-                  "Lock:1": 0
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 472640,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 2,
+                "Lock:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21560,82 +21140,79 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 60000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 0,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 240000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 1,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 472640,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 2,
-                  "Lock:1": 0
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 472640,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 2,
+                "Lock:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21659,28 +21236,27 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "ench:9": {
-                  "0:10": {
-                    "lvl:2": 4,
-                    "id:2": 46
-                  }
-                },
-                "Item:10": {
-                  "id:2": 4,
-                  "Count:3": 840416,
-                  "Damage:2": 0
-                },
-                "Creative:1": 0,
-                "Level:1": 3,
-                "Lock:1": 0
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
               },
-              "orig_id:8": "thermalexpansion:cache"
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 840416,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 3,
+              "Lock:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -21705,28 +21281,27 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 840416,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 3,
-                  "Lock:1": 0
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 840416,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 3,
+                "Lock:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21741,109 +21316,105 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 60000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 0,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 240000,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 1,
-                  "Lock:1": 1
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 472640,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 2,
-                  "Lock:1": 0
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 472640,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 2,
+                "Lock:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "3:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 840416,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 3,
-                  "Lock:1": 0
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 840416,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 3,
+                "Lock:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21867,28 +21438,27 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "RSControl:1": 0,
-                "ench:9": {
-                  "0:10": {
-                    "lvl:2": 4,
-                    "id:2": 46
-                  }
-                },
-                "Item:10": {
-                  "id:2": 4,
-                  "Count:3": 1312563,
-                  "Damage:2": 0
-                },
-                "Creative:1": 0,
-                "Level:1": 4,
-                "Lock:1": 0
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
               },
-              "orig_id:8": "thermalexpansion:cache"
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 1312563,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 4,
+              "Lock:1": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -21913,28 +21483,27 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "RSControl:1": 0,
-                  "ench:9": {
-                    "0:10": {
-                      "lvl:2": 4,
-                      "id:2": 46
-                    }
-                  },
-                  "Item:10": {
-                    "id:2": 4,
-                    "Count:3": 1312563,
-                    "Damage:2": 0
-                  },
-                  "Creative:1": 0,
-                  "Level:1": 4,
-                  "Lock:1": 0
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
                 },
-                "orig_id:8": "thermalexpansion:cache"
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 1312563,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 4,
+                "Lock:1": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -21995,13 +21564,12 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {},
-              "orig_id:8": "thermalexpansion:reservoir"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -22025,13 +21593,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {},
-                "orig_id:8": "thermalexpansion:reservoir"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -22056,13 +21623,12 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 1,
-              "orig_tag:10": {},
-              "orig_id:8": "thermalexpansion:reservoir"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
             "Damage:2": 1,
             "OreDict:8": ""
           },
@@ -22086,13 +21652,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 1,
-                "orig_tag:10": {},
-                "orig_id:8": "thermalexpansion:reservoir"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 1,
               "OreDict:8": ""
             }
@@ -22117,13 +21682,12 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 2,
-              "orig_tag:10": {},
-              "orig_id:8": "thermalexpansion:reservoir"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
             "Damage:2": 2,
             "OreDict:8": ""
           },
@@ -22147,13 +21711,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 2,
-                "orig_tag:10": {},
-                "orig_id:8": "thermalexpansion:reservoir"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 2,
               "OreDict:8": ""
             }
@@ -22178,13 +21741,12 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 3,
-              "orig_tag:10": {},
-              "orig_id:8": "thermalexpansion:reservoir"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
             "Damage:2": 3,
             "OreDict:8": ""
           },
@@ -22208,13 +21770,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 3,
-                "orig_tag:10": {},
-                "orig_id:8": "thermalexpansion:reservoir"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 3,
               "OreDict:8": ""
             }
@@ -22239,13 +21800,12 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
-            "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 4,
-              "orig_tag:10": {},
-              "orig_id:8": "thermalexpansion:reservoir"
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
             },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
             "Damage:2": 4,
             "OreDict:8": ""
           },
@@ -22269,13 +21829,12 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 4,
-                "orig_tag:10": {},
-                "orig_id:8": "thermalexpansion:reservoir"
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
               },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 4,
               "OreDict:8": ""
             }
@@ -22300,14 +21859,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Energy:3": 1000000
-              },
-              "orig_id:8": "thermalexpansion:capacitor"
+              "Energy:3": 1000000
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -22332,14 +21890,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Energy:3": 1000000
-                },
-                "orig_id:8": "thermalexpansion:capacitor"
+                "Energy:3": 1000000
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -22365,14 +21922,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 1,
-              "orig_tag:10": {
-                "Energy:3": 4000000
-              },
-              "orig_id:8": "thermalexpansion:capacitor"
+              "Energy:3": 4000000
             },
             "Damage:2": 1,
             "OreDict:8": ""
@@ -22397,14 +21953,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 1,
-                "orig_tag:10": {
-                  "Energy:3": 4000000
-                },
-                "orig_id:8": "thermalexpansion:capacitor"
+                "Energy:3": 4000000
               },
               "Damage:2": 1,
               "OreDict:8": ""
@@ -22430,14 +21985,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 2,
-              "orig_tag:10": {
-                "Energy:3": 9000000
-              },
-              "orig_id:8": "thermalexpansion:capacitor"
+              "Energy:3": 9000000
             },
             "Damage:2": 2,
             "OreDict:8": ""
@@ -22462,14 +22016,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 2,
-                "orig_tag:10": {
-                  "Energy:3": 9000000
-                },
-                "orig_id:8": "thermalexpansion:capacitor"
+                "Energy:3": 9000000
               },
               "Damage:2": 2,
               "OreDict:8": ""
@@ -22495,14 +22048,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 3,
-              "orig_tag:10": {
-                "Energy:3": 16000000
-              },
-              "orig_id:8": "thermalexpansion:capacitor"
+              "Energy:3": 16000000
             },
             "Damage:2": 3,
             "OreDict:8": ""
@@ -22527,14 +22079,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 3,
-                "orig_tag:10": {
-                  "Energy:3": 16000000
-                },
-                "orig_id:8": "thermalexpansion:capacitor"
+                "Energy:3": 16000000
               },
               "Damage:2": 3,
               "OreDict:8": ""
@@ -22563,14 +22114,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 4,
-              "orig_tag:10": {
-                "Energy:3": 25000000
-              },
-              "orig_id:8": "thermalexpansion:capacitor"
+              "Energy:3": 25000000
             },
             "Damage:2": 4,
             "OreDict:8": ""
@@ -22595,14 +22145,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 4,
-                "orig_tag:10": {
-                  "Energy:3": 25000000
-                },
-                "orig_id:8": "thermalexpansion:capacitor"
+                "Energy:3": 25000000
               },
               "Damage:2": 4,
               "OreDict:8": ""
@@ -22628,14 +22177,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Energy:3": 40000
-              },
-              "orig_id:8": "thermalinnovation:magnet"
+              "Energy:3": 40000
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -22660,14 +22208,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Energy:3": 40000
-                },
-                "orig_id:8": "thermalinnovation:magnet"
+                "Energy:3": 40000
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -22693,14 +22240,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 1,
-              "orig_tag:10": {
-                "Energy:3": 120000
-              },
-              "orig_id:8": "thermalinnovation:magnet"
+              "Energy:3": 120000
             },
             "Damage:2": 1,
             "OreDict:8": ""
@@ -22725,14 +22271,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 1,
-                "orig_tag:10": {
-                  "Energy:3": 120000
-                },
-                "orig_id:8": "thermalinnovation:magnet"
+                "Energy:3": 120000
               },
               "Damage:2": 1,
               "OreDict:8": ""
@@ -22758,14 +22303,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 2,
-              "orig_tag:10": {
-                "Energy:3": 240000
-              },
-              "orig_id:8": "thermalinnovation:magnet"
+              "Energy:3": 240000
             },
             "Damage:2": 2,
             "OreDict:8": ""
@@ -22790,14 +22334,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 2,
-                "orig_tag:10": {
-                  "Energy:3": 240000
-                },
-                "orig_id:8": "thermalinnovation:magnet"
+                "Energy:3": 240000
               },
               "Damage:2": 2,
               "OreDict:8": ""
@@ -22823,14 +22366,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 3,
-              "orig_tag:10": {
-                "Energy:3": 400000
-              },
-              "orig_id:8": "thermalinnovation:magnet"
+              "Energy:3": 400000
             },
             "Damage:2": 3,
             "OreDict:8": ""
@@ -22855,14 +22397,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 3,
-                "orig_tag:10": {
-                  "Energy:3": 400000
-                },
-                "orig_id:8": "thermalinnovation:magnet"
+                "Energy:3": 400000
               },
               "Damage:2": 3,
               "OreDict:8": ""
@@ -22888,14 +22429,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 4,
-              "orig_tag:10": {
-                "Energy:3": 600000
-              },
-              "orig_id:8": "thermalinnovation:magnet"
+              "Energy:3": 600000
             },
             "Damage:2": 4,
             "OreDict:8": ""
@@ -22920,14 +22460,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 4,
-                "orig_tag:10": {
-                  "Energy:3": 600000
-                },
-                "orig_id:8": "thermalinnovation:magnet"
+                "Energy:3": 600000
               },
               "Damage:2": 4,
               "OreDict:8": ""
@@ -22953,15 +22492,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Energy:3": 40000,
-                "Mode:3": 1
-              },
-              "orig_id:8": "thermalinnovation:drill"
+              "Energy:3": 40000,
+              "Mode:3": 1
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -22986,15 +22524,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Energy:3": 40000,
-                  "Mode:3": 1
-                },
-                "orig_id:8": "thermalinnovation:drill"
+                "Energy:3": 40000,
+                "Mode:3": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -23020,15 +22557,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 1,
-              "orig_tag:10": {
-                "Energy:3": 120000,
-                "Mode:3": 2
-              },
-              "orig_id:8": "thermalinnovation:drill"
+              "Energy:3": 120000,
+              "Mode:3": 2
             },
             "Damage:2": 1,
             "OreDict:8": ""
@@ -23053,15 +22589,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 1,
-                "orig_tag:10": {
-                  "Energy:3": 120000,
-                  "Mode:3": 2
-                },
-                "orig_id:8": "thermalinnovation:drill"
+                "Energy:3": 120000,
+                "Mode:3": 2
               },
               "Damage:2": 1,
               "OreDict:8": ""
@@ -23087,15 +22622,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 2,
-              "orig_tag:10": {
-                "Energy:3": 240000,
-                "Mode:3": 2
-              },
-              "orig_id:8": "thermalinnovation:drill"
+              "Energy:3": 240000,
+              "Mode:3": 2
             },
             "Damage:2": 2,
             "OreDict:8": ""
@@ -23120,15 +22654,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 2,
-                "orig_tag:10": {
-                  "Energy:3": 240000,
-                  "Mode:3": 2
-                },
-                "orig_id:8": "thermalinnovation:drill"
+                "Energy:3": 240000,
+                "Mode:3": 2
               },
               "Damage:2": 2,
               "OreDict:8": ""
@@ -23154,15 +22687,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 3,
-              "orig_tag:10": {
-                "Energy:3": 400000,
-                "Mode:3": 3
-              },
-              "orig_id:8": "thermalinnovation:drill"
+              "Energy:3": 400000,
+              "Mode:3": 3
             },
             "Damage:2": 3,
             "OreDict:8": ""
@@ -23187,15 +22719,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 3,
-                "orig_tag:10": {
-                  "Energy:3": 400000,
-                  "Mode:3": 3
-                },
-                "orig_id:8": "thermalinnovation:drill"
+                "Energy:3": 400000,
+                "Mode:3": 3
               },
               "Damage:2": 3,
               "OreDict:8": ""
@@ -23221,15 +22752,14 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 4,
-              "orig_tag:10": {
-                "Energy:3": 600000,
-                "Mode:3": 4
-              },
-              "orig_id:8": "thermalinnovation:drill"
+              "Energy:3": 600000,
+              "Mode:3": 4
             },
             "Damage:2": 4,
             "OreDict:8": ""
@@ -23254,15 +22784,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 4,
-                "orig_tag:10": {
-                  "Energy:3": 600000,
-                  "Mode:3": 4
-                },
-                "orig_id:8": "thermalinnovation:drill"
+                "Energy:3": 600000,
+                "Mode:3": 4
               },
               "Damage:2": 4,
               "OreDict:8": ""
@@ -23286,14 +22815,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "Accessible:1": 1
-              },
-              "orig_id:8": "thermalexpansion:satchel"
+              "Accessible:1": 1
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -23318,14 +22846,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "Accessible:1": 1
-                },
-                "orig_id:8": "thermalexpansion:satchel"
+                "Accessible:1": 1
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -23351,14 +22878,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 1,
-              "orig_tag:10": {
-                "Accessible:1": 1
-              },
-              "orig_id:8": "thermalexpansion:satchel"
+              "Accessible:1": 1
             },
             "Damage:2": 1,
             "OreDict:8": ""
@@ -23383,14 +22909,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 1,
-                "orig_tag:10": {
-                  "Accessible:1": 1
-                },
-                "orig_id:8": "thermalexpansion:satchel"
+                "Accessible:1": 1
               },
               "Damage:2": 1,
               "OreDict:8": ""
@@ -23416,14 +22941,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 2,
-              "orig_tag:10": {
-                "Accessible:1": 1
-              },
-              "orig_id:8": "thermalexpansion:satchel"
+              "Accessible:1": 1
             },
             "Damage:2": 2,
             "OreDict:8": ""
@@ -23448,14 +22972,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 2,
-                "orig_tag:10": {
-                  "Accessible:1": 1
-                },
-                "orig_id:8": "thermalexpansion:satchel"
+                "Accessible:1": 1
               },
               "Damage:2": 2,
               "OreDict:8": ""
@@ -23481,14 +23004,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 3,
-              "orig_tag:10": {
-                "Accessible:1": 1
-              },
-              "orig_id:8": "thermalexpansion:satchel"
+              "Accessible:1": 1
             },
             "Damage:2": 3,
             "OreDict:8": ""
@@ -23513,14 +23035,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 3,
-                "orig_tag:10": {
-                  "Accessible:1": 1
-                },
-                "orig_id:8": "thermalexpansion:satchel"
+                "Accessible:1": 1
               },
               "Damage:2": 3,
               "OreDict:8": ""
@@ -23546,14 +23067,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 4,
-              "orig_tag:10": {
-                "Accessible:1": 1
-              },
-              "orig_id:8": "thermalexpansion:satchel"
+              "Accessible:1": 1
             },
             "Damage:2": 4,
             "OreDict:8": ""
@@ -23578,14 +23098,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 4,
-                "orig_tag:10": {
-                  "Accessible:1": 1
-                },
-                "orig_id:8": "thermalexpansion:satchel"
+                "Accessible:1": 1
               },
               "Damage:2": 4,
               "OreDict:8": ""
@@ -23611,14 +23130,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 100,
-              "orig_tag:10": {
-                "Accessible:1": 1
-              },
-              "orig_id:8": "thermalexpansion:satchel"
+              "Accessible:1": 1
             },
             "Damage:2": 100,
             "OreDict:8": ""
@@ -23643,14 +23161,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 100,
-                "orig_tag:10": {
-                  "Accessible:1": 1
-                },
-                "orig_id:8": "thermalexpansion:satchel"
+                "Accessible:1": 1
               },
               "Damage:2": 100,
               "OreDict:8": ""
