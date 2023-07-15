@@ -1,25 +1,7 @@
 {
-  "dungeontactics:dungeoneering/born_survivor": {
-    "criteria": {
-      "stab": "2023-07-14 13:08:07 +0100"
-    },
-    "done": false
-  },
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
       "code_trigger": "2023-07-15 13:34:47 +0100"
-    },
-    "done": true
-  },
-  "nuclearcraft:root": {
-    "criteria": {
-      "location": "2023-07-14 13:08:07 +0100"
-    },
-    "done": true
-  },
-  "astralsorcery:root": {
-    "criteria": {
-      "astralsorcery_present": "2023-07-14 13:08:07 +0100"
     },
     "done": true
   },
@@ -35,6 +17,42 @@
     },
     "done": true
   },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-07-14 14:08:00 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "code_trigger": "2023-07-15 13:34:47 +0100"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2023-07-14 13:08:07 +0100"
+    },
+    "done": false
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2023-07-14 13:08:07 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2023-07-14 13:08:07 +0100"
+    },
+    "done": true
+  },
+  "trashcans:recipes/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-07-15 14:21:20 +0100"
+    },
+    "done": true
+  },
   "simplyjetpacks:mek/root_mek": {
     "criteria": {
       "code_trigger": "2023-07-15 13:34:47 +0100"
@@ -42,12 +60,6 @@
     "done": true
   },
   "cfm:root": {
-    "criteria": {
-      "tick": "2023-07-14 14:08:00 +0100"
-    },
-    "done": true
-  },
-  "cfm:install": {
     "criteria": {
       "tick": "2023-07-14 14:08:00 +0100"
     },
@@ -65,9 +77,9 @@
     },
     "done": false
   },
-  "simplyjetpacks:root": {
+  "trashcans:recipes/item_trash_can": {
     "criteria": {
-      "code_trigger": "2023-07-15 13:34:47 +0100"
+      "recipe_condition": "2023-07-15 14:21:20 +0100"
     },
     "done": true
   }

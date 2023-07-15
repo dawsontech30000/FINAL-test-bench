@@ -896,3 +896,155 @@ simplyjetpacks:fuel_efficiency
    - Max Level: 4
 
 
+extrautils2:xu.burnerang
+   - Id: 111
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+extrautils2:xu.bladerang
+   - Id: 112
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+extrautils2:xu.zoomerang
+   - Id: 113
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+extrautils2:xu.boomereaperang
+   - Id: 114
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+extrautils2:xu.kaboomerang
+   - Id: 115
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+bibliocraft:bibliocraft.deathcompassench
+   - Id: 116
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.autosmelt
+   - Id: 117
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.beheading
+   - Id: 118
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.excavation
+   - Id: 119
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+bibliocraft:bibliocraft.readingench
+   - Id: 120
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.launch
+   - Id: 121
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+cyclicmagic:enchantment.magnet
+   - Id: 122
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+cyclicmagic:enchantment.multishot
+   - Id: 123
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.quickdraw
+   - Id: 124
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.reach
+   - Id: 125
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.venom
+   - Id: 126
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 2
+
+
+cyclicmagic:enchantment.waterwalking
+   - Id: 127
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+cyclicmagic:enchantment.lifeleech
+   - Id: 128
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 2
+
+
+cyclicmagic:enchantment.expboost
+   - Id: 129
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
