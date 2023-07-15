@@ -165,8 +165,8 @@ gendustry:honey_comb - any
 binnie_database
 botany:database - 0
 extrabees:dictionary - 0
-extratrees:databasetree - 0
 extratrees:databaselepi - 0
+extratrees:databasetree - 0
 
 
 bioplastic
@@ -2408,6 +2408,10 @@ taiga:dilithium_block - 0
 
 blockDillapis
 contenttweaker:sub_block_holder_2 - 15
+
+
+blockDimensionalShard
+jaopca:block.dimensional_shard - 0
 
 
 blockDuranite
@@ -7704,6 +7708,10 @@ cruxDillapis
 jaopca:mysticalagriculture_crux.dillapis - 0
 
 
+cruxDimensionalShard
+jaopca:mysticalagriculture_crux.dimensional_shard - 0
+
+
 cruxDuranite
 jaopca:mysticalagriculture_crux.duranite - 0
 
@@ -10869,6 +10877,10 @@ dustDimensional
 nuclearcraft:compound - 9
 
 
+dustDimensionalShard
+jaopca:dust.dimensional_shard - 0
+
+
 dustDirtyAbyssum
 jaopca:mekanism_dirty_dust.abyssum - 0
 
@@ -13984,6 +13996,10 @@ essenceDillapis
 jaopca:mysticalagriculture_essence.dillapis - 0
 
 
+essenceDimensionalShard
+jaopca:mysticalagriculture_essence.dimensional_shard - 0
+
+
 essenceDuranite
 jaopca:mysticalagriculture_essence.duranite - 0
 
@@ -15041,66 +15057,66 @@ jaopca:mysticalagriculture_essence.tiberium - 0
 
 
 essenceTier1
-mysticalagriculture:ice_essence - 0
 mysticalagriculture:zombie_essence - 0
+mysticalagriculture:ice_essence - 0
 mysticalagriculture:wood_essence - 0
 mysticalagriculture:stone_essence - 0
-mysticalagriculture:dirt_essence - 0
 mysticalagriculture:water_essence - 0
+mysticalagriculture:dirt_essence - 0
 mysticalagriculture:nature_essence - 0
 
 
 essenceTier2
-mysticalagriculture:basalt_essence - 0
 mysticalagriculture:dye_essence - 0
-mysticalagriculture:nether_essence - 0
+mysticalagriculture:basalt_essence - 0
 mysticalagriculture:pig_essence - 0
-mysticalagriculture:copper_essence - 0
-mysticalagriculture:slime_essence - 0
 mysticalagriculture:coal_essence - 0
-mysticalagriculture:mystical_flower_essence - 0
-mysticalagriculture:marble_essence - 0
-mysticalagriculture:aluminum_essence - 0
-mysticalagriculture:sulfur_essence - 0
-mysticalagriculture:apatite_essence - 0
-mysticalagriculture:sheep_essence - 0
-mysticalagriculture:cow_essence - 0
-mysticalagriculture:silicon_essence - 0
-mysticalagriculture:fire_essence - 0
-mysticalagriculture:limestone_essence - 0
 mysticalagriculture:aluminum_brass_essence - 0
 mysticalagriculture:chicken_essence - 0
+mysticalagriculture:copper_essence - 0
+mysticalagriculture:limestone_essence - 0
+mysticalagriculture:aluminum_essence - 0
+mysticalagriculture:silicon_essence - 0
+mysticalagriculture:fire_essence - 0
+mysticalagriculture:cow_essence - 0
+mysticalagriculture:mystical_flower_essence - 0
+mysticalagriculture:apatite_essence - 0
+mysticalagriculture:sheep_essence - 0
+mysticalagriculture:slime_essence - 0
+mysticalagriculture:sulfur_essence - 0
+mysticalagriculture:marble_essence - 0
+mysticalagriculture:nether_essence - 0
 
 
 essenceTier3
-mysticalagriculture:glowstone_essence - 0
-mysticalagriculture:quartz_enriched_iron_essence - 0
-mysticalagriculture:skeleton_essence - 0
-mysticalagriculture:creeper_essence - 0
-mysticalagriculture:guardian_essence - 0
-mysticalagriculture:bronze_essence - 0
-mysticalagriculture:silver_essence - 0
-mysticalagriculture:sky_stone_essence - 0
-mysticalagriculture:basalz_essence - 0
-mysticalagriculture:iron_essence - 0
-mysticalagriculture:spider_essence - 0
-mysticalagriculture:redstone_essence - 0
-mysticalagriculture:blizz_essence - 0
 mysticalagriculture:ardite_essence - 0
-mysticalagriculture:steeleaf_essence - 0
-mysticalagriculture:certus_quartz_essence - 0
-mysticalagriculture:saltpeter_essence - 0
-mysticalagriculture:aquamarine_essence - 0
-mysticalagriculture:blitz_essence - 0
-mysticalagriculture:ironwood_essence - 0
-mysticalagriculture:graphite_essence - 0
-mysticalagriculture:knightslime_essence - 0
-mysticalagriculture:tin_essence - 0
 mysticalagriculture:manasteel_essence - 0
-mysticalagriculture:obsidian_essence - 0
+mysticalagriculture:tin_essence - 0
+mysticalagriculture:blitz_essence - 0
+mysticalagriculture:blizz_essence - 0
 mysticalagriculture:nether_quartz_essence - 0
+mysticalagriculture:redstone_essence - 0
+mysticalagriculture:silver_essence - 0
 mysticalagriculture:lead_essence - 0
+mysticalagriculture:bronze_essence - 0
+mysticalagriculture:guardian_essence - 0
+mysticalagriculture:sky_stone_essence - 0
+mysticalagriculture:quartz_enriched_iron_essence - 0
+mysticalagriculture:aquamarine_essence - 0
+mysticalagriculture:saltpeter_essence - 0
+mysticalagriculture:knightslime_essence - 0
+mysticalagriculture:iron_essence - 0
+mysticalagriculture:skeleton_essence - 0
+mysticalagriculture:graphite_essence - 0
+mysticalagriculture:basalz_essence - 0
+mysticalagriculture:glowstone_essence - 0
 mysticalagriculture:rabbit_essence - 0
+mysticalagriculture:obsidian_essence - 0
+mysticalagriculture:ironwood_essence - 0
+mysticalagriculture:steeleaf_essence - 0
+mysticalagriculture:creeper_essence - 0
+mysticalagriculture:certus_quartz_essence - 0
+mysticalagriculture:spider_essence - 0
 jaopca:mysticalagriculture_essence.abyssum - 0
 jaopca:mysticalagriculture_essence.adamant - 0
 jaopca:mysticalagriculture_essence.alubrass - 0
@@ -15315,6 +15331,7 @@ jaopca:mysticalagriculture_essence.depleted_tbutriso - 0
 jaopca:mysticalagriculture_essence.depleted_tbuza - 0
 jaopca:mysticalagriculture_essence.dilithium - 0
 jaopca:mysticalagriculture_essence.dillapis - 0
+jaopca:mysticalagriculture_essence.dimensional_shard - 0
 jaopca:mysticalagriculture_essence.duranite - 0
 jaopca:mysticalagriculture_essence.dyonite - 0
 jaopca:mysticalagriculture_essence.eezo - 0
@@ -15631,57 +15648,57 @@ jaopca:mysticalagriculture_essence.yellowtiger - 0
 
 
 essenceTier4
-mysticalagriculture:tanzanite_essence - 0
-mysticalagriculture:lumium_essence - 0
+mysticalagriculture:electrum_essence - 0
 mysticalagriculture:ruby_essence - 0
-mysticalagriculture:lapis_lazuli_essence - 0
-mysticalagriculture:signalum_essence - 0
-mysticalagriculture:fluix_essence - 0
-mysticalagriculture:thorium_essence - 0
+mysticalagriculture:mithril_essence - 0
+mysticalagriculture:blaze_essence - 0
+mysticalagriculture:boron_essence - 0
+mysticalagriculture:amber_essence - 0
+mysticalagriculture:experience_essence - 0
+mysticalagriculture:osmium_essence - 0
+mysticalagriculture:knightmetal_essence - 0
+mysticalagriculture:invar_essence - 0
+mysticalagriculture:lithium_essence - 0
+mysticalagriculture:malachite_essence - 0
 mysticalagriculture:gold_essence - 0
 mysticalagriculture:end_essence - 0
-mysticalagriculture:invar_essence - 0
-mysticalagriculture:topaz_essence - 0
-mysticalagriculture:mithril_essence - 0
-mysticalagriculture:hop_graphite_essence - 0
-mysticalagriculture:ghast_essence - 0
-mysticalagriculture:blaze_essence - 0
-mysticalagriculture:nickel_essence - 0
-mysticalagriculture:amber_essence - 0
-mysticalagriculture:elementium_essence - 0
-mysticalagriculture:cobalt_essence - 0
-mysticalagriculture:lithium_essence - 0
-mysticalagriculture:fiery_ingot_essence - 0
-mysticalagriculture:boron_essence - 0
-mysticalagriculture:malachite_essence - 0
-mysticalagriculture:knightmetal_essence - 0
-mysticalagriculture:sapphire_essence - 0
-mysticalagriculture:constantan_essence - 0
-mysticalagriculture:glowstone_ingot_essence - 0
-mysticalagriculture:enderman_essence - 0
-mysticalagriculture:fluxed_electrum_essence - 0
-mysticalagriculture:osmium_essence - 0
 mysticalagriculture:peridot_essence - 0
-mysticalagriculture:electrum_essence - 0
-mysticalagriculture:magnesium_essence - 0
-mysticalagriculture:experience_essence - 0
+mysticalagriculture:signalum_essence - 0
+mysticalagriculture:lapis_lazuli_essence - 0
+mysticalagriculture:tanzanite_essence - 0
+mysticalagriculture:ghast_essence - 0
+mysticalagriculture:cobalt_essence - 0
+mysticalagriculture:fluix_essence - 0
 mysticalagriculture:steel_essence - 0
+mysticalagriculture:topaz_essence - 0
+mysticalagriculture:elementium_essence - 0
+mysticalagriculture:constantan_essence - 0
+mysticalagriculture:fiery_ingot_essence - 0
+mysticalagriculture:nickel_essence - 0
+mysticalagriculture:magnesium_essence - 0
+mysticalagriculture:fluxed_electrum_essence - 0
+mysticalagriculture:sapphire_essence - 0
+mysticalagriculture:hop_graphite_essence - 0
+mysticalagriculture:glowstone_ingot_essence - 0
+mysticalagriculture:thorium_essence - 0
+mysticalagriculture:enderman_essence - 0
+mysticalagriculture:lumium_essence - 0
 
 
 essenceTier5
-mysticalagriculture:emerald_essence - 0
-mysticalagriculture:terrasteel_essence - 0
-mysticalagriculture:diamond_essence - 0
-mysticalagriculture:starmetal_essence - 0
 mysticalagriculture:platinum_essence - 0
-mysticalagriculture:refined_obsidian_essence - 0
-mysticalagriculture:ender_amethyst_essence - 0
-mysticalagriculture:uranium_essence - 0
-mysticalagriculture:manyullyn_essence - 0
-mysticalagriculture:wither_skeleton_essence - 0
 mysticalagriculture:iridium_essence - 0
-mysticalagriculture:enderium_essence - 0
 mysticalagriculture:rock_crystal_essence - 0
+mysticalagriculture:wither_skeleton_essence - 0
+mysticalagriculture:ender_amethyst_essence - 0
+mysticalagriculture:terrasteel_essence - 0
+mysticalagriculture:uranium_essence - 0
+mysticalagriculture:enderium_essence - 0
+mysticalagriculture:manyullyn_essence - 0
+mysticalagriculture:emerald_essence - 0
+mysticalagriculture:starmetal_essence - 0
+mysticalagriculture:diamond_essence - 0
+mysticalagriculture:refined_obsidian_essence - 0
 
 
 essenceTier6
@@ -20744,6 +20761,10 @@ gemDiamond
 minecraft:diamond - 0
 
 
+gemDimensionalShard
+rftools:dimensional_shard - 0
+
+
 gemEmerald
 minecraft:emerald - 0
 
@@ -25557,6 +25578,10 @@ mysticalCropDillapis
 jaopca:mysticalagriculture_crop.dillapis - 0
 
 
+mysticalCropDimensionalShard
+jaopca:mysticalagriculture_crop.dimensional_shard - 0
+
+
 mysticalCropDuranite
 jaopca:mysticalagriculture_crop.duranite - 0
 
@@ -27665,6 +27690,10 @@ mysticalSeedsDillapis
 jaopca:mysticalagriculture_seeds.dillapis - 0
 
 
+mysticalSeedsDimensionalShard
+jaopca:mysticalagriculture_seeds.dimensional_shard - 0
+
+
 mysticalSeedsDuranite
 jaopca:mysticalagriculture_seeds.duranite - 0
 
@@ -29697,6 +29726,10 @@ oreDilithium
 
 oreDillapis
 contenttweaker:sub_block_holder_3 - 12
+
+
+oreDimensionalShard
+rftools:dimensional_shard_ore - any
 
 
 oreDuranite
@@ -33376,66 +33409,66 @@ minecraft:nether_wart - 0
 
 
 seedsTier1
-mysticalagriculture:zombie_seeds - 0
-mysticalagriculture:dirt_seeds - 0
-mysticalagriculture:ice_seeds - 0
-mysticalagriculture:water_seeds - 0
 mysticalagriculture:wood_seeds - 0
 mysticalagriculture:nature_seeds - 0
+mysticalagriculture:zombie_seeds - 0
+mysticalagriculture:dirt_seeds - 0
 mysticalagriculture:stone_seeds - 0
+mysticalagriculture:water_seeds - 0
+mysticalagriculture:ice_seeds - 0
 
 
 seedsTier2
-mysticalagriculture:sulfur_seeds - 0
-mysticalagriculture:dye_seeds - 0
-mysticalagriculture:aluminum_brass_seeds - 0
-mysticalagriculture:pig_seeds - 0
-mysticalagriculture:marble_seeds - 0
-mysticalagriculture:nether_seeds - 0
-mysticalagriculture:copper_seeds - 0
-mysticalagriculture:coal_seeds - 0
-mysticalagriculture:chicken_seeds - 0
-mysticalagriculture:basalt_seeds - 0
-mysticalagriculture:mystical_flower_seeds - 0
-mysticalagriculture:fire_seeds - 0
-mysticalagriculture:sheep_seeds - 0
-mysticalagriculture:silicon_seeds - 0
 mysticalagriculture:aluminum_seeds - 0
-mysticalagriculture:apatite_seeds - 0
+mysticalagriculture:nether_seeds - 0
+mysticalagriculture:basalt_seeds - 0
+mysticalagriculture:copper_seeds - 0
 mysticalagriculture:cow_seeds - 0
-mysticalagriculture:slime_seeds - 0
+mysticalagriculture:mystical_flower_seeds - 0
+mysticalagriculture:marble_seeds - 0
+mysticalagriculture:pig_seeds - 0
+mysticalagriculture:apatite_seeds - 0
+mysticalagriculture:fire_seeds - 0
+mysticalagriculture:sulfur_seeds - 0
 mysticalagriculture:limestone_seeds - 0
+mysticalagriculture:dye_seeds - 0
+mysticalagriculture:silicon_seeds - 0
+mysticalagriculture:coal_seeds - 0
+mysticalagriculture:slime_seeds - 0
+mysticalagriculture:sheep_seeds - 0
+mysticalagriculture:chicken_seeds - 0
+mysticalagriculture:aluminum_brass_seeds - 0
 
 
 seedsTier3
-mysticalagriculture:bronze_seeds - 0
-mysticalagriculture:blizz_seeds - 0
-mysticalagriculture:silver_seeds - 0
-mysticalagriculture:glowstone_seeds - 0
-mysticalagriculture:saltpeter_seeds - 0
-mysticalagriculture:aquamarine_seeds - 0
-mysticalagriculture:steeleaf_seeds - 0
-mysticalagriculture:blitz_seeds - 0
-mysticalagriculture:iron_seeds - 0
-mysticalagriculture:graphite_seeds - 0
-mysticalagriculture:manasteel_seeds - 0
-mysticalagriculture:nether_quartz_seeds - 0
-mysticalagriculture:redstone_seeds - 0
-mysticalagriculture:obsidian_seeds - 0
-mysticalagriculture:tin_seeds - 0
-mysticalagriculture:certus_quartz_seeds - 0
-mysticalagriculture:ironwood_seeds - 0
-mysticalagriculture:knightslime_seeds - 0
-mysticalagriculture:ardite_seeds - 0
-mysticalagriculture:quartz_enriched_iron_seeds - 0
-mysticalagriculture:creeper_seeds - 0
-mysticalagriculture:rabbit_seeds - 0
 mysticalagriculture:lead_seeds - 0
-mysticalagriculture:guardian_seeds - 0
-mysticalagriculture:basalz_seeds - 0
-mysticalagriculture:sky_stone_seeds - 0
-mysticalagriculture:spider_seeds - 0
+mysticalagriculture:obsidian_seeds - 0
+mysticalagriculture:iron_seeds - 0
+mysticalagriculture:ironwood_seeds - 0
+mysticalagriculture:blitz_seeds - 0
+mysticalagriculture:steeleaf_seeds - 0
+mysticalagriculture:graphite_seeds - 0
+mysticalagriculture:aquamarine_seeds - 0
+mysticalagriculture:rabbit_seeds - 0
+mysticalagriculture:saltpeter_seeds - 0
+mysticalagriculture:nether_quartz_seeds - 0
+mysticalagriculture:blizz_seeds - 0
+mysticalagriculture:knightslime_seeds - 0
+mysticalagriculture:redstone_seeds - 0
 mysticalagriculture:skeleton_seeds - 0
+mysticalagriculture:basalz_seeds - 0
+mysticalagriculture:silver_seeds - 0
+mysticalagriculture:sky_stone_seeds - 0
+mysticalagriculture:glowstone_seeds - 0
+mysticalagriculture:creeper_seeds - 0
+mysticalagriculture:quartz_enriched_iron_seeds - 0
+mysticalagriculture:ardite_seeds - 0
+mysticalagriculture:certus_quartz_seeds - 0
+mysticalagriculture:bronze_seeds - 0
+mysticalagriculture:guardian_seeds - 0
+mysticalagriculture:tin_seeds - 0
+mysticalagriculture:spider_seeds - 0
+mysticalagriculture:manasteel_seeds - 0
 jaopca:mysticalagriculture_seeds.abyssum - 0
 jaopca:mysticalagriculture_seeds.adamant - 0
 jaopca:mysticalagriculture_seeds.alubrass - 0
@@ -33650,6 +33683,7 @@ jaopca:mysticalagriculture_seeds.depleted_tbutriso - 0
 jaopca:mysticalagriculture_seeds.depleted_tbuza - 0
 jaopca:mysticalagriculture_seeds.dilithium - 0
 jaopca:mysticalagriculture_seeds.dillapis - 0
+jaopca:mysticalagriculture_seeds.dimensional_shard - 0
 jaopca:mysticalagriculture_seeds.duranite - 0
 jaopca:mysticalagriculture_seeds.dyonite - 0
 jaopca:mysticalagriculture_seeds.eezo - 0
@@ -33966,57 +34000,57 @@ jaopca:mysticalagriculture_seeds.yellowtiger - 0
 
 
 seedsTier4
-mysticalagriculture:end_seeds - 0
-mysticalagriculture:tanzanite_seeds - 0
-mysticalagriculture:malachite_seeds - 0
 mysticalagriculture:fiery_ingot_seeds - 0
 mysticalagriculture:knightmetal_seeds - 0
-mysticalagriculture:electrum_seeds - 0
-mysticalagriculture:topaz_seeds - 0
-mysticalagriculture:osmium_seeds - 0
-mysticalagriculture:blaze_seeds - 0
-mysticalagriculture:experience_seeds - 0
-mysticalagriculture:cobalt_seeds - 0
-mysticalagriculture:lapis_lazuli_seeds - 0
-mysticalagriculture:fluix_seeds - 0
-mysticalagriculture:magnesium_seeds - 0
-mysticalagriculture:hop_graphite_seeds - 0
-mysticalagriculture:steel_seeds - 0
-mysticalagriculture:glowstone_ingot_seeds - 0
-mysticalagriculture:gold_seeds - 0
-mysticalagriculture:ruby_seeds - 0
-mysticalagriculture:sapphire_seeds - 0
-mysticalagriculture:enderman_seeds - 0
-mysticalagriculture:peridot_seeds - 0
-mysticalagriculture:signalum_seeds - 0
-mysticalagriculture:amber_seeds - 0
-mysticalagriculture:lumium_seeds - 0
-mysticalagriculture:nickel_seeds - 0
-mysticalagriculture:invar_seeds - 0
-mysticalagriculture:ghast_seeds - 0
-mysticalagriculture:mithril_seeds - 0
 mysticalagriculture:constantan_seeds - 0
-mysticalagriculture:elementium_seeds - 0
-mysticalagriculture:boron_seeds - 0
-mysticalagriculture:fluxed_electrum_seeds - 0
+mysticalagriculture:amber_seeds - 0
+mysticalagriculture:peridot_seeds - 0
 mysticalagriculture:thorium_seeds - 0
+mysticalagriculture:enderman_seeds - 0
+mysticalagriculture:electrum_seeds - 0
+mysticalagriculture:nickel_seeds - 0
+mysticalagriculture:mithril_seeds - 0
+mysticalagriculture:signalum_seeds - 0
+mysticalagriculture:cobalt_seeds - 0
+mysticalagriculture:glowstone_ingot_seeds - 0
+mysticalagriculture:boron_seeds - 0
+mysticalagriculture:magnesium_seeds - 0
 mysticalagriculture:lithium_seeds - 0
+mysticalagriculture:gold_seeds - 0
+mysticalagriculture:blaze_seeds - 0
+mysticalagriculture:ruby_seeds - 0
+mysticalagriculture:hop_graphite_seeds - 0
+mysticalagriculture:ghast_seeds - 0
+mysticalagriculture:experience_seeds - 0
+mysticalagriculture:invar_seeds - 0
+mysticalagriculture:lapis_lazuli_seeds - 0
+mysticalagriculture:fluxed_electrum_seeds - 0
+mysticalagriculture:osmium_seeds - 0
+mysticalagriculture:steel_seeds - 0
+mysticalagriculture:elementium_seeds - 0
+mysticalagriculture:fluix_seeds - 0
+mysticalagriculture:lumium_seeds - 0
+mysticalagriculture:topaz_seeds - 0
+mysticalagriculture:tanzanite_seeds - 0
+mysticalagriculture:sapphire_seeds - 0
+mysticalagriculture:malachite_seeds - 0
+mysticalagriculture:end_seeds - 0
 
 
 seedsTier5
-mysticalagriculture:refined_obsidian_seeds - 0
-mysticalagriculture:platinum_seeds - 0
-mysticalagriculture:wither_skeleton_seeds - 0
-mysticalagriculture:diamond_seeds - 0
-mysticalagriculture:manyullyn_seeds - 0
-mysticalagriculture:iridium_seeds - 0
-mysticalagriculture:enderium_seeds - 0
-mysticalagriculture:uranium_seeds - 0
-mysticalagriculture:emerald_seeds - 0
-mysticalagriculture:starmetal_seeds - 0
-mysticalagriculture:rock_crystal_seeds - 0
-mysticalagriculture:terrasteel_seeds - 0
 mysticalagriculture:ender_amethyst_seeds - 0
+mysticalagriculture:refined_obsidian_seeds - 0
+mysticalagriculture:wither_skeleton_seeds - 0
+mysticalagriculture:enderium_seeds - 0
+mysticalagriculture:starmetal_seeds - 0
+mysticalagriculture:platinum_seeds - 0
+mysticalagriculture:rock_crystal_seeds - 0
+mysticalagriculture:manyullyn_seeds - 0
+mysticalagriculture:uranium_seeds - 0
+mysticalagriculture:terrasteel_seeds - 0
+mysticalagriculture:diamond_seeds - 0
+mysticalagriculture:iridium_seeds - 0
+mysticalagriculture:emerald_seeds - 0
 
 
 seedsTier6
@@ -35250,6 +35284,10 @@ jaopca:avaritia_singularity.dilithium - 0
 
 singularityDillapis
 jaopca:avaritia_singularity.dillapis - 0
+
+
+singularityDimensionalShard
+jaopca:avaritia_singularity.dimensional_shard - 0
 
 
 singularityDuranite
