@@ -316,3 +316,4 @@ byg:ivorywoodpecker - 313
 tconstruct:throwball - 314
 tconstruct:arrow - 315
 tconstruct:indestructible - 316
+redstonearsenal:flux_arrow - 317

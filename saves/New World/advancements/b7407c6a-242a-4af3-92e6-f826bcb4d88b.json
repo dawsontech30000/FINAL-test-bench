@@ -5,6 +5,12 @@
     },
     "done": false
   },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2023-07-15 13:34:47 +0100"
+    },
+    "done": true
+  },
   "nuclearcraft:root": {
     "criteria": {
       "location": "2023-07-14 13:08:07 +0100"
@@ -14,6 +20,24 @@
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2023-07-14 13:08:07 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2023-07-15 13:34:47 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2023-07-15 13:34:47 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2023-07-15 13:34:47 +0100"
     },
     "done": true
   },
@@ -40,5 +64,11 @@
       "jungle": "2023-07-14 13:08:07 +0100"
     },
     "done": false
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "code_trigger": "2023-07-15 13:34:47 +0100"
+    },
+    "done": true
   }
 }

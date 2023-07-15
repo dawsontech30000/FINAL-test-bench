@@ -888,3 +888,11 @@ apotheosis:reflective
    - Max Level: 5
 
 
+simplyjetpacks:fuel_efficiency
+   - Id: 110
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+

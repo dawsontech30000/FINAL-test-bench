@@ -5581,3 +5581,7 @@ byg:mangrove_gate - 5578
 byg:ironwoodslab - 5579
 jaopca:molten.sapphire - 5580
 taiga:molten_terrax_fluid - 5581
+jaopca:mysticalagriculture_crux.crystal_flux - 5582
+redstonearsenal:storage - 5583
+mysticalagriculture:fluxed_electrum_crop - 5584
+jaopca:mysticalagriculture_crop.crystal_flux - 5585
